@@ -1,0 +1,1077 @@
+{
+  "checked_on": "2026-10-05",
+  "assets": [
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1224-adler.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/3/c/f/3/3cf3a78533f1be2379a9c1ced64f7ffd5d359537/1224_Adler_%C3%9Cbersicht_Stein_Holz_Conference_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1224-adler.html",
+      "label": "dwg-Daten Tisch ohne Auszug",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/f/3/3/c/f33c090798871479e084c462494684e06f0348b5/1224_ohne_Auszug.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1224-adler.html",
+      "label": "dwg-Daten Tisch mit Auszug",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/1/b/a/6/1ba6d9f96b9de5f71ba9b05d1a7146139e5df9de/1224_Adler_ausziehbar.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1410-Paramount.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/d/9/b/a/d9ba828371fa08801997579ada689bc7f9f198a3/1410_Paramount_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1410-Paramount.html",
+      "label": "dwg-Daten Konsole",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/1/1/a/b/11ab94a1a731e082bf1e0349d1f2f467a88d1d47/1410%20Paramount%20Konsole.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1410-Paramount.html",
+      "label": "dwg-Daten Einzeltisch",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/0/b/3/1/0b31831c98715ee89d807b206673e14e652f9648/1410-Paramount%20Einzeltisch.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1410-Paramount.html",
+      "label": "dwg-Daten Doppeltische",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/9/d/a/f/9daf8ac956b66cdd3a29317d130a78e488bab0db/1410-Paramount%20Doppeltisch.zip",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/kent.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/4/d/3/0/4d30a6f00a4915850f1aea5ace92f88f327e321d/1550_Kent_%C3%9Cbersicht_Stein_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "content_too_large"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/kent.html",
+      "label": "dwg-Daten Trilungo",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/1/7/0/8/1708c716556df2d689ce6674ee818014e925c965/1550%20Kent_Trilungo.zip",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/kent.html",
+      "label": "dwg-Daten Oval",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/4/b/8/4/4b844cf2550b88dacb45d56fe9229437a5f6446b/1550%20Kent_oval.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/kent.html",
+      "label": "dwg Kiesel",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/e/d/5/e/ed5e8a7c6ec22f354713467c74f77a6b51474c41/1550%20Kent_kieself%C3%B6rmig.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/kent.html",
+      "label": "dwg-Daten Trapeza",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/3/7/6/f/376fe6bf330bc68a9dbd55220f315c7ad13b420d/1550%20Kent_Trapeza.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1010-E.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/5/9/7/3/597365f96e52892fca57898fb3dbd33e6af4dc3c/1010-E_Largo_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1010-E.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/b/f/5/1/bf519554919d30d80527a74fe4d358194eec8f6c/1010-E.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1010-S-1.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/3/8/5/5/38552ec6196959a986a6d9ae24b15a5f0d10f703/1010-S_Largo_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1010-S-1.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/8/6/6/a/866aa93146b84686862c9534497349db8f69bc31/1010-S.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1136-III-titan.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/3/6/f/5/36f5cb956eb2e4b9edee534e66ba57f431e4680e/1136_Titan_Glas_Stein_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1136-III-titan.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/6/a/a/2/6aa2f522d0cfbf0841b9dbccc5d2b507ee0d6842/1136-Titan.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1224-adler-1.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/b/3/5/f/b35f112ea2661f437a94ffe07a702bd9f077df39/1224_Adler_Conference_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1224-adler-1.html",
+      "label": "dwg-Daten Tisch ohne Auszug",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/f/3/3/c/f33c090798871479e084c462494684e06f0348b5/1224_ohne_Auszug.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1224-adler-1.html",
+      "label": "dwg-Daten Tisch mit Auszug",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/1/b/a/6/1ba6d9f96b9de5f71ba9b05d1a7146139e5df9de/1224_Adler_ausziehbar.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1280-ll-atlas.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/8/e/6/4/8e64ff603d6b8676d66c1f709059d02a936267d3/1280_Atlas_%C3%9Cbersicht_Stein_Holz_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1280-ll-atlas.html",
+      "label": "dwg-Daten Tisch ohne Auszug",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/c/1/b/a/c1ba5b567acfbadd44a1367b9a043ae3cf55b3da/1280%20Atlas%20Tisch%20ohne%20Auszug.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1280-ll-atlas.html",
+      "label": "dwg-Daten Tisch mit Auszug",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/3/1/6/5/3165df27f7277dd035bb3266f4bbb546054cc8c7/1280%20Atlas%20Tisch%20mit%20Auszug.zip",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1280-II-atlas-magnum.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/7/b/7/f/7b7f1d538128e6d359eb3c71373b4f10ddbff1cb/1280_Atlas_%C3%9Cbersicht_Stein_Holz_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1280-II-atlas-magnum.html",
+      "label": "dwg-Daten Tisch ohne Auszug",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/c/1/b/a/c1ba5b567acfbadd44a1367b9a043ae3cf55b3da/1280%20Atlas%20Tisch%20ohne%20Auszug.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1280-II-atlas-magnum.html",
+      "label": "dwg-Daten Tisch mit Auszug",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/3/1/6/5/3165df27f7277dd035bb3266f4bbb546054cc8c7/1280%20Atlas%20Tisch%20mit%20Auszug.zip",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/trilope.html",
+      "label": "Produktinformationen",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/d/d/6/7/dd678d78f37a58d659488a837bc77980586f7c96/1540_Trilope_Stein_Holz_Conference_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/trilope.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/a/6/7/a/a67a0769bed3b49c67f6c4a34324edc504c30f71/1540-Trilope.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/trilope-1.html",
+      "label": "Produktinformationen",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/4/8/0/3/480312d8dccd4fca82cd0435b1e7790e3ea81cc1/1540_Trilope_Conference_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/trilope-1.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/a/6/7/a/a67a0769bed3b49c67f6c4a34324edc504c30f71/1540-Trilope.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/cooper.html",
+      "label": "Produktinformationen",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/5/0/d/1/50d12ca78580bb7abe7978eb82ceb4278dc77785/1430_Cooper_%C3%9Cbersicht_Holz_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/cooper.html",
+      "label": "dwg-Daten Oval/Trapeza",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/5/8/b/e/58be4206ca7d484e5ed5a860a36437434f380f42/1430-Trapeza_Oval.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/cooper.html",
+      "label": "dwg Daten Organic",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/5/9/8/4/5984d9b48453194e411c71d96d65c4c2956b2114/1430-Organic.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/cooper.html",
+      "label": "dwg-Daten Trilungo",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/1/5/c/b/15cb87fb2a08e0de593762985158cabfe13399f6/1430-Trilungo.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1485-stan.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/c/6/4/8/c6485caadb85ab0c9a7f5e8432b75f5bef16c0c8/1485_Stan_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1485-stan.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/b/4/a/0/b4a005ae6234e97043650494024f258cd25958a5/1485-Stan.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1511-nelly.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/d/c/d/5/dcd57b8e8d6b7e873a528cf2a30a4f9a171b31e0/1511-I_Nelly_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1511-nelly.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/6/7/5/e/675e6df50bf95a9a63d510001b12b408d34e04a9/1511%20Nelly%20I%2CII%2CV.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1511-nelly-1-1.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/b/f/8/4/bf84a0d4e270f71232b771d8cf04ae190d582178/1511-III_Nelly_1515-III_Tadao_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/1511-nelly-1-1.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/f/2/2/7/f2277f780b15505f91c96a372851441aea076478/1511%20Nelly%20III.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/tadao-III.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/b/f/8/4/bf84a0d4e270f71232b771d8cf04ae190d582178/1511-III_Nelly_1515-III_Tadao_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/tadao-III.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/b/0/d/1/b0d1e0a9840426f824481231a73ff276e17b1c10/1515-III.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/tadao-V.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/7/2/1/f/721f73ddc721fe8e133fd3e82a5b775f209ab6fb/1511-V_Nelly_1515-V_Tadao_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/tadao-V.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/7/b/1/d/7b1dd33ec12ae7d73449524d336380b3aa29d156/1515-V.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/tadao-magnum.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/a/9/1/e/a91e9f0e937228a753c1510c9dcdc91a9bb9d0b7/1516-III_Tadao%20Magnum_%C3%9Cbersicht_Stein_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/esstische/tadao-magnum.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/f/9/9/d/f99dc99de8d2555b7c9ef30ea25b409e0b5355ad/1516%20Tadao%20Magnum.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    }
+  ],
+  "batches": [
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Adler - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1224-adler.html)\n【turn829325view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1224-adler.html\",\"lineno\":null}); Total lines: 170\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Adler\nL12: \nL13: Modell-Nr.: 1224\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: Stein 【6†Venice Black,†www.draenert.de】 Sockel 【7†dunkelbronze†www.draenert.de】\nL20: Stühle 【8†cobe†www.draenert.de】\nL21: \nL22: 【9†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Tischplatte Stein 【10†Dolomite Gold†www.draenert.de】, Ovalsockel 【11†gold†www.draenert.de】, Stühle 【12†dan】\nL27: \nL28: 【13†Image】\nL29: \nL30: Produkte / Materialien\nL31: \nL32: Stein 【14†Orobico Black】, Ovalsockel nickel,\nL33: Stühle 【15†DEXTER】\nL34: \nL35: 【16†Image】\nL36: \nL37: Produkte / Materialien\nL38: tischplatte 【17†Eiche dunkelgra】【18†u†www.draenert.de】,\nL39: ovalsockel 【19†schwarz】,\nL40: Stühle 【20†Dan†www.draenert.de】\nL41: \nL42: Produkte / Materialien\nL43: \nL44: Tischplatte 【21†dreaming green】, stühle nobile\nL45: \nL46: 【22†Image】\nL47: \nL48: Produkte / Materialien\nL49: \nL50: Stein 【23†Sequoia Black】,\nL51: ovalsockel nickel, Stühle 【24†NOBILE SOFT】\nL52: \nL53: 【25†Image】\nL54: \nL55: Produkte / Materialien\nL56: \nL57: Tischplatte Stein 【26†Venice Black†www.draenert.de】\nL58: Ovalsockel 【27†nickel】\nL59: \nL60: 【28†Image】\nL61: \nL62: Produkte / Materialien\nL63: \nL64: Stein 【29†Oxford grey】, Ovalsockel nickel, Stühle 【15†DEXTER】\nL65: 【30†Image】\nL66: \nL67: Produkte / Materialien\nL68: \nL69: Stein 【31†Azul Mary】,\nL70: ovalsockel 【32†dunkelbronze】, Stühle 【15†DEXTER】\nL71: \nL72: 【33†Image】\nL73: \nL74: Produkte / Materialien\nL75: \nL76: tischplatte Massivholz 【34†Amerikanisch Nussbaum】, ovalsockel nickel, Stühle 【35†LUMA】\nL77: \nL78: 【36†Image】\nL79: \nL80: Produkte / Materialien\nL81: \nL82: Tischplatte stein 【37†sodalith】, stühle 【38†nobile soft x】\nL83: #### Design Peter Draenert 1995\nL84: \nL85: Ein vergrößerbarer Esstisch aus Naturstein oder Holz, bootsförmig, rechteckig, organisch oder oval, mit Hubmechanik für eine integrierte Mittelplatte aus Naturstein oder Holz. Eine integrierte Hebemechanik erlaubt es, die innen liegende Mittelplatte nach Auseinanderziehen der Tischhälften nach oben zu drehen. Eine ausgereifte Technik macht das Ausfahren zu einem Vorgang wundersamer Leichtigkeit. Dieses Modell wird mit 4 verschiedenen Sockeltypen angeboten.\nL86: #### In folgenden Material-Varianten erhältlich:\nL87: \nL88:   * Stein\nL89:   * Holz\nL90: \nL91: Produkte / Materialien\nL92: \nL93: Stein 【39†Silver Wave】【40†,  †www.draenert.de】sockel 【32†dunkelbronze】\nL94: \nL95: 【41†Image】\nL96: \nL97: Produkte / Materialien\nL98: \nL99: Stein 【39†Silver Wave】【40†,  †www.draenert.de】sockel 【42†Nickelfarben】\nL100: \nL101: 【43†Image】\nL102: \nL103: Produkte / Materialien\nL104: \nL105: Stein 【39†Silver Wave】,  sockel nickel satiniert\nL106: \nL107: 【44†Image】\nL108: \nL109: Produkte / Materialien\nL110: \nL111: Massivholz 【45†Eiche】, ovalsockel Nickel\nL112: \nL113: 【46†Image】\nL114: \nL115: Produkte / Materialien\nL116: Massivholz 【45†Eiche】, ovalsockel Nickel\nL117: \nL118: 【47†Image】\nL119: \nL120: Produkte / Materialien\nL121: \nL122: Massivholz 【45†Eiche】, ovalsockel 【32†dunkelbronze】\nL123: \nL124: 【48†Image】\nL125: \nL126: 【49†Image】\nL127: \nL128: 【50†Image】\nL129: \nL130: Produkte / Materialien\nL131: \nL132: Massivholz 【34†amerikanisch nussbaum】,\nL133: ovalsockel 【51†hochglanz chrom】\nL134: \nL135: 【52†Image】\nL136: \nL137: 【53†iframe†ui.pcon-solutions.com】\nL138: ## Downloads\nL139: \nL140:   * 【54†Produktinformation】\nL141:   * 【55†dwg-Daten Tisch ohne Auszug】\nL142:   * 【56†dwg-Daten Tisch mit Auszug】\nL143:   * Fotos\nL144: \nL145: 【57†Alle herunterladen】\nL146: \nL147: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL148: ##\nL149: \nL150: Weitere Material-Ausführungen (modellspezifisch)\nL151: \nL152: 【37†Zu allen Steinsorten】\nL153: \nL154: 【58†Zu allen Holzsorten】\nL155: \nL156: 【59†Dr. Peter Draenert Peter Draenert (1937-2005) hat an der Universität Tübingen Philosophie, Kunstgeschichte, Germanistik un... Mehr über den Designer】\nL157: \nL158: 【60†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL159: \nL160:   * 【2†Händlersuche】\nL161:   * 【60†Katalogbestellung】\nL162:   * 【61†Newsletter】\nL163: \nL164:   * 【62†Aktuelles】\nL165:   * 【63†Für Presse】\nL166: \nL167:   * 【64†Datenschutz】\nL168:   * 【65†Impressum】\nL169:   * 【57†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/3/c/f/3/3cf3a78533f1be2379a9c1ced64f7ffd5d359537/1224_Adler_%C3%9Cbersicht_Stein_Holz_Conference_DE_1.5.26.pdf)\n【turn305790view0】 [wordlim: 200] Crawled: 2 days ago; Content type: application/pdf; Number of pages: 5; Source: click({\"ref_id\":\"turn829325view0\",\"id\":54}); Total lines: 210\nL0@P0: ADLER\nL1@P0: Modell-Nr. 1224\nL2@P0: DESIGN DR. PETER DRAENERT\nL3@P0: Ein vergrößerbarer Esstisch aus Naturstein oder Holz, bootsförmig, rechteckig, organisch oder oval, mit Hubmechanik für eine\nL4@P0: integrierte Mittelplatte aus Naturstein oder Holz. Eine integrierte Hebemechanik erlaubt es, die innen liegende Mittelplatte nach\nL5@P0: Auseinanderziehen der Tischhälften nach oben zu drehen. Eine ausgereifte Technik macht das Ausfahren zu einem Vorgang\nL6@P0: wundersamer Leichtigkeit. Dieses Modell wird mit 4 verschiedenen Sockeltypen angeboten.\nL7@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL8@P0-1: Stein HolzßËÍÆ×ÛØÞßÎ Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ\nL9@P1: Í±½µ»´ î Ñª¿´ ·² Û¼»´­¬¿¸´ øÍ¬¿²¼¿®¼÷\nL10@P1: Ñª¿´­±½µ»´ Û¼»´­¬¿¸´ ³¿¬¬ ¹»­½¸´·ºº»²\nL11@P1: ¿«º É«²­½¸ ³·¬ ·²¬»¹®·»®¬»² Î±´´»²\nL12@P1: ìð ¨ êê ½³\nL13@P1: Í±½µ»´ î ëð ¨ èê ½³\nL14@P1: Ó¿¹²«³\nL15@P1: Í±½µ»´ í Ñª¿´ ³·¬ Ô»¼»® ø¹»¹»² ß«º°®»·­÷ Ñª¿´­±½µ»´ Û¼»´­¬¿¸´ ³·¬ Ô»¼»® «³³¿²¬»´¬ ¿«º É«²­½¸ ³·¬ ·²¬»¹®·»®¬»² Î±´´»²\nL16@P1: ìð ¨ êê ½³\nL17@P1: Í±½µ»´ í ëð ¨ èê ½³\nL18@P1: Ó¿¹²«³\nL19@P1: Í±½µ»´ ë Ñª¿´ ³·¬ Í¬»·² ñ Ø±´¦ ø¹»¹»² ß«º°®»·­÷ Ñª¿´­±½µ»´ ¿«­ Í¬»·²´¿³»´´»² ñ Ø±´¦ º«®²·»®¬ ¿«º É«²­½¸ ³·¬ ·²¬»¹®·»®¬»² Î±´´»²\nL20@P1: ìï ¨ êé ½³\nL21@P1: Í±½µ»´ ë ëï ¨ èé ½³\nL22@P1: Ó¿¹²«³\nL23@P1: Í±½µ»´ ê Ú´¿½¸±ª¿´ ·² Û¼»´­¬¿¸´ ø¹»¹»² ß«º°®»·­÷\nL24@P1: Û¼»´­¬¿¸´ ³¿¬¬ ¹»­½¸´·ºº»²\nL25@P1: Ú´¿½¸±ª¿´­±½µ»´ ïê ¨ ëíôë ½³ ñ Þ±¼»²°´¿¬¬» ìð ¨ éê ½³\nL26@P1: Í±½µ»´ ê Ú´¿½¸±ª¿´­±½µ»´ îî ¨ éêôë ½³ ñ Þ±¼»²°´¿¬¬» ëî ¨ çè ½³\nL27@P1: Ó¿¹²«³\nL28@P1: ïîîì ßÜÔÛÎ ÍÑÝÕÛÔÊßÎ×ßÒÌÛÒ\nL29@P1: íî\nL30@P1:  Î»½¸¬»½µ·¹ Þ±±¬­º±®³ Ñ®¹¿²·½ Ñª¿´\nL31@P1: Ì·­½¸ ¿«­¦·»¸¾¿® ²·½¸¬ ¿«­¹»¦±¹»²\nL32@P1: Ì·­½¸ ¿«­¦·»¸¾¿® ¿«­¹»¦±¹»²\nL33@P1: Þ±±¬­º±®³\nL34@P1: Ì·­½¸¾®»·¬» µ±°º­»·¬·¹ ¾»· Ù®*A»\nL35@P1:  çë ¨ ïëð ñ îïð ½³ ã ½¿ò èêôî ½³\nL36@P1: ïðë ¨ ïéð ñ îëð ½³ ã ½¿ò çíôé ½³\nL37@P1: ïðë ¨ ïçð ñ îéð ½³ ã ½¿ò çðôé ½³\nL38@P1: ïîð ¨ îéð ñ íéð ½³ ã ½¿ò ïðëôë ½³\nL39@P1: Ì·­½¸ ²·½¸¬ ¿«­¦·»¸¾¿®\nL40@P1: Þ±±¬­º±®³ Ñª¿´ Ì·­½¸¾®»·¬» µ±°º­»·¬·¹ ¾»· Ù®*A» ²«® »·²¹»­½¸®<²µ¬ ³*¹´·½¸\nL41@P1:  çë ¨ ïêð ½³ ã ½¿ò èìôç ½³\nL42@P1: ïðë ¨ ïèð ½³ ã ½¿ò çîôî ½³\nL43@P1: ïðë ¨ îðð ½³ ã ½¿ò èçôð ½³\nL44@P1: ïðë ¨ îîð ½³ ã ½¿ò çðôë ½³\nL45@P1: ïðë ¨ îìð ½³ ã ½¿ò çïôî ½³\nL46@P1: ïðë ¨ îêð ½³ ã ½¿ò çïôë ½³\nL47@P1: ïîð ¨ îêð ½³ ã ½¿ò ïðêôê ½³\nL48@P1: ïîð ¨ îèð ½³ ã ½¿ò ïðìôì ½³\nL49@P1: ßÜÔÛÎ ïîîì\nL50@P1: ÐÔßÌÌÛÒÚÑÎÓÛÒ\nL51@P1-2: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ííïîîì ßÜÔÛÎ ÜÛÍ×ÙÒ ÐÛÌÛÎ ÜÎßÛÒÛÎÌ ïççë ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í±½µ»´ î Þ ó Ô ó Ø Ñª¿´ ½¿ò ·² ½³\nL52@P2: Û¼»´­¬¿¸´ ³¿¬¬ ¹»­½¸´·ºº»² Í¬¿²¼¿®¼\nL53@P2: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ ïîîì Û­­¬·­½¸ Í±½µ»´ î çë ¨ ïêð ¨ éí\nL54@P2: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ô ±ª¿´ ìð ¨ êê ïðë ¨ ïèð ¨ éí ²·½¸¬ ¿«­¦·»¸¾¿® ïðë ¨ îðð ¨ éí\nL55@P2: ïðë ¨ îîð ¨ éí\nL56@P2: ïðë ¨ îìð ¨ éí\nL57@P2: ïðë ¨ îêð ¨ éí\nL58@P2: ïîîì Û­­¬·­½¸ ÓßÙÒËÓ Í±½µ»´ î ïîð ¨ îêð ¨ éíôë\nL59@P2: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ô ±ª¿´ Ó¿¹²«³ ïîð ¨ îèð ¨ éíôë ²·½¸¬ ¿«­¦·»¸¾¿® ëð ¨ èê\nL60@P2: ßËÍÆ×ÛØÞßÎ ïîîì Û­­¬·­½¸ Í±½µ»´ î çë ¨ ïëð ¨ éìôë\nL61@P2: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ ìð ¨ êê ¿«­¹»¦±¹»²\nL62@P2: ¿«­¦·»¸¾¿® çë ¨ îïð ¨ éìôë\nL63@P2: ³·¬ ·²¬»¹®·»®¬»® Ø«¾óÓ·¬¬»´°´¿¬¬» Í¬»·² êð ½³\nL64@P2: ïîîì Û­­¬·­½¸ Í±½µ»´ î ïðë ¨ ïéð ¨ éìôë\nL65@P2: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ ìð ¨ êê ¿«­¹»¦±¹»²\nL66@P2: ¿«­¦·»¸¾¿® ïðë ¨ îëð ¨ éìôë\nL67@P2: ³·¬ ·²¬»¹®·»®¬»® Ø«¾óÓ·¬¬»´°´¿¬¬» Í¬»·² èð ½³ ïðë ¨ ïçð ¨ éìôë\nL68@P2: ¿«­¹»¦±¹»²\nL69@P2: ïðë ¨ îéð ¨ éìôë\nL70@P2: ïîîì Û­­¬·­½¸ ÓßÙÒËÓ Í±½µ»´ î ïîð ¨ îéð ¨ éë\nL71@P2: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ Ó¿¹²«³ ¿«­¹»¦±¹»²\nL72@P2: ¿«­¦·»¸¾¿® ëð ¨ èê ïîð ¨ íéð ¨ éë ³·¬ ·²¬»¹®·»®¬»® Ø«¾óÓ·¬¬»´°´¿¬¬» Í¬»·² ïðð ½³\nL73@P2: D¾»®­·½¸¬ ­·»¸» Í»·¬ »² íîñíí\nL74@P2: Í±½µ»´ î ó Í¬¿²¼¿®¼ Í±½µ»´ í Í±½µ»´ ë Í±½µ»´ ê Ñª¿´ ·² Û¼»´­¬¿¸´ Ñª¿´ ³·¬ Ô»¼»® Ñª¿´ ³·¬ Í¬»·² Ú´¿½¸±ª¿´ ·² Û¼»´­¬¿¸´\nL75@P2: Ø·²©»·­æ Î±´´»²­±½µ»´ ²·½¸¬ ¹»»·¹²»¬ º$® ¸±½¸º´±®·¹» Ì»°°·½¸»ò\nL76@P2: íì\nL77@P2: ßÜÔÛÎ ïîîì\nL78@P2: ÒßÌËÎÍÌÛ×Ò\nL79@P2: Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL80@P2: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL81@P2: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL82@P2: ìëèë ëíîð êïïð éëçë èêéë çéèë ïïèêë ïìêðë\nL83@P2: ìéðð ëëëë êëíð èðéë çîëë ïðëíë ïîèèë ïêðéë\nL84@P2: ìéëë ëêîð êêìð èîíë çëìð ïðèïð ïííìë ïêèìë\nL85@P2: ìéêë ëêèð êéêë èììð çéèë ïïïìë ïíèéë ïéèíð\nL86@P2: ìèêë ëèçë éðîë èèðë ïðîìð ïïêçë ïìëîë ïèìíë\nL87@P2: ìçéð êðîë éîìð çïëë ïðéðð ïîîéð ïëíëë ïçêîë\nL88@P2: éíîë èèéë ïðíèð ïîëéð ïìíðë ïêîïë ïçèêë îìíçë\nL89@P2: èðèë çèðð ïïëêë ïìðçð ïêðèð ïèíïð îîêîð îêéçë\nL90@P2: éëêð çðïð ïðîçë ïîðïð ïíëìë ïìëëð ïëèëð ïéççë\nL91@P2: éçìë çêíð ïïíîë ïíëîð ïëîçð ïêêêð ïèëîë îðççë\nL92@P2: èîìð ççèð ïïçéð ïìïðë ïêïíð ïéêéð ïçìçë îîïéð\nL93@P2: ïêìêë ïçéëë îïêðë îíçëð îêëëë îçïîð íîëïë íêèðð\nL94@P2: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ßÜÔÛÎ ßÜÔÛÎ ÓßÙÒËÓ\nL95@P2: ÛËÎÑ ÛËÎÑ Í±½µ»´ î ñ ê ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² íçë êêð Í±½µ»´ î ñ ê ´¿½µ·»®¬ ²¿½¸ ÎßÔ ëèð èìë Í±½µ»´ î ´¿½µ·»®¬ ­½¸©¿®¦½¸®±³óº¿®¾»² éëð ïðëð Í±½µ»´ î ñ í ñ ë ³·¬ Î±´´»² ïðëð îïèð\nL96@P2: Í±½µ»´ í ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® × Í¬¿²¼¿®¼ èèë ïììð Í±½µ»´ í ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® ×× Û´³±­±º¬ ïïèð ïççë\nL97@P2: Í±½µ»´ ë Í¬»·²­±½µ»´ ÐÙ ï ó ì¾ ïëëð îêëð Í±½µ»´ ë Í¬»·²­±½µ»´ ÐÙ ë õ ê îéçð ìççë\nL98@P2: Í±½µ»´ ê Ú´¿½¸±ª¿´­±½µ»´ èçð ïèêð\nL99@P2: ß«­¦«¹­®¿¸³»² ´¿½µ·»®¬ ²¿½¸ ÎßÔ èîð ïìëð\nL100@P2-3: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ íëïîîì ßÜÔÛÎ\nL101@P3: ÓßÍÍ×ÊØÑÔÆ\nL102@P3: Ë²¬»®¾¿« Ù®*A» Í±½µ»´ î Þ ó Ô ó Ø Ñª¿´ ½¿ò ·² ½³\nL103@P3: Û¼»´­¬¿¸´ ³¿¬¬ ¹»­½¸´·ºº»² Í¬¿²¼¿®¼\nL104@P3: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ Í±½µ»´ î çë ¨ ïêð ¨ éí\nL105@P3: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ô ±ª¿´ ìð ¨ êê ïðë ¨ ïèð ¨ éí Ó¿­»®«²¹­ª»®´¿«º ´<²¹­ ïðë ¨ îðð ¨ éí Ð´¿¬¬» ´<²¹­ ª»®´»·³¬ ïðë ¨ îîð ¨ éí\nL106@P3: ïðë ¨ îìð ¨ éí\nL107@P3: ïîîì Û­­¬·­½¸ ÓßÙÒËÓ Í±½µ»´ î ïîð ¨ îêð ¨ éíôë\nL108@P3: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ô ±ª¿´ Ó¿¹²«³\nL109@P3: ëð ¨ èê Ð´¿¬¬» ´<²¹­ ª»®´»·³¬\nL110@P3: ßËÍÆ×ÛØÞßÎ Í±½µ»´ î çë ¨ ïëð ¨ éìôë\nL111@P3: ìð ¨ êê ¿«­¹»¦±¹»² Ó¿­»®«²¹­ª»®´¿«º ¯«»® çë ¨ îïð ¨ éìôë\nL112@P3: Ð´¿¬¬»² ¯«»® ª»®´»·³¬\nL113@P3: Í±½µ»´ î ïðë ¨ ïéð ¨ éìôë\nL114@P3: ìð ¨ êê ¿«­¹»¦±¹»²\nL115@P3: ïðë ¨ îëð ¨ éìôë\nL116@P3: ³·¬ ·²¬»¹®·»®¬»® Ø«¾óÓ·¬¬»´°´¿¬¬»\nL117@P3: ïðë ¨ ïçð ¨ éìôë\nL118@P3: Ð´¿¬¬»² ¯«»® ª»®´»·³¬ ¿«­¹»¦±¹»²\nL119@P3: ïðë ¨ îéð ¨ éìôë\nL120@P3: ïîîì Û­­¬·­½¸ ÓßÙÒËÓ Í±½µ»´ î ïîð ¨ îéð ¨ éë Ó¿¹²«³ ¿«­¹»¦±¹»²\nL121@P3: ëð ¨ èê ïîð ¨ íéð ¨ éë ³·¬ ·²¬»¹®·»®¬»® Ø«¾óÓ·¬¬»´°´¿¬¬» Ó¿­­·ª¸±´¦ ïðð ½³\nL122@P3: Ð´¿¬¬»² ¯«»® ª»®´»·³¬\nL123@P3: D¾»®­·½¸¬ ­·»¸» Í»·¬ »² íîñíí\nL124@P3: Í±½µ»´ î ó Í¬¿²¼¿®¼ Í±½µ»´ í Í±½µ»´ ë Í±½µ»´ ê Ñª¿´ ·² Û¼»´­¬¿¸´ Ñª¿´ ³·¬ Ô»¼»® Ñª¿´ ³·¬ Ø±´¦ Ú´¿½¸±ª¿´ ·² Û¼»´­¬¿¸´\nL125@P3: Þ·¬¬» ¿²¹»¾»²æ Ø±´¦±¾»®º´<½¸» ¹»©¿½¸­¬ øÍ¬¿²¼¿®¼÷ ±¼»® µ´¿® ´¿½µ·»®¬ ø°®»·­¹´»·½¸÷ò\nL126@P3: Ø·²©»·­æ Î±´´»²­±½µ»´ ²·½¸¬ ¹»»·¹²»¬ º$® ¸±½¸º´±®·¹» Ì»°°·½¸»ò\nL127@P3: ïîîì Û­­¬·­½¸\nL128@P3: ÜÛÍ×ÙÒ ÐÛÌÛÎ ÜÎßÛÒÛÎÌ ïççë\nL129@P3: Ó±¼»´´¿®¬\nL130@P3: ïîîì Û­­¬·­½¸\nL131@P3: ²·½¸¬ ¿«­¦·»¸¾¿®\nL132@P3: ²·½¸¬ ¿«­¦·»¸¾¿®\nL133@P3: ¿«­¦·»¸¾¿® Ó¿­­·ª¸±´¦ èð ½³\nL134@P3: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ ¿«­¦·»¸¾¿®\nL135@P3: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ ¿«­¦·»¸¾¿® ³·¬ ·²¬»¹®·»®¬»® Ø«¾óÓ·¬¬»´°´¿¬¬» Ó¿­­·ª¸±´¦ êð ½³\nL136@P3: ïîîì Û­­¬·­½¸\nL137@P3: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½\nL138@P3: íê\nL139@P3: ßÜÔÛÎ ïîîì\nL140@P3: ÓßÍÍ×ÊØÑÔÆ\nL141@P3: Ð´¿¬¬»² Ð´¿¬¬»² Ó¿­­·ª¸±´¦ îôë ½³ Ó¿­­·ª¸±´¦ îôë ½³\nL142@P3: Õ¿²¬» ë Õ¿²¬» ë Û·½¸» ±¼»® É·´¼»·½¸» ß³»®·µ¿²·­½¸ Ò«­­¾¿«³\nL143@P3: ²¿¬«® ñ ¬±¾¿½½± ñ ¼«²µ»´¹®¿« ñ Ó±±®»·½¸»\nL144@P3: ÛËÎÑ ÛËÎÑ\nL145@P3: êíêë éìéð\nL146@P3: êìéë éêçë\nL147@P3: êéëð éççë\nL148@P3: êèîë èïìë\nL149@P3: êçéð èììë\nL150@P3: èçïð ïðîïë\nL151@P3: çëíð ïðéíð\nL152@P3: çéçð ïðççð\nL153@P3: çççð ïïíçð\nL154@P3: ïéïîë ïçççð\nL155@P3: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ßÜÔÛÎ ßÜÔÛÎ ÓßÙÒËÓ\nL156@P3: ÛËÎÑ ÛËÎÑ Í±½µ»´ î ñ ê ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² íçë êêð Í±½µ»´ î ñ ê ´¿½µ·»®¬ ²¿½¸ ÎßÔ ëèð èìë Í±½µ»´ î ´¿½µ·»®¬ ­½¸©¿®¦½¸®±³óº¿®¾»² éëð ïðëð Í±½µ»´ î ñ í ñ ë ³·¬ Î±´´»² ïðëð îïèð\nL157@P3: Í±½µ»´ í ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® × Í¬¿²¼¿®¼ èèë ïììð Í±½µ»´ í ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® ×× Û´³±­±º¬ ïïèð ïççë\nL158@P3: Í±½µ»´ ë Ñª¿´­±½µ»´ °¿­­»²¼ ¦«® Ð´¿¬¬» º«®²·»®¬ ïëëð îêëð\nL159@P3: Í±½µ»´ ê Ú´¿½¸±ª¿´­±½µ»´ èçð ïèêð\nL160@P3: ß«­¦«¹­®¿¸³»² ´¿½µ·»®¬ ²¿½¸ ÎßÔ èîð ïìëð\nL161@P3-4: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ íéïîîì ßÜÔÛÎ ÝÑÒÚÛÎÛÒÝÛ ÜÛÍ×ÙÒ ÐßÌÎ×Ý ÜÎßÛÒÛÎÌ îðïè ÒßÌËÎÍÌÛ×Ò\nL162@P4: Ó¿A» Ü¿­ ßÜÔÛÎ Ý±²º»®»²½» Í§­¬»³ ¾·»¬»¬ ³¿¨·³¿´» Ú´»¨·¾·´·¬<¬ò\nL163@P4: Ò¿¸»¦« ¿´´» Ì·­½¸¹®*A»² ­·²¼ ³¿½¸¾¿®ò ×² ¼»® Ô<²¹» ·­¬ »·²» «²¾»¹®»²¦¬» Î»·¸«²¹ ³*¹´·½¸ò\nL164@P4: Þ·¬¬» º®¿¹»² Í·» ×¸® É«²­½¸³¿A ¿²ò\nL165@P4: ß«º¹®«²¼ ¼»® ¹®±A»² Ê¿®·¿²¦ µ*²²»² ©·® ¸·»® µ»·²» Ð®»·­» ²»²²»²ò\nL166@P4: ß«º ¼»® ®»½¸¬»² Í»·¬» º·²¼»² Í·» »·²»² D¾»®¾´·½µ ¦« ¼»² Ó¿Aó «²¼ Í±½µ»´ª¿®·¿²¬»²ò\nL167@P4: Ì·­½¸°´¿¬¬» Æ«® ß«­©¿¸´ ­¬»¸»² ïëð «²¬»®­½¸·»¼´·½¸» Ò¿¬«®­¬»·²­±®¬»² øÍ»·¬» ìóë÷ò\nL168@P4: ß´¬»®²¿¬·ª ¾·»¬»² ©·® Ú«®²·»®ó «²¼ Ó¿­­·ª¸±´¦°´¿¬¬»² ¿²ò Ó¿A» ¿«º ß²º®¿¹»ò\nL169@P4: Ð´¿¬¬»²µ¿²¬»²\nL170@P4: Õ¿²¬» ì Õ¿²¬» ë Õ¿²¬» ê Õ¿²¬» è\nL171@P4: Ð´¿¬¬»²º±®³»²\nL172@P4: Î»½¸¬»½µ·¹ Þ±±¬­º±®³ Ñ®¹¿²·½ Ñª¿´\nL173@P4: Í±½µ»´ Í±½µ»´ î Í¬¿²¼¿®¼ Ñª¿´­±½µ»´ Û¼»´­¬¿¸´ ìð ¨ êê ½³ ·²æ\nL174@P4:  ó ³¿¬¬ ¹»­½¸´·ºº»²\nL175@P4:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ Í±½µ»´ î Ó¿¹²«³ Ñª¿´­±½µ»´ Û¼»´­¬¿¸´ ëð ¨ èê ½³ ·²æ\nL176@P4:  ó ³¿¬¬ ¹»­½¸´·ºº»²\nL177@P4:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ Í±½µ»´ í Í¬¿²¼¿®¼ Ñª¿´­±½µ»´ ³·¬ Ô»¼»® «³³¿²¬»´¬ ìð ¨ êê ½³\nL178@P4: Í±½µ»´ í Ó¿¹²«³ Ñª¿´­±½µ»´ ³·¬ Ô»¼»® «³³¿²¬»´¬ ëð ¨ èê ½³\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn305790view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn829325view0\",\"id\":55}); Total lines: 1\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn305790view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn829325view0\",\"id\":56}); Total lines: 1\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Paramount - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1410-Paramount.html)\n【turn227840view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1410-Paramount.html\",\"lineno\":null}); Total lines: 154\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Paramount\nL12: \nL13: Modell-Nr.: 1410\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: Stein 【6†Palomino blue†www.draenert.de】,\nL20: Stühle 【7†Dexter†www.draenert.de】\nL21: \nL22: 【8†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Konsole, Stein 【6†Palomino blue†www.draenert.de】\nL27: \nL28: 【9†Image】\nL29: \nL30: Produkte / Materialien\nL31: \nL32: Stein 【10†Rosso Levanto†www.draenert.de】\nL33: \nL34: 【11†Image】\nL35: \nL36: Produkte / Materialien\nL37: \nL38: Stein 【12†Palisandro†www.draenert.de】\nL39: \nL40: \nL41: 【13†Image】\nL42: \nL43: Produkte / Materialien\nL44: \nL45: Stein 【6†Palomino blue†www.draenert.de】, Stühle 【7†Dexter†www.draenert.de】\nL46: \nL47: 【14†Image】\nL48: Produkte / Materialien\nL49: \nL50: Esstisch Paramount, Stein 【15†Verde Lepanto†www.draenert.de】\nL51: #### design Gino Carollo 2023\nL52: Unser neuer Esstisch besitzt wahrhaft eine imposante Ausstrahlung! Denn Paramount zieht sofort die Blicke auf sich, so kraftvoll und markant ist sein Auftritt. Und er ist beides: frappierend einfach in seiner Struktur – und komplex in seinen subtilen Details. Bereits als Solitär entfaltet der Tisch seine skulpturalen Qualitäten: durch die harmonische Formensprache seiner Tischplatte und den monolithischen Unterbau. Durch die pure Präsenz des natürlichen Materials Stein.\nL53: Aber gerade wenn man zwei oder mehr Exemplare von Paramount zu einem langen Möbelobjekt addiert, ergänzen sich die organisch geformten Tischplatten zu einer schlüssigen Einheit. Und je nachdem welche Steinsorte Sie wählen, prägt Ihre Entscheidung die Gesamtwirkung von Paramount stark: individuelle Einschlüsse, Farbverläufe und Maserungen machen Paramount einzigartig und setzen sich von der horizontalen Platte bis in die vertikale Unterkonstruktion fort.\nL54: So entsteht ein glaubwürdiges, allumfassendes Designobjekt, das auch in Jahrzehnten ästhetisch überzeugt und überwältigt. Auch die passende Konsole darf bei einem solchen System nicht fehlen. Formal an den Tisch angelehnt, schafft es die Konsole dennoch, als Solitär aufzutreten. Sie vereint die gleichen Attribute wie der Tisch - harmonische Formensprache der Platte zum monolithischen Unterbau.\nL55: Zudem bietet sie einen zusätzlichen Ablageplatz am Esstisch und ist ein praktischer Helfer zum Servieren von Speisen und Getränken.\nL56: #### In folgenden Material-Varianten erhältlich:\nL57: \nL58:   * Stein\nL59:   * Stein\nL60: \nL61: Produkte / Materialien\nL62: \nL63: Stein 【15†Verde Lepanto†www.draenert.de】\nL64: \nL65: \nL66: 【16†Image】\nL67: \nL68: Produkte / Materialien\nL69: \nL70: Stein 【17†Palomino Blue†www.draenert.de】, Stühle 【7†Dexter†www.draenert.de】\nL71: \nL72: 【18†Image】\nL73: \nL74: Produkte / Materialien\nL75: \nL76: Konsole Stein 【6†Palomino blue†www.draenert.de】\nL77: \nL78: 【19†Image】\nL79: \nL80: Produkte / Materialien\nL81: \nL82: Stein 【20†Avocatus†www.draenert.de】\nL83: \nL84: 【21†Image】\nL85: \nL86: Produkte / Materialien\nL87: \nL88: Stein 【22†copacabana†www.draenert.de】\nL89: \nL90: 【23†Image】\nL91: Produkte / Materialien\nL92: \nL93: Stein 【22†Copacabana†www.draenert.de】\nL94: \nL95: 【24†Image】\nL96: \nL97: Produkte / Materialien\nL98: \nL99: Stein 【6†Palomino Blue†www.draenert.de】\nL100: \nL101: 【25†Image】\nL102: \nL103: Produkte / Materialien\nL104: \nL105: Stein 【10†Rosso Levanto†www.draenert.de】\nL106: \nL107: 【26†Image】\nL108: \nL109: Produkte / Materialien\nL110: \nL111: Stein Verde lepanto\nL112: \nL113: 【16†Image】\nL114: \nL115: Produkte / Materialien\nL116: \nL117: Stein 【15†Verde Lepanto†www.draenert.de】\nL118: \nL119: 【27†Image】\nL120: \nL121: 【28†iframe†ui.pcon-solutions.com】\nL122: ## Downloads\nL123: \nL124:   * 【29†Produktinformation】\nL125:   * 【30†dwg-Daten Konsole】\nL126:   * 【31†dwg-Daten Einzeltisch】\nL127:   * 【32†dwg-Daten Doppeltische】\nL128:   * Fotos\nL129: \nL130: 【33†Alle herunterladen】\nL131: \nL132: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL133: ##\nL134: \nL135: Weitere Material-Ausführungen (modellspezifisch)\nL136: \nL137: 【34†Zu allen Steinsorten】\nL138: \nL139: 【35†Gino Carollo Italien, ThieneJahrgang 1965, der Industriedesigner arbeitet seit 1990 für namhafte internationale Un... Mehr über den Designer】\nL140: \nL141: 【36†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL142: \nL143:   * 【2†Händlersuche】\nL144:   * 【36†Katalogbestellung】\nL145:   * 【37†Newsletter】\nL146: \nL147:   * 【38†Aktuelles】\nL148:   * 【39†Für Presse】\nL149: \nL150:   * 【40†Datenschutz】\nL151:   * 【41†Impressum】\nL152: \nL153:   * 【33†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/d/9/b/a/d9ba828371fa08801997579ada689bc7f9f198a3/1410_Paramount_DE_1.5.26.pdf)\n【turn862096view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn227840view0\",\"id\":29}); Total lines: 41\nL0@P0: PARAMOUNT\nL1@P0: Modell-Nr. 1410\nL2@P0: DESIGN GINO CAROLLO\nL3@P0: Unser neuer Esstisch besitzt wahrhaft eine imposante Ausstrahlung! Denn Paramount zieht sofort die Blicke auf sich, so kraftvoll und\nL4@P0: markant ist sein Auftritt. Und er ist beides: frappierend einfach in seiner Struktur – und komplex in seinen subtilen Details. Bereits als\nL5@P0: Solitär entfaltet der Tisch seine skulpturalen Qualitäten: durch die harmonische Formensprache seiner Tischplatte und den\nL6@P0: monolithischen Unterbau. Durch die pure Präsenz des natürlichen Materials Stein. Aber gerade wenn man zwei oder mehr Exemplare\nL7@P0: von Paramount zu einem langen Möbelobjekt addiert, ergänzen sich die organisch geformten Tischplatten zu einer schlüssigen\nL8@P0: Einheit. Und je nachdem welche Steinsorte Sie wählen, prägt Ihre Entscheidung die Gesamtwirkung von Paramount stark: individuelle\nL9@P0: Einschlüsse, Farbverläufe und Maserungen machen Paramount einzigartig und setzen sich von der horizontalen Platte bis in die\nL10@P0: vertikale Unterkonstruktion fort. So entsteht ein glaubwürdiges, allumfassendes Designobjekt, das auch in Jahrzehnten ästhetisch\nL11@P0: überzeugt und überwältigt. Auch die passende Konsole darf bei einem solchen System nicht fehlen. Formal an den Tisch angelehnt,\nL12@P0: schafft es die Konsole dennoch, als Solitär aufzutreten. Sie vereint die gleichen Attribute wie der Tisch - harmonische Formensprache\nL13@P0: der Platte zum monolithischen Unterbau. Zudem bietet sie einen zusätzlichen Ablageplatz am Esstisch und ist ein praktischer Helfer\nL14@P0: zum Servieren von Speisen und Getränken.\nL15@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL16@P0-1: Stein Steinïìïð ÐßÎßÓÑËÒÌ ÜÛÍ×ÙÒ Ù×ÒÑ ÝßÎÑÔÔÑ îðîì ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A»\nL17@P1: î Í¬»·²©¿²¹»² Þ ó Ô ó Ø\nL18@P1: ½¿ò ·² ½³\nL19@P1: ïìïð Û­­¬·­½¸ ïïð ¨ îìð ¨ éì Ú®»·º±®³ ïîð ¨ îèð ¨ éì Û·²¦»´¬·­½¸\nL20@P1: ïìïð Û­­¬·­½¸ ïíð ¨ íëð ¨ éì Ú®»·º±®³ ïíð ¨ ììð ¨ éì Ü±°°»´¬·­½¸ ïíð ¨ ëêð ¨ éì\nL21@P1: ïìïð Õ±²­±´» ëð ¨ ïéé ¨ éì Ú®»·º±®³\nL22@P1: Ü¿­ Ð¿®¿³±«²¬ Ý±²º»®»²½» Í§­¬»³ ¾·»¬»¬ ³¿¨·³¿´» Ú´»¨·¾·´·¬<¬ò\nL23@P1: Ò¿¸»¦« ¿´´» Ì·­½¸¹®*A»² ­·²¼ ³¿½¸¾¿®ò\nL24@P1: ×² ¼»® Ô<²¹» ·­¬ »·²» «²¾»¹®»²¦¬» Î»·¸«²¹ ³*¹´·½¸ò\nL25@P1: Ø·²©»·­æ Í±½µ»´ ²«® ·² ¹»´»¼»®¬ ³*¹´·½¸ò\nL26@P1: Ô±©óÜ·²·²¹ ¿«º ß²º®¿¹»ò\nL27@P1: ìè\nL28@P1: ÐßÎßÓÑËÒÌ ïìïð\nL29@P1: ÒßÌËÎÍÌÛ×Ò\nL30@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL31@P1: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL32@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL33@P1: ïðçíë ïîçðð ïìêîë ïêèîð ïçèíð îíîìë îéïëë ííêèë\nL34@P1: ïïíëë ïíìèð ïëîìð ïéçïë îïíïð îëïçë íðîéð íéçëð\nL35@P1: îîèèë îêìîë îçíçð ííîèð íèíçð ììêðð ëïêîë êïéðð\nL36@P1: îíççð îéèðë íðèçð íëîìð ìðççð ìèððð ëêðïð êéìêë\nL37@P1: îëççë íððêð ííéêð íèèíë ìëðîë ëíïíð êîíéð éëèïð\nL38@P1: èíïë çééð ïðêëë ïïèêð ïííèë ïëíðë ïéêéð îðèéð\nL39@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ìç\nL40@P1: Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn862096view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn227840view0\",\"id\":30}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/1/1/a/b/11ab94a1a731e082bf1e0349d1f2f467a88d1d47/1410%20Paramount%20Konsole.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn862096view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn227840view0\",\"id\":31}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/0/b/3/1/0b31831c98715ee89d807b206673e14e652f9648/1410-Paramount%20Einzeltisch.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn862096view3】 [wordlim: 200] Source: click({\"ref_id\":\"turn227840view0\",\"id\":32}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/9/d/a/f/9daf8ac956b66cdd3a29317d130a78e488bab0db/1410-Paramount%20Doppeltisch.zip: (400) Timeout fetching\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Kent - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/kent.html)\n【turn538309view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/kent.html\",\"lineno\":null}); Total lines: 105\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Kent\nL12: \nL13: Modell-Nr.: 1550\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: Stein 【6†Orobico Light†www.draenert.de】, Unterbau\nL20: 【7†Aluminium Schwarz beschichtet,†www.draenert.de】 Stühle 【8†Dan†www.draenert.de】\nL21: \nL22: 【9†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Stein 【10†Dolomite gold,†www.draenert.de】 Unterbau\nL27: 【7†Aluminium schwarz beschichtet,†www.draenert.de】 Stühle 【11†Dan†www.draenert.de】\nL28: \nL29: 【12†Image】\nL30: \nL31: Produkte / Materialien\nL32: Stein 【6†Orobico Light†www.draenert.de】【13†,†www.draenert.de】 unterbau 【7†Aluminium Schwarz beschichtet,†www.draenert.de】 stühle【14† †www.draenert.de】 【11†Dan†www.draenert.de】\nL33: \nL34: 【15†Image】\nL35: \nL36: 【16†Image】\nL37: \nL38: 【17†Image】\nL39: #### Mod. 1550 Kent, Design Wolfgang C. R. Mezger 2023\nL40: KENT ist eine neue spannende Art, einen Tisch zu erleben. Die teilweise asymmetrischen Tischplatten ergeben neue Sitzanord-nungen und eröffnen so neue Perspektiven für die am Tisch sitzenden Gäste.\nL41: Das Faszinierende an der Idee KENT ist, zuerst spannende asymmetrische Formen zu kreieren, um dann durch gezielt überlegte Anordnungen wiederum ein harmonisches Gleichgewicht zu erzeugen.Die Steinausführungen erscheinen durch die Asymmetrie der Tischplatten fast noch edler und vermitteln durch ihre Maserung und Farbigkeit ein beeindruckendes ästhetisches Erlebnis.\nL42: Das Tischkonzept öffnet sich, weg von der routinemäßigen Alltäglich-keit von Symmetrie, hin zu neuen inspirierenden und kommuni-kativen Situationen. Zusammen mit dem Unterbau - bestehend aus zwei Halbschalen aus Aluminiumguss - entsteht mit jeder Tischplattenform eine skulpturale Gesamtanmutung, die den KENT sehr leicht und filigran wirken lässt.\nL43: #### In folgenden Material-Varianten erhältlich:\nL44: \nL45:   * Stein\nL46: \nL47: Produkte / Materialien\nL48: \nL49: Stein 【14†orobico Black,†www.draenert.de】 unterbau 【18†dunkel bronze†www.draenert.de】\nL50: \nL51: 【19†Image】\nL52: \nL53: Produkte / Materialien\nL54: \nL55: Form Trapeza, Stein 【20†Breccia Sarda†www.draenert.de】\nL56: \nL57: 【21†Image】\nL58: \nL59: Produkte / Materialien\nL60: \nL61: Form Kiesel, Stein 【13†Quarzit Colorado†www.draenert.de】\nL62: \nL63: 【22†Image: Kiesel】\nL64: \nL65: Produkte / Materialien\nL66: \nL67: Form oval, Stein 【13†Quarzit colorado†www.draenert.de】\nL68: \nL69: 【23†Image: Oval】\nL70: \nL71: 【24†iframe†ui.pcon-solutions.com】\nL72: ## Downloads\nL73: \nL74:   * 【25†Produktinformation】\nL75:   * 【26†dwg-Daten Trilungo】\nL76:   * 【27†dwg-Daten Oval】\nL77:   * 【28†dwg Kiesel】\nL78:   * 【29†dwg-Daten Trapeza】\nL79:   * Fotos\nL80: \nL81: 【30†Alle herunterladen】\nL82: \nL83: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL84: ##\nL85: \nL86: Weitere Material-Ausführungen (modellspezifisch)\nL87: \nL88: 【31†Zu allen Steinsorten】\nL89: \nL90: 【32†Wolfgang C. R. Mezger Wolfgang C. R. Mezger, geboren 1951, ist ein erfahrener Designer mit mehr als 30 Jahren Erfahrung. Seine E... Mehr über den Designer】\nL91: \nL92: 【33†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL93: \nL94:   * 【2†Händlersuche】\nL95:   * 【33†Katalogbestellung】\nL96:   * 【34†Newsletter】\nL97: \nL98:   * 【35†Aktuelles】\nL99:   * 【36†Für Presse】\nL100: \nL101:   * 【37†Datenschutz】\nL102:   * 【38†Impressum】\nL103: \nL104:   * 【30†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn389220view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn538309view0\",\"id\":25}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/4/d/3/0/4d30a6f00a4915850f1aea5ace92f88f327e321d/1550_Kent_%C3%9Cbersicht_Stein_DE_1.5.26.pdf: (400) Content length is too large: 13959806\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn389220view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn538309view0\",\"id\":26}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/1/7/0/8/1708c716556df2d689ce6674ee818014e925c965/1550%20Kent_Trilungo.zip: TimeoutError\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn389220view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn538309view0\",\"id\":27}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/4/b/8/4/4b844cf2550b88dacb45d56fe9229437a5f6446b/1550%20Kent_oval.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn389220view3】 [wordlim: 200] Source: click({\"ref_id\":\"turn538309view0\",\"id\":28}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/e/d/5/e/ed5e8a7c6ec22f354713467c74f77a6b51474c41/1550%20Kent_kieself%C3%B6rmig.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn389220view4】 [wordlim: 200] Source: click({\"ref_id\":\"turn538309view0\",\"id\":29}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/3/7/6/f/376fe6bf330bc68a9dbd55220f315c7ad13b420d/1550%20Kent_Trapeza.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Largo - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1010-E.html)\n【turn525547view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1010-E.html\",\"lineno\":null}); Total lines: 84\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Largo\nL13: \nL14: Modell-Nr.: 1010-E\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Tischplatte holz 【6†mooreiche†www.draenert.de】,\nL21: Stühle 【7†Nobile soft†www.draenert.de】\nL22: \nL23: 【8†Image】\nL24: \nL25: Produkte / Materialien\nL26: \nL27: Tischplatte 【9†klarglas†www.draenert.de】, standrohr 【10†hochglanz-chrom†www.draenert.de】\nL28: #### Design peter draenert 1983\nL29: \nL30: Der Esstisch Largo ist ein kleiner, vielseitig einsetzbarer Esstisch aus Glas oder Eiche massiv in verschiedenen Farbtönen. Das Standrohr ist in Hochglanz- Chrom, lackiert nach RAL oder beschichtet in verschiedenen Farben erhältlich.\nL31: #### In folgenden Material-Varianten erhältlich:\nL32: \nL33:   * Glas\nL34:   * Holz\nL35: \nL36: Produkte / Materialien\nL37: \nL38: Tischplatte 【9†klarglas†www.draenert.de】,\nL39: Standrohr und Sockel 【10†Hochglanz-chrom†www.draenert.de】\nL40: \nL41: 【11†Image】\nL42: \nL43: 【12†Image】\nL44: \nL45: Produkte / Materialien\nL46: \nL47: Glas 【13†Klarglas†www.draenert.de】,\nL48: Standrohr und Sockel 【10†Hochglanz-chrom†www.draenert.de】\nL49: \nL50: 【14†Image】\nL51: \nL52: 【15†iframe†ui.pcon-solutions.com】\nL53: ## Downloads\nL54: \nL55:   * 【16†Produktinformation】\nL56:   * 【17†dwg-Daten】\nL57:   * Fotos\nL58: \nL59: 【18†Alle herunterladen】\nL60: \nL61: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL62: ##\nL63: \nL64: Weitere Material-Ausführungen (modellspezifisch)\nL65: \nL66: 【19†Zu allen Glassorten】\nL67: \nL68: 【20†Zu allen Holzsorten】\nL69: \nL70: 【21†Dr. Peter Draenert Peter Draenert (1937-2005) hat an der Universität Tübingen Philosophie, Kunstgeschichte, Germanistik un... Mehr über den Designer】\nL71: \nL72: 【22†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL73: \nL74:   * 【2†Händlersuche】\nL75:   * 【22†Katalogbestellung】\nL76:   * 【23†Newsletter】\nL77: \nL78:   * 【24†Aktuelles】\nL79:   * 【25†Für Presse】\nL80: \nL81:   * 【26†Datenschutz】\nL82:   * 【27†Impressum】\nL83:   * 【18†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/5/9/7/3/597365f96e52892fca57898fb3dbd33e6af4dc3c/1010-E_Largo_DE_1.5.26.pdf)\n【turn481225view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn525547view0\",\"id\":16}); Total lines: 57\nL0@P0: LARGO\nL1@P0: Modell-Nr. 1010-E\nL2@P0: DESIGN DR. PETER DRAENERT\nL3@P0: Der Esstisch Largo ist ein kleiner, vielseitig einsetzbarer Esstisch aus Glas oder Eiche massiv in verschiedenen Farbtönen. Das\nL4@P0: Standrohr ist in Hochglanz- Chrom, lackiert nach RAL oder beschichtet in verschiedenen Farben erhältlich.\nL5@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL6@P0-1: Glas HolzïðïðóÛ ÔßÎÙÑ ÜÛÍ×ÙÒ ÐÛÌÛÎ ÜÎßÛÒÛÎÌ ïçèí ÙÔßÍ\nL7@P1: Ó±¼»´´¿®¬ Í¬¿²¼®±¸® ñ Ü®»¸¬»·´» Ù®*A» Í¬¿¸´ Ø±½¸¹´¿²¦óÝ¸®±³ Þ ó Ô ó Ø\nL8@P1: Í¬¿²¼®±¸® ê ½³ ( ½¿ò ·² ½³\nL9@P1: Í±½µ»´ ï Ù´¿­ ïç ³³\nL10@P1: Í¬¿²¼¿®¼\nL11@P1: ïðïðóÛ Û­­¬·­½¸ ëð ( èð ( ¨ éî\nL12@P1: ®«²¼ ëð ( çð ( ¨ éî\nL13@P1: ëð ( ïðð ( ¨ éî\nL14@P1: Í±½µ»´ ï ó Í¬¿²¼¿®¼ Í±½µ»´ í Ù´¿­ ïç ³³ Í¬¿¸´ ïð ³³\nL15@P1: Ø±½ ¸¹´¿²¦óÝ¸®±³\nL16@P1: ïðïðóÛ ÔßÎÙÑ ÜÛÍ×ÙÒ ÐÛÌÛÎ ÜÎßÛÒÛÎÌ ïçèí ÓßÍÍ×ÊØÑÔÆ Ó±¼»´´¿®¬ Í¬¿²¼®±¸® Ù®*A» Í¬¿¸´ ê ½³ ( Þ ó Ô ó Ø\nL17@P1: ­½¸©¿®¦ ¾»­½¸·½¸¬»¬ ½¿ò ·² ½³\nL18@P1: Í±½µ»´ í Í¬¿¸´ ïð ³³\nL19@P1: ­½¸©¿®¦ ¾»­½¸·½¸¬»¬\nL20@P1: ïðïðóÛ Û­­¬·­½¸ ëð ( èð ( ¨ éíôë\nL21@P1: ®«²¼ êð ( çð ( ¨ éíôë\nL22@P1: êð ( ïðð ( ¨ éíôë\nL23@P1: îì\nL24@P1: ÔßÎÙÑ ïðïðóÛ\nL25@P1: ÙÔßÍ\nL26@P1: Ð´¿¬¬» Ù´¿­ ïî ³³ ­»µ«®·­·»®¬ µ´¿®\nL27@P1: ÛËÎÑ\nL28@P1: ïèìë\nL29@P1: ïçîð\nL30@P1: ïççë\nL31@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Ë²¬»®¾¿« Í¬¿²¼®±¸® ñ Ü®»¸¬»·´» ·²æ\nL32@P1:  ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² øÕ´»¾»º´<½¸» ª»®½¸®±³¬÷ ð\nL33@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ øÕ´»¾»º´<½¸» ª»®½¸®±³¬÷ ïèë\nL34@P1: Í±½µ»´ í Ø±½¸¹´¿²¦óÝ¸®±³ íèë\nL35@P1: Í±½µ»´ í «²¼ Ë²¬»®¾¿« øÍ¬¿²¼®±¸®÷ ·²æ\nL36@P1:  ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² øÕ´»¾»º´<½¸» ª»®½¸®±³¬÷ íèë\nL37@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ øÕ´»¾»º´<½¸» ª»®½¸®±³¬÷ ëéð\nL38@P1: íçë\nL39@P1: ÔßÎÙÑ ïðïðóÛ\nL40@P1: ÓßÍÍ×ÊØÑÔÆ\nL41@P1: Ð´¿¬¬» Ó¿­­·ª¸±´¦ îôë ½³\nL42@P1: Õ¿²¬» ê Û·½¸»\nL43@P1: ²¿¬«® ñ ¬±¾¿½½± ñ ¼«²µ»´¹®¿« ñ Ó±±®»·½¸»\nL44@P1: ÛËÎÑ\nL45@P1: îèçë\nL46@P1: îççë\nL47@P1: íïïë\nL48@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ í «²¼ Ë²¬»®¾¿« øÍ¬¿²¼®±¸®÷ ·²æ\nL49@P1:  ó ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² ð\nL50@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïèë\nL51@P1:  ó Ø±½¸¹´¿²¦óÝ¸®±³ ð\nL52@P1: íçë\nL53@P1: Ô±©óÜ·²·²¹óØ*¸»² ø½¿ò êðóêè ½³÷ «²¼ Í±²¼»®¸*¸»²\nL54@P1: Ô±©óÜ·²·²¹óØ*¸»² ø½¿ò êðóêè ½³÷ «²¼ Í±²¼»®¸*¸»²\nL55@P1: îë\nL56@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn481225view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn525547view0\",\"id\":17}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/b/f/5/1/bf519554919d30d80527a74fe4d358194eec8f6c/1010-E.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Largo Stehtisch - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1010-S-1.html)\n【turn180926view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1010-S-1.html\",\"lineno\":null}); Total lines: 76\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Largo Stehtisch\nL13: \nL14: Modell-Nr.: 1010-S\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stühle, 【6†Dexter Bar I,†www.draenert.de】 leder 【7†II Nr. 43054†www.draenert.de】,\nL21: tischplatte Stein 【8†Breccia Romana,†www.draenert.de】\nL22: Standrohr und Sockel 【9†schwarz†www.draenert.de】\nL23: #### Design patric draenert 2022\nL24: \nL25: Ein Apéro mit Freunden? Ein informeller Austausch im Office? Mit dem Stehtisch LARGO ist man auf jeden Fall gut gerüstet. Seine klaren Linien sind zurückhaltend und überlassen Ihnen die Bühne.  Die Kommunikation im Stehen ist manchmal geplant, manchmal aber auch spontan – mit dem LARGO aber auf jeden Fall immer mühelos und stylish.\nL26: #### In folgenden Material-Varianten erhältlich:\nL27: \nL28:   * Stein\nL29:   * Holz\nL30: \nL31: Produkte / Materialien\nL32: \nL33: Stein 【8†Breccia Romana,†www.draenert.de】\nL34: Standrohr und Sockel 【9†schwarz†www.draenert.de】\nL35: \nL36: 【10†Image】\nL37: \nL38: Produkte / Materialien\nL39: \nL40: 【11†Eiche MAssiv dunkelgrau†www.draenert.de】\nL41: \nL42: 【12†Image】\nL43: \nL44: 【13†iframe†ui.pcon-solutions.com】\nL45: ## Downloads\nL46: \nL47:   * 【14†Produktinformation】\nL48:   * 【15†dwg-Daten】\nL49:   * Fotos\nL50: \nL51: 【16†Alle herunterladen】\nL52: \nL53: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL54: ##\nL55: \nL56: Weitere Material-Ausführungen (modellspezifisch)\nL57: \nL58: 【17†Zu allen Steinsorten】\nL59: \nL60: 【18†Zu allen Holzsorten】\nL61: \nL62: 【19†Dr. Patric Draenert Jahrgang 1969, promovierter Betriebswirt leitet das Unternehmen in der zweiten Generation. Seine Entwürfe ... Mehr über den Designer】\nL63: \nL64: 【20†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL65: \nL66:   * 【2†Händlersuche】\nL67:   * 【20†Katalogbestellung】\nL68:   * 【21†Newsletter】\nL69: \nL70:   * 【22†Aktuelles】\nL71:   * 【23†Für Presse】\nL72: \nL73:   * 【24†Datenschutz】\nL74:   * 【25†Impressum】\nL75:   * 【16†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/3/8/5/5/38552ec6196959a986a6d9ae24b15a5f0d10f703/1010-S_Largo_DE_1.5.26.pdf)\n【turn118355view0】 [wordlim: 200] Crawled: last month; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn180926view0\",\"id\":14}); Total lines: 28\nL0@P0: LARGO STEHTISCH\nL1@P0: Modell-Nr. 1010-S\nL2@P0: DESIGN DR. PATRIC DRAENERT\nL3@P0: Ein Apéro mit Freunden? Ein informeller Austausch im Office? Mit dem Stehtisch LARGO ist man auf jeden Fall gut gerüstet. Seine\nL4@P0: klaren Linien sind zurückhaltend und überlassen Ihnen die Bühne. Die Kommunikation im Stehen ist manchmal geplant, manchmal\nL5@P0: aber auch spontan – mit dem LARGO aber auf jeden Fall immer mühelos und stylish.\nL6@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL7@P0-1: Stein HolzïðïðóÍ ÔßÎÙÑ ÜÛÍ×ÙÒ ÐßÌÎ×Ý ÜÎßÛÒÛÎÌ îðîï\nL8@P1: Ó±¼»´´¿®¬ Í¬¿²¼®±¸® Ù®*A» Í¬¿¸´ ê ½³ ( Þ ó Ô ó Ø\nL9@P1: ­½¸©¿®¦ ¾»­½¸·½¸¬»¬ ½¿ò ·² ½³\nL10@P1: Í±½µ»´°´¿¬¬» Í¬¿¸´ ïð ³³\nL11@P1: ­½¸©¿®¦ ¾»­½¸·½¸¬»¬\nL12@P1: ïðïðóÍ Í¬»¸¬·­½¸ ìê ¨ ìê êë ¨ êë ¨ ïïð\nL13@P1: ¾±³¾·»®¬\nL14@P1: îê\nL15@P1: ÔßÎÙÑ ïðïðóÍ\nL16@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ó¿­­·ª¸±´¦ îôë ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL17@P1: Õ¿²¬» ê Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Û·½¸» ÐÙ ï õ î ÐÙ í ó ì¾ ÐÙ ë õ ê\nL18@P1: ²¿¬«® ñ ¬±¾¿½½±\nL19@P1: ¼«²µ»´¹®¿« ñ Ó±±®»·½¸»\nL20@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL21@P1: îìèë îêçë îççë ííçë\nL22@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ «²¼ Ë²¬»®¾¿« øÍ¬¿²¼®±¸®÷ ·²æ\nL23@P1:  ó ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² ð\nL24@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïèë\nL25@P1: Í±²¼»®¸*¸» íçë\nL26@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ îé\nL27@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn118355view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn180926view0\",\"id\":15}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/8/6/6/a/866aa93146b84686862c9534497349db8f69bc31/1010-S.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Titan - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1136-III-titan.html)\n【turn261149view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1136-III-titan.html\",\"lineno\":null}); Total lines: 114\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Titan\nL12: \nL13: Modell-Nr.: 1136-III\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: Tischplatte 【6†Farbglas grau†www.draenert.de】\nL20: Stühle 【7†Dexter†www.draenert.de】\nL21: \nL22: 【8†Image】\nL23: \nL24: 【9†Image】\nL25: \nL26: Produkte / Materialien\nL27: \nL28: Esstisch TITAN in 【10†Klarglas†www.draenert.de】,\nL29:  unterbau h【11†ochglanz chrome†www.draenert.de】, Stühle 【12†LUMA†www.draenert.de】\nL30: \nL31: 【13†Image】\nL32: \nL33: Produkte / Materialien\nL34: \nL35: Esstisch TITAN in  Farbglas grau, Unterbau 【14†schwarz†www.draenert.de】,\nL36: Stühle 【15†Nobile Soft†www.draenert.de】\nL37: #### Design georg appeltshauser 2002\nL38: Ein vergrößerbarer Esstisch aus Glas mit zwei unter der Hauptplatte liegenden Schwenkplatten. Der Tisch lässt sich ohne Kraftanstrengung einfach aufdrehen. Die Bewegung beider Plattenhälften erstreckt sich über 90°. Der Titan ist mit ovaler sowie rechteckiger Tischplatte erhältlich. Ohne Auszug ist die Tischplatte quadratisch bombiert.\nL39: Der Unterbau besteht aus einem Stahlrohr in Hochglanz-Chrom auf schwarzem Gusssockel, einem Glassockel oder einer verchromten runden oder quadratisch bombierten Sockelplatte.\nL40: #### In folgenden Material-Varianten erhältlich:\nL41: \nL42:   * Glas\nL43:   * Stein\nL44:   * Glas\nL45: \nL46: Produkte / Materialien\nL47: \nL48: Tischhplatte 【16†klarglas†www.draenert.de】,\nL49: unterbau 【11†hochglanz-Chrom†www.draenert.de】 Bombiert\nL50: \nL51: 【17†Image】\nL52: \nL53: Produkte / Materialien\nL54: \nL55: Stein 【18†Statuario,†www.draenert.de】 Unterbau 【11†hochglanz chrom†www.draenert.de】\nL56: \nL57: 【19†Image】\nL58: \nL59: Produkte / Materialien\nL60: \nL61: Tischplatte f【6†arbglas grau†www.draenert.de】, schwarz beschichtet, Unterbau 【14†schwarz†www.draenert.de】 bombiert\nL62: \nL63: 【20†Image】\nL64: Produkte / Materialien\nL65: \nL66: Tischplatte 【21†klarglas†www.draenert.de】, unterbau 【11†hochglanz chrome†www.draenert.de】\nL67: \nL68: 【22†Image】\nL69: \nL70: Produkte / Materialien\nL71: \nL72: tischplatte 【21†klarglas†www.draenert.de】, unterbau 【11†hochglanz chrom†www.draenert.de】\nL73: \nL74: 【23†Image】\nL75: \nL76: Produkte / Materialien\nL77: \nL78: Tischplatte 【21†klarglas†www.draenert.de】, Stahlrohr 【11†Hochglanz chrom†www.draenert.de】, Glassockel\nL79: \nL80: 【24†Image】\nL81: \nL82: 【25†iframe†ui.pcon-solutions.com】\nL83: ## Downloads\nL84: \nL85:   * 【26†Produktinformation】\nL86:   * 【27†dwg-Daten】\nL87:   * Fotos\nL88: \nL89: 【28†Alle herunterladen】\nL90: \nL91: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL92: ##\nL93: \nL94: Weitere Material-Ausführungen (modellspezifisch)\nL95: \nL96: 【29†Zu allen Glassorten】\nL97: \nL98: 【30†Zu allen Steinsorten】\nL99: \nL100: 【31†Georg Appeltshauser Jahrgang 1949, hat zunächst an der FH Ulm Feinmechanik studiert. Anschließend Studium an der Kunstakademie... Mehr über den Designer】\nL101: \nL102: 【32†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL103: \nL104:   * 【2†Händlersuche】\nL105:   * 【32†Katalogbestellung】\nL106:   * 【33†Newsletter】\nL107: \nL108:   * 【34†Aktuelles】\nL109:   * 【35†Für Presse】\nL110: \nL111:   * 【36†Datenschutz】\nL112:   * 【37†Impressum】\nL113:   * 【28†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/3/6/f/5/36f5cb956eb2e4b9edee534e66ba57f431e4680e/1136_Titan_Glas_Stein_DE_1.5.26.pdf)\n【turn618657view0】 [wordlim: 200] Crawled: 3 days ago; Content type: application/pdf; Number of pages: 3; Source: click({\"ref_id\":\"turn261149view0\",\"id\":26}); Total lines: 72\nL0@P0: TITAN\nL1@P0: Modell-Nr. 1136-III\nL2@P0: DESIGN GEORG APPELTSHAUSER\nL3@P0: Ein vergrößerbarer Esstisch aus Glas mit zwei unter der Hauptplatte liegenden Schwenkplatten. Der Tisch lässt sich ohne\nL4@P0: Kraftanstrengung einfach aufdrehen. Die Bewegung beider Plattenhälften erstreckt sich über 90°. Der Titan ist mit ovaler sowie\nL5@P0: rechteckiger Tischplatte erhältlich. Ohne Auszug ist die Tischplatte quadratisch bombiert. Der Unterbau besteht aus einem Stahlrohr in\nL6@P0: Hochglanz-Chrom auf schwarzem Gusssockel, einem Glassockel oder einer verchromten runden oder quadratisch bombierten\nL7@P0: Sockelplatte.\nL8@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL9@P0-1: Glas Stein Glasïïíê Ì×ÌßÒ ÜÛÍ×ÙÒ ÙÛÑÎÙ ßÐÐÛÔÌÍØßËÍÛÎ îððî ÙÔßÍ\nL10@P1: Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í¬¿¸´®±¸® ïî ½³ ( Þ ó Ô ó Ø\nL11@P1: Ø±½¸¹´¿²¦óÝ¸®±³ ½¿ò ·² ½³\nL12@P1: Í±½µ»´ ï Ù´¿­ ïç ³³\nL13@P1: Í¬¿²¼¿®¼\nL14@P1: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ ïïíê Û­­¬·­½¸ êð ( ïïð ¨ ïïð ¨ éíôë\nL15@P1: ¾±³¾·»®¬ ²·½¸¬ ¿«­¦·»¸¾¿®\nL16@P1: ïïíê Û­­¬·­½¸ êð ( ïïð ¨ îðð ¨ éíôë\nL17@P1: ±ª¿´ ³·¬ Ì®¿ª»®­» ²·½¸¬ ¿«­¦·»¸¾¿®\nL18@P1: ßËÍÆ×ÛØÞßÎ ïïíê Û­­¬·­½¸ êð ( ïïð ¨ ïïð ¨ éë\nL19@P1: ¾±³¾·»®¬ ñ ±ª¿´ ¿«­¹»¦±¹»²\nL20@P1: ¿«­¦·»¸¾¿® ïïð ¨ îðð ¨ éí\nL21@P1: ¼«®½¸ î Í½¸©»²µ°´¿¬¬»²\nL22@P1: Í±½µ»´ ï ó Í¬¿²¼¿®¼ Í±½µ»´ í Í±½µ»´ ì Ù´¿­ ïç ³³ Í¬¿¸´ ïð ³³ Í¬¿¸´ ïð ³³\nL23@P1: êð ½³ ( êð ½³ ( ¾±³¾·»®¬ ëë ¨ ëë ½³\nL24@P1: Ø±½ ¸¹´¿²¦óÝ¸®±³ Ø±½ ¸¹´¿²¦óÝ¸®±³\nL25@P1: îè\nL26@P1: Ì×ÌßÒ ïïíê\nL27@P1: ÙÔßÍ\nL28@P1: Ð´¿¬¬»² Ð´¿¬¬»² Ù´¿­ Ú¿®¾¹´¿­ ïî ³³ ­»µ«®·­·»®¬ ïî ³³ ­»µ«®·­·»®¬ µ´¿® ¹®¿«\nL29@P1: ÛËÎÑ ÛËÎÑ\nL30@P1: îèéë\nL31@P1: ìççë\nL32@P1: êêîð éêíð\nL33@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Ë²¬»®¾¿« Í<«´» ñ Í½¸©»²µ¿®³» ·²æ\nL34@P1:  ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² øÕ´»¾»º´<½¸» ª»®½¸®±³¬÷ èçë\nL35@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ øÕ´»¾»º´<½¸» ª»®½¸®±³¬÷ ïðèð\nL36@P1: Í±½µ»´ í Ø±½¸¹´¿²¦óÝ¸®±³ ëïë Í±½µ»´ ì Ø±½¸¹´¿²¦óÝ¸®±³ ëïë\nL37@P1: Í±½µ»´ í ñ ì «²¼ Ë²¬»®¾¿« øÍ<«´» ñ Í½¸©»²µ¿®³»÷ ·²æ\nL38@P1:  ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² øÕ´»¾»º´<½¸» ª»®½¸®±³¬÷ ïìïð\nL39@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ øÕ´»¾»º´<½¸» ª»®½¸®±³¬÷ ïëçë\nL40@P1-2: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ îçïïíê Ì×ÌßÒ ÜÛÍ×ÙÒ ÙÛÑÎÙ ßÐÐÛÔÌÍØßËÍÛÎ îððî ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í¬¿¸´®±¸® ïî ½³ ( Þ ó Ô ó Ø\nL41@P2: Ø±½¸¹´¿²¦óÝ¸®±³ ½¿ò ·² ½³\nL42@P2: Í±½µ»´ í Í¬¿¸´ ïð ³³\nL43@P2: Í¬¿²¼¿®¼\nL44@P2: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ ïïíê Û­­¬·­½¸ êð ( ïïð ¨ ïïð ¨ éíôë\nL45@P2: ¾±³¾·»®¬ ²·½¸¬ ¿«­¦·»¸¾¿®\nL46@P2: ïïíê Û­­¬·­½¸ êð ( ïïð ¨ îðð ¨ éíôë\nL47@P2: ±ª¿´ ²·½¸¬ ¿«­¦·»¸¾¿®\nL48@P2: ßËÍÆ×ÛØÞßÎ ïïíê Û­­¬·­½¸ êð ( ïïð ¨ ïïð ¨ éê\nL49@P2: ¾±³¾·»®¬ ñ ±ª¿´ ¿«­¹»¦±¹»²\nL50@P2: ¿«­¦·»¸¾¿® ïïð ¨ îðð ¨ éíôë\nL51@P2: ¼«®½¸ î Í½¸©»²µ°´¿¬¬»²\nL52@P2: Í±½µ»´ í ó Í¬¿²¼¿®¼ Í±½µ»´ ì Í¬¿¸´ ïð ³³ Í¬¿¸´ ïð ³³\nL53@P2: êð ½³ ( ¾±³¾·»®¬ ëë ¨ ëë ½³\nL54@P2: Ø±½ ¸¹´¿²¦óÝ¸®±³ Ø±½ ¸¹´¿²¦óÝ¸®±³\nL55@P2: Ø·²©»·­æ ß«­¦«¹­³»½¸¿²·µ ¬»½¸²·­½¸ ª»®½¸®±³¬ò\nL56@P2: \nL57@P2: íð\nL58@P2: Ì×ÌßÒ ïïíê\nL59@P2: ÒßÌËÎÍÌÛ×Ò\nL60@P2: Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL61@P2: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL62@P2: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL63@P2: íëèë ìïëð ìçîë ëéîë êìçð éîíë èêðð ïðìëë\nL64@P2: ëîëð êðéð éðëë èêêð çèïë ïïíîð ïíéêë ïéîðð\nL65@P2: éîéë èçðð ççíë ïïêîë ïîèïð ïìíîë ïêèìë îðíðð\nL66@P2: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ ì Ø±½¸¹´¿²¦óÝ¸®±³ ð\nL67@P2: Í±½µ»´ í ñ ì «²¼ Ë²¬»®¾¿« øÍ<«´»÷ ·²æ\nL68@P2:  ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² èçë\nL69@P2:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïðèð\nL70@P2: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ íï\nL71@P2: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn618657view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn261149view0\",\"id\":27}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/6/a/a/2/6aa2f522d0cfbf0841b9dbccc5d2b507ee0d6842/1136-Titan.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Adler Magnum - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1224-adler-1.html)\n【turn814530view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1224-adler-1.html\",\"lineno\":null}); Total lines: 97\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Adler Magnum\nL13: \nL14: Modell-Nr.: 1224\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein 【6†Forest Brown】\nL21: \nL22: #### Design Peter Draenert 1995\nL23: \nL24: Der vergrößerbare Esstisch ADLER ist auch in der Magnum-Version in Naturstein oder Massivholz erhältlich. Diese Tafel hat ein Grundmaß von 270 cm, vergrößert 370 cm. Viele Wunschmaße sind bei der Individualisierung machbar.\nL25: #### In folgenden Material-Varianten erhältlich:\nL26: \nL27:   * Stein\nL28:   * Holz\nL29: \nL30: Produkte / Materialien\nL31: \nL32: Stein 【7†Avocatus†www.draenert.de】, Unterbau 【8†Schwarz†www.draenert.de】\nL33: \nL34: 【9†Image】\nL35: \nL36: Produkte / Materialien\nL37: \nL38: Stein 【10†Striato†www.draenert.de】, Stühle 【11†NOBILE SOFT†www.draenert.de】\nL39: \nL40: 【12†Image】\nL41: \nL42: Produkte / Materialien\nL43: \nL44: Stein 【13†Oxford Grey,】\nL45: 【14†Stuhl 2059.1 Dexter】\nL46: \nL47: 【15†Image】\nL48: \nL49: 【16†Image】\nL50: \nL51: Produkte / Materialien\nL52: Tischplatte 【17†Eiche Vintage silbergrau, †www.draenert.de】\nL53: unterbau 【18†Nickel Satiniert †www.draenert.de】\nL54: \nL55: 【19†Image】\nL56: \nL57: Produkte / Materialien\nL58: \nL59: Tischplatte 【17†Eiche Vintage silbergrau, †www.draenert.de】\nL60: unterbau 【18†Nickel Satiniert †www.draenert.de】\nL61: \nL62: 【20†Image】\nL63: \nL64: 【21†iframe†ui.pcon-solutions.com】\nL65: ## Downloads\nL66: \nL67:   * 【22†Produktinformation】\nL68:   * 【23†dwg-Daten Tisch ohne Auszug】\nL69:   * 【24†dwg-Daten Tisch mit Auszug】\nL70:   * Fotos\nL71: \nL72: 【25†Alle herunterladen】\nL73: \nL74: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL75: ##\nL76: \nL77: Weitere Material-Ausführungen (modellspezifisch)\nL78: \nL79: 【26†Zu allen Holzsorten】\nL80: \nL81: 【27†Zu allen Steinsorten】\nL82: \nL83: 【28†Dr. Peter Draenert Peter Draenert (1937-2005) hat an der Universität Tübingen Philosophie, Kunstgeschichte, Germanistik un... Mehr über den Designer】\nL84: \nL85: 【29†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL86: \nL87:   * 【2†Händlersuche】\nL88:   * 【29†Katalogbestellung】\nL89:   * 【30†Newsletter】\nL90: \nL91:   * 【31†Aktuelles】\nL92:   * 【32†Für Presse】\nL93: \nL94:   * 【33†Datenschutz】\nL95:   * 【34†Impressum】\nL96:   * 【25†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn116531view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn814530view0\",\"id\":22}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/b/3/5/f/b35f112ea2661f437a94ffe07a702bd9f077df39/1224_Adler_Conference_DE_1.5.26.pdf: TimeoutError\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn116531view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn814530view0\",\"id\":23}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/f/3/3/c/f33c090798871479e084c462494684e06f0348b5/1224_ohne_Auszug.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn116531view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn814530view0\",\"id\":24}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/1/b/a/6/1ba6d9f96b9de5f71ba9b05d1a7146139e5df9de/1224_Adler_ausziehbar.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Atlas - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1280-ll-atlas.html)\n【turn852389view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1280-ll-atlas.html\",\"lineno\":null}); Total lines: 146\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Atlas\nL12: \nL13: Modell-Nr.: 1280-II\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: Stein 【6†TURTLE†www.draenert.de】, Stühle 【7†NOBILE SWING†www.draenert.de】\nL20: \nL21: 【8†Image】\nL22: \nL23: Produkte / Materialien\nL24: \nL25: 【9†Eiche tobacco†www.draenert.de】, Stühle 【10†Cobe Sternfuß†www.draenert.de】\nL26: \nL27: 【11†Image】\nL28: \nL29: Produkte / Materialien\nL30: \nL31: stein sahara brown, stühle 【12†nobile swing bank†www.draenert.de】\nL32: \nL33: 【13†Image】\nL34: \nL35: Produkte / Materialien\nL36: \nL37: tischplatte Wildeiche, Stühle 【14†Nobile Soft†www.draenert.de】\nL38: \nL39: 【15†Image】\nL40: \nL41: Produkte / Materialien\nL42: Tischplatte Stein 【16†Lasa Vena Oro,†www.draenert.de】 Stühle 【17†nobile†www.draenert.de】\nL43: \nL44: 【18†Image】\nL45: \nL46: Produkte / Materialien\nL47: \nL48: Stühle 【14†Nobile soft†www.draenert.de】, Tischplatte 【19†wildeiche†www.draenert.de】\nL49: \nL50: 【20†Image】\nL51: \nL52: Produkte / Materialien\nL53: \nL54: 【21†Eiche natur†www.draenert.de】, Stühle 【22†Dexter†www.draenert.de】\nL55: #### Design georg appeltshauser 2006\nL56: \nL57: Ein vergrößerbarer, rechteckiger Esstisch aus Naturstein und Holz, der durch seine moderne Strenge überzeugt. Der Auszugsmechanismus bewirkt, daß die Symmetrie von Tischplatte zum Unterbau im ausgezogenen wie eingeschwenkten Zustand gegeben ist. Die neu integrierte Technik lässt die Schwenkplatte um weitere 90 ° drehen. Somit liegt diese dann unter der Hauptplatte und ist von der Seite nicht mehr sichtbar. Dieses Modell wird mit 3 verschiedenen Sockeltypen angeboten.\nL58:   * 【23†Image: IF - product design award 2008】\nL59:   * 【24†Image: Nominierung für den Designpreis der Bundesrepublik Deutschland 2009】\nL60: #### In folgenden Material-Varianten erhältlich:\nL61: \nL62:   * Stein\nL63:   * Holz\nL64: \nL65: Produkte / Materialien\nL66: \nL67:  Tischplatte Stein 【25†Elegant Brown†www.draenert.de】\nL68: \nL69: 【26†Image】\nL70: \nL71: Produkte / Materialien\nL72: \nL73: Tischplatte 【25†elegant brown†www.draenert.de】,\nL74: unterbau 【27†dunkelbronze †www.draenert.de】\nL75: \nL76: 【28†Image】\nL77: \nL78: Produkte / Materialien\nL79: \nL80: Tischplatte 【29†Eiche dunkelgrau,†www.draenert.de】 stühle 【30†nobile †www.draenert.de】\nL81: \nL82: 【31†Image】\nL83: \nL84: Produkte / Materialien\nL85: \nL86: Tischplatte 【19†NAturholz Wildeiche†www.draenert.de】\nL87: \nL88: 【32†Image】\nL89: Produkte / Materialien\nL90: \nL91: Tischplatte Stein 【16†Lasa Vena Oro†www.draenert.de】\nL92: \nL93: 【33†Image】\nL94: \nL95: Produkte / Materialien\nL96: \nL97: Tischplatte Stein 【16†Lasa Vena Oro†www.draenert.de】\nL98: \nL99: 【34†Image】\nL100: \nL101: Produkte / Materialien\nL102: \nL103: Tischplatte 【19†wildeiche†www.draenert.de】\nL104: \nL105: 【35†Image】\nL106: \nL107: Produkte / Materialien\nL108: \nL109: Tischplatte 【19†wildeiche†www.draenert.de】\nL110: \nL111: 【36†Image】\nL112: \nL113: 【37†iframe†ui.pcon-solutions.com】\nL114: ## Downloads\nL115: \nL116:   * 【38†Produktinformation】\nL117:   * 【39†dwg-Daten Tisch ohne Auszug】\nL118:   * 【40†dwg-Daten Tisch mit Auszug】\nL119:   * Fotos\nL120: \nL121: 【41†Alle herunterladen】\nL122: \nL123: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL124: ##\nL125: \nL126: Weitere Material-Ausführungen (modellspezifisch)\nL127: \nL128: 【42†Zu allen Holzsorten】\nL129: \nL130: 【43†Zu allen Steinsorten】\nL131: \nL132: 【44†Georg Appeltshauser Jahrgang 1949, hat zunächst an der FH Ulm Feinmechanik studiert. Anschließend Studium an der Kunstakademie... Mehr über den Designer】\nL133: \nL134: 【45†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL135: \nL136:   * 【2†Händlersuche】\nL137:   * 【45†Katalogbestellung】\nL138:   * 【46†Newsletter】\nL139: \nL140:   * 【47†Aktuelles】\nL141:   * 【48†Für Presse】\nL142: \nL143:   * 【49†Datenschutz】\nL144:   * 【50†Impressum】\nL145:   * 【41†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/8/e/6/4/8e64ff603d6b8676d66c1f709059d02a936267d3/1280_Atlas_%C3%9Cbersicht_Stein_Holz_DE_1.5.26.pdf)\n【turn684651view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 5; Source: click({\"ref_id\":\"turn852389view0\",\"id\":38}); Total lines: 206\nL0@P0: ATLAS\nL1@P0: Modell-Nr. 1280-II\nL2@P0: DESIGN GEORG APPELTSHAUSER\nL3@P0: Ein vergrößerbarer, rechteckiger Esstisch aus Naturstein und Holz, der durch seine moderne Strenge überzeugt. Der\nL4@P0: Auszugsmechanismus bewirkt, daß die Symmetrie von Tischplatte zum Unterbau im ausgezogenen wie eingeschwenkten Zustand\nL5@P0: gegeben ist. Die neu integrierte Technik lässt die Schwenkplatte um weitere 90 ° drehen. Somit liegt diese dann unter der Hauptplatte\nL6@P0: und ist von der Seite nicht mehr sichtbar. Dieses Modell wird mit 3 verschiedenen Sockeltypen angeboten.\nL7@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL8@P0-1: Stein HolzÍ±½µ»´ ë Ê·»®¾»·²»® ø¹»¹»² ß«º°®»·­÷ Ê·»®¾»·²»® ø¹»¹»² ß«º°®»·­÷\nL9@P1: Þ»·²» µ±²·­½¸ô Í¬¿¸´ ¾»­½¸·½¸¬»¬ Þ»·²» µ±²·­½¸ô Í¬¿¸´ ¾»­½¸·½¸¬»¬\nL10@P1: Þ»·²¯«»®­½¸²·¬¬ «²¬»² êôð ¨ ïôë ½³ Þ»·²¯«»®­½¸²·¬¬ «²¬»² êôð ¨ ïôë ½³\nL11@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² Þ»·²»² «²¬»² ß¾­¬¿²¼ ¦©·­½¸»² ¼»² Þ»·²»² «²¬»² ¾»· Ì·­½¸´<²¹» Ì·­½¸¾®»·¬» Ì·­½¸¾®»·¬» âïðë ½³\nL12@P1: ïêð ½³ ã ïðê ½³ ¾»· Ì·­½¸´<²¹» ¾»· Ì·­½¸´<²¹»\nL13@P1: ïèð ½³ ã ïîê ½³ ïêð ½³ ã çï ½³ ïêð ã ïðí ½³\nL14@P1: îðð ½³ ã ïìð ½³ ïèð ½³ ã ïðï ½³ ïèð ã ïïí ½³\nL15@P1: îðð ½³ ã ïïï ½³ îðð ã ïîí ½³\nL16@P1: îîð ½³ ã ïîï ½³ îîð ã ïíí ½³\nL17@P1: îìð ½³ ã ïíï ½³ îìð ã ïìí ½³\nL18@P1: îêð ½³ ã ïìï ½³ îêð ã ïëí ½³\nL19@P1: îèð ½³ ã ïëï ½³ îèð ã ïêí ½³\nL20@P1: Í±½µ»´ ë Ê·»®¾»·²»® ø¹»¹»² ß«º°®»·­÷\nL21@P1: Ó¿¹²«³ Þ»·²» µ±²·­½¸ô Í¬¿¸´ ¾»­½¸·½¸¬»¬\nL22@P1: Þ»·²¯«»®­½¸²·¬¬ «²¬»² éôð ¨ ïôë ½³\nL23@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² Þ»·²»² «²¬»² ¾»· Ì·­½¸´<²¹» îêð ½³ ã ïêè ½³\nL24@P1: îèð ½³ ã ïéè ½³\nL25@P1: ïîèð ßÌÔßÍ\nL26@P1: ÍÑÝÕÛÔÊßÎ×ßÒÌÛÒ\nL27@P1: Í±½µ»´ ï É¿²¹»² ¹»®¿¼» øÍ¬¿²¼¿®¼÷ É¿²¹»² ¹»®¿¼» øÍ¬¿²¼¿®¼÷\nL28@P1: ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬\nL29@P1: ìð ¨ ïôë ½³ øÌ·­½¸´<²¹» ïêð ½³÷ ëð ¨ ïôë ½³ øÌ·­½¸¾®»·¬» ïðë ½³÷\nL30@P1: ëð ¨ ïôë ½³ øÌ·­½¸´<²¹» ïèð ñ îðð ½³÷\nL31@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»² ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»²\nL32@P1: ¾»· Ì·­½¸´<²¹» ¾»· Ì·­½¸´<²¹»\nL33@P1: ïêð ½³ ã éî ½³ ïêð ½³ ã éð ½³ îîð ½³ ã ïðð ½³\nL34@P1: ïèð ½³ ã çî ½³ ïèð ½³ ã èð ½³ îìð ½³ ã ïïð ½³\nL35@P1: îðð ½³ ã ïðç ½³ îðð ½³ ã çð ½³\nL36@P1: Í±½µ»´ ì É¿²¹»² ¹»µ¿²¬»¬ ø¹»¹»² ß«º°®»·­÷ É¿²¹»² ¹»µ¿²¬»¬ ø¹»¹»² ß«º°®»·­÷\nL37@P1: ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬\nL38@P1: ìð ¨ ëôé ½³ øÌ·­½¸´<²¹» ïêð ½³÷ ëð ¨ éôð ½³ øÌ·­½¸¾®»·¬» ïðë ½³÷\nL39@P1: ëð ¨ éôð ½³ øÌ·­½¸´<²¹» ïèð ñ îðð ½³÷\nL40@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»² ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»²\nL41@P1: ¾»· Ì·­½¸´<²¹» ïêð ½³ ã éî ½³ ¾»· Ì·­½¸´<²¹»\nL42@P1: ïèð ½³ ã çî ½³ ïêð ½³ ã éð ½³ îîð ½³ ã ïðð ½³\nL43@P1: îðð ½³ ã ïðç ½³ ïèð ½³ ã èð ½³ îìð ½³ ã ïïð ½³\nL44@P1: îðð ½³ ã çð ½³ îêð ½³ ã ïîð ½³\nL45@P1: îèð ½³ ã ïíð ½³\nL46@P1: Í±½µ»´ ì É¿²¹»² ¹»µ¿²¬»¬ ø¹»¹»² ß«º°®»·­÷\nL47@P1: Ó¿¹²«³ ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ëë ¨ èôð ½³\nL48@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»²\nL49@P1: ¾»· Ì·­½¸´<²¹» îìð ½³ ã ïíë ½³\nL50@P1: îèð ½³ ã ïìç ½³\nL51@P1: ßËÍÆ×ÛØÞßÎ Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ\nL52@P1: ìð\nL53@P1:  Î»½¸¬»½µ·¹ Þ±±¬­º±®³\nL54@P1: Ì·­½¸ ¿«­¦·»¸¾¿® ²·½¸¬ ¿«­¹»¦±¹»²\nL55@P1: Ì·­½¸ ¿«­¦·»¸¾¿® ¿«­¹»¦±¹»²\nL56@P1:  Þ±±¬­º±®³ ²«® ³*¹´·½¸\nL57@P1:  ¾»· Í¬»·² «²¼ Ó¿­­·ª¸±´¦ Ì·­½¸ ²·½¸¬ ¿«­¦·»¸¾¿®\nL58@P1: Ì·­½¸¾®»·¬» µ±°º­»·¬·¹ ¾»· Ù®*A»æ\nL59@P1: ïðë ¨ ïêð ½³ ã ½¿ò çìôé ½³\nL60@P1: ïðë ¨ ïèð ½³ ã ½¿ò çîôî ½³\nL61@P1: ïðë ¨ îðð ½³ ã ½¿ò èçôð ½³\nL62@P1: ïðë ¨ îîð ½³ ã ½¿ò çðôë ½³\nL63@P1: ïðë ¨ îìð ½³ ã ½¿ò çïôî ½³\nL64@P1: ïðë ¨ îêð ½³ ã ½¿ò çïôð ½³\nL65@P1: ïðë ¨ îèð ½³ ã ½¿ò èèôè ½³\nL66@P1: ßÌÔßÍ ïîèð\nL67@P1: ÐÔßÌÌÛ ÒÚÑÎÓÛÒ\nL68@P1-2: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ìïïîèð ßÌÔßÍ ÜÛÍ×ÙÒ ÙÛÑÎÙ ßÐÐÛÔÌÍØßËÍÛÎ îððê ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í±½µ»´ ï Þ ó Ô ó Ø É¿²¹»² ¹»®¿¼» ½¿ò ·² ½³\nL69@P2: ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ Í¬¿²¼¿®¼\nL70@P2: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ ïîèð Û­­¬·­½¸ Í±½µ»´ ï ïðë ¨ ïêð ¨ éì\nL71@P2: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ ëð ¨ ïôë ïðë ¨ ïèð ¨ éì ²·½¸¬ ¿«­¦·»¸¾¿® ïðë ¨ îðð ¨ éì\nL72@P2: ïðë ¨ îîð ¨ éì\nL73@P2: ïðë ¨ îìð ¨ éì\nL74@P2: ïîèð Û­­¬·­½¸ Í±½µ»´ ì ïðë ¨ îêð ¨ éì\nL75@P2: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ É¿²¹»² ¹»µ¿²¬»¬ ïðë ¨ îèð ¨ éì ²·½¸¬ ¿«­¦·»¸¾¿® ëð ¨ é\nL76@P2: ßËÍÆ×ÛØÞßÎ ïîèð Û­­¬·­½¸ Í±½µ»´ ï çî ¨ ïêð ¨ éë\nL77@P2: ®»½¸¬»½µ·¹ ìð ¨ ïôë ¿«­¹»¦±¹»²\nL78@P2: ¿«­¦·»¸¾¿® çî ¨ îíí ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL79@P2: ¿«­ Ò¿¬«®­¬»·² éí ½³\nL80@P2: ïîèð Û­­¬·­½¸ Í±½µ»´ ï ïðë ¨ ïèð ¨ éë\nL81@P2: ®»½¸¬»½µ·¹ ëð ¨ ïôë ¿«­¹»¦±¹»²\nL82@P2: ¿«­¦·»¸¾¿® ïðë ¨ îêð ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL83@P2: ¿«­ Ò¿¬«®­¬»·² èð ½³ ïðë ¨ îðð ¨ éë\nL84@P2: ¿«­¹»¦±¹»²\nL85@P2: ïðë ¨ îèð ¨ éë\nL86@P2: ïîèð Û­­¬·­½¸ ÓßÙÒËÓ Í±½µ»´ ì ö ïðë ¨ îìð ¨ éë\nL87@P2: ®»½¸¬»½µ·¹ Ó¿¹²«³ ¿«­¹»¦±¹»²\nL88@P2: ¿«­¦·»¸¾¿® É¿²¹»² ¹»µ¿²¬»¬ ïðë ¨ íîð ¨ éë\nL89@P2: ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬» ëë ¨ è\nL90@P2: ¿«­ Ò¿¬«®­¬»·² èð ½³ ö ïðë ¨ îèð ¨ éë\nL91@P2: ¿«­¹»¦±¹»²\nL92@P2: ïðë ¨ íêð ¨ éë\nL93@P2: D¾»®­·½¸¬ ­·»¸» Í»·¬ »² ìðñìï\nL94@P2: Í±½µ»´ ï ó Í¬¿²¼¿®¼ Í±½µ»´ ì Í±½µ»´ ë É¿²¹»² ¹»®¿¼» ·² ß´«³·²·«³ É¿²¹»² ¹»µ¿²¬»¬ ·² ß´«³·²·«³ Ê·»®¾»·²»® ·² Í¬¿¸´\nL95@P2: Ø·²©»·­æ ö Ó¿­»®«²¹ ¼»® Ð´¿¬¬»² ²·½¸¬ ¼«®½¸¹<²¹·¹ò\nL96@P2: ß«­ Í¬¿¾·´·¬<¬­¹®$²¼»² ©·®¼ ¾»· ²·½¸¬ ¿«­¦·»¸¾¿®»² Ì·­½¸»² ¿¾ îêð ½³ Ô<²¹»\nL97@P2: ¼»® Í±½µ»´ ì »³°º±¸´»²ÿ\nL98@P2: ìî\nL99@P2: ßÌÔßÍ ïîèð\nL100@P2: ÒßÌËÎÍÌÛ×Ò\nL101@P2: Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL102@P2: Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL103@P2: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL104@P2: ëíéð êîçë éïðë èïéë èçíð ïðïêë ïîéðð ïìèèð\nL105@P2: ëìïë êíçë éííë èëíð çíéë ïðéëð ïíëèë ïëíëð\nL106@P2: ëìíð êìéð éëëë èèèð çèðë ïïíîë ïììðð ïêëëð\nL107@P2: ëëéð êêíð éééð çîðë ïðîêð ïïèçð ïëîéë ïééîë\nL108@P2: ëëéë êéëë éççë çêêë ïðèîë ïîìçë ïëéçð ïçîìë\nL109@P2: êîíë éëêð èçðð ïðéíë ïîîìë ïíçîë ïêêïë îðîíð\nL110@P2: êëçë éççë çìëð ïïëîë ïíîïð ïìéìë ïééçð îïèðë\nL111@P2: èðîë çéîë ïïðéë ïîçíð ïìðêë ïëîìë ïééîë ïçêëë\nL112@P2: èïèð ççïð ïïìîð ïíëîð ïëîçð ïêêêð ïèëîð îïîðë\nL113@P2: èíïë ïðïéð ïïçêë ïìïïð ïêïíð ïéêíë ïçìèë îîíèë\nL114@P2: ïîèïë ïëëíð ïéîïð ïççíð îïçèð îìðëð îéðíð íðíçë\nL115@P2: ïíçðð ïêèìë ïçïëë îïèêë îìïçë îêêîë îçëïð íîíçë\nL116@P2: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ßÌÔßÍ ßÌÔßÍ ÓßÙÒËÓ\nL117@P2: ÛËÎÑ ÛËÎÑ Í±½µ»´ ï »´±¨·»®¬ ­½¸©¿®¦ ëêð ó Í±½µ»´ ï ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë ó Í±½µ»´ ï ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð ó\nL118@P2: Í±½µ»´ ì ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ëìð ó Í±½µ»´ ì ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ïðíë ìçë Í±½µ»´ ì ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïîîð êèð\nL119@P2: Í±½µ»´ ë ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ ð ð Í±½µ»´ ë ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë ìçë Í±½µ»´ ë ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð êèð\nL120@P2: Î¿¸³»² ´¿½µ·»®¬ ²¿½¸ ÎßÔ éîð çíð\nL121@P2-3: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ìíïîèð ßÌÔßÍ ÜÛÍ×ÙÒ ÙÛÑÎÙ ßÐÐÛÔÌÍØßËÍÛÎ îððê ÓßÍÍ×ÊØÑÔÆ Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í±½µ»´ ï Þ ó Ô ó Ø É¿²¹»² ¹»®¿¼» ½¿ò ·² ½³\nL122@P3: ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ Í¬¿²¼¿®¼\nL123@P3: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ ïîèð Û­­¬·­½¸ Í±½µ»´ ï ïðë ¨ ïêð ¨ éì\nL124@P3: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ ëð ¨ ïôë ïðë ¨ ïèð ¨ éì Ó¿­»®«²¹­ª»®´¿«º ´<²¹­ ²·½¸¬ ¿«­¦·»¸¾¿® ïðë ¨ îðð ¨ éì Ð´¿¬¬» ´<²¹­ ª»®´»·³¬ ïðë ¨ îîð ¨ éì\nL125@P3: ïðë ¨ îìð ¨ éì\nL126@P3: ïîèð Û­­¬·­½¸ Í±½µ»´ ì ïðë ¨ îêð ¨ éì\nL127@P3: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ É¿²¹»² ¹»µ¿²¬»¬ ïðë ¨ îèð ¨ éì ²·½¸¬ ¿«­¦·»¸¾¿® ëð ¨ é Ð´¿¬¬» ´<²¹­ ª»®´»·³¬\nL128@P3: ßËÍÆ×ÛØÞßÎ ïîèð Û­­¬·­½¸ Í±½µ»´ ï çî ¨ ïêð ¨ éë\nL129@P3: ®»½¸¬»½µ·¹ ìð ¨ ïôë ¿«­¹»¦±¹»² Ó¿­»®«²¹­ª»®´¿«º ¯«»® ¿«­¦·»¸¾¿® çî ¨ îíí ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL130@P3: ¿«­ Ó¿­­·ª¸±´¦ éí ½³\nL131@P3: Ð´¿¬¬»² ¯«»® ª»®´»·³¬\nL132@P3: ïîèð Û­­¬·­½¸ Í±½µ»´ ï ïðë ¨ ïèð ¨ éë\nL133@P3: ®»½¸¬»½µ·¹ ëð ¨ ïôë ¿«­¹»¦±¹»²\nL134@P3: ¿«­¦·»¸¾¿® ïðë ¨ îêð ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL135@P3: ¿«­ Ó¿­­·ª¸±´¦ èð ½³ ïðë ¨ îðð ¨ éë Ð´¿¬¬»² ¯«»® ª»®´»·³¬ ¿«­¹»¦±¹»²\nL136@P3: ïðë ¨ îèð ¨ éë\nL137@P3: D¾»®­·½¸¬ ­·»¸» Í»·¬ »² ìðñìï\nL138@P3: Í±½µ»´ ï ó Í¬¿²¼¿®¼ Í±½µ»´ ì Í±½µ»´ ë É¿²¹»² ¹»®¿¼» ·² ß´«³·²·«³ É¿²¹»² ¹»µ¿²¬»¬ ·² ß´«³·²·«³ Ê·»®¾»·²»® ·² Í¬¿¸´\nL139@P3: Þ·¬¬» ¿²¹»¾»²æ Ø±´¦±¾»®º´<½¸» ¹»©¿½¸­¬ øÍ¬¿²¼¿®¼÷ ±¼»® µ´¿® ´¿½µ·»®¬ ø°®»·­¹´»·½¸÷ò\nL140@P3: Ø·²©»·­æ ß«­ Í¬¿¾·´·¬<¬­¹®$²¼»² ©·®¼ ¾»· ²·½¸¬ ¿«­¦·»¸¾¿®»² Ì·­½¸»² ¿¾ îêð ½³ Ô<²¹»\nL141@P3: ¼»® Í±½µ»´ ì »³°º±¸´»²ÿ\nL142@P3: ìì\nL143@P3: ßÌÔßÍ ïîèð\nL144@P3: ÓßÍÍ×ÊØÑÔÆ\nL145@P3: Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ó¿­­·ª¸±´¦ îôë ½³ Ó¿­­·ª¸±´¦ îôë ½³ Ó¿­­·ª¸±´¦ îôë ½³\nL146@P3: Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Û·½¸» ±¼»® É·´¼»·½¸» Û·½¸» ±¼»® É·´¼»·½¸» ß³»®·µ¿²·­½¸ Ò«­­¾¿«³\nL147@P3: ²¿¬«® ñ ¬±¾¿½½± ²¿¬«® ñ ¬±¾¿½½±\nL148@P3: ¼«²µ»´¹®¿« ñ Ó±±®»·½¸» ¼«²µ»´¹®¿« ñ Ó±±®»·½¸» ßÕÌ×ÑÒÍÐÎÛ×ÍÛ\nL149@P3: ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL150@P3: êïïð éêéð\nL151@P3: êìëð èðîë\nL152@P3: êéïë èîçð\nL153@P3: êèëë èëìë\nL154@P3: êçèë èééë\nL155@P3: ééïð çéïë\nL156@P3: èïëë ïðïçë\nL157@P3: éèíë çëìð ïðêéð\nL158@P3: éçêð çéêë ïðççð\nL159@P3: èîîð ççèë ïïíçð\nL160@P3: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ ï »´±¨·»®¬ ­½¸©¿®¦ ëêð Í±½µ»´ ï ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë Í±½µ»´ ï ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð\nL161@P3: Í±½µ»´ ì ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ëìð Í±½µ»´ ì ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ïðíë Í±½µ»´ ì ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïîîð\nL162@P3: Í±½µ»´ ë ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ ð Í±½µ»´ ë ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë Í±½µ»´ ë ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð\nL163@P3: Î¿¸³»² ´¿½µ·»®¬ ²¿½¸ ÎßÔ éîð\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn684651view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn852389view0\",\"id\":39}); Total lines: 1\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn684651view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn852389view0\",\"id\":40}); Total lines: 1\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Atlas Magnum - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1280-II-atlas-magnum.html)\n【turn380392view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1280-II-atlas-magnum.html\",\"lineno\":null}); Total lines: 87\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Atlas Magnum\nL13: \nL14: Modell-Nr.: 1280-II\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein Tokyo, Stühle 【6†NOBILE SOFT X†www.draenert.de】\nL21: \nL22: 【7†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Tischplatte 【8†Eiche Vintage Kupferbraun†www.draenert.de】,\nL27: Stühle 【9†NOBILE SOFT†www.draenert.de】\nL28: #### Mod. nr. 1280-II\nL29: Der ATLAS ist seit einigen Jahren ein Bestseller der Kollektion. Dieser rechteckige Esstisch überzeugt nicht nur durch seine moderne Strenge, sondern auch durch eine patentierte Technik, die eine unter dem Tisch integrierte Ausschwenkplatte spielerisch herausdrehen lässt. Diese Vorzüge sind nun auch als Magnum-Version zu haben. Durch seine imposante Erscheinung ist der ATLAS MAGNUM der Mittelpunkt eines Raumes.\nL30: Dank seiner Größe, der hochwertigen Materialien und der neuen Sockelvariante #4,  ist er auch bei Besprechungen oder Konferenzen ein solider Begleiter.\nL31: #### In folgenden Material-Varianten erhältlich:\nL32: \nL33:   * Stein\nL34:   * Holz\nL35: \nL36: Produkte / Materialien\nL37: \nL38: tischplatte Stein 【10†TOKYO,†www.draenert.de】 Stühle 【6†NOBILE SOFT X†www.draenert.de】\nL39: \nL40: 【11†Image】\nL41: \nL42: Produkte / Materialien\nL43: \nL44: Tischplatte Stein 【10†TOKYO†www.draenert.de】\nL45: \nL46: 【12†Image】\nL47: \nL48: Produkte / Materialien\nL49: \nL50: Tischplatte Holz 【8†vintage kupferbraun†www.draenert.de】\nL51: \nL52: 【13†Image】\nL53: \nL54: 【14†iframe†ui.pcon-solutions.com】\nL55: ## Downloads\nL56: \nL57:   * 【15†Produktinformation】\nL58:   * Fotos\nL59:   * 【16†dwg-Daten Tisch ohne Auszug】\nL60:   * 【17†dwg-Daten Tisch mit Auszug】\nL61: \nL62: 【18†Alle herunterladen】\nL63: \nL64: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL65: ##\nL66: \nL67: Weitere Material-Ausführungen (modellspezifisch)\nL68: \nL69: 【19†Zu allen Steinsorten】\nL70: \nL71: 【20†Zu allen Holzsorten】\nL72: \nL73: 【21†Georg Appeltshauser Jahrgang 1949, hat zunächst an der FH Ulm Feinmechanik studiert. Anschließend Studium an der Kunstakademie... Mehr über den Designer】\nL74: \nL75: 【22†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL76: \nL77:   * 【2†Händlersuche】\nL78:   * 【22†Katalogbestellung】\nL79:   * 【23†Newsletter】\nL80: \nL81:   * 【24†Aktuelles】\nL82:   * 【25†Für Presse】\nL83: \nL84:   * 【26†Datenschutz】\nL85:   * 【27†Impressum】\nL86:   * 【18†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/7/b/7/f/7b7f1d538128e6d359eb3c71373b4f10ddbff1cb/1280_Atlas_%C3%9Cbersicht_Stein_Holz_DE_1.5.26.pdf)\n【turn523643view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 5; Source: click({\"ref_id\":\"turn380392view0\",\"id\":15}); Total lines: 207\nL0@P0: ATLAS MAGNUM\nL1@P0: Modell-Nr. 1280-II\nL2@P0: DESIGN GEORG APPELTSHAUSER\nL3@P0: Der ATLAS ist seit einigen Jahren ein Bestseller der Kollektion. Dieser rechteckige Esstisch überzeugt nicht nur durch seine moderne\nL4@P0: Strenge, sondern auch durch eine patentierte Technik, die eine unter dem Tisch integrierte Ausschwenkplatte spielerisch\nL5@P0: herausdrehen lässt. Diese Vorzüge sind nun auch als Magnum-Version zu haben. Durch seine imposante Erscheinung ist der ATLAS\nL6@P0: MAGNUM der Mittelpunkt eines Raumes. Dank seiner Größe, der hochwertigen Materialien und der neuen Sockelvariante #4, ist er\nL7@P0: auch bei Besprechungen oder Konferenzen ein solider Begleiter.\nL8@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL9@P0-1: Stein HolzÍ±½µ»´ ë Ê·»®¾»·²»® ø¹»¹»² ß«º°®»·­÷ Ê·»®¾»·²»® ø¹»¹»² ß«º°®»·­÷\nL10@P1: Þ»·²» µ±²·­½¸ô Í¬¿¸´ ¾»­½¸·½¸¬»¬ Þ»·²» µ±²·­½¸ô Í¬¿¸´ ¾»­½¸·½¸¬»¬\nL11@P1: Þ»·²¯«»®­½¸²·¬¬ «²¬»² êôð ¨ ïôë ½³ Þ»·²¯«»®­½¸²·¬¬ «²¬»² êôð ¨ ïôë ½³\nL12@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² Þ»·²»² «²¬»² ß¾­¬¿²¼ ¦©·­½¸»² ¼»² Þ»·²»² «²¬»² ¾»· Ì·­½¸´<²¹» Ì·­½¸¾®»·¬» Ì·­½¸¾®»·¬» âïðë ½³\nL13@P1: ïêð ½³ ã ïðê ½³ ¾»· Ì·­½¸´<²¹» ¾»· Ì·­½¸´<²¹»\nL14@P1: ïèð ½³ ã ïîê ½³ ïêð ½³ ã çï ½³ ïêð ã ïðí ½³\nL15@P1: îðð ½³ ã ïìð ½³ ïèð ½³ ã ïðï ½³ ïèð ã ïïí ½³\nL16@P1: îðð ½³ ã ïïï ½³ îðð ã ïîí ½³\nL17@P1: îîð ½³ ã ïîï ½³ îîð ã ïíí ½³\nL18@P1: îìð ½³ ã ïíï ½³ îìð ã ïìí ½³\nL19@P1: îêð ½³ ã ïìï ½³ îêð ã ïëí ½³\nL20@P1: îèð ½³ ã ïëï ½³ îèð ã ïêí ½³\nL21@P1: Í±½µ»´ ë Ê·»®¾»·²»® ø¹»¹»² ß«º°®»·­÷\nL22@P1: Ó¿¹²«³ Þ»·²» µ±²·­½¸ô Í¬¿¸´ ¾»­½¸·½¸¬»¬\nL23@P1: Þ»·²¯«»®­½¸²·¬¬ «²¬»² éôð ¨ ïôë ½³\nL24@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² Þ»·²»² «²¬»² ¾»· Ì·­½¸´<²¹» îêð ½³ ã ïêè ½³\nL25@P1: îèð ½³ ã ïéè ½³\nL26@P1: ïîèð ßÌÔßÍ\nL27@P1: ÍÑÝÕÛÔÊßÎ×ßÒÌÛÒ\nL28@P1: Í±½µ»´ ï É¿²¹»² ¹»®¿¼» øÍ¬¿²¼¿®¼÷ É¿²¹»² ¹»®¿¼» øÍ¬¿²¼¿®¼÷\nL29@P1: ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬\nL30@P1: ìð ¨ ïôë ½³ øÌ·­½¸´<²¹» ïêð ½³÷ ëð ¨ ïôë ½³ øÌ·­½¸¾®»·¬» ïðë ½³÷\nL31@P1: ëð ¨ ïôë ½³ øÌ·­½¸´<²¹» ïèð ñ îðð ½³÷\nL32@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»² ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»²\nL33@P1: ¾»· Ì·­½¸´<²¹» ¾»· Ì·­½¸´<²¹»\nL34@P1: ïêð ½³ ã éî ½³ ïêð ½³ ã éð ½³ îîð ½³ ã ïðð ½³\nL35@P1: ïèð ½³ ã çî ½³ ïèð ½³ ã èð ½³ îìð ½³ ã ïïð ½³\nL36@P1: îðð ½³ ã ïðç ½³ îðð ½³ ã çð ½³\nL37@P1: Í±½µ»´ ì É¿²¹»² ¹»µ¿²¬»¬ ø¹»¹»² ß«º°®»·­÷ É¿²¹»² ¹»µ¿²¬»¬ ø¹»¹»² ß«º°®»·­÷\nL38@P1: ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬\nL39@P1: ìð ¨ ëôé ½³ øÌ·­½¸´<²¹» ïêð ½³÷ ëð ¨ éôð ½³ øÌ·­½¸¾®»·¬» ïðë ½³÷\nL40@P1: ëð ¨ éôð ½³ øÌ·­½¸´<²¹» ïèð ñ îðð ½³÷\nL41@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»² ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»²\nL42@P1: ¾»· Ì·­½¸´<²¹» ïêð ½³ ã éî ½³ ¾»· Ì·­½¸´<²¹»\nL43@P1: ïèð ½³ ã çî ½³ ïêð ½³ ã éð ½³ îîð ½³ ã ïðð ½³\nL44@P1: îðð ½³ ã ïðç ½³ ïèð ½³ ã èð ½³ îìð ½³ ã ïïð ½³\nL45@P1: îðð ½³ ã çð ½³ îêð ½³ ã ïîð ½³\nL46@P1: îèð ½³ ã ïíð ½³\nL47@P1: Í±½µ»´ ì É¿²¹»² ¹»µ¿²¬»¬ ø¹»¹»² ß«º°®»·­÷\nL48@P1: Ó¿¹²«³ ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ëë ¨ èôð ½³\nL49@P1: ß¾­¬¿²¼ ¦©·­½¸»² ¼»² É¿²¹»²\nL50@P1: ¾»· Ì·­½¸´<²¹» îìð ½³ ã ïíë ½³\nL51@P1: îèð ½³ ã ïìç ½³\nL52@P1: ßËÍÆ×ÛØÞßÎ Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ\nL53@P1: ìð\nL54@P1:  Î»½¸¬»½µ·¹ Þ±±¬­º±®³\nL55@P1: Ì·­½¸ ¿«­¦·»¸¾¿® ²·½¸¬ ¿«­¹»¦±¹»²\nL56@P1: Ì·­½¸ ¿«­¦·»¸¾¿® ¿«­¹»¦±¹»²\nL57@P1:  Þ±±¬­º±®³ ²«® ³*¹´·½¸\nL58@P1:  ¾»· Í¬»·² «²¼ Ó¿­­·ª¸±´¦ Ì·­½¸ ²·½¸¬ ¿«­¦·»¸¾¿®\nL59@P1: Ì·­½¸¾®»·¬» µ±°º­»·¬·¹ ¾»· Ù®*A»æ\nL60@P1: ïðë ¨ ïêð ½³ ã ½¿ò çìôé ½³\nL61@P1: ïðë ¨ ïèð ½³ ã ½¿ò çîôî ½³\nL62@P1: ïðë ¨ îðð ½³ ã ½¿ò èçôð ½³\nL63@P1: ïðë ¨ îîð ½³ ã ½¿ò çðôë ½³\nL64@P1: ïðë ¨ îìð ½³ ã ½¿ò çïôî ½³\nL65@P1: ïðë ¨ îêð ½³ ã ½¿ò çïôð ½³\nL66@P1: ïðë ¨ îèð ½³ ã ½¿ò èèôè ½³\nL67@P1: ßÌÔßÍ ïîèð\nL68@P1: ÐÔßÌÌÛ ÒÚÑÎÓÛÒ\nL69@P1-2: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ìïïîèð ßÌÔßÍ ÜÛÍ×ÙÒ ÙÛÑÎÙ ßÐÐÛÔÌÍØßËÍÛÎ îððê ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í±½µ»´ ï Þ ó Ô ó Ø É¿²¹»² ¹»®¿¼» ½¿ò ·² ½³\nL70@P2: ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ Í¬¿²¼¿®¼\nL71@P2: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ ïîèð Û­­¬·­½¸ Í±½µ»´ ï ïðë ¨ ïêð ¨ éì\nL72@P2: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ ëð ¨ ïôë ïðë ¨ ïèð ¨ éì ²·½¸¬ ¿«­¦·»¸¾¿® ïðë ¨ îðð ¨ éì\nL73@P2: ïðë ¨ îîð ¨ éì\nL74@P2: ïðë ¨ îìð ¨ éì\nL75@P2: ïîèð Û­­¬·­½¸ Í±½µ»´ ì ïðë ¨ îêð ¨ éì\nL76@P2: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ É¿²¹»² ¹»µ¿²¬»¬ ïðë ¨ îèð ¨ éì ²·½¸¬ ¿«­¦·»¸¾¿® ëð ¨ é\nL77@P2: ßËÍÆ×ÛØÞßÎ ïîèð Û­­¬·­½¸ Í±½µ»´ ï çî ¨ ïêð ¨ éë\nL78@P2: ®»½¸¬»½µ·¹ ìð ¨ ïôë ¿«­¹»¦±¹»²\nL79@P2: ¿«­¦·»¸¾¿® çî ¨ îíí ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL80@P2: ¿«­ Ò¿¬«®­¬»·² éí ½³\nL81@P2: ïîèð Û­­¬·­½¸ Í±½µ»´ ï ïðë ¨ ïèð ¨ éë\nL82@P2: ®»½¸¬»½µ·¹ ëð ¨ ïôë ¿«­¹»¦±¹»²\nL83@P2: ¿«­¦·»¸¾¿® ïðë ¨ îêð ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL84@P2: ¿«­ Ò¿¬«®­¬»·² èð ½³ ïðë ¨ îðð ¨ éë\nL85@P2: ¿«­¹»¦±¹»²\nL86@P2: ïðë ¨ îèð ¨ éë\nL87@P2: ïîèð Û­­¬·­½¸ ÓßÙÒËÓ Í±½µ»´ ì ö ïðë ¨ îìð ¨ éë\nL88@P2: ®»½¸¬»½µ·¹ Ó¿¹²«³ ¿«­¹»¦±¹»²\nL89@P2: ¿«­¦·»¸¾¿® É¿²¹»² ¹»µ¿²¬»¬ ïðë ¨ íîð ¨ éë\nL90@P2: ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬» ëë ¨ è\nL91@P2: ¿«­ Ò¿¬«®­¬»·² èð ½³ ö ïðë ¨ îèð ¨ éë\nL92@P2: ¿«­¹»¦±¹»²\nL93@P2: ïðë ¨ íêð ¨ éë\nL94@P2: D¾»®­·½¸¬ ­·»¸» Í»·¬ »² ìðñìï\nL95@P2: Í±½µ»´ ï ó Í¬¿²¼¿®¼ Í±½µ»´ ì Í±½µ»´ ë É¿²¹»² ¹»®¿¼» ·² ß´«³·²·«³ É¿²¹»² ¹»µ¿²¬»¬ ·² ß´«³·²·«³ Ê·»®¾»·²»® ·² Í¬¿¸´\nL96@P2: Ø·²©»·­æ ö Ó¿­»®«²¹ ¼»® Ð´¿¬¬»² ²·½¸¬ ¼«®½¸¹<²¹·¹ò\nL97@P2: ß«­ Í¬¿¾·´·¬<¬­¹®$²¼»² ©·®¼ ¾»· ²·½¸¬ ¿«­¦·»¸¾¿®»² Ì·­½¸»² ¿¾ îêð ½³ Ô<²¹»\nL98@P2: ¼»® Í±½µ»´ ì »³°º±¸´»²ÿ\nL99@P2: ìî\nL100@P2: ßÌÔßÍ ïîèð\nL101@P2: ÒßÌËÎÍÌÛ×Ò\nL102@P2: Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL103@P2: Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL104@P2: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL105@P2: ëíéð êîçë éïðë èïéë èçíð ïðïêë ïîéðð ïìèèð\nL106@P2: ëìïë êíçë éííë èëíð çíéë ïðéëð ïíëèë ïëíëð\nL107@P2: ëìíð êìéð éëëë èèèð çèðë ïïíîë ïììðð ïêëëð\nL108@P2: ëëéð êêíð éééð çîðë ïðîêð ïïèçð ïëîéë ïééîë\nL109@P2: ëëéë êéëë éççë çêêë ïðèîë ïîìçë ïëéçð ïçîìë\nL110@P2: êîíë éëêð èçðð ïðéíë ïîîìë ïíçîë ïêêïë îðîíð\nL111@P2: êëçë éççë çìëð ïïëîë ïíîïð ïìéìë ïééçð îïèðë\nL112@P2: èðîë çéîë ïïðéë ïîçíð ïìðêë ïëîìë ïééîë ïçêëë\nL113@P2: èïèð ççïð ïïìîð ïíëîð ïëîçð ïêêêð ïèëîð îïîðë\nL114@P2: èíïë ïðïéð ïïçêë ïìïïð ïêïíð ïéêíë ïçìèë îîíèë\nL115@P2: ïîèïë ïëëíð ïéîïð ïççíð îïçèð îìðëð îéðíð íðíçë\nL116@P2: ïíçðð ïêèìë ïçïëë îïèêë îìïçë îêêîë îçëïð íîíçë\nL117@P2: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ßÌÔßÍ ßÌÔßÍ ÓßÙÒËÓ\nL118@P2: ÛËÎÑ ÛËÎÑ Í±½µ»´ ï »´±¨·»®¬ ­½¸©¿®¦ ëêð ó Í±½µ»´ ï ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë ó Í±½µ»´ ï ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð ó\nL119@P2: Í±½µ»´ ì ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ëìð ó Í±½µ»´ ì ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ïðíë ìçë Í±½µ»´ ì ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïîîð êèð\nL120@P2: Í±½µ»´ ë ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ ð ð Í±½µ»´ ë ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë ìçë Í±½µ»´ ë ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð êèð\nL121@P2: Î¿¸³»² ´¿½µ·»®¬ ²¿½¸ ÎßÔ éîð çíð\nL122@P2-3: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ìíïîèð ßÌÔßÍ ÜÛÍ×ÙÒ ÙÛÑÎÙ ßÐÐÛÔÌÍØßËÍÛÎ îððê ÓßÍÍ×ÊØÑÔÆ Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í±½µ»´ ï Þ ó Ô ó Ø É¿²¹»² ¹»®¿¼» ½¿ò ·² ½³\nL123@P3: ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ Í¬¿²¼¿®¼\nL124@P3: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ ïîèð Û­­¬·­½¸ Í±½µ»´ ï ïðë ¨ ïêð ¨ éì\nL125@P3: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ ëð ¨ ïôë ïðë ¨ ïèð ¨ éì Ó¿­»®«²¹­ª»®´¿«º ´<²¹­ ²·½¸¬ ¿«­¦·»¸¾¿® ïðë ¨ îðð ¨ éì Ð´¿¬¬» ´<²¹­ ª»®´»·³¬ ïðë ¨ îîð ¨ éì\nL126@P3: ïðë ¨ îìð ¨ éì\nL127@P3: ïîèð Û­­¬·­½¸ Í±½µ»´ ì ïðë ¨ îêð ¨ éì\nL128@P3: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ É¿²¹»² ¹»µ¿²¬»¬ ïðë ¨ îèð ¨ éì ²·½¸¬ ¿«­¦·»¸¾¿® ëð ¨ é Ð´¿¬¬» ´<²¹­ ª»®´»·³¬\nL129@P3: ßËÍÆ×ÛØÞßÎ ïîèð Û­­¬·­½¸ Í±½µ»´ ï çî ¨ ïêð ¨ éë\nL130@P3: ®»½¸¬»½µ·¹ ìð ¨ ïôë ¿«­¹»¦±¹»² Ó¿­»®«²¹­ª»®´¿«º ¯«»® ¿«­¦·»¸¾¿® çî ¨ îíí ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL131@P3: ¿«­ Ó¿­­·ª¸±´¦ éí ½³\nL132@P3: Ð´¿¬¬»² ¯«»® ª»®´»·³¬\nL133@P3: ïîèð Û­­¬·­½¸ Í±½µ»´ ï ïðë ¨ ïèð ¨ éë\nL134@P3: ®»½¸¬»½µ·¹ ëð ¨ ïôë ¿«­¹»¦±¹»²\nL135@P3: ¿«­¦·»¸¾¿® ïðë ¨ îêð ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL136@P3: ¿«­ Ó¿­­·ª¸±´¦ èð ½³ ïðë ¨ îðð ¨ éë Ð´¿¬¬»² ¯«»® ª»®´»·³¬ ¿«­¹»¦±¹»²\nL137@P3: ïðë ¨ îèð ¨ éë\nL138@P3: D¾»®­·½¸¬ ­·»¸» Í»·¬ »² ìðñìï\nL139@P3: Í±½µ»´ ï ó Í¬¿²¼¿®¼ Í±½µ»´ ì Í±½µ»´ ë É¿²¹»² ¹»®¿¼» ·² ß´«³·²·«³ É¿²¹»² ¹»µ¿²¬»¬ ·² ß´«³·²·«³ Ê·»®¾»·²»® ·² Í¬¿¸´\nL140@P3: Þ·¬¬» ¿²¹»¾»²æ Ø±´¦±¾»®º´<½¸» ¹»©¿½¸­¬ øÍ¬¿²¼¿®¼÷ ±¼»® µ´¿® ´¿½µ·»®¬ ø°®»·­¹´»·½¸÷ò\nL141@P3: Ø·²©»·­æ ß«­ Í¬¿¾·´·¬<¬­¹®$²¼»² ©·®¼ ¾»· ²·½¸¬ ¿«­¦·»¸¾¿®»² Ì·­½¸»² ¿¾ îêð ½³ Ô<²¹»\nL142@P3: ¼»® Í±½µ»´ ì »³°º±¸´»²ÿ\nL143@P3: ìì\nL144@P3: ßÌÔßÍ ïîèð\nL145@P3: ÓßÍÍ×ÊØÑÔÆ\nL146@P3: Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ó¿­­·ª¸±´¦ îôë ½³ Ó¿­­·ª¸±´¦ îôë ½³ Ó¿­­·ª¸±´¦ îôë ½³\nL147@P3: Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Û·½¸» ±¼»® É·´¼»·½¸» Û·½¸» ±¼»® É·´¼»·½¸» ß³»®·µ¿²·­½¸ Ò«­­¾¿«³\nL148@P3: ²¿¬«® ñ ¬±¾¿½½± ²¿¬«® ñ ¬±¾¿½½±\nL149@P3: ¼«²µ»´¹®¿« ñ Ó±±®»·½¸» ¼«²µ»´¹®¿« ñ Ó±±®»·½¸» ßÕÌ×ÑÒÍÐÎÛ×ÍÛ\nL150@P3: ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL151@P3: êïïð éêéð\nL152@P3: êìëð èðîë\nL153@P3: êéïë èîçð\nL154@P3: êèëë èëìë\nL155@P3: êçèë èééë\nL156@P3: ééïð çéïë\nL157@P3: èïëë ïðïçë\nL158@P3: éèíë çëìð ïðêéð\nL159@P3: éçêð çéêë ïðççð\nL160@P3: èîîð ççèë ïïíçð\nL161@P3: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ ï »´±¨·»®¬ ­½¸©¿®¦ ëêð Í±½µ»´ ï ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë Í±½µ»´ ï ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð\nL162@P3: Í±½µ»´ ì ß´«³·²·«³ ³¿¬¬ ¹»¾$®­¬»¬ ëìð Í±½µ»´ ì ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ïðíë Í±½µ»´ ì ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïîîð\nL163@P3: Í±½µ»´ ë ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ ð Í±½µ»´ ë ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë Í±½µ»´ ë ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð\nL164@P3: Î¿¸³»² ´¿½µ·»®¬ ²¿½¸ ÎßÔ éîð\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn523643view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn380392view0\",\"id\":16}); Total lines: 1\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn523643view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn380392view0\",\"id\":17}); Total lines: 1\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Trilope - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/trilope.html)\n【turn823243view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/trilope.html\",\"lineno\":null}); Total lines: 115\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Trilope\nL12: \nL13: Modell-Nr.: 1540\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: tischplatte Stein 【6†Verde Lepanto†www.draenert.de】,【7† †www.draenert.de】\nL20: Stühle 【8†Cobe,†www.draenert.de】 【9†Cobe Sternfuß†www.draenert.de】\nL21: \nL22: 【10†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: tischplatte Stein 【11†Dreaming Green†www.draenert.de】, beine  【12†mooreiche, †www.draenert.de】 Stühle 【13†Dan†www.draenert.de】\nL27: \nL28: 【14†Image: Trilope】\nL29: \nL30: Produkte / Materialien\nL31: Tischplatte Stein 【15†Statuario,†www.draenert.de】\nL32: beine 【16†Amerikanisch Nuss, †www.draenert.de】Stühle 【17†Nobile Soft†www.draenert.de】\nL33: \nL34: 【18†Image】\nL35: \nL36: Produkte / Materialien\nL37: \nL38: Stein 【11†Dreaming Green†www.draenert.de】\nL39: \nL40: 【19†Image】\nL41: \nL42: Produkte / Materialien\nL43: \nL44: Tischplatte 【20†Holz Amerikanisch Nussbaum, †www.draenert.de】\nL45: beine 【16†amerikanisch nuss†www.draenert.de】, Stühle 【13†Dan†www.draenert.de】\nL46: \nL47: 【21†Image】\nL48: \nL49: Produkte / Materialien\nL50: Tischplatte Stein 【22†Sahara Noir†www.draenert.de】, beine 【23†dunkelgrau†www.draenert.de】, Stühle 【17†Nobile†www.draenert.de】\nL51: #### Design  Wolfgang C. r. Mezger 2018\nL52: Die Tischplattenform des Trilope ist abgeleitet vom „Reuleaux-Dreieck“ (auch bekannt als „Gleichdick“ oder „Wankelform“). Dieser Grundriss wurde nach allen Regeln geometrischer Kunst gestalterisch so abgerundet und verfeinert, sodass die weiche Erscheinung der Platte zum Verweilen am Tisch einlädt - ganz ähnlich der eines runden Tisches, aber mit neuartiger Optik und mehr Präsenz und Raffinesse.\nL53: Der Unterbau besteht aus drei markant profilierten Massiv-holzteilen, die tangential miteinander verbunden sind und somit nicht nur ein faszinierendes Erscheinungsbild bieten, sondern darüber hinaus auch höchste Stabilität erreichen. Unterbau und Tischplatte gehen hier eine vollendete ästhetische Verbindung ein und wirken so von allen Seiten wie eine prägnante und fesselnde Skulptur im Raum.\nL54: #### In folgenden Material-Varianten erhältlich:\nL55: \nL56:   * Stein\nL57:   * Holz\nL58: \nL59: Produkte / Materialien\nL60: \nL61: Tischplatte Stein 【22†Sahara Noir,†www.draenert.de】 beine 【23†dunkelgrau†www.draenert.de】\nL62: \nL63: 【24†Image】\nL64: \nL65: Produkte / Materialien\nL66: \nL67:  tischplatte Stein 【25†Verde Guatemala,†www.draenert.de】 Stühle 【26†nobile†www.draenert.de】\nL68: \nL69: 【27†Image】\nL70: \nL71: Produkte / Materialien\nL72: \nL73: Tischplatte 【16†Holz Amerikanisch Nussbaum, †www.draenert.de】\nL74: beine 【16†Amerikanisch nuss†www.draenert.de】\nL75: \nL76: 【28†Image】\nL77: \nL78: Produkte / Materialien\nL79: Tischplatte holz 【29†eiche weiss,†www.draenert.de】 beine 【29†weiß pigmentiert†www.draenert.de】\nL80: \nL81: 【30†Image】\nL82: \nL83: 【31†iframe†ui.pcon-solutions.com】\nL84: ## Downloads\nL85: \nL86:   * 【32†Produktinformationen】\nL87:   * Fotos\nL88:   * 【33†dwg-Daten】\nL89: \nL90: 【34†Alle herunterladen】\nL91: \nL92: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL93: ##\nL94: \nL95: Weitere Material-Ausführungen (modellspezifisch)\nL96: \nL97: 【35†Zu allen Steinsorten】\nL98: \nL99: 【36†Zu allen Holzsorten】\nL100: \nL101: 【37†Wolfgang C. R. Mezger Wolfgang C. R. Mezger, geboren 1951, ist ein erfahrener Designer mit mehr als 30 Jahren Erfahrung. Seine E... Mehr über den Designer】\nL102: \nL103: 【38†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL104: \nL105:   * 【2†Händlersuche】\nL106:   * 【38†Katalogbestellung】\nL107:   * 【39†Newsletter】\nL108: \nL109:   * 【40†Aktuelles】\nL110:   * 【41†Für Presse】\nL111: \nL112:   * 【42†Datenschutz】\nL113:   * 【43†Impressum】\nL114:   * 【34†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn495875view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn823243view0\",\"id\":32}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/d/d/6/7/dd678d78f37a58d659488a837bc77980586f7c96/1540_Trilope_Stein_Holz_Conference_DE_1.5.26.pdf: TimeoutError\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn495875view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn823243view0\",\"id\":33}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/a/6/7/a/a67a0769bed3b49c67f6c4a34324edc504c30f71/1540-Trilope.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Trilope Conference - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/trilope-1.html)\n【turn624079view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/trilope-1.html\",\"lineno\":null}); Total lines: 72\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Trilope Conference\nL13: \nL14: Modell-Nr.: 1540\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: tischplatte Stein 【6†Belvedere†www.draenert.de】【7†,†www.draenert.de】 beine 【8†mooreiche†www.draenert.de】,\nL21: Stühle Dexter\nL22: \nL23: 【9†Image】\nL24: \nL25: Produkte / Materialien\nL26: \nL27: tischplatte Stein 【10†Dreaming Green†www.draenert.de】, beine  【8†mooreiche, †www.draenert.de】 Stühle 【11†Dan†www.draenert.de】\nL28: #### Design  Wolfgang C. r. Mezger 2018\nL29: Die Tischplattenform des Trilope ist abgeleitet vom „Reuleaux-Dreieck“ (auch bekannt als „Gleichdick“ oder „Wankelform“). Dieser Grundriss wurde nach allen Regeln geometrischer Kunst gestalterisch so abgerundet und verfeinert, sodass die weiche Erscheinung der Platte zum Verweilen am Tisch einlädt - ganz ähnlich der eines runden Tisches, aber mit neuartiger Optik und mehr Präsenz und Raffinesse.\nL30: Der Unterbau besteht aus drei markant profilierten Massiv-holzteilen, die tangential miteinander verbunden sind und somit nicht nur ein faszinierendes Erscheinungsbild bieten, sondern darüber hinaus auch höchste Stabilität erreichen. Unterbau und Tischplatte gehen hier eine vollendete ästhetische Verbindung ein und wirken so von allen Seiten wie eine prägnante und fesselnde Skulptur im Raum.\nL31: #### In folgenden Material-Varianten erhältlich:\nL32: \nL33:   * Stein\nL34: \nL35: Produkte / Materialien\nL36: \nL37: Tischplatte Stein 【6†Belvedere†www.draenert.de】\nL38: \nL39: 【12†Image】\nL40: \nL41: ## Downloads\nL42: \nL43:   * 【13†Produktinformationen】\nL44:   * Fotos\nL45:   * 【14†dwg-Daten】\nL46: \nL47: 【15†Alle herunterladen】\nL48: \nL49: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL50: ##\nL51: \nL52: Weitere Material-Ausführungen (modellspezifisch)\nL53: \nL54: 【16†Zu allen Steinsorten】\nL55: \nL56: 【17†Zu allen Holzsorten】\nL57: \nL58: 【18†Wolfgang C. R. Mezger Wolfgang C. R. Mezger, geboren 1951, ist ein erfahrener Designer mit mehr als 30 Jahren Erfahrung. Seine E... Mehr über den Designer】\nL59: \nL60: 【19†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL61: \nL62:   * 【2†Händlersuche】\nL63:   * 【19†Katalogbestellung】\nL64:   * 【20†Newsletter】\nL65: \nL66:   * 【21†Aktuelles】\nL67:   * 【22†Für Presse】\nL68: \nL69:   * 【23†Datenschutz】\nL70:   * 【24†Impressum】\nL71:   * 【15†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/4/8/0/3/480312d8dccd4fca82cd0435b1e7790e3ea81cc1/1540_Trilope_Conference_DE_1.5.26.pdf)\n【turn637568view0】 [wordlim: 200] Crawled: last month; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn624079view0\",\"id\":13}); Total lines: 50\nL0@P0: TRILOPE CONFERENCE\nL1@P0: Modell-Nr. 1540\nL2@P0: DESIGN WOLFGANG C. R. MEZGER\nL3@P0: Die Tischplattenform des Trilope ist abgeleitet vom „Reuleaux-Dreieck“ (auch bekannt als „Gleichdick“ oder „Wankelform“). Dieser\nL4@P0: Grundriss wurde nach allen Regeln geometrischer Kunst gestalterisch so abgerundet und verfeinert, sodass die weiche Erscheinung\nL5@P0: der Platte zum Verweilen am Tisch einlädt - ganz ähnlich der eines runden Tisches, aber mit neuartiger Optik und mehr Präsenz und\nL6@P0: Raffinesse. Der Unterbau besteht aus drei markant profilierten Massiv-holzteilen, die tangential miteinander verbunden sind und somit\nL7@P0: nicht nur ein faszinierendes Erscheinungsbild bieten, sondern darüber hinaus auch höchste Stabilität erreichen. Unterbau und\nL8@P0: Tischplatte gehen hier eine vollendete ästhetische Verbindung ein und wirken so von allen Seiten wie eine prägnante und fesselnde\nL9@P0: Skulptur im Raum.\nL10@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL11@P0-1: Steinïëìð ÌÎ×ÔÑÐÛ ÝÑÒÚÛÎÛÒÝÛ ÜÛÍ×ÙÒ ÉÑÔÚÙßÒÙ ÝòÎò ÓÛÆÙÛÎ îðïè ÒßÌËÎÍÌÛ×Ò\nL12@P1: Ó¿A» Ü¿­ ÌÎ×ÔÑÐÛ Ý±²º»®»²½» Í§­¬»³ ¾·»¬»¬ ³¿¨·³¿´» Ú´»¨·¾·´·¬<¬ò\nL13@P1: Ò¿¸»¦« ¿´´» Ì·­½¸¹®*A»² ­·²¼ ³¿½¸¾¿®ò ×² ¼»® Ô<²¹» ·­¬ »·²» «²¾»¹®»²¦¬» Î»·¸«²¹ ³*¹´·½¸ò\nL14@P1: Þ·¬¬» º®¿¹»² Í·» ×¸® É«²­½¸³¿A ¿²ò\nL15@P1: ß«º¹®«²¼ ¼»® ¹®±A»² Ê¿®·¿²¦ µ*²²»² ©·® ¸·»® µ»·²» Ð®»·­» ²»²²»²ò\nL16@P1: ß«º ¼»® ®»½¸¬»² Í»·¬» º·²¼»² Í·» »·²»² D¾»®¾´·½µ ¦« ¼»² Ó¿Aó «²¼ Í±½µ»´ª¿®·¿²¬»²ò\nL17@P1: Ì·­½¸°´¿¬¬» Æ«® ß«­©¿¸´ ­¬»¸»² ïëð «²¬»®­½¸·»¼´·½¸» Ò¿¬«®­¬»·²­±®¬»² øÍ»·¬» ìóë÷ò\nL18@P1: ß´¬»®²¿¬·ª ¾·»¬»² ©·® Ú«®²·»®ó «²¼ Ó¿­­·ª¸±´¦°´¿¬¬»² ¿²ò Ó¿A» ¿«º ß²º®¿¹»ò\nL19@P1: Ð´¿¬¬»²µ¿²¬»²\nL20@P1: Õ¿²¬» ì Õ¿²¬» ë Õ¿²¬» ê Õ¿²¬» è\nL21@P1: Ð´¿¬¬»²º±®³»²\nL22@P1: Î»½¸¬»½µ·¹ Ì®¿°»¦º±®³ Þ±±¬­º±®³ Ñ®¹¿²·½\nL23@P1: Í±½µ»´ Í±½µ»´ ­½¸³¿´ Ó¿­­·ª¸±´¦ ·²æ\nL24@P1:  ó Û·½¸» ²¿¬«®ô ¬±¾¿½½±ô ¼«²µ»´¹®¿«ô Ó±±®»·½¸»\nL25@P1:  ó ß³»®·µ¿²·­½¸ Ò«­­¾¿«³\nL26@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ Í±½µ»´¾®»·¬» «²¬»² éì ½³\nL27@P1: Í±½µ»´ ¾®»·¬ Ó¿­­·ª¸±´¦ ·²æ\nL28@P1:  ó Û·½¸» ²¿¬«®ô ¬±¾¿½½±ô ¼«²µ»´¹®¿«ô Ó±±®»·½¸»\nL29@P1:  ó ß³»®·µ¿²·­½¸ Ò«­­¾¿«³\nL30@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ Í±½µ»´¾®»·¬» «²¬»² çê ½³\nL31@P1: Ñ°¬·±²»² Û·²» Õ¿¾»´º$¸®«²¹ «²¬»® ¼»® Ì·­½¸°´¿¬¬» ·­¬ ³*¹´·½¸ò\nL32@P1: É·® ¾·»¬»² «²¬»®­½¸·»¼´·½¸» Í§­¬»³» º$® Ó»¼·»²µ´¿°°»² ñó¾´»²¼»² «²¼ Õ¿¾»´¼«®½¸´¿­­ º$® Í¬®±³ó «²¼ Ü¿¬»²¿²­½¸´$­­» ¿²ò\nL33@P1: Ø·²©»·­æ Ó¿½¸¾¿®µ»·¬ «²¼ Ð®»·­» ¿«º ß²º®¿¹»ò\nL34@P1: Ù»®²» °´¿²»² ©·® ×¸®»² ·²¼·ª·¼«»´´»² Õ±²º»®»²¦¬·­½¸ò Þ·¬¬» ©»²¼»² Í·» ­·½¸ ¿² «²­ò\nL35@P1: Ð´¿¬ ¬»² ¿« ­ ©¿ ¸´\nL36@P1: éð\nL37@P1: ÌÎ×ÔÑÐÛ ÝÑÒÚÛÎÛÒÝÛ ïëìð\nL38@P1: ÒßÌËÎÍÌÛ×Ò\nL39@P1: Í±½µ»´ Ð´¿¬¬»ø²÷ Þ®»·¬» Ô<²¹» Ø*¸»\nL40@P1: ½¿ò ·² ½³ ½¿ò ·² ½³ ½¿ò ·² ½³\nL41@P1: î¨ Í±½µ»´ ï çë ó ïîð ïèð ó íðð éíôë Ó¿­­·ª¸±´¦\nL42@P1: ­½¸³¿´\nL43@P1: î¨ Í±½µ»´ ï ïîï ó ïìð ïèð ó íðð éíôë Ó¿­­·ª¸±´¦ ¾®»·¬\nL44@P1: î¨ Í±½µ»´ î çë ó ïîð ïèð ó íîð éíôë Ó¿­­·ª¸±´¦\nL45@P1: ­½¸³¿´\nL46@P1: î¨ Í±½µ»´ î ïîï ó ïèð ïèð ó íêð éíôë Ó¿­­·ª¸±´¦ ¾®»·¬\nL47@P1: í¨ Í±½µ»´ í ïîï ó ïèð ìîï ó ëìð éíôë Ó¿­­·ª¸±´¦ ¾®»·¬\nL48@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ éï\nL49@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn637568view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn624079view0\",\"id\":14}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/a/6/7/a/a67a0769bed3b49c67f6c4a34324edc504c30f71/1540-Trilope.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Cooper - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/cooper.html)\n【turn264121view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/cooper.html\",\"lineno\":null}); Total lines: 111\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Cooper\nL12: \nL13: Modell-Nr.: 1430\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: tischplatte 【6†eiche dunkelgrau†www.draenert.de】,  Stühle  【7†Elefantino†www.draenert.de】\nL20: \nL21: 【8†Image】\nL22: \nL23: Produkte / Materialien\nL24: \nL25: tischplatte Eiche dunkelgrau, Stühle 【7†Elefantino †www.draenert.de】\nL26: \nL27: \nL28: 【9†Image】\nL29: \nL30: Produkte / Materialien\nL31: \nL32: Stühle 【7†Elefantino†www.draenert.de】\nL33: \nL34: 【10†Image】\nL35: \nL36: Produkte / Materialien\nL37: \nL38: Tischplatte 【11†Eiche dunkelgrau】, Stühle 【12†Elefantino】\nL39: \nL40: 【13†Image】\nL41: \nL42: Produkte / Materialien\nL43: Tischplatte 【11†eiche dunkelgrau】, Stühle 【12†Elefantino】\nL44: #### Design  Wolfgang C. r. Mezger 2025\nL45: COOPER präsentiert sich als außergewöhnliche und zeitgemäße Interpretation des klassischen Tisches. Die bewusst gesetzten, asymmetrischen Freiformen der Tischplatten schaffen spannende Blickwinkel und fördern lebendige Kommunikationssituationen. In der Verbindung von ausdrucksstarker Tischplatte aus Massivholz mit kunstvoll arrangierten Unterbauten aus dem Naturstein „Nero Picasso“ oder Beton entsteht eine faszinierende Ästhetik.\nL46: Die massiven Sockel verleihen dem Tisch nicht nur beeindruckende Stabilität, sondern überzeugen zugleich durch edle Materialität und spannende Komposition. Die behagliche Wirkung des COOPER wird durch die sanft gerundete Tischkante noch verstärkt, die zu einer besonderen haptischen Erfahrung einlädt.\nL47: #### In folgenden Material-Varianten erhältlich:\nL48: \nL49:   * Holz\nL50:   * Holz\nL51:   * Holz\nL52:   * Holz\nL53: \nL54: Produkte / Materialien\nL55: \nL56: Tischplatte 【6†eiche dunkelgrau†www.draenert.de】\nL57: \nL58: 【14†Image】\nL59: \nL60: Produkte / Materialien\nL61: \nL62: Tischplatte 【6†Eiche dunkelgrau†www.draenert.de】\nL63: \nL64: 【15†Image】\nL65: \nL66: 【16†Image】\nL67: \nL68: 【17†Image】\nL69: \nL70: 【18†Image】\nL71: \nL72: 【19†Image】\nL73: \nL74: 【20†Image】\nL75: \nL76: 【21†Image】\nL77: \nL78: 【22†iframe†ui.pcon-solutions.com】\nL79: ## Downloads\nL80: \nL81:   * 【23†Produktinformationen】\nL82:   * Fotos\nL83:   * 【24†dwg-Daten Oval/Trapeza】\nL84:   * 【25†dwg Daten Organic】\nL85:   * 【26†dwg-Daten Trilungo】\nL86: \nL87: 【27†Alle herunterladen】\nL88: \nL89: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL90: ##\nL91: \nL92: Weitere Material-Ausführungen (modellspezifisch)\nL93: \nL94: 【28†Zu allen Holzsorten】\nL95: \nL96: 【29†Wolfgang C. R. Mezger Wolfgang C. R. Mezger, geboren 1951, ist ein erfahrener Designer mit mehr als 30 Jahren Erfahrung. Seine E... Mehr über den Designer】\nL97: \nL98: 【30†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL99: \nL100:   * 【2†Händlersuche】\nL101:   * 【30†Katalogbestellung】\nL102:   * 【31†Newsletter】\nL103: \nL104:   * 【32†Aktuelles】\nL105:   * 【33†Für Presse】\nL106: \nL107:   * 【34†Datenschutz】\nL108:   * 【35†Impressum】\nL109: \nL110:   * 【27†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn628374view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn264121view0\",\"id\":23}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/5/0/d/1/50d12ca78580bb7abe7978eb82ceb4278dc77785/1430_Cooper_%C3%9Cbersicht_Holz_DE_1.5.26.pdf: TimeoutError\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn628374view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn264121view0\",\"id\":24}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/5/8/b/e/58be4206ca7d484e5ed5a860a36437434f380f42/1430-Trapeza_Oval.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn628374view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn264121view0\",\"id\":25}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/5/9/8/4/5984d9b48453194e411c71d96d65c4c2956b2114/1430-Organic.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn628374view3】 [wordlim: 200] Source: click({\"ref_id\":\"turn264121view0\",\"id\":26}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/1/5/c/b/15cb87fb2a08e0de593762985158cabfe13399f6/1430-Trilungo.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Stan - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1485-stan.html)\n【turn719134view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1485-stan.html\",\"lineno\":null}); Total lines: 99\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Stan\nL12: \nL13: Modell-Nr.: 1485\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: Tischplatte 【6†Eiche Natur,†www.draenert.de】 【7†Stühle Dan†www.draenert.de】\nL20: \nL21: 【8†Image】\nL22: \nL23: Produkte / Materialien\nL24: \nL25: tischplatte 【9†Eiche dunkelgrau,†www.draenert.de】 Stühle 【10†Dan†www.draenert.de】\nL26: \nL27: 【11†Image】\nL28: \nL29: Produkte / Materialien\nL30: \nL31: Tischplatte 【9†eiche Dunkelgrau†www.draenert.de】, Stühle 【10†Dan†www.draenert.de】 Bank 【12†Dan†www.draenert.de】\nL32: \nL33: 【13†Image】\nL34: \nL35: Produkte / Materialien\nL36: Tischplatte 【9†Eiche dunkelgrau†www.draenert.de】, 【12†Dan Bank†www.draenert.de】 und 【10†Dan Stühle†www.draenert.de】\nL37: \nL38: 【14†Image】\nL39: \nL40: Produkte / Materialien\nL41: \nL42: Tischplatte ,Stühle 【10†Dan†www.draenert.de】, Bank 【12†Dan†www.draenert.de】\nL43: #### design Wolfgang C. R. Mezger 2022\nL44: Kann ein Tisch sowohl Ruhe als auch Dynamik ausstrahlen? Er kann – wenn Kreativität, Ausdrucksstärke und ein Gespür für Proportionen und Details zusammenspielen. Das ganze können und die langjährige Erfahrung des Designers Wolfgang C.R. Mezger kommen hier zum Tragen. Unser Tisch STAN beweist großes Formgefühl und überrascht durch Leichtigkeit. Seine Platte aus Eichenholz gibt es in Längenzwischen 200 und 280 cm.\nL45: Fast scheint sie auf den beiden dynamisch gekreuzten Beinen, die solide auf einer schwarzen Bodenplatte ruhen, zu schweben. Ein skulpturaler Entwurf – zeitlos und schön.\nL46: #### In folgenden Material-Varianten erhältlich:\nL47: \nL48:   * Holz\nL49: \nL50: Produkte / Materialien\nL51: \nL52: Tischplatte 【6†Eiche natur†www.draenert.de】 gewachst\nL53: \nL54: 【15†Image】\nL55: \nL56: Produkte / Materialien\nL57: \nL58: Tischplatte 【6†Eiche natur†www.draenert.de】\nL59: \nL60: 【16†Image】\nL61: \nL62: Produkte / Materialien\nL63: \nL64: Tischplatte  【9†eiche dunkelgrau†www.draenert.de】\nL65: \nL66: 【17†Image】\nL67: \nL68: 【18†iframe†ui.pcon-solutions.com】\nL69: ## Downloads\nL70: \nL71:   * 【19†Produktinformation】\nL72:   * 【20†dwg-Daten】\nL73:   * Fotos\nL74: \nL75: 【21†Alle herunterladen】\nL76: \nL77: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL78: ##\nL79: \nL80: Weitere Material-Ausführungen (modellspezifisch)\nL81: \nL82: 【22†Zu allen Holzsorten】\nL83: \nL84: 【23†Wolfgang C. R. Mezger Wolfgang C. R. Mezger, geboren 1951, ist ein erfahrener Designer mit mehr als 30 Jahren Erfahrung. Seine E... Mehr über den Designer】\nL85: \nL86: 【24†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL87: \nL88:   * 【2†Händlersuche】\nL89:   * 【24†Katalogbestellung】\nL90:   * 【25†Newsletter】\nL91: \nL92:   * 【26†Aktuelles】\nL93:   * 【27†Für Presse】\nL94: \nL95:   * 【28†Datenschutz】\nL96:   * 【29†Impressum】\nL97: \nL98:   * 【21†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn131888view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn719134view0\",\"id\":19}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/c/6/4/8/c6485caadb85ab0c9a7f5e8432b75f5bef16c0c8/1485_Stan_DE_1.5.26.pdf: TimeoutError\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn131888view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn719134view0\",\"id\":20}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/b/4/a/0/b4a005ae6234e97043650494024f258cd25958a5/1485-Stan.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Nelly - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1511-nelly.html)\n【turn607935view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1511-nelly.html\",\"lineno\":null}); Total lines: 69\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Nelly\nL13: \nL14: Modell-Nr.: 1511-I\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Tischplatte Stein 【6†Calacatta Gold, †www.draenert.de】\nL21: unterbau 【7†goldfarebn†www.draenert.de】,  Stuhl 【8†2042 DAN†www.draenert.de】\nL22: #### design peter draenert 2001/Produktergänzung 2021\nL23: \nL24: Ein runder Esstisch ohne Auszug- oder Innenplatte. Der Tisch besteht aus einer Natursteinplatte und einem Unterbau aus einer Stahlsäule auf einem runden Metallsockel in Hochglanz- Chrom oder Matt-Chrom. Eine weitere Option bietet der Steinsockel aus 3 Flügeln. Der Flügelsockel wird proportional an die Tischplattengröße angepasst.\nL25: #### In folgenden Material-Varianten erhältlich:\nL26: \nL27:   * Stein\nL28: \nL29: Produkte / Materialien\nL30: \nL31: STEIN 【6†CALACATTA GOLD†www.draenert.de】, drehplatte 【9†mooreiche†www.draenert.de】, UNTERBAU 【10†dunkel bronze†www.draenert.de】\nL32: \nL33: 【11†Image】\nL34: \nL35: 【12†Image】\nL36: \nL37: 【13†iframe†ui.pcon-solutions.com】\nL38: ## Downloads\nL39: \nL40:   * 【14†Produktinformation】\nL41:   * 【15†dwg-Daten】\nL42:   * Fotos\nL43: \nL44: 【16†Alle herunterladen】\nL45: \nL46: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL47: ##\nL48: \nL49: Weitere Material-Ausführungen (modellspezifisch)\nL50: \nL51: 【17†Zu allen Steinsorten】\nL52: \nL53: 【18†Zu allen Holzsorten】\nL54: \nL55: 【19†Dr. Peter Draenert Peter Draenert (1937-2005) hat an der Universität Tübingen Philosophie, Kunstgeschichte, Germanistik un... Mehr über den Designer】\nL56: \nL57: 【20†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL58: \nL59:   * 【2†Händlersuche】\nL60:   * 【20†Katalogbestellung】\nL61:   * 【21†Newsletter】\nL62: \nL63:   * 【22†Aktuelles】\nL64:   * 【23†Für Presse】\nL65: \nL66:   * 【24†Datenschutz】\nL67:   * 【25†Impressum】\nL68:   * 【16†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/d/c/d/5/dcd57b8e8d6b7e873a528cf2a30a4f9a171b31e0/1511-I_Nelly_DE_1.5.26.pdf)\n【turn372873view0】 [wordlim: 200] Crawled: 2 weeks ago; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn607935view0\",\"id\":14}); Total lines: 42\nL0@P0: NELLY\nL1@P0: Modell-Nr. 1511-I\nL2@P0: DESIGN DR. PETER DRAENERT\nL3@P0: Ein runder Esstisch ohne Auszug- oder Innenplatte. Der Tisch besteht aus einer Natursteinplatte und einem Unterbau aus einer\nL4@P0: Stahlsäule auf einem runden Metallsockel in Hochglanz- Chrom oder Matt-Chrom. Eine weitere Option bietet der Steinsockel aus 3\nL5@P0: Flügeln. Der Flügelsockel wird proportional an die Tischplattengröße angepasst.\nL6@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL7@P0-1: Steinïëïïó× ÒÛÔÔÇ ÜÛÍ×ÙÒ ÐÛÌÛÎ ÜÎßÛÒÛÎÌ îððï\nL8@P1: Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í¬¿¸´®±¸® ïì ½³ ( Þ ó Ô ó Ø\nL9@P1: Ø±½¸¹´¿²¦óÝ¸®±³ ½¿ò ·² ½³\nL10@P1: Í±½µ»´ Í¬¿¸´ Ø±½¸¹´¿²¦óÝ¸®±³\nL11@P1: ïëïïó× Û­­¬·­½¸ ëð ( ïïð ( ¨ éí\nL12@P1: ®«²¼ ëð ( ïîð ( ¨ éí\nL13@P1: êð ( ïíð ( ¨ éí\nL14@P1: êð ( ïìð ( ¨ éí\nL15@P1: êð ( ïëð ( ¨ éí\nL16@P1: êð ( ïêð ( ¨ éí\nL17@P1: Ø·²©»·­æ ß«º­»¬¦¾¿®» Ü®»¸°´¿¬¬» ëð ñ êð ñ éð ñ èð ñ çð ½³ (\nL18@P1: Þ·¬¬» ¿²¹»¾»²æ Ó¿A ¼»® Ü®»¸°´¿¬¬»ò\nL19@P1: ëê\nL20@P1: ÒÛÔÔÇ ïëïïó×\nL21@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL22@P1: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL23@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL24@P1: ìéîë ëëïë êðêë êèéë éìèð èïéë çëíë ïïëêð\nL25@P1: ìççð ëèèð êëèë éìèë èîïë çðëð ïðéïë ïíîéë\nL26@P1: ëïçë êïïð êçïð éçëë èèðð çééë ïïéíë ïìèïë\nL27@P1: ëëíð êëðð éìíë èêìë çêêð ïðèðð ïîéèë ïëïçë\nL28@P1: ëçêð éðïð èïðð çìçð ïðéðë ïîðìë ïìïïë ïéêîð\nL29@P1: êìðë éëíë èéçð ïðìíë ïïèìë ïíëìë ïêðéë ïçéðë\nL30@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ ÛËÎÑ Ë²¬»®¾¿« ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² ð Ë²¬»®¾¿« ´¿½µ·»®¬ ²¿½¸ ÎßÔ îëð\nL31@P1: Ô±©óÜ·²·²¹óØ*¸»² ø½¿ò êðóêè ½³÷ «²¼ Í±²¼»®¸*¸»² ëèð\nL32@P1: ëðêð ß«º­»¬¦¾¿®» ®«²¼» Ü®»¸°´¿¬¬»ô Ø±´¦ º«®²·»®¬ ·²æ Û·½¸» ß³»®·µ¿²·­½¸\nL33@P1: ²¿¬«® ñ ¬±¾¿½½± Ò«­­¾¿«³\nL34@P1: ¼«²µ»´¹®¿« ñ Ó±±®»·½¸»\nL35@P1:  ëð ½³ ( ïðëë ïîíð\nL36@P1:  êð ½³ ( ïïîð ïíðð\nL37@P1:  éð ½³ ( ïïèð ïíéë\nL38@P1:  èð ½³ ( ïîëë ïìêë\nL39@P1:  çð ½³ ( ïííð ïëëë\nL40@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ëé\nL41@P1: Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn372873view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn607935view0\",\"id\":15}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/6/7/5/e/675e6df50bf95a9a63d510001b12b408d34e04a9/1511%20Nelly%20I%2CII%2CV.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Nelly - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1511-nelly-1-1.html)\n【turn874964view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1511-nelly-1-1.html\",\"lineno\":null}); Total lines: 66\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Nelly\nL13: \nL14: Modell-Nr.: 1511-III\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Tischplatte Stein 【6†Stratus Boquira†www.draenert.de】\nL21: unterbau 【7†nickelfarben†www.draenert.de】,  Stuhl 【8†2059.2 Dexter†www.draenert.de】\nL22: #### design patric draenert 2018\nL23: \nL24: Ein runder Esstisch ohne Auszug- oder Innenplatte. Der Tisch besteht aus einer Natursteinplatte und einem Unterbau aus einem runden Metallsockel in Wunschfarbe beschichtet oder in RAL Farbe lackiert. Eine weitere Option ist die aufsetzbare runde Drehplatte in Holz furniert.\nL25: \nL26: #### In folgenden Material-Varianten erhältlich:\nL27: \nL28:   * Stein\nL29: \nL30: 【9†Image】\nL31: \nL32: 【10†Image】\nL33: \nL34: 【11†iframe†ui.pcon-solutions.com】\nL35: ## Downloads\nL36: \nL37:   * 【12†Produktinformation】\nL38:   * 【13†dwg-Daten】\nL39:   * Fotos\nL40: \nL41: 【14†Alle herunterladen】\nL42: \nL43: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL44: ##\nL45: \nL46: Weitere Material-Ausführungen (modellspezifisch)\nL47: \nL48: 【15†Zu allen Steinsorten】\nL49: \nL50: 【16†Zu allen Holzsorten】\nL51: \nL52: 【17†Dr. Peter Draenert Peter Draenert (1937-2005) hat an der Universität Tübingen Philosophie, Kunstgeschichte, Germanistik un... Mehr über den Designer】\nL53: \nL54: 【18†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL55: \nL56:   * 【2†Händlersuche】\nL57:   * 【18†Katalogbestellung】\nL58:   * 【19†Newsletter】\nL59: \nL60:   * 【20†Aktuelles】\nL61:   * 【21†Für Presse】\nL62: \nL63:   * 【22†Datenschutz】\nL64:   * 【23†Impressum】\nL65:   * 【14†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/b/f/8/4/bf84a0d4e270f71232b771d8cf04ae190d582178/1511-III_Nelly_1515-III_Tadao_DE_1.5.26.pdf)\n【turn604018view0】 [wordlim: 200] Crawled: last month; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn874964view0\",\"id\":12}); Total lines: 63\nL0@P0: NELLY\nL1@P0: Modell-Nr. 1511-III\nL2@P0: DESIGN DR. PETER DRAENERT\nL3@P0: Ein runder Esstisch ohne Auszug- oder Innenplatte. Der Tisch besteht aus einer Natursteinplatte und einem Unterbau aus einem\nL4@P0: runden Metallsockel in Wunschfarbe beschichtet oder in RAL Farbe lackiert. Eine weitere Option ist die aufsetzbare runde Drehplatte\nL5@P0: in Holz furniert.\nL6@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL7@P0-1: Steinïëïïó××× ÒÛÔÔÇ ÜÛÍ×ÙÒ ÐßÌÎ×Ý ÜÎßÛÒÛÎÌ îðïè\nL8@P1: Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Ó»¬¿´´­±½µ»´ µ±²·­½¸ Þ ó Ô ó Ø\nL9@P1: ­½¸©¿®¦ ¾»­½¸·½¸¬»¬ ½¿ò ·² ½³\nL10@P1: Ü«®½¸³»­­»® «²¬»² ñ ±¾»²\nL11@P1: ïëïïó××× Û­­¬·­½¸ ( êë ñ ìë ½³ ïïð ( ¨ éì\nL12@P1: ®«²¼ ( êë ñ ìë ½³ ïîð ( ¨ éì\nL13@P1: ( êë ñ ìë ½³ ïíð ( ¨ éì ( êë ñ ìë ½³ ïìð ( ¨ éì\nL14@P1: ( éè ñ ëè ½³ ïëð ( ¨ éì ( éè ñ ëè ½³ ïêð ( ¨ éì\nL15@P1: ( éè ñ ëè ½³ ïéð ( ¨ éì ( éè ñ ëè ½³ ïèð ( ¨ éì\nL16@P1: Ø·²©»·­æ ß«º­»¬¦¾¿®» Ü®»¸°´¿¬¬» ëð ñ êð ñ éð ñ èð ñ çð ½³ (\nL17@P1: Þ·¬¬» ¿²¹»¾»²æ Ó¿A ¼»® Ü®»¸°´¿¬¬»ò\nL18@P1: ïëïëó××× ÌßÜßÑ ÜÛÍ×ÙÒ ÐßÌÎ×Ý ÜÎßÛÒÛÎÌ îðïè\nL19@P1: Ó±¼»´´¿®¬ ×²²»²°´¿¬¬» Ë²¬»®¾¿« Ù®*A» Ü«®½¸³»­­»® Ó»¬¿´´­±½µ»´ µ±²·­½¸ Þ ó Ô ó Ø\nL20@P1: ·² ½³ ­½¸©¿®¦ ¾»­½¸·½¸¬»¬ ½¿ò ·² ½³\nL21@P1: Ü«®½¸³»­­»® «²¬»² ñ ±¾»²\nL22@P1: ïëïëó××× Û­­¬·­½¸ ëð ( ( êë ñ ìë ½³ ïïð ( ¨ éì\nL23@P1: ®«²¼ êð ( ( êë ñ ìë ½³ ïîð ( ¨ éì ³·¬ ¼®»¸¾¿®»®\nL24@P1: ×²²»²°´¿¬¬» éð ( ( êë ñ ìë ½³ ïíð ( ¨ éì\nL25@P1: éð ( ( êë ñ ìë ½³ ïìð ( ¨ éì\nL26@P1: èð ( ( éè ñ ëè ½³ ïëð ( ¨ éì\nL27@P1: çð ( ( éè ñ ëè ½³ ïêð ( ¨ éì\nL28@P1: ïðð ( ( éè ñ ëè ½³ ïéð ( ¨ éì\nL29@P1: ïïð ( ( éè ñ ëè ½³ ïèð ( ¨ éì\nL30@P1: ëè\nL31@P1: ÒÛÔÔÇ ïëïïó×××\nL32@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL33@P1: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL34@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL35@P1: êëìð éêíë èíïë çðêë çèíë ïðéèë ïîëëð ïìéëë\nL36@P1: êëèð ééëð èìéë çîéð ïðîìð ïïìïð ïíééð ïêìéð\nL37@P1: êêçð éèêë èêêë çéçë ïðçðë ïîîîð ïìçïë ïèðçð\nL38@P1: éïïð èííë çîîë ïðëðë ïïéçë ïíîèë ïêíèð îðïíð\nL39@P1: éíçë èéðð çêéð ïïîèð ïîéèë ïììçð ïèðçë îïéïë\nL40@P1: éççë çììð ïðëîë ïîîêë ïíçëë ïêðìë îðîðë îìëêë\nL41@P1: èíéë çèëð ïïðíë ïíïïë ïëðíð ïéëîë îïíèð îëîêð\nL42@P1: èéíð ïðîéð ïïëéð ïíçëð ïêðêë ïèçìð îîçéë îèîçð\nL43@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² ð Í±½µ»´ ´¿½µ·»®¬ ²¿½¸ ÎßÔ îèð Í±½µ»´ ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® × Í¬¿²¼¿®¼ èêð Í±½µ»´ ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® ×× Û´³±­±º¬ ïîíð\nL44@P1: ëðêð ß«º­»¬¦¾¿®» ®«²¼» Ü®»¸°´¿¬¬»ô Ø±´¦ º«®²·»®¬ ·²æ\nL45@P1:  ó Û·½¸» ²¿¬«®ô ¬±¾¿½½±ô ¼«²µ»´¹®¿«ô Ó±±®»·½¸»\nL46@P1:  ó ß³»®·µ¿²·­½¸ Ò«­­¾¿«³\nL47@P1: Ó¿A» «²¼ Ð®»·­» ­·»¸» Ó±¼»´´ ïëïïó×\nL48@P1: ÌßÜßÑ ïëïëó×××\nL49@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL50@P1: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL51@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL52@P1: ïðíìð ïïéêð ïîììð ïíïçð ïíçêð ïìçïð ïêêéë ïèèèð\nL53@P1: ïðíèð ïïèéë ïîêðð ïííçë ïìíêë ïëëíë ïéèçë îðëçë\nL54@P1: ïðìçð ïïççð ïîéçð ïíçîð ïëðíð ïêíìë ïçðìð îîîïë\nL55@P1: ïðçïð ïîìêð ïííëð ïìêíð ïëçîð ïéìïð îðëðë îìîëë\nL56@P1: ïïïçë ïîèîë ïíéçë ïëìðë ïêçïð ïèêïë îîîîð îëèìð\nL57@P1: ïïéçë ïíëêë ïìêëð ïêíçð ïèðèð îðïéð îìííð îèêçð\nL58@P1: ïîïéë ïíçéë ïëïêð ïéîìð ïçïëë îïêëð îëëðë îçíèë\nL59@P1: ïîëíð ïìíçë ïëêçë ïèðéë îðïçð îíðêë îéïðð íîìïë\nL60@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² ð Í±½µ»´ ´¿½µ·»®¬ ²¿½¸ ÎßÔ îèð Í±½µ»´ ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® × Í¬¿²¼¿®¼ èêð Í±½µ»´ ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® ×× Û´³±­±º¬ ïîíð\nL61@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ëç\nL62@P1: Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn604018view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn874964view0\",\"id\":13}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/f/2/2/7/f2277f780b15505f91c96a372851441aea076478/1511%20Nelly%20III.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Tadao III - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/tadao-III.html)\n【turn998546view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/tadao-III.html\",\"lineno\":null}); Total lines: 79\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Tadao III\nL13: \nL14: Modell-Nr.: 1515 III\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein 【6†Orobico Black,†www.draenert.de】 unterbau lederbezogen\nL21: stühle 【7†dexter†www.draenert.de】\nL22: \nL23: 【8†Image】\nL24: \nL25: Produkte / Materialien\nL26: \nL27: Stein 【6†Orobico Black,†www.draenert.de】 unterbau 【9†Leder bezogen†www.draenert.de】,\nL28: stühle 【6† †www.draenert.de】【7†dexter†www.draenert.de】\nL29: #### Design Patric Draenert 2018\nL30: \nL31: Gastfreundlichkeit hat einen Namen: TADAO. Dieser runde Esstisch aus Naturstein hat eine drehbare Innenplatte. Der kegelförmige Unterbau, der passend zur Tischplatte lackiert oder mit Leder ummantelt ist, kann auch große Durchmesser leicht tragen. Der dekorative Steinkranz am Unterbau lässt den TADAO leichter wirken. Repräsentativen Räumen verleiht er durch die eingesetzten Materialien eine stilvolle Note.\nL32: #### In folgenden Material-Varianten erhältlich:\nL33: \nL34:   * Stein\nL35: \nL36: Produkte / Materialien\nL37: \nL38: Stein 【6†orobico Black,†www.draenert.de】 unterbau Leder Bezogen\nL39: \nL40: 【10†Image】\nL41: \nL42: Produkte / Materialien\nL43: \nL44: Stein 【6†orobico Black,†www.draenert.de】 unterbau Leder Bezogen, stühle 【6† †www.draenert.de】【7†dexter†www.draenert.de】\nL45: \nL46: 【11†Image】\nL47: \nL48: 【12†iframe†ui.pcon-solutions.com】\nL49: ## Downloads\nL50: \nL51:   * 【13†Produktinformation】\nL52:   * Fotos\nL53:   * 【14†dwg-Daten】\nL54: \nL55: 【15†Alle herunterladen】\nL56: \nL57: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL58: ##\nL59: \nL60: Weitere Material-Ausführungen (modellspezifisch)\nL61: \nL62: 【16†Zu allen Steinsorten】\nL63: \nL64: 【17†Dr. Patric Draenert Jahrgang 1969, promovierter Betriebswirt leitet das Unternehmen in der zweiten Generation. Seine Entwürfe ... Mehr über den Designer】\nL65: \nL66: 【18†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL67: \nL68:   * 【2†Händlersuche】\nL69:   * 【18†Katalogbestellung】\nL70:   * 【19†Newsletter】\nL71: \nL72:   * 【20†Aktuelles】\nL73:   * 【21†Für Presse】\nL74: \nL75:   * 【22†Datenschutz】\nL76:   * 【23†Impressum】\nL77: \nL78:   * 【15†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/b/f/8/4/bf84a0d4e270f71232b771d8cf04ae190d582178/1511-III_Nelly_1515-III_Tadao_DE_1.5.26.pdf)\n【turn481885view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn998546view0\",\"id\":13}); Total lines: 63\nL0@P0: NELLY\nL1@P0: Modell-Nr. 1511-III\nL2@P0: DESIGN DR. PETER DRAENERT\nL3@P0: Ein runder Esstisch ohne Auszug- oder Innenplatte. Der Tisch besteht aus einer Natursteinplatte und einem Unterbau aus einem\nL4@P0: runden Metallsockel in Wunschfarbe beschichtet oder in RAL Farbe lackiert. Eine weitere Option ist die aufsetzbare runde Drehplatte\nL5@P0: in Holz furniert.\nL6@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL7@P0-1: Steinïëïïó××× ÒÛÔÔÇ ÜÛÍ×ÙÒ ÐßÌÎ×Ý ÜÎßÛÒÛÎÌ îðïè\nL8@P1: Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Ó»¬¿´´­±½µ»´ µ±²·­½¸ Þ ó Ô ó Ø\nL9@P1: ­½¸©¿®¦ ¾»­½¸·½¸¬»¬ ½¿ò ·² ½³\nL10@P1: Ü«®½¸³»­­»® «²¬»² ñ ±¾»²\nL11@P1: ïëïïó××× Û­­¬·­½¸ ( êë ñ ìë ½³ ïïð ( ¨ éì\nL12@P1: ®«²¼ ( êë ñ ìë ½³ ïîð ( ¨ éì\nL13@P1: ( êë ñ ìë ½³ ïíð ( ¨ éì ( êë ñ ìë ½³ ïìð ( ¨ éì\nL14@P1: ( éè ñ ëè ½³ ïëð ( ¨ éì ( éè ñ ëè ½³ ïêð ( ¨ éì\nL15@P1: ( éè ñ ëè ½³ ïéð ( ¨ éì ( éè ñ ëè ½³ ïèð ( ¨ éì\nL16@P1: Ø·²©»·­æ ß«º­»¬¦¾¿®» Ü®»¸°´¿¬¬» ëð ñ êð ñ éð ñ èð ñ çð ½³ (\nL17@P1: Þ·¬¬» ¿²¹»¾»²æ Ó¿A ¼»® Ü®»¸°´¿¬¬»ò\nL18@P1: ïëïëó××× ÌßÜßÑ ÜÛÍ×ÙÒ ÐßÌÎ×Ý ÜÎßÛÒÛÎÌ îðïè\nL19@P1: Ó±¼»´´¿®¬ ×²²»²°´¿¬¬» Ë²¬»®¾¿« Ù®*A» Ü«®½¸³»­­»® Ó»¬¿´´­±½µ»´ µ±²·­½¸ Þ ó Ô ó Ø\nL20@P1: ·² ½³ ­½¸©¿®¦ ¾»­½¸·½¸¬»¬ ½¿ò ·² ½³\nL21@P1: Ü«®½¸³»­­»® «²¬»² ñ ±¾»²\nL22@P1: ïëïëó××× Û­­¬·­½¸ ëð ( ( êë ñ ìë ½³ ïïð ( ¨ éì\nL23@P1: ®«²¼ êð ( ( êë ñ ìë ½³ ïîð ( ¨ éì ³·¬ ¼®»¸¾¿®»®\nL24@P1: ×²²»²°´¿¬¬» éð ( ( êë ñ ìë ½³ ïíð ( ¨ éì\nL25@P1: éð ( ( êë ñ ìë ½³ ïìð ( ¨ éì\nL26@P1: èð ( ( éè ñ ëè ½³ ïëð ( ¨ éì\nL27@P1: çð ( ( éè ñ ëè ½³ ïêð ( ¨ éì\nL28@P1: ïðð ( ( éè ñ ëè ½³ ïéð ( ¨ éì\nL29@P1: ïïð ( ( éè ñ ëè ½³ ïèð ( ¨ éì\nL30@P1: ëè\nL31@P1: ÒÛÔÔÇ ïëïïó×××\nL32@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL33@P1: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL34@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL35@P1: êëìð éêíë èíïë çðêë çèíë ïðéèë ïîëëð ïìéëë\nL36@P1: êëèð ééëð èìéë çîéð ïðîìð ïïìïð ïíééð ïêìéð\nL37@P1: êêçð éèêë èêêë çéçë ïðçðë ïîîîð ïìçïë ïèðçð\nL38@P1: éïïð èííë çîîë ïðëðë ïïéçë ïíîèë ïêíèð îðïíð\nL39@P1: éíçë èéðð çêéð ïïîèð ïîéèë ïììçð ïèðçë îïéïë\nL40@P1: éççë çììð ïðëîë ïîîêë ïíçëë ïêðìë îðîðë îìëêë\nL41@P1: èíéë çèëð ïïðíë ïíïïë ïëðíð ïéëîë îïíèð îëîêð\nL42@P1: èéíð ïðîéð ïïëéð ïíçëð ïêðêë ïèçìð îîçéë îèîçð\nL43@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² ð Í±½µ»´ ´¿½µ·»®¬ ²¿½¸ ÎßÔ îèð Í±½µ»´ ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® × Í¬¿²¼¿®¼ èêð Í±½µ»´ ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® ×× Û´³±­±º¬ ïîíð\nL44@P1: ëðêð ß«º­»¬¦¾¿®» ®«²¼» Ü®»¸°´¿¬¬»ô Ø±´¦ º«®²·»®¬ ·²æ\nL45@P1:  ó Û·½¸» ²¿¬«®ô ¬±¾¿½½±ô ¼«²µ»´¹®¿«ô Ó±±®»·½¸»\nL46@P1:  ó ß³»®·µ¿²·­½¸ Ò«­­¾¿«³\nL47@P1: Ó¿A» «²¼ Ð®»·­» ­·»¸» Ó±¼»´´ ïëïïó×\nL48@P1: ÌßÜßÑ ïëïëó×××\nL49@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL50@P1: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL51@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL52@P1: ïðíìð ïïéêð ïîììð ïíïçð ïíçêð ïìçïð ïêêéë ïèèèð\nL53@P1: ïðíèð ïïèéë ïîêðð ïííçë ïìíêë ïëëíë ïéèçë îðëçë\nL54@P1: ïðìçð ïïççð ïîéçð ïíçîð ïëðíð ïêíìë ïçðìð îîîïë\nL55@P1: ïðçïð ïîìêð ïííëð ïìêíð ïëçîð ïéìïð îðëðë îìîëë\nL56@P1: ïïïçë ïîèîë ïíéçë ïëìðë ïêçïð ïèêïë îîîîð îëèìð\nL57@P1: ïïéçë ïíëêë ïìêëð ïêíçð ïèðèð îðïéð îìííð îèêçð\nL58@P1: ïîïéë ïíçéë ïëïêð ïéîìð ïçïëë îïêëð îëëðë îçíèë\nL59@P1: ïîëíð ïìíçë ïëêçë ïèðéë îðïçð îíðêë îéïðð íîìïë\nL60@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² ð Í±½µ»´ ´¿½µ·»®¬ ²¿½¸ ÎßÔ îèð Í±½µ»´ ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® × Í¬¿²¼¿®¼ èêð Í±½µ»´ ³·¬ Ô»¼»®¾»¦«¹ Ô»¼»® ×× Û´³±­±º¬ ïîíð\nL61@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ëç\nL62@P1: Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn481885view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn998546view0\",\"id\":14}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/b/0/d/1/b0d1e0a9840426f824481231a73ff276e17b1c10/1515-III.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Tadao V - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/tadao-V.html)\n【turn682072view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/tadao-V.html\",\"lineno\":null}); Total lines: 74\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Tadao V\nL13: \nL14: Modell-Nr.: 1515 V\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein 【6†Black Marinace†www.draenert.de】, Unterbau\nL21: 【6†Quarzit silver,†www.draenert.de】 Stühle 【7†Dan†www.draenert.de】\nL22: \nL23: 【8†Image】\nL24: \nL25: Produkte / Materialien\nL26: \nL27: Stein 【6†Black Marinace,†www.draenert.de】 unterbau 【6†Quarzit Silver, †www.draenert.de】\nL28: stühle【9† †www.draenert.de】 【7†Dan†www.draenert.de】\nL29: #### Mod. 1515-V, Design Gino carollo 2022\nL30: \nL31: Unser Designer Gino Carollo hat für den Tisch TADAO einen neuen Unterbau aus Naturstein entworfen. Wie ein Propellerscheinen sich die 3 sternförmig angeordneten und 4 cm dicken Steinwangen ineinander zu drehen. Sie sorgen für die plastische Anmutung des TADAO. Der Rest ist die Gastlichkeit in Reinkultur: Die runde Tischplatte aus Naturstein verfügt über eine drehbare Innenplatte, beider jeder Gast den besten Platz hat.\nL32: #### In folgenden Material-Varianten erhältlich:\nL33: \nL34:   * Stein\nL35: \nL36: Produkte / Materialien\nL37: \nL38: Stein 【9†orobico Black,†www.draenert.de】 unterbau 【10†Quarzit Silver†www.draenert.de】\nL39: \nL40: 【11†Image】\nL41: \nL42: 【12†iframe†ui.pcon-solutions.com】\nL43: \nL44: ## Downloads\nL45: \nL46:   * 【13†Produktinformation】\nL47:   * 【14†dwg-Daten】\nL48:   * Fotos\nL49: \nL50: 【15†Alle herunterladen】\nL51: \nL52: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL53: ##\nL54: \nL55: Weitere Material-Ausführungen (modellspezifisch)\nL56: \nL57: 【16†Zu allen Steinsorten】\nL58: \nL59: 【17†Gino Carollo Italien, ThieneJahrgang 1965, der Industriedesigner arbeitet seit 1990 für namhafte internationale Un... Mehr über den Designer】\nL60: \nL61: 【18†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL62: \nL63:   * 【2†Händlersuche】\nL64:   * 【18†Katalogbestellung】\nL65:   * 【19†Newsletter】\nL66: \nL67:   * 【20†Aktuelles】\nL68:   * 【21†Für Presse】\nL69: \nL70:   * 【22†Datenschutz】\nL71:   * 【23†Impressum】\nL72: \nL73:   * 【15†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/7/2/1/f/721f73ddc721fe8e133fd3e82a5b775f209ab6fb/1511-V_Nelly_1515-V_Tadao_DE_1.5.26.pdf)\n【turn171437view0】 [wordlim: 200] Crawled: 6 days ago; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn682072view0\",\"id\":13}); Total lines: 67\nL0@P0: TADAO V\nL1@P0: Modell-Nr. 1515 V\nL2@P0: DESIGN GINO CAROLLO\nL3@P0: Unser Designer Gino Carollo hat für den Tisch TADAO einen neuen Unterbau aus Naturstein entworfen. Wie ein Propellerscheinen\nL4@P0: sich die 3 sternförmig angeordneten und 4 cm dicken Steinwangen ineinander zu drehen. Sie sorgen für die plastische Anmutung des\nL5@P0: TADAO. Der Rest ist die Gastlichkeit in Reinkultur: Die runde Tischplatte aus Naturstein verfügt über eine drehbare Innenplatte, beider\nL6@P0: jeder Gast den besten Platz hat.\nL7@P0: IN FOLGENDEN MATERIALVARIANTEN ERHÄLTLICH:\nL8@P0-1: SteinïëïïóÊ ÒÛÔÔÇ ÜÛÍ×ÙÒ Ù×ÒÑ ÝßÎÑÔÔÑ îðîî\nL9@P1: Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í¬»·²­±½µ»´ Þ ó Ô ó Ø\nL10@P1: ¿«­ í Í¬»·²©¿²¹»² ½¿ò ·² ½³\nL11@P1: ïëïïóÊ Û­­¬·­½¸ ïïð ( ¨ éì\nL12@P1: ®«²¼ ïîð ( ¨ éì\nL13@P1: ïíð ( ¨ éì\nL14@P1: ïìð ( ¨ éì\nL15@P1: ïëð ( ¨ éì\nL16@P1: ïêð ( ¨ éì\nL17@P1: ïéð ( ¨ éì\nL18@P1: ïèð ( ¨ éì\nL19@P1: Ø·²©»·­æ ß«º­»¬¦¾¿®» Ü®»¸°´¿¬¬» ëð ñ êð ñ éð ñ èð ñ çð ½³ (\nL20@P1: Þ·¬¬» ¿²¹»¾»²æ Ó¿A ¼»® Ü®»¸°´¿¬¬»ò\nL21@P1: ïëïëóÊ ÌßÜßÑ ÜÛÍ×ÙÒ Ù×ÒÑ ÝßÎÑÔÔÑ îðîî\nL22@P1: Ó±¼»´´¿®¬ ×²²»²°´¿¬¬» Ë²¬»®¾¿« Ù®*A» Ü«®½¸³»­­»® Í¬»·²­±½µ»´ Þ ó Ô ó Ø\nL23@P1: ·² ½³ ¿«­ í Í¬»·²©¿²¹»² ½¿ò ·² ½³\nL24@P1: ïëïëóÊ Û­­¬·­½¸ ëð ( ïïð ( ¨ éì\nL25@P1: ®«²¼ êð ( ïîð ( ¨ éì ³·¬ ¼®»¸¾¿®»®\nL26@P1: ×²²»²°´¿¬¬» éð ( ïíð ( ¨ éì\nL27@P1: éð ( ïìð ( ¨ éì\nL28@P1: èð ( ïëð ( ¨ éì\nL29@P1: çð ( ïêð ( ¨ éì\nL30@P1: ïðð ( ïéð ( ¨ éì\nL31@P1: ïïð ( ïèð ( ¨ éì\nL32@P1: êð\nL33@P1: ÒÛÔÔÇ ïëïïóÊ\nL34@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL35@P1: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL36@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL37@P1: ééêð çïíð çèíð ïðêíð ïïéðð ïíðìë ïìêéë ïéìïë\nL38@P1: éèêð çîìë ïðððë ïðèìð ïïèéð ïíìïð ïëêðë ïèéçë\nL39@P1: éçêë çíêë ïðîðð ïïìðë ïîéèð ïìîéë ïêèïð îðëëð\nL40@P1: èíçë çèèë ïðèðð ïîïëð ïíêìð ïëíðð ïèíêð îîéëë\nL41@P1: èéíë ïðîëë ïïîéë ïîçéë ïìéðð ïêééð îðïèð îììêð\nL42@P1: çíèð ïïðíð ïîïéð ïìðïë ïëèïð ïèðïë îîìïë îêéìë\nL43@P1: çéìë ïïìêë ïîéïð ïìçîð ïêçíë ïçëèð îíêëë îèðçð\nL44@P1: ïðïîë ïïçïð ïíîèð ïëèðë ïèðíð îïðéð îìêðð íðéðð\nL45@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ ÛËÎÑ ëðêð ß«º­»¬¦¾¿®» ®«²¼» Ü®»¸°´¿¬¬»ô Ø±´¦ º«®²·»®¬ ·²æ Û·½¸» ß³»®·µ¿²·­½¸\nL46@P1: ²¿¬«® ñ ¬±¾¿½½± Ò«­­¾¿«³\nL47@P1: ¼«²µ»´¹®¿« ñ Ó±±®»·½¸»\nL48@P1: ëð ½³ ( ïðëë ïîíð\nL49@P1: êð ½³ ( ïïîð ïíðð\nL50@P1: éð ½³ ( ïïèð ïíéë\nL51@P1: èð ½³ ( ïîëë ïìêë\nL52@P1: çð ½³ ( ïííð ïëëë\nL53@P1: ÌßÜßÑ ïëïëóÊ\nL54@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL55@P1: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL56@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL57@P1: ïïéêð ïíëðë ïìîðë ïëððë ïêðéë ïéìîð ïçðëð îïéçð\nL58@P1: ïïèêð ïíêîð ïìíèð ïëîïë ïêîìë ïééèë ïççèð îíïéð\nL59@P1: ïïçêë ïíéìð ïìëéë ïëéèð ïéïëë ïèêëð îïïèë îìçîë\nL60@P1: ïîíçë ïìîêð ïëïéë ïêëîë ïèðïë ïçêéë îîéíë îéïíð\nL61@P1: ïîéíë ïìêíð ïëêëð ïéíëð ïçðéë îïïìë îìëëë îèèíë\nL62@P1: ïìðèð ïêïèð ïéíîð ïçïêë îðçêð îíïêë îéëêë íïèçë\nL63@P1: ïìììë ïêêïë ïéèêð îððéð îîðèë îìéíð îèèðë ííîìð\nL64@P1: ïìèîë ïéðêð ïèìíð îðçëë îíïèð îêîîð îçéëð íëèëð\nL65@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ êï\nL66@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn171437view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn682072view0\",\"id\":14}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/7/b/1/d/7b1dd33ec12ae7d73449524d336380b3aa29d156/1515-V.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Tadao Magnum - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/tadao-magnum.html)\n【turn215616view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/tadao-magnum.html\",\"lineno\":null}); Total lines: 77\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Tadao Magnum\nL12: \nL13: Modell-Nr.: 1516\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: Stein 【6†White Camouflage†www.draenert.de】, Stühle 【7†Dexter†www.draenert.de】\nL20: \nL21: 【8†Image】\nL22: \nL23: Produkte / Materialien\nL24: \nL25: Stein 【9†Statuario Ponte Vecchio†www.draenert.de】, Stühle 【10†Dexter†www.draenert.de】\nL26: \nL27: 【11†Image】\nL28: \nL29: Produkte / Materialien\nL30: \nL31: Tadao Magnum, Stein 【6†White Camouflage†www.draenert.de】, STuhl 【7†Dexter†www.draenert.de】\nL32: #### Mod. 1516 mit Motorfunktion, Design Patric Draenert 2023\nL33: Die Gastfreundlichkeit des TADAO-Tisches haben wir nun perfektioniert: Die drehbare Innenplatte, inspiriert von der asiatischen Tischkultur, ist nun motorbetrieben und ermöglicht eine noch komfortablere Begegnung am Tisch.Durch einen leise laufenden, Akku betriebenen Getriebemotor sind verschiedene Geschwindigkeiten und Richtungen individuell steuerbar. Im Permanent-Modus dreht sich die Innenplatte mit sachter Geschwindigkeit ohne Unterbrechung. Im Stop-and-Go-Modus dreht sie sich nur bei Bedarf.\nL34: Das Ganze natürlich mit einer Bluetooth-Fernbedienung.\nL35: #### In folgenden Material-Varianten erhältlich:\nL36: \nL37:   * Stein\nL38: \nL39: Produkte / Materialien\nL40: \nL41: Stein 【6†White Camouflage†www.draenert.de】\nL42: \nL43: 【12†Image】\nL44: \nL45: 【13†iframe†ui.pcon-solutions.com】\nL46: \nL47: ## Downloads\nL48: \nL49:   * 【14†Produktinformation】\nL50:   * 【15†dwg-Daten】\nL51:   * Fotos\nL52: \nL53: 【16†Alle herunterladen】\nL54: \nL55: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL56: ##\nL57: \nL58: Weitere Material-Ausführungen (modellspezifisch)\nL59: \nL60: 【17†Zu allen Steinsorten】\nL61: \nL62: 【18†Dr. Patric Draenert Jahrgang 1969, promovierter Betriebswirt leitet das Unternehmen in der zweiten Generation. Seine Entwürfe ... Mehr über den Designer】\nL63: \nL64: 【19†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL65: \nL66:   * 【2†Händlersuche】\nL67:   * 【19†Katalogbestellung】\nL68:   * 【20†Newsletter】\nL69: \nL70:   * 【21†Aktuelles】\nL71:   * 【22†Für Presse】\nL72: \nL73:   * 【23†Datenschutz】\nL74:   * 【24†Impressum】\nL75: \nL76:   * 【16†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn604210view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn215616view0\",\"id\":14}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/a/9/1/e/a91e9f0e937228a753c1510c9dcdc91a9bb9d0b7/1516-III_Tadao%20Magnum_%C3%9Cbersicht_Stein_DE_1.5.26.pdf: TimeoutError\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn604210view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn215616view0\",\"id\":15}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/f/9/9/d/f99dc99de8d2555b7c9ef30ea25b409e0b5355ad/1516%20Tadao%20Magnum.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Adler - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1224-adler.html)\n【turn393784view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1224-adler.html\",\"lineno\":null}); Total lines: 170\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Adler\nL12: \nL13: Modell-Nr.: 1224\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: Stein 【6†Venice Black,†www.draenert.de】 Sockel 【7†dunkelbronze†www.draenert.de】\nL20: Stühle 【8†cobe†www.draenert.de】\nL21: \nL22: 【9†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Tischplatte Stein 【10†Dolomite Gold†www.draenert.de】, Ovalsockel 【11†gold†www.draenert.de】, Stühle 【12†dan】\nL27: \nL28: 【13†Image】\nL29: \nL30: Produkte / Materialien\nL31: \nL32: Stein 【14†Orobico Black】, Ovalsockel nickel,\nL33: Stühle 【15†DEXTER】\nL34: \nL35: 【16†Image】\nL36: \nL37: Produkte / Materialien\nL38: tischplatte 【17†Eiche dunkelgra】【18†u†www.draenert.de】,\nL39: ovalsockel 【19†schwarz】,\nL40: Stühle 【20†Dan†www.draenert.de】\nL41: \nL42: Produkte / Materialien\nL43: \nL44: Tischplatte 【21†dreaming green】, stühle nobile\nL45: \nL46: 【22†Image】\nL47: \nL48: Produkte / Materialien\nL49: \nL50: Stein 【23†Sequoia Black】,\nL51: ovalsockel nickel, Stühle 【24†NOBILE SOFT】\nL52: \nL53: 【25†Image】\nL54: \nL55: Produkte / Materialien\nL56: \nL57: Tischplatte Stein 【26†Venice Black†www.draenert.de】\nL58: Ovalsockel 【27†nickel】\nL59: \nL60: 【28†Image】\nL61: \nL62: Produkte / Materialien\nL63: \nL64: Stein 【29†Oxford grey】, Ovalsockel nickel, Stühle 【15†DEXTER】\nL65: 【30†Image】\nL66: \nL67: Produkte / Materialien\nL68: \nL69: Stein 【31†Azul Mary】,\nL70: ovalsockel 【32†dunkelbronze】, Stühle 【15†DEXTER】\nL71: \nL72: 【33†Image】\nL73: \nL74: Produkte / Materialien\nL75: \nL76: tischplatte Massivholz 【34†Amerikanisch Nussbaum】, ovalsockel nickel, Stühle 【35†LUMA】\nL77: \nL78: 【36†Image】\nL79: \nL80: Produkte / Materialien\nL81: \nL82: Tischplatte stein 【37†sodalith】, stühle 【38†nobile soft x】\nL83: #### Design Peter Draenert 1995\nL84: \nL85: Ein vergrößerbarer Esstisch aus Naturstein oder Holz, bootsförmig, rechteckig, organisch oder oval, mit Hubmechanik für eine integrierte Mittelplatte aus Naturstein oder Holz. Eine integrierte Hebemechanik erlaubt es, die innen liegende Mittelplatte nach Auseinanderziehen der Tischhälften nach oben zu drehen. Eine ausgereifte Technik macht das Ausfahren zu einem Vorgang wundersamer Leichtigkeit. Dieses Modell wird mit 4 verschiedenen Sockeltypen angeboten.\nL86: #### In folgenden Material-Varianten erhältlich:\nL87: \nL88:   * Stein\nL89:   * Holz\nL90: \nL91: Produkte / Materialien\nL92: \nL93: Stein 【39†Silver Wave】【40†,  †www.draenert.de】sockel 【32†dunkelbronze】\nL94: \nL95: 【41†Image】\nL96: \nL97: Produkte / Materialien\nL98: \nL99: Stein 【39†Silver Wave】【40†,  †www.draenert.de】sockel 【42†Nickelfarben】\nL100: \nL101: 【43†Image】\nL102: \nL103: Produkte / Materialien\nL104: \nL105: Stein 【39†Silver Wave】,  sockel nickel satiniert\nL106: \nL107: 【44†Image】\nL108: \nL109: Produkte / Materialien\nL110: \nL111: Massivholz 【45†Eiche】, ovalsockel Nickel\nL112: \nL113: 【46†Image】\nL114: \nL115: Produkte / Materialien\nL116: Massivholz 【45†Eiche】, ovalsockel Nickel\nL117: \nL118: 【47†Image】\nL119: \nL120: Produkte / Materialien\nL121: \nL122: Massivholz 【45†Eiche】, ovalsockel 【32†dunkelbronze】\nL123: \nL124: 【48†Image】\nL125: \nL126: 【49†Image】\nL127: \nL128: 【50†Image】\nL129: \nL130: Produkte / Materialien\nL131: \nL132: Massivholz 【34†amerikanisch nussbaum】,\nL133: ovalsockel 【51†hochglanz chrom】\nL134: \nL135: 【52†Image】\nL136: \nL137: 【53†iframe†ui.pcon-solutions.com】\nL138: ## Downloads\nL139: \nL140:   * 【54†Produktinformation】\nL141:   * 【55†dwg-Daten Tisch ohne Auszug】\nL142:   * 【56†dwg-Daten Tisch mit Auszug】\nL143:   * Fotos\nL144: \nL145: 【57†Alle herunterladen】\nL146: \nL147: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL148: ##\nL149: \nL150: Weitere Material-Ausführungen (modellspezifisch)\nL151: \nL152: 【37†Zu allen Steinsorten】\nL153: \nL154: 【58†Zu allen Holzsorten】\nL155: \nL156: 【59†Dr. Peter Draenert Peter Draenert (1937-2005) hat an der Universität Tübingen Philosophie, Kunstgeschichte, Germanistik un... Mehr über den Designer】\nL157: \nL158: 【60†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL159: \nL160:   * 【2†Händlersuche】\nL161:   * 【60†Katalogbestellung】\nL162:   * 【61†Newsletter】\nL163: \nL164:   * 【62†Aktuelles】\nL165:   * 【63†Für Presse】\nL166: \nL167:   * 【64†Datenschutz】\nL168:   * 【65†Impressum】\nL169:   * 【57†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn476828view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn393784view0\",\"id\":55}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/f/3/3/c/f33c090798871479e084c462494684e06f0348b5/1224_ohne_Auszug.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn476828view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn393784view0\",\"id\":56}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/1/b/a/6/1ba6d9f96b9de5f71ba9b05d1a7146139e5df9de/1224_Adler_ausziehbar.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Atlas - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1280-ll-atlas.html)\n【turn572659view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1280-ll-atlas.html\",\"lineno\":null}); Total lines: 146\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: # Atlas\nL12: \nL13: Modell-Nr.: 1280-II\nL14: \nL15: 【5†Image】\nL16: \nL17: Produkte / Materialien\nL18: \nL19: Stein 【6†TURTLE†www.draenert.de】, Stühle 【7†NOBILE SWING†www.draenert.de】\nL20: \nL21: 【8†Image】\nL22: \nL23: Produkte / Materialien\nL24: \nL25: 【9†Eiche tobacco†www.draenert.de】, Stühle 【10†Cobe Sternfuß†www.draenert.de】\nL26: \nL27: 【11†Image】\nL28: \nL29: Produkte / Materialien\nL30: \nL31: stein sahara brown, stühle 【12†nobile swing bank†www.draenert.de】\nL32: \nL33: 【13†Image】\nL34: \nL35: Produkte / Materialien\nL36: \nL37: tischplatte Wildeiche, Stühle 【14†Nobile Soft†www.draenert.de】\nL38: \nL39: 【15†Image】\nL40: \nL41: Produkte / Materialien\nL42: Tischplatte Stein 【16†Lasa Vena Oro,†www.draenert.de】 Stühle 【17†nobile†www.draenert.de】\nL43: \nL44: 【18†Image】\nL45: \nL46: Produkte / Materialien\nL47: \nL48: Stühle 【14†Nobile soft†www.draenert.de】, Tischplatte 【19†wildeiche†www.draenert.de】\nL49: \nL50: 【20†Image】\nL51: \nL52: Produkte / Materialien\nL53: \nL54: 【21†Eiche natur†www.draenert.de】, Stühle 【22†Dexter†www.draenert.de】\nL55: #### Design georg appeltshauser 2006\nL56: \nL57: Ein vergrößerbarer, rechteckiger Esstisch aus Naturstein und Holz, der durch seine moderne Strenge überzeugt. Der Auszugsmechanismus bewirkt, daß die Symmetrie von Tischplatte zum Unterbau im ausgezogenen wie eingeschwenkten Zustand gegeben ist. Die neu integrierte Technik lässt die Schwenkplatte um weitere 90 ° drehen. Somit liegt diese dann unter der Hauptplatte und ist von der Seite nicht mehr sichtbar. Dieses Modell wird mit 3 verschiedenen Sockeltypen angeboten.\nL58:   * 【23†Image: IF - product design award 2008】\nL59:   * 【24†Image: Nominierung für den Designpreis der Bundesrepublik Deutschland 2009】\nL60: #### In folgenden Material-Varianten erhältlich:\nL61: \nL62:   * Stein\nL63:   * Holz\nL64: \nL65: Produkte / Materialien\nL66: \nL67:  Tischplatte Stein 【25†Elegant Brown†www.draenert.de】\nL68: \nL69: 【26†Image】\nL70: \nL71: Produkte / Materialien\nL72: \nL73: Tischplatte 【25†elegant brown†www.draenert.de】,\nL74: unterbau 【27†dunkelbronze †www.draenert.de】\nL75: \nL76: 【28†Image】\nL77: \nL78: Produkte / Materialien\nL79: \nL80: Tischplatte 【29†Eiche dunkelgrau,†www.draenert.de】 stühle 【30†nobile †www.draenert.de】\nL81: \nL82: 【31†Image】\nL83: \nL84: Produkte / Materialien\nL85: \nL86: Tischplatte 【19†NAturholz Wildeiche†www.draenert.de】\nL87: \nL88: 【32†Image】\nL89: Produkte / Materialien\nL90: \nL91: Tischplatte Stein 【16†Lasa Vena Oro†www.draenert.de】\nL92: \nL93: 【33†Image】\nL94: \nL95: Produkte / Materialien\nL96: \nL97: Tischplatte Stein 【16†Lasa Vena Oro†www.draenert.de】\nL98: \nL99: 【34†Image】\nL100: \nL101: Produkte / Materialien\nL102: \nL103: Tischplatte 【19†wildeiche†www.draenert.de】\nL104: \nL105: 【35†Image】\nL106: \nL107: Produkte / Materialien\nL108: \nL109: Tischplatte 【19†wildeiche†www.draenert.de】\nL110: \nL111: 【36†Image】\nL112: \nL113: 【37†iframe†ui.pcon-solutions.com】\nL114: ## Downloads\nL115: \nL116:   * 【38†Produktinformation】\nL117:   * 【39†dwg-Daten Tisch ohne Auszug】\nL118:   * 【40†dwg-Daten Tisch mit Auszug】\nL119:   * Fotos\nL120: \nL121: 【41†Alle herunterladen】\nL122: \nL123: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL124: ##\nL125: \nL126: Weitere Material-Ausführungen (modellspezifisch)\nL127: \nL128: 【42†Zu allen Holzsorten】\nL129: \nL130: 【43†Zu allen Steinsorten】\nL131: \nL132: 【44†Georg Appeltshauser Jahrgang 1949, hat zunächst an der FH Ulm Feinmechanik studiert. Anschließend Studium an der Kunstakademie... Mehr über den Designer】\nL133: \nL134: 【45†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL135: \nL136:   * 【2†Händlersuche】\nL137:   * 【45†Katalogbestellung】\nL138:   * 【46†Newsletter】\nL139: \nL140:   * 【47†Aktuelles】\nL141:   * 【48†Für Presse】\nL142: \nL143:   * 【49†Datenschutz】\nL144:   * 【50†Impressum】\nL145:   * 【41†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn419717view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn572659view0\",\"id\":39}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/c/1/b/a/c1ba5b567acfbadd44a1367b9a043ae3cf55b3da/1280%20Atlas%20Tisch%20ohne%20Auszug.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn419717view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn572659view0\",\"id\":40}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/3/1/6/5/3165df27f7277dd035bb3266f4bbb546054cc8c7/1280%20Atlas%20Tisch%20mit%20Auszug.zip: (400) Timeout fetching\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Atlas Magnum - Esstische - Produkte - Draenert (https://draenert.de/de/produkte/esstische/1280-II-atlas-magnum.html)\n【turn971789view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/esstische/1280-II-atlas-magnum.html\",\"lineno\":null}); Total lines: 87\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Atlas Magnum\nL13: \nL14: Modell-Nr.: 1280-II\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein Tokyo, Stühle 【6†NOBILE SOFT X†www.draenert.de】\nL21: \nL22: 【7†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Tischplatte 【8†Eiche Vintage Kupferbraun†www.draenert.de】,\nL27: Stühle 【9†NOBILE SOFT†www.draenert.de】\nL28: #### Mod. nr. 1280-II\nL29: Der ATLAS ist seit einigen Jahren ein Bestseller der Kollektion. Dieser rechteckige Esstisch überzeugt nicht nur durch seine moderne Strenge, sondern auch durch eine patentierte Technik, die eine unter dem Tisch integrierte Ausschwenkplatte spielerisch herausdrehen lässt. Diese Vorzüge sind nun auch als Magnum-Version zu haben. Durch seine imposante Erscheinung ist der ATLAS MAGNUM der Mittelpunkt eines Raumes.\nL30: Dank seiner Größe, der hochwertigen Materialien und der neuen Sockelvariante #4,  ist er auch bei Besprechungen oder Konferenzen ein solider Begleiter.\nL31: #### In folgenden Material-Varianten erhältlich:\nL32: \nL33:   * Stein\nL34:   * Holz\nL35: \nL36: Produkte / Materialien\nL37: \nL38: tischplatte Stein 【10†TOKYO,†www.draenert.de】 Stühle 【6†NOBILE SOFT X†www.draenert.de】\nL39: \nL40: 【11†Image】\nL41: \nL42: Produkte / Materialien\nL43: \nL44: Tischplatte Stein 【10†TOKYO†www.draenert.de】\nL45: \nL46: 【12†Image】\nL47: \nL48: Produkte / Materialien\nL49: \nL50: Tischplatte Holz 【8†vintage kupferbraun†www.draenert.de】\nL51: \nL52: 【13†Image】\nL53: \nL54: 【14†iframe†ui.pcon-solutions.com】\nL55: ## Downloads\nL56: \nL57:   * 【15†Produktinformation】\nL58:   * Fotos\nL59:   * 【16†dwg-Daten Tisch ohne Auszug】\nL60:   * 【17†dwg-Daten Tisch mit Auszug】\nL61: \nL62: 【18†Alle herunterladen】\nL63: \nL64: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL65: ##\nL66: \nL67: Weitere Material-Ausführungen (modellspezifisch)\nL68: \nL69: 【19†Zu allen Steinsorten】\nL70: \nL71: 【20†Zu allen Holzsorten】\nL72: \nL73: 【21†Georg Appeltshauser Jahrgang 1949, hat zunächst an der FH Ulm Feinmechanik studiert. Anschließend Studium an der Kunstakademie... Mehr über den Designer】\nL74: \nL75: 【22†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL76: \nL77:   * 【2†Händlersuche】\nL78:   * 【22†Katalogbestellung】\nL79:   * 【23†Newsletter】\nL80: \nL81:   * 【24†Aktuelles】\nL82:   * 【25†Für Presse】\nL83: \nL84:   * 【26†Datenschutz】\nL85:   * 【27†Impressum】\nL86:   * 【18†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn836617view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn971789view0\",\"id\":16}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/c/1/b/a/c1ba5b567acfbadd44a1367b9a043ae3cf55b3da/1280%20Atlas%20Tisch%20ohne%20Auszug.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn836617view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn971789view0\",\"id\":17}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/3/1/6/5/3165df27f7277dd035bb3266f4bbb546054cc8c7/1280%20Atlas%20Tisch%20mit%20Auszug.zip: (400) Timeout fetching\n"
+        }
+      ],
+      "isError": false
+    }
+  ],
+  "products": [
+    {
+      "label": "1224 Adler",
+      "url": "https://draenert.de/de/produkte/esstische/1224-adler.html",
+      "download_labels": [
+        {
+          "id": 54,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 55,
+          "label": "dwg-Daten Tisch ohne Auszug"
+        },
+        {
+          "id": 56,
+          "label": "dwg-Daten Tisch mit Auszug"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1410 Paramount",
+      "url": "https://draenert.de/de/produkte/esstische/1410-Paramount.html",
+      "download_labels": [
+        {
+          "id": 29,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 30,
+          "label": "dwg-Daten Konsole"
+        },
+        {
+          "id": 31,
+          "label": "dwg-Daten Einzeltisch"
+        },
+        {
+          "id": 32,
+          "label": "dwg-Daten Doppeltische"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1550 Kent",
+      "url": "https://draenert.de/de/produkte/esstische/kent.html",
+      "download_labels": [
+        {
+          "id": 25,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 26,
+          "label": "dwg-Daten Trilungo"
+        },
+        {
+          "id": 27,
+          "label": "dwg-Daten Oval"
+        },
+        {
+          "id": 28,
+          "label": "dwg Kiesel"
+        },
+        {
+          "id": 29,
+          "label": "dwg-Daten Trapeza"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1010-E Largo",
+      "url": "https://draenert.de/de/produkte/esstische/1010-E.html",
+      "download_labels": [
+        {
+          "id": 16,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 17,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1010-S Largo Stehtisch",
+      "url": "https://draenert.de/de/produkte/esstische/1010-S-1.html",
+      "download_labels": [
+        {
+          "id": 14,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 15,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1136-III Titan",
+      "url": "https://draenert.de/de/produkte/esstische/1136-III-titan.html",
+      "download_labels": [
+        {
+          "id": 26,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 27,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1224 Adler Magnum",
+      "url": "https://draenert.de/de/produkte/esstische/1224-adler-1.html",
+      "download_labels": [
+        {
+          "id": 22,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 23,
+          "label": "dwg-Daten Tisch ohne Auszug"
+        },
+        {
+          "id": 24,
+          "label": "dwg-Daten Tisch mit Auszug"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1280-II Atlas",
+      "url": "https://draenert.de/de/produkte/esstische/1280-ll-atlas.html",
+      "download_labels": [
+        {
+          "id": 38,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 39,
+          "label": "dwg-Daten Tisch ohne Auszug"
+        },
+        {
+          "id": 40,
+          "label": "dwg-Daten Tisch mit Auszug"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1280-II Atlas Magnum",
+      "url": "https://draenert.de/de/produkte/esstische/1280-II-atlas-magnum.html",
+      "download_labels": [
+        {
+          "id": 15,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 16,
+          "label": "dwg-Daten Tisch ohne Auszug"
+        },
+        {
+          "id": 17,
+          "label": "dwg-Daten Tisch mit Auszug"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1540 Trilope",
+      "url": "https://draenert.de/de/produkte/esstische/trilope.html",
+      "download_labels": [
+        {
+          "id": 32,
+          "label": "Produktinformationen"
+        },
+        {
+          "id": 33,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1540 Trilope Conference",
+      "url": "https://draenert.de/de/produkte/esstische/trilope-1.html",
+      "download_labels": [
+        {
+          "id": 13,
+          "label": "Produktinformationen"
+        },
+        {
+          "id": 14,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1430 Cooper",
+      "url": "https://draenert.de/de/produkte/esstische/cooper.html",
+      "download_labels": [
+        {
+          "id": 23,
+          "label": "Produktinformationen"
+        },
+        {
+          "id": 24,
+          "label": "dwg-Daten Oval/Trapeza"
+        },
+        {
+          "id": 25,
+          "label": "dwg Daten Organic"
+        },
+        {
+          "id": 26,
+          "label": "dwg-Daten Trilungo"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1485 Stan",
+      "url": "https://draenert.de/de/produkte/esstische/1485-stan.html",
+      "download_labels": [
+        {
+          "id": 19,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 20,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1511-I Nelly",
+      "url": "https://draenert.de/de/produkte/esstische/1511-nelly.html",
+      "download_labels": [
+        {
+          "id": 14,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 15,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1511-III Nelly",
+      "url": "https://draenert.de/de/produkte/esstische/1511-nelly-1-1.html",
+      "download_labels": [
+        {
+          "id": 12,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 13,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1515 III Tadao III",
+      "url": "https://draenert.de/de/produkte/esstische/tadao-III.html",
+      "download_labels": [
+        {
+          "id": 13,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 14,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1515 V Tadao V",
+      "url": "https://draenert.de/de/produkte/esstische/tadao-V.html",
+      "download_labels": [
+        {
+          "id": 13,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 14,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    },
+    {
+      "label": "1516 Tadao Magnum",
+      "url": "https://draenert.de/de/produkte/esstische/tadao-magnum.html",
+      "download_labels": [
+        {
+          "id": 14,
+          "label": "Produktinformation"
+        },
+        {
+          "id": 15,
+          "label": "dwg-Daten"
+        }
+      ],
+      "read_status": "downloads_observed"
+    }
+  ]
+}

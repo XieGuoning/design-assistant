@@ -1,0 +1,14 @@
+{
+  "checked_on": "2026-10-05",
+  "batches": [
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn103731view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/_Resources/Persistent/3/5/7/c/357cdf8303ddbd8a0ed4abbaf2c2ed85b45cd5b2/1224_Adler_overview_stone_wood_Conference_EN_1.5.26.pdf\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/_Resources/Persistent/3/5/7/c/357cdf8303ddbd8a0ed4abbaf2c2ed85b45cd5b2/1224_Adler_overview_stone_wood_Conference_EN_1.5.26.pdf is not accessible via this tool.\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn103731view1】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/_Resources/Persistent/4/c/0/b/4c0b5e9b623a074d8a1ddf49f62cd492f9b4e98b/1280_Atlas_overview_stone_wood_EN_1.5.26.pdf\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/_Resources/Persistent/4/c/0/b/4c0b5e9b623a074d8a1ddf49f62cd492f9b4e98b/1280_Atlas_overview_stone_wood_EN_1.5.26.pdf is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    }
+  ]
+}

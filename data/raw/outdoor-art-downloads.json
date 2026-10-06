@@ -1,0 +1,922 @@
+{
+  "checked_on": "2026-10-05",
+  "assets": [
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/adler-outdoor.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/7/d/3/b/7d3bf62e4d8b91f8d9896e6ac65afa099ff3118f/1224-O_Adler_Outdoor_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read",
+      "extracted_text_quality": "encoding_garbled",
+      "total_lines": 40,
+      "observed_lines": 40
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/adler-outdoor.html",
+      "label": "3DS Daten",
+      "format": "3ds",
+      "url": "https://draenert.de/_Resources/Persistent/8/6/5/8/86580828927040bc41b95984ada43cb7726d3ceb/1224_ZSB_fest_120x280cm_bo_Outdoor.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/adler-outdoor.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/2/d/b/9/2db9451e6f4c468030b411001630da6b26d7c0f9/1224_ZSB_fest_105x200cm_bo_Outdoor_dwg.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/atlas-outdoor.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/5/d/3/b/5d3b06e03fccf4b504dea57870dfb4af089c2416/1280-O_Atlas_Outdoor_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read",
+      "extracted_text_quality": "encoding_garbled",
+      "total_lines": 60,
+      "observed_lines": 60
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/atlas-outdoor.html",
+      "label": "3ds-Daten",
+      "format": "3ds",
+      "url": "https://draenert.de/_Resources/Persistent/a/7/e/3/a7e39f2b1df497cde6a84dc49eeffdcfbe46f9a0/1280-II_ZSB_3ds.zip",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/atlas-outdoor.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/3/8/3/a/383aa022eaaf41db7e408e8e022064f33e5f290a/1280-II_ZSB_dwg.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/trilope-outdoor.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/d/0/3/b/d03b447406cc71958d037de797b76ce460b5ad20/1540-O_Trilope_Outdoor_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read",
+      "extracted_text_quality": "encoding_garbled",
+      "total_lines": 43,
+      "observed_lines": 43
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/trilope-outdoor.html",
+      "label": "3ds-Daten",
+      "format": "3ds",
+      "url": "https://draenert.de/_Resources/Persistent/b/5/8/5/b5859ff24f65deffa9fd547d5820d127be137c1c/1540-ZSB-3DS.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/trilope-outdoor.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/6/2/3/f/623f6320786a73489852fe60bac05c01629f89fc/1540-ZSB.DWG.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/tosca-outdoor.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/3/2/f/8/32f8d46dd79200c1cd3193fdd3e46599d972bcb7/1380-O_Tosca_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read",
+      "extracted_text_quality": "encoding_garbled",
+      "total_lines": 39,
+      "observed_lines": 39
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/tosca-outdoor.html",
+      "label": "3ds-Daten",
+      "format": "3ds",
+      "url": "https://draenert.de/_Resources/Persistent/3/a/f/b/3afb7620f945e079517fd9e264ae53c938722039/1380-ZSB-3ds.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/tosca-outdoor.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/9/a/1/5/9a15a536d81d495dfb669295f6ae286804d0cca2/1380-ZSB-dwg.zip",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/dan.html",
+      "label": "Produktinformationen",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/0/2/3/8/0238985937491c792d7041aed8b43c0833822ce2/3010-O_Dan_Outdoor_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "timeout",
+      "extracted_text_quality": "unavailable",
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/dan.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/6/a/8/f/6a8fc074b8ecf3ee7c9d4ef86ff019fe96ef1c23/3010_O_DAN.zip",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/lou.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/0/8/3/4/0834ff3ce4d1421da69e8b0479ca372c1d1ec631/3025-O_Lou_Outdoor_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read",
+      "extracted_text_quality": "encoding_garbled",
+      "total_lines": 30,
+      "observed_lines": 30
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/lou.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/9/b/e/7/9be71e53a0079f88ea4d96764b7fa5e34f3480b1/3025_O_LOU_mit%20und%20ohne_Kissen.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/nobile-O.html",
+      "label": "Produktinformation",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/6/3/2/b/632be1e607b0a194e458fd3d7e7a18d366ac0737/3076-O_Nobile_Outdoor_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "timeout",
+      "extracted_text_quality": "unavailable",
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/nobile-O.html",
+      "label": "dwg-Daten",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/c/d/a/4/cda4bdf35f5ec8a963650c85953726f63d5e4c79/2076_NOBILE.zip",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/mortimer-outdoor.html",
+      "label": " Produktinformation ",
+      "format": "pdf",
+      "url": "https://www.draenert.de/_Resources/Persistent/3/5/4/d/354dda21096a1548ebc27d62f9d6b360fa22e5bc/1085-O_Mortimer_Outdoor_DE_1.5.25.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "fetch_error",
+      "extracted_text_quality": "unavailable",
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/mortimer-outdoor.html",
+      "label": " 3ds-Daten ",
+      "format": "3ds",
+      "url": "https://www.draenert.de/_Resources/Persistent/6/b/e/1/6be15833947c0bc2c8aeb9571337a11bb6b1503f/1085_3DS-Daten.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/mortimer-outdoor.html",
+      "label": " dwg-Daten ",
+      "format": "dwg",
+      "url": "https://www.draenert.de/_Resources/Persistent/5/b/f/8/5bf852eb131ab5f0b2c6b8642b3ac86c13cd467c/1085_DWG-Daten.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/qbic-outdoor.html",
+      "label": "Produktinformation†draenert.de",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/c/3/c/d/c3cd5606c71d4e7e9e460e57f706fb7653d7e08e/1365-O_Qbic_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read",
+      "extracted_text_quality": "encoding_garbled",
+      "total_lines": 22,
+      "observed_lines": 22
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/qbic-outdoor.html",
+      "label": "3ds-Daten†draenert.de",
+      "format": "3ds",
+      "url": "https://draenert.de/_Resources/Persistent/2/b/5/a/2b5a97ecde87ff8e1d05c095cf3733d20921f141/1365_3DS-Daten.zip",
+      "status": "link_observed",
+      "fetch_outcome": "timeout"
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/qbic-outdoor.html",
+      "label": "dwg-Daten†draenert.de",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/d/d/a/7/dda7426c485cd13057198af714a2b3eeb46d9c61/1365_DWG-Daten.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/nobile-O-1.html",
+      "label": "Produktinformation†draenert.de",
+      "format": "pdf",
+      "url": "https://draenert.de/_Resources/Persistent/6/3/2/b/632be1e607b0a194e458fd3d7e7a18d366ac0737/3076-O_Nobile_Outdoor_DE_1.5.26.pdf",
+      "status": "link_observed",
+      "fetch_outcome": "document_read",
+      "extracted_text_quality": "encoding_garbled",
+      "total_lines": 37,
+      "observed_lines": 37
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/nobile-O-1.html",
+      "label": "dwg-Daten†draenert.de",
+      "format": "dwg",
+      "url": "https://draenert.de/_Resources/Persistent/1/e/0/6/1e064b2dd63479ab6c2125ff279f8fc227af06e4/3076_X_NOBILE.zip",
+      "status": "link_observed",
+      "fetch_outcome": "binary_not_inspected"
+    }
+  ],
+  "batches": [
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Adler Outdoor - Outdoor - Produkte - Draenert (https://draenert.de/de/produkte/outdoor/adler-outdoor.html)\n【turn324203view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/adler-outdoor.html\",\"lineno\":null}); Total lines: 68\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Adler Outdoor\nL13: \nL14: Modell-Nr.: 1224\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein 【6†River Gold†www.draenert.de】\nL21: \nL22: 【7†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Stein Stratus Boquira\nL27: #### Design Peter Draenert 1995\nL28: Die Eleganz und Raffinesse des Klassikers unter den Stein-Esstischen ist nun auch für den des Outdoor-Living- Bereich weiterentwickelt worden.\nL29: Stylish und modern sorgt der ADLER für gesellige Abende. Das Material Naturstein ist einfach faszinierend. Auch bei extremer Witterung ist es beständig\nL30: und büßt nichts von seiner natürlichen Schönheit ein. Die feste Tischplatte ist in bootsförmig, rechteckig, organisch\nL31: oder oval in 150 verschiedenen Natursteinsorten und unterschiedlichen Sockelvarianten aus Edelstahl oder beschichtet erhältlich.\nL32: Produkte / Materialien\nL33: \nL34: Stein 【6†river Gold,†www.draenert.de】 sockel dunkelbronce\nL35: \nL36: 【8†Image】\nL37: \nL38: 【9†iframe†ui.pcon-solutions.com】\nL39: ## Downloads\nL40: \nL41:   * 【10†Produktinformation】\nL42:   * 【11†3DS Daten】\nL43:   * 【12†dwg-Daten】\nL44:   * Fotos\nL45: \nL46: 【13†Alle herunterladen】\nL47: \nL48: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL49: ##\nL50: \nL51: weitere Material-Ausführungen (modellspezifisch)\nL52: \nL53: 【14†Zu allen Steinsorten】\nL54: \nL55: 【15†Dr. Peter Draenert Peter Draenert (1937-2005) hat an der Universität Tübingen Philosophie, Kunstgeschichte, Germanistik un... Mehr über den Designer】\nL56: \nL57:   * 【2†Händlersuche】\nL58:   * 【16†Katalogbestellung】\nL59:   * 【17†Newsletter】\nL60: \nL61:   * 【18†Aktuelles】\nL62:   * 【19†Für Presse】\nL63: \nL64:   * 【20†Datenschutz】\nL65:   * 【21†Impressum】\nL66: \nL67:   * 【13†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/7/d/3/b/7d3bf62e4d8b91f8d9896e6ac65afa099ff3118f/1224-O_Adler_Outdoor_DE_1.5.26.pdf)\n【turn870339view0】 [wordlim: 200] Crawled: last month; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn324203view0\",\"id\":10}); Total lines: 40\nL0@P0: ADLER OUTDOOR\nL1@P0: Modell-Nr. 1224\nL2@P0-1: DESIGN DR. PETER DRAENERTïîîìóÑ ßÜÔÛÎ ÑËÌÜÑÑÎ ÜÛÍ×ÙÒ ÐÛÌÛÎ ÜÎßÛÒÛÎÌ ïççë ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í±½µ»´ î Þ ó Ô ó Ø Ñª¿´ ½¿ò ·² ½³\nL3@P1: Û¼»´­¬¿¸´ ³¿¬¬ ¹»­½¸´·ºº»² Í¬¿²¼¿®¼\nL4@P1: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ ïîîì Û­­¬·­½¸ Ñ«¬¼±±® Í±½µ»´ î çë ¨ ïêð ¨ éí\nL5@P1: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ô ±ª¿´ ìð ¨ êê ²·½¸¬ ¿«­¦·»¸¾¿® ïðë ¨ ïèð ¨ éí\nL6@P1: ïðë ¨ îðð ¨ éí\nL7@P1: ïðë ¨ îîð ¨ éí\nL8@P1: ïðë ¨ îìð ¨ éí\nL9@P1: ïðë ¨ îêð ¨ éí\nL10@P1: ïîîì Û­­¬·­½¸ ÓßÙÒËÓ Ñ«¬¼±±® Í±½µ»´ î ïîð ¨ îêð ¨ éíôë\nL11@P1: ¾±±¬­º*®³·¹ô ®»½¸¬»½µ·¹ô ±®¹¿²·½ô ±ª¿´ Ó¿¹²«³ ïîð ¨ îèð ¨ éíôë ²·½¸¬ ¿«­¦·»¸¾¿® ëð ¨ èê\nL12@P1: D¾»®­·½¸¬ ­·»¸» Í»·¬»² íîñíí\nL13@P1: Í±½µ»´ î ó Í¬¿²¼¿®¼ Í±½µ»´ ë Ñª¿´ ·² Û¼»´­¬¿¸´ Ñª¿´ ³·¬ Í¬»·²\nL14@P1: Þ·¬¬» ¿²¹»¾»²æ Þ·¬¬» ¹»¾»² Í·» ¾»· ¼»® Þ»­¬»´´«²¹ ¿²ô ¼¿­­ »­ ­·½¸ «³ ¼·» Ñ«¬¼±±®óÊ¿®·¿²¬» ¸¿²¼»´¬ò\nL15@P1: Ø·²©»·­æ Û·²·¹» Þ¿«¬»·´» ¼»­ Ì·­½¸»­ ­·²¼ ¼»² ß²º±®¼»®«²¹»² ·³ Ñ«¬¼±±®óÞ»®»·½¸ ¿²¹»°¿­­¬ò\nL16@P1: É·® »³°º»¸´»² º$® É»·½¸¹»­¬»·²» «²¼ þ¾»¼·²¹¬ ±«¬¼±±®ó¬¿«¹´·½¸»þ Í¬»·²» »·²»\nL17@P1: ß¾¼»½µ«²¹ º$® ¼·» É·²¬»®­¿·­±²ò\nL18@P1: ïìè\nL19@P1: ÑËÌÜÑÑÎ ßÜÔÛÎ ïîîìóÑ\nL20@P1: ÒßÌËÎÍÌÛ×Ò\nL21@P1: Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL22@P1: Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë Õ¿²¬» ë ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL23@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL24@P1: ìëèë ëíîð êïïð éëçë èêéë çéèë ïïèêë ïìêðë\nL25@P1: ìéðð ëëëë êëíð èðéë çîëë ïðëíë ïîèèë ïêðéë\nL26@P1: ìéëë ëêîð êêìð èîíë çëìð ïðèïð ïííìë ïêèìë\nL27@P1: ìéêë ëêèð êéêë èììð çéèë ïïïìë ïíèéë ïéèíð\nL28@P1: ìèêë ëèçë éðîë èèðë ïðîìð ïïêçë ïìëîë ïèìíë\nL29@P1: ìçéð êðîë éîìð çïëë ïðéðð ïîîéð ïëíëë ïçêîë\nL30@P1: éíîë èèéë ïðíèð ïîëéð ïìíðë ïêîïë ïçèêë îìíçë\nL31@P1: èðèë çèðð ïïëêë ïìðçð ïêðèð ïèíïð îîêîð îêéçë\nL32@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ßÜÔÛÎ ßÜÔÛÎ ÓßÙÒËÓ\nL33@P1: ÛËÎÑ ÛËÎÑ Í±½µ»´ î Û¼»´­¬¿¸´ ·²æ\nL34@P1: ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² íçë êêð\nL35@P1: ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ ëèð èìë Í±½µ»´ î ñ ë ³·¬ Î±´´»² ïðëð îïèð\nL36@P1: Í±½µ»´ ë Í¬»·²­±½µ»´ ÐÙ ï ó ì¾ ïëëð îêëð Í¬»·²­±½µ»´ ÐÙ ë õ ê îéçð ìççë\nL37@P1: Î¿¸³»² ³·¬ Õ±®®±­·±²­­½¸«¬¦ «²¼ ´¿½µ·»®¬ ²¿½¸ ÎßÔ èîð ïìëð É·²¬»®¿¾¼»½µ«²¹ ëèð\nL38@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ïìç\nL39@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn870339view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn324203view0\",\"id\":11}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/8/6/5/8/86580828927040bc41b95984ada43cb7726d3ceb/1224_ZSB_fest_120x280cm_bo_Outdoor.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn870339view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn324203view0\",\"id\":12}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/2/d/b/9/2db9451e6f4c468030b411001630da6b26d7c0f9/1224_ZSB_fest_105x200cm_bo_Outdoor_dwg.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Atlas Outdoor - Outdoor - Produkte - Draenert (https://draenert.de/de/produkte/outdoor/atlas-outdoor.html)\n【turn191815view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/atlas-outdoor.html\",\"lineno\":null}); Total lines: 80\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Atlas Outdoor\nL13: \nL14: Modell-Nr.: 1280\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein 【6†grigio Beola†www.draenert.de】\nL21: \nL22: 【7†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Stein 【6†grigio Beola†www.draenert.de】\nL27: #### Design Georg Appeltshauser 2018\nL28: Unser ATLAS ist eine Ikone, ein Klassiker. Ein vergrößerbarer Esstisch aus Naturstein, der durch moderne Klarheit und technische Raffinesse überzeugt.\nL29: Sein Clou: Das symmetrische Verhältnis der Tischplatte zum Unterbau ist im ausgezogenen wie im eingeschwenkten Zustand gegeben.  Der ATLAS ist der einzige\nL30: Tisch der Outdoor-Kollektion, der ausziehbar ist. Jetzt bringen wir mit ATLAS OUTDOOR all seine Vorzüge nach draußen!\nL31: Denn das Material Naturstein eignet sich ideal für den Außenbereich. Auch bei extremer Witterung ist es  beständig und büßt nichts\nL32: von seiner natürlichen Schönheit ein. Die Tischplatte ist in 150 Natursteinsorten erhältlich und die Sockelvarianten aus Edelstahl oder beschichtet.\nL33: Produkte / Materialien\nL34: \nL35: Stein 【6†Grigio Beola†www.draenert.de】\nL36: \nL37: 【8†Image】\nL38: \nL39: Produkte / Materialien\nL40: \nL41: Stein 【6†Grigio Beola†www.draenert.de】\nL42: \nL43: 【9†Image】\nL44: \nL45: Produkte / Materialien\nL46: \nL47: Stein 【6†Grigio Beola†www.draenert.de】\nL48: \nL49: 【10†Image】\nL50: \nL51: 【11†iframe†ui.pcon-solutions.com】\nL52: ## Downloads\nL53: \nL54:   * 【12†Produktinformation】\nL55:   * 【13†3ds-Daten】\nL56:   * 【14†dwg-Daten】\nL57: \nL58: 【15†Alle herunterladen】\nL59: \nL60: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL61: ##\nL62: \nL63: weitere Material-Ausführungen (modellspezifisch)\nL64: \nL65: 【16†Zu allen Steinsorten】\nL66: \nL67: 【17†Georg Appeltshauser Jahrgang 1949, hat zunächst an der FH Ulm Feinmechanik studiert. Anschließend Studium an der Kunstakademie... Mehr über den Designer】\nL68: \nL69:   * 【2†Händlersuche】\nL70:   * 【18†Katalogbestellung】\nL71:   * 【19†Newsletter】\nL72: \nL73:   * 【20†Aktuelles】\nL74:   * 【21†Für Presse】\nL75: \nL76:   * 【22†Datenschutz】\nL77:   * 【23†Impressum】\nL78: \nL79:   * 【15†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/5/d/3/b/5d3b06e03fccf4b504dea57870dfb4af089c2416/1280-O_Atlas_Outdoor_DE_1.5.26.pdf)\n【turn896062view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn191815view0\",\"id\":12}); Total lines: 60\nL0@P0: ATLAS OUTDOOR\nL1@P0: Modell-Nr. 1280\nL2@P0-1: DESIGN GEORG APPELTSHAUSERïîèðóÑ ßÌÔßÍ ÑËÌÜÑÑÎ ÜÛÍ×ÙÒ ÙÛÑÎÙ ßÐÐÛÔÌÍØßËÍÛÎ îððê ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í±½µ»´ ï Þ ó Ô ó Ø É¿²¹»² ¹»®¿¼» ½¿ò ·² ½³\nL3@P1: ß´«³·²·«³\nL4@P1: ³¿¬¬ ¹»¾$®­¬»¬ Í¬¿²¼¿®¼\nL5@P1: Ò×ÝØÌ ßËÍÆ×ÛØÞßÎ ïîèðó×× Û­­¬·­½¸ Ñ«¬¼±±® Í±½µ»´ ï ïðë ¨ ïêð ¨ éì\nL6@P1: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ ëð ¨ ïôë ïðë ¨ ïèð ¨ éì ²·½¸¬ ¿«­¦·»¸¾¿® ïðë ¨ îðð ¨ éì\nL7@P1: ïðë ¨ îîð ¨ éì\nL8@P1: ïðë ¨ îìð ¨ éì\nL9@P1: ïîèðó×× Û­­¬·­½¸ Ñ«¬¼±±® Í±½µ»´ ì ïðë ¨ îêð ¨ éì\nL10@P1: ®»½¸¬»½µ·¹ô ¾±±¬­º*®³·¹ É¿²¹»² ¹»µ¿²¬»¬ ïðë ¨ îèð ¨ éì ²·½¸¬ ¿«­¦·»¸¾¿® ëð ¨ é\nL11@P1: ßËÍÆ×ÛØÞßÎ ïîèðó×× Û­­¬·­½¸ Ñ«¬¼±±® Í±½µ»´ ï çî ¨ ïêð ¨ éë\nL12@P1: ®»½¸¬»½µ·¹ ìð ¨ ïôë ¿«­¹»¦±¹»²\nL13@P1: ¿«­¦·»¸¾¿® çî ¨ îíí ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL14@P1: ¿«­ Ò¿¬«®­¬»·² éí ½³\nL15@P1: ïîèðó×× Û­­¬·­½¸ Ñ«¬¼±±® Í±½µ»´ ï ïðë ¨ ïèð ¨ éë\nL16@P1: ®»½¸¬»½µ·¹ ëð ¨ ïôë ¿«­¹»¦±¹»²\nL17@P1: ¿«­¦·»¸¾¿® ïðë ¨ îêð ¨ éë ³·¬ ·²¬»¹®·»®¬»®ô ¼®»¸¾¿®»® Í½¸©»²µ°´¿¬¬»\nL18@P1: ¿«­ Ò¿¬«®­¬»·² èð ½³ ïðë ¨ îðð ¨ éë\nL19@P1: ¿«­¹»¦±¹»²\nL20@P1: ïðë ¨ îèð ¨ éë\nL21@P1: D¾»®­·½¸¬ ­·»¸» Í»·¬ »² ìðñìï\nL22@P1: Í±½µ»´ ï ó Í¬¿²¼¿®¼ Í±½µ»´ ì Í±½µ»´ ë É¿²¹»² ¹»®¿¼» É¿²¹»² ¹»µ¿²¬»¬ Ê·»®¾»·²»® ß´«³·²·«³ ß´«³·²·«³ Í¬¿¸´ ³·¬ Õ±®®±­·±²­­½¸«¬¦\nL23@P1: Þ·¬¬» ¿²¹»¾»²æ Þ·¬¬» ¹»¾»² Í·» ¾»· ¼»® Þ»­¬»´´«²¹ ¿²ô ¼¿­­ »­ ­·½¸ «³ ¼·» Ñ«¬¼±±®óÊ¿®·¿²¬» ¸¿²¼»´¬ò\nL24@P1: Ø·²©»·­æ Û·²·¹» Þ¿«¬»·´» ¼»­ Ì·­½¸»­ ­·²¼ ¼»² ß²º±®¼»®«²¹»² ·³ Ñ«¬¼±±®óÞ»®»·½¸ ¿²¹»°¿­­¬ò\nL25@P1: ß«­ Í¬¿¾·´·¬<¬­¹®$²¼»² ©·®¼ ¾»· ²·½¸¬ ¿«­¦·»¸¾¿®»² Ì·­½¸»² ¿¾ îêð ½³ Ô<²¹»\nL26@P1: ¼»® Í±½µ»´ ì »³°º±¸´»²ÿ\nL27@P1: É·® »³°º»¸´»² º$® É»·½¸¹»­¬»·²» «²¼ þ¾»¼·²¹¬ ±«¬¼±±®ó¬¿«¹´·½¸»þ Í¬»·²» »·²»\nL28@P1: ß¾¼»½µ«²¹ º$® ¼·» É·²¬»®­¿·­±²ò\nL29@P1: ïëð\nL30@P1: ÑËÌÜÑÑÎ ßÌÔßÍ ïîèðóÑ\nL31@P1: ÒßÌËÎÍÌÛ×Ò\nL32@P1: Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Ð´¿¬¬»² Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL33@P1: Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL34@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL35@P1: ëíéð êîçë éïðë èïéë èçíð ïðïêë ïîéðð ïìèèð\nL36@P1: ëìïë êíçë éííë èëíð çíéë ïðéëð ïíëèë ïëíëð\nL37@P1: ëìíð êìéð éëëë èèèð çèðë ïïíîë ïììðð ïêëëð\nL38@P1: ëëéð êêíð éééð çîðë ïðîêð ïïèçð ïëîéë ïééîë\nL39@P1: ëëéë êéëë éççë çêêë ïðèîë ïîìçë ïëéçð ïçîìë\nL40@P1: êîíë éëêð èçðð ïðéíë ïîîìë ïíçîë ïêêïë îðîíð\nL41@P1: êëçë éççë çìëð ïïëîë ïíîïð ïìéìë ïééçð îïèðë\nL42@P1: èðîë çéîë ïïðéë ïîçíð ïìðêë ïëîìë ïééîë ïçêëë\nL43@P1: èïèð ççïð ïïìîð ïíëîð ïëîçð ïêêêð ïèëîð îïîðë\nL44@P1: èíïë ïðïéð ïïçêë ïìïïð ïêïíð ïéêíë ïçìèë îîíèë\nL45@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Í±½µ»´ ï ß´«³·²·«³ ·²æ\nL46@P1:  ó »´±¨·»®¬ ­½¸©¿®¦ ëêð\nL47@P1:  ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë\nL48@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð\nL49@P1: Í±½µ»´ ì ß´«³·²·«³ ·²æ\nL50@P1:  ó ³¿¬¬ ¹»¾$®­¬»¬ ëìð\nL51@P1:  ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ô ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ïðíë\nL52@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïîîð\nL53@P1: Í±½µ»´ ë Í¬¿¸´ ³·¬ Õ±®®±­·±²­­½¸«¬¦ ·²æ\nL54@P1:  ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ ð\nL55@P1:  ó ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² ìçë\nL56@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ êèð\nL57@P1: Î¿¸³»² ³·¬ Õ±®®±­·±²­­½¸«¬¦ «²¼ ´¿½µ·»®¬ ²¿½¸ ÎßÔ éîð É·²¬»®¿¾¼»½µ«²¹ ëèð\nL58@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ïëï\nL59@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn896062view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn191815view0\",\"id\":13}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/a/7/e/3/a7e39f2b1df497cde6a84dc49eeffdcfbe46f9a0/1280-II_ZSB_3ds.zip: (400) Timeout fetching\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn896062view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn191815view0\",\"id\":14}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/3/8/3/a/383aa022eaaf41db7e408e8e022064f33e5f290a/1280-II_ZSB_dwg.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Trilope Outdoor - Outdoor - Produkte - Draenert (https://draenert.de/de/produkte/outdoor/trilope-outdoor.html)\n【turn337940view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/trilope-outdoor.html\",\"lineno\":null}); Total lines: 80\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Trilope Outdoor\nL13: \nL14: Modell-Nr.: 1540\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein 【6†Avocatus†www.draenert.de】\nL21: \nL22: 【7†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Stein 【8†Dreaming Green†www.draenert.de】\nL27: \nL28: 【9†Image】\nL29: \nL30: Produkte / Materialien\nL31: \nL32: Stein 【8†Dreaming Green†www.draenert.de】\nL33: #### Design Wolfgang C. R. Mezger 2018\nL34: \nL35: Durch den TRILOPE mit seiner Raffinesse wird Ihr Outdoor-Livingroom zum Eyecatcher. Der Unterbau besteht aus drei markant\nL36: profilierten Massivholzteilen aus robustem und wetterfestem Robinienholz, das über eine besonders feine\nL37: Maserung verfügt. Die Tischplatte besticht auch Outdoor durch ihre besondere Form.\nL38: \nL39: Produkte / Materialien\nL40: \nL41: Stein 【8†Dreaming Green†www.draenert.de】\nL42: \nL43: 【10†Image】\nL44: \nL45: Produkte / Materialien\nL46: \nL47: Stein 【8†Dreaming Green†www.draenert.de】\nL48: \nL49: 【11†Image】\nL50: 【12†iframe†ui.pcon-solutions.com】\nL51: ## Downloads\nL52: \nL53:   * 【13†Produktinformation】\nL54:   * 【14†3ds-Daten】\nL55:   * 【15†dwg-Daten】\nL56:   * Fotos\nL57: \nL58: 【16†Alle herunterladen】\nL59: \nL60: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL61: ##\nL62: \nL63: weitere Material-Ausführungen (modellspezifisch)\nL64: \nL65: 【17†Zu allen Steinsorten】\nL66: \nL67: 【18†Wolfgang C. R. Mezger Wolfgang C. R. Mezger, geboren 1951, ist ein erfahrener Designer mit mehr als 30 Jahren Erfahrung. Seine E... Mehr über den Designer】\nL68: \nL69:   * 【2†Händlersuche】\nL70:   * 【19†Katalogbestellung】\nL71:   * 【20†Newsletter】\nL72: \nL73:   * 【21†Aktuelles】\nL74:   * 【22†Für Presse】\nL75: \nL76:   * 【23†Datenschutz】\nL77:   * 【24†Impressum】\nL78: \nL79:   * 【16†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/d/0/3/b/d03b447406cc71958d037de797b76ce460b5ad20/1540-O_Trilope_Outdoor_DE_1.5.26.pdf)\n【turn147348view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn337940view0\",\"id\":13}); Total lines: 43\nL0@P0: TRILOPE OUTDOOR\nL1@P0: Modell-Nr. 1540\nL2@P0: DESIGN WOLFGANG C. R. MEZGER\nL3@P0: Durch den TRILOPE mit seiner Raffinesse wird Ihr Outdoor-Livingroom zum Eyecatcher. Der Unterbau besteht aus drei markant\nL4@P0: profilierten Massivholzteilen aus robustem und wetterfestem Robinienholz, das über eine besonders feine\nL5@P0-1: Maserung verfügt. Die Tischplatte besticht auch Outdoor durch ihre besondere Form.ïëìðóÑ ÌÎ×ÔÑÐÛ ÑËÌÜÑÑÎ ÜÛÍ×ÙÒ ÉÑÔÚÙßÒÙ ÝòÎò ÓÛÆÙÛÎ îðïé ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Þ»·²» Ù®*A» Ó¿­­·ª¸±´¦ Þ ó Ô ó Ø\nL6@P1: Î±¾·²·» ¹»*´¬ ½¿ò ·² ½³\nL7@P1: ïëìð Û­­¬·­½¸ Ñ«¬¼±±® ïïð ¨ ïïð ¨ éì ©¿²µ»´º*®³·¹ ïîð ¨ ïîð ¨ éì\nL8@P1: ïíð ¨ ïíð ¨ éì\nL9@P1: ïìë ¨ ïìë ¨ éì\nL10@P1: ïêð ¨ ïêð ¨ éì\nL11@P1: ïèð ¨ ïèð ¨ éì\nL12@P1: ïëìð Û­­¬·­½¸ Ñ«¬¼±±® ïïð ( ¨ éì\nL13@P1: ®«²¼ ïîð ( ¨ éì\nL14@P1: ïíð ( ¨ éì\nL15@P1: ïìë ( ¨ éì\nL16@P1: ïêð ( ¨ éì\nL17@P1: ïèð ( ¨ éì\nL18@P1: Þ·¬¬» ¿²¹»¾»²æ Þ·¬¬» ¹»¾»² Í·» ¾»· ¼»® Þ»­¬»´´«²¹ ¿²ô ¼¿­­ »­ ­·½¸ «³ ¼·» Ñ«¬¼±±®óÊ¿®·¿²¬» ¸¿²¼»´¬ò\nL19@P1: Ø·²©»·­æ Û·²·¹» Þ¿«¬»·´» ¼»­ Ì·­½¸»­ ­·²¼ ¼»² ß²º±®¼»®«²¹»² ·³ Ñ«¬¼±±®óÞ»®»·½¸ ¿²¹»°¿­­¬ò\nL20@P1: É·® »³°º»¸´»² º$® É»·½¸¹»­¬»·²» «²¼ þ¾»¼·²¹¬ ±«¬¼±±®ó¬¿«¹´·½¸»þ Í¬»·²» »·²»\nL21@P1: ß¾¼»½µ«²¹ º$® ¼·» É·²¬»®­¿·­±²ò\nL22@P1: ïëî\nL23@P1: ÑËÌÜÑÑÎ ÌÎ×ÔÑÐÛ ïëìðóÑ\nL24@P1: ÒßÌËÎÍÌÛ×Ò\nL25@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL26@P1: Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê ÐÙ ï ÐÙ î ÐÙ í ÐÙ ì ÐÙ ì¿ ÐÙ ì¾ ÐÙ ë ÐÙ ê\nL27@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL28@P1: ìíèë ëïîð ëêìð êíêð êçêð éëîë çïìð ïðçêð\nL29@P1: ìëêë ëíêë êðîë êéëë éììë èïçð ïðïîð ïîîèë\nL30@P1: ëïëð ëçíð êéèë éêêð èìçð çëçð ïïèèë ïììëë\nL31@P1: ëíïë êîíë éïîð èíèë çìïð ïðéêð ïíêîë ïêçðë\nL32@P1: êïéð éîêð èíïð çèëð ïïïîð ïîéêë ïêïðë ïèçïð\nL33@P1: êêîð ééçð çïíð ïïðëë ïîêïð ïìéðð ïèíêë îîîêë\nL34@P1: ìíèë ëïîð ëêìð êíêð êçêð éëîë çïìð ïðçêð\nL35@P1: ìëêë ëíêë êðîë êéëë éììë èïçð ïðïîð ïîîèë\nL36@P1: ëïëð ëçíð êéèë éêêð èìçð çëçð ïïèèë ïììëë\nL37@P1: ëíïë êîíë éïîð èíèë çìïð ïðéêð ïíêîë ïêçðë\nL38@P1: êïéð éîêð èíïð çèëð ïïïîð ïîéêë ïêïðë ïèçïð\nL39@P1: êêîð ééçð çïíð ïïðëë ïîêïð ïìéðð ïèíêë îîîêë\nL40@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Þ»·²» ­½¸©¿®¦ ´¿­·»®¬ ìîð É·²¬»®¿¾¼»½µ«²¹ ëèð\nL41@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ïëí\nL42@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn147348view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn337940view0\",\"id\":14}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/b/5/8/5/b5859ff24f65deffa9fd547d5820d127be137c1c/1540-ZSB-3DS.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn147348view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn337940view0\",\"id\":15}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/6/2/3/f/623f6320786a73489852fe60bac05c01629f89fc/1540-ZSB.DWG.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Kent Outdoor - Outdoor - Produkte - Draenert (https://draenert.de/de/produkte/outdoor/Kent-outdoor-1.html)\n【turn337268view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/Kent-outdoor-1.html\",\"lineno\":null}); Total lines: 64\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Kent Outdoor\nL13: \nL14: Modell-Nr.: 1550-O\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein 【6†Quarzit colorado†www.draenert.de】\nL21: Stuhl 【7†DAN†www.draenert.de】\nL22: #### Design Wolfgang C.R. Mezger 2023\nL23: \nL24: Was im Interieur neue Maßstäbe setzt, bereichert auch den Outdoor-Bereich.Auch hier wollen wir auf eine spannende Tischform mit überraschender Sitzplatzanordnung nicht verzichten. Oval, Kiesel, Trilungo oder Trapeza? Was passt besser auf Ihre Terrasse?\nL25: \nL26: Produkte / Materialien\nL27: \nL28: Stein 【8†Grigio Beola†www.draenert.de】\nL29: \nL30: 【9†Image】\nL31: \nL32: Produkte / Materialien\nL33: \nL34: Stein 【8†Grigio Beola, †www.draenert.de】\nL35: Stühle 【10†Lou†www.draenert.de】\nL36: \nL37: 【11†Image】\nL38: \nL39: Produkte / Materialien\nL40: Stein 【12†Avocatus†www.draenert.de】\nL41: \nL42: 【13†Image】\nL43: \nL44: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL45: ##\nL46: \nL47: weitere Material-Ausführungen (modellspezifisch)\nL48: \nL49: 【14†Zu allen Steinsorten】\nL50: \nL51: 【15†Wolfgang C. R. Mezger Wolfgang C. R. Mezger, geboren 1951, ist ein erfahrener Designer mit mehr als 30 Jahren Erfahrung. Seine E... Mehr über den Designer】\nL52: \nL53:   * 【2†Händlersuche】\nL54:   * 【16†Katalogbestellung】\nL55:   * 【17†Newsletter】\nL56: \nL57:   * 【18†Aktuelles】\nL58:   * 【19†Für Presse】\nL59: \nL60:   * 【20†Datenschutz】\nL61:   * 【21†Impressum】\nL62: \nL63:   * 【22†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn311606view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/mortimer-outdoor.html\",\"lineno\":null}); Total lines: 1\nL0: URL https://draenert.de/de/produkte/outdoor/mortimer-outdoor.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn413398view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/qbic-outdoor.html\",\"lineno\":null}); Total lines: 1\nL0: URL https://draenert.de/de/produkte/outdoor/qbic-outdoor.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Tosca Outdoor - Outdoor - Produkte - Draenert (https://draenert.de/de/produkte/outdoor/tosca-outdoor.html)\n【turn628542view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/tosca-outdoor.html\",\"lineno\":null}); Total lines: 72\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Tosca Outdoor\nL13: \nL14: Modell-Nr.: 1380\nL15: \nL16: 【5†Image】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein 【6†Grigio Beoloa†www.draenert.de】\nL21: \nL22: 【7†Image】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Stein 【8†Azul Aquarella,†www.draenert.de】 Gestell schwarz beschichtet\nL27: #### Design Stephan Veit 2013\nL28: \nL29: Ein Ensemble bestehend aus Couch- bzw. Beistelltischen, die eine Vision sehr ästhetisch umsetzen: Den Einsatz von Naturstein als filigranes Gestaltungselement für den Wohnbereich. Die Softkante lässt den Stein der Tischplatte schemenhaft auslaufen. So entsteht eine zarte Silhouette. Es stehen alle Natursteinsorten zur Verfügung. Das Gestell aus gebogenem Rundstahl ist in dunkelbronze beschichtet oder in anderen Farben lackiert erhältlich.\nL30: \nL31: Produkte / Materialien\nL32: Stein 【8†Azul Aquarella†www.draenert.de】\nL33: \nL34: 【9†Image】\nL35: \nL36: Produkte / Materialien\nL37: \nL38: Stein 【8†Azul Aquarella†www.draenert.de】\nL39: \nL40: 【10†Image】\nL41: \nL42: 【11†iframe†ui.pcon-solutions.com】\nL43: ## Downloads\nL44: \nL45:   * 【12†Produktinformation】\nL46:   * 【13†3ds-Daten】\nL47:   * 【14†dwg-Daten】\nL48:   * Fotos\nL49: \nL50: 【15†Alle herunterladen】\nL51: \nL52: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL53: ##\nL54: \nL55: weitere Material-Ausführungen (modellspezifisch)\nL56: \nL57: 【16†Zu allen Steinsorten】\nL58: \nL59: 【17†Dr. Patric Draenert Jahrgang 1969, promovierter Betriebswirt leitet das Unternehmen in der zweiten Generation. Seine Entwürfe ... Mehr über den Designer】\nL60: \nL61:   * 【2†Händlersuche】\nL62:   * 【18†Katalogbestellung】\nL63:   * 【19†Newsletter】\nL64: \nL65:   * 【20†Aktuelles】\nL66:   * 【21†Für Presse】\nL67: \nL68:   * 【22†Datenschutz】\nL69:   * 【23†Impressum】\nL70: \nL71:   * 【15†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/3/2/f/8/32f8d46dd79200c1cd3193fdd3e46599d972bcb7/1380-O_Tosca_DE_1.5.26.pdf)\n【turn112801view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn628542view0\",\"id\":12}); Total lines: 39\nL0@P0: TOSCA OUTDOOR\nL1@P0: Modell-Nr. 1380\nL2@P0: DESIGN DR. PATRIC DRAENERT\nL3@P0: Ein Ensemble bestehend aus Couch- bzw. Beistelltischen, die eine Vision sehr ästhetisch umsetzen: Den Einsatz von Naturstein als\nL4@P0: filigranes Gestaltungselement für den Wohnbereich. Die Softkante lässt den Stein der Tischplatte schemenhaft auslaufen. So entsteht\nL5@P0: eine zarte Silhouette. Es stehen alle Natursteinsorten zur Verfügung. Das Gestell aus gebogenem Rundstahl ist in dunkelbronze\nL6@P0-1: beschichtet oder in anderen Farben lackiert erhältlich.ïíèðóÑ ÌÑÍÝß ÑËÌÜÑÑÎ ÜÛÍ×ÙÒ ÐßÌÎ×Ý ÜÎßÛÒÛÎÌ îðïë ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Ë²¬»®¾¿« Ù®*A» Í¬¿¸´®±¸® µ±²·­½¸ îôë ¨ ïôë ½³ Þ ó Ô ó Ø ³·¬ Õ±®®±­·±²­­½¸«¬¦ ½¿ò ·² ½³\nL7@P1: ­½¸©¿®¦ ¾»­½¸·½¸¬»¬\nL8@P1: ïíèðó× Þ»·­¬»´´¬·­½¸ Ñ«¬¼±±® ëð ( ¨ ìì\nL9@P1: ëë ( ¨ ëî\nL10@P1: ïíèðó×× Ý±«½¸¬·­½¸ Ñ«¬¼±±® èð ( ¨ íð ñ ìð\nL11@P1: ïðð ( ¨ íð ñ ìð\nL12@P1: ïíèðóÊ× Ý±«½¸¬·­½¸ Ñ«¬¼±±® êð ¨ ïðð ¨ íð ñ ìð\nL13@P1: éð ¨ ïîð ¨ íð ñ ìð\nL14@P1: çð ¨ çð ¨ íð ñ ìð\nL15@P1: Þ·¬¬» ¿²¹»¾»²æ Þ·¬¬» ¹»¾»² Í·» ¾»· ¼»® Þ»­¬»´´«²¹ ¿²ô ¼¿­­ »­ ­·½¸ «³ ¼·» Ñ«¬¼±±®óÊ¿®·¿²¬» ¸¿²¼»´¬ò\nL16@P1: ïíèðó×× Ñ«¬¼±±® Ì·­½¸¸*¸» íð ½³ ±¼»® ìð ½³\nL17@P1: ïíèðóÊ× Ñ«¬¼±±® Ì·­½¸¸*¸» íð ½³ ±¼»® ìð ½³\nL18@P1: Ø·²©»·­æ Û·²·¹» Þ¿«¬»·´» ¼»­ Ì·­½¸»­ ­·²¼ ¼»² ß²º±®¼»®«²¹»² ·³ Ñ«¬¼±±®óÞ»®»·½¸ ¿²¹»°¿­­¬ò\nL19@P1: Í±²¼»®³¿A» ¿«º ß²º®¿¹»ò\nL20@P1: ïêê\nL21@P1: ÑËÌÜÑÑÎ ÌÑÍÝß ïíèðóÑ\nL22@P1: ÒßÌËÎÍÌÛ×Ò\nL23@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·² î ½³ Í¬»·² î ½³ Í¬»·² î ½³\nL24@P1: Õ¿²¬» ê Õ¿²¬» ê Õ¿²¬» ê ÐÙ ï õ î ÐÙ í ó ì¾ ÐÙ ë õ ê\nL25@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL26@P1: ïêëð ïèéë îîðð\nL27@P1: ïéïð ïçìë îîèë\nL28@P1: îèèð íîéð ììèë\nL29@P1: îççë íìðë ìêíð\nL30@P1: îèèð íîéð ììèë\nL31@P1: îççë íìðë ìêíð\nL32@P1: îççë íìðë ìêíð\nL33@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»²æ ÛËÎÑ Ë²¬»®¾¿« Î«²¼­¬¿¸´ ³·¬ Õ±®®±­·±²­­½¸«¬¦ ·²æ\nL34@P1:  ó ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»² ±¼»® ²·½µ»´º¿®¾»² ð\nL35@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïèë\nL36@P1: Í±²¼»®¸*¸» íîð\nL37@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ïêé\nL38@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn112801view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn628542view0\",\"id\":13}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/3/a/f/b/3afb7620f945e079517fd9e264ae53c938722039/1380-ZSB-3ds.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn112801view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn628542view0\",\"id\":14}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/9/a/1/5/9a15a536d81d495dfb669295f6ae286804d0cca2/1380-ZSB-dwg.zip: (400) Timeout fetching\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Dan Outdoor - Outdoor - Produkte - Draenert (https://draenert.de/de/produkte/outdoor/dan.html)\n【turn519220view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/dan.html\",\"lineno\":null}); Total lines: 59\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Dan Outdoor\nL13: \nL14: Modell-Nr.: 3010-O\nL15: \nL16: 【5†Image】\nL17: #### Design  Wolfgang C. r. Mezger 2025\nL18: \nL19: Den Stuhl DAN gibt es nun auch als Outdoor-Modell. Metallstreben aus Flachstahl sorgen für eine robuste Bauweise, während der Rücken ergonomisch gewölbt ist. Die Polsterung des eingelegten Sitzkissens bietet höchsten Komfort. Das Material des Bezugstoffes und der Polsterung ist wasserdurchlässig, leicht zu reinigen und somit ideal für Einsätze im Freien.\nL20: \nL21: 【6†Image】\nL22: \nL23: 【7†Image】\nL24: \nL25: 【8†Image】\nL26: \nL27: 【9†iframe†ui.pcon-solutions.com】\nL28: ## Downloads\nL29: \nL30:   * 【10†Produktinformationen】\nL31:   * Fotos\nL32:   * 【11†dwg-Daten】\nL33: \nL34: 【12†Alle herunterladen】\nL35: \nL36: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL37: ##\nL38: \nL39: Weitere Material-Ausführungen (modellspezifisch)\nL40: \nL41: 【13†Zu allen Steinsorten】\nL42: \nL43: 【14†Zu allen Holzsorten】\nL44: \nL45: 【15†Wolfgang C. R. Mezger Wolfgang C. R. Mezger, geboren 1951, ist ein erfahrener Designer mit mehr als 30 Jahren Erfahrung. Seine E... Mehr über den Designer】\nL46: \nL47: 【16†Katalog   Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen】\nL48: \nL49:   * 【2†Händlersuche】\nL50:   * 【16†Katalogbestellung】\nL51:   * 【17†Newsletter】\nL52: \nL53:   * 【18†Aktuelles】\nL54:   * 【19†Für Presse】\nL55: \nL56:   * 【20†Datenschutz】\nL57:   * 【21†Impressum】\nL58:   * 【12†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn341140view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn519220view0\",\"id\":10}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/0/2/3/8/0238985937491c792d7041aed8b43c0833822ce2/3010-O_Dan_Outdoor_DE_1.5.26.pdf: TimeoutError\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn341140view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn519220view0\",\"id\":11}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/6/a/8/f/6a8fc074b8ecf3ee7c9d4ef86ff019fe96ef1c23/3010_O_DAN.zip: TimeoutError\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Lou - Outdoor - Produkte - Draenert (https://draenert.de/de/produkte/outdoor/lou.html)\n【turn844599view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/lou.html\",\"lineno\":null}); Total lines: 57\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Lou\nL13: \nL14: Modell-Nr.: 3025-O\nL15: \nL16: 【5†Image】\nL17: \nL18: 【6†Image】\nL19: #### Inhouse-Design Draenert 2023\nL20: \nL21: LOU sorgt dafür, dass wir unbeschwert das Lebensgefühl des Outdoor-Livings zelebrieren können. Komplett aus Rundrohr gefertigt, ist dieser Stuhl mehr als filigran und trotzdem komfortabel. Der Clou: LOU lässt sich bei Bedarf auch platzsparend stapeln und ist stets zu Diensten. Zwei schicke Kollektionen von robusten Outdoor-Stoffen bieten stilvolle Gestaltungsmöglichkeiten\nL22: \nL23: 【7†Image】\nL24: \nL25: 【8†Image】\nL26: \nL27: 【5†Image】\nL28: \nL29: 【9†iframe†ui.pcon-solutions.com】\nL30: ## Downloads\nL31: \nL32:   * 【10†Produktinformation】\nL33:   * 【11†dwg-Daten】\nL34: \nL35: 【12†Alle herunterladen】\nL36: \nL37: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL38: ##\nL39: \nL40: weitere Material-Ausführungen (modellspezifisch)\nL41: \nL42: 【13†Zu allen Stoffsorten】\nL43: \nL44: 【14†Dr. Patric Draenert Jahrgang 1969, promovierter Betriebswirt leitet das Unternehmen in der zweiten Generation. Seine Entwürfe ... Mehr über den Designer】\nL45: \nL46:   * 【2†Händlersuche】\nL47:   * 【15†Katalogbestellung】\nL48:   * 【16†Newsletter】\nL49: \nL50:   * 【17†Aktuelles】\nL51:   * 【18†Für Presse】\nL52: \nL53:   * 【19†Datenschutz】\nL54:   * 【20†Impressum】\nL55: \nL56:   * 【12†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/0/8/3/4/0834ff3ce4d1421da69e8b0479ca372c1d1ec631/3025-O_Lou_Outdoor_DE_1.5.26.pdf)\n【turn415795view0】 [wordlim: 200] Crawled: 2 months ago; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn844599view0\",\"id\":10}); Total lines: 30\nL0@P0: LOU\nL1@P0: Modell-Nr. 3025-O\nL2@P0: DESIGN DR. PATRIC DRAENERT\nL3@P0: LOU sorgt dafür, dass wir unbeschwert das Lebensgefühl des Outdoor-Livings zelebrieren können. Komplett aus Rundrohr gefertigt,\nL4@P0: ist dieser Stuhl mehr als filigran und trotzdem komfortabel. Der Clou: LOU lässt sich bei Bedarf auch platzsparend stapeln und ist stets\nL5@P0-1: zu Diensten. Zwei schicke Kollektionen von robusten Outdoor-Stoffen bieten stilvolle GestaltungsmöglichkeiteníðîëóÑ ÔÑË ÑËÌÜÑÑÎ ÜÛÍ×ÙÒ ×ÒØÑËÍÛ îðîí\nL6@P1: Ó±¼»´´¿®¬ Ù»­¬»´´ Ù®*A» Í¬¿¸´®±¸® H ïè ³³ Þ ó Ì ó Ø ³·¬ Õ±®®±­·±²­­½¸«¬¦ ½¿ò ·² ½³\nL7@P1: ­½¸©¿®¦ ¾»­½¸·½¸¬»¬ ²«® ³·¬ ÐÊÝóÙ´»·¬»®² «²¼ Í¬¿°»´­½¸«¬¦\nL8@P1: ëç ¨ ëê ¨ èí Í·¬¦¸*¸» ìé\nL9@P1: íðîë Í¬«¸´ Ñ«¬¼±±® ³·¬ ß®³ »¸²»²\nL10@P1: ­¬¿°»´¾¿® Í·¬¦¬·»º» ìì Ø*¸» ß®³´»¸²»² êìôë\nL11@P1: ëç ¨ ëê ¨ èí Í·¬¦¸*¸» ìé Í·¬¦¬·»º» ìì\nL12@P1: íðîë Í¬«¸´ Ñ«¬¼±±® ³·¬ ß®³ »¸²»² ³·¬ Í·¬¦ó «²¼ Î$½µ»²µ·­­»²\nL13@P1: ­¬¿°»´¾¿® Ø*¸» ß®³´»¸²»² êìôë\nL14@P1: Ó¿¬»®·¿´¾»¼¿®º ¾»· Ú®»³¼¾»¦«¹æ Þ·¬¬» ß«­º¿´´³«­¬»® ª±®¿¾ ¦«® Ð®$º«²¹ ¦«­»²¼»²ò\nL15@P1: Ë²¹»»·¹²»¬» Í¬±ºº» ³$­­»² ©·® ¦«®$½µ©»·­»²ÿ Í·¬¦óñ Î$½µ»²µ·­­»² ïôï ´º³ Í¬±ºº øÍ¬±ºº¾®»·¬» ïôì ³÷\nL16@P1: Ð±´­¬»®«²¹ Í½¸¿«³¬»·´» ©¿­­»®¿¾©»·­»²¼ Þ»¦«¹­³¿¬»®·¿´·»² Ñ«¬¼±±®óÍ¬±ºº Ê»®³±²¬ ì Ú¿®¾»² Ñ«¬¼±±®óÍ¬±ºº Ý±½± í Ú¿®¾»²\nL17@P1: Ø·²©»·­æ Ó¿¨·³¿´» Þ»´¿­¬«²¹ ïëð µ¹\nL18@P1: ïëè\nL19@P1: ÑËÌÜÑÑÎ ÔÑË íðîëóÑ\nL20@P1: Ù»©·½¸¬ Ñ¸²» Í·¬¦ó «²¼ Ó·¬ Í·¬¦ó «²¼ Ó·¬ Í·¬¦ó «²¼ Ó·¬ Í·¬¦ó «²¼\nL21@P1: ½¿ò ·² µ¹ Î$½µ»²µ·­­»² Î$½µ»²µ·­­»² Î$½µ»²µ·­­»² Î$½µ»²µ·­­»² É»·A°±´­¬»® Ñ«¬¼±±®óÍ¬±ºº Ñ«¬¼±±®óÍ¬±ºº Ê»®³±²¬ Ý±½±\nL22@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL23@P1: è ëêë\nL24@P1: è éíð éíð éêð\nL25@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»² ñ Í¬«¸´æ ÛËÎÑ Ù»­¬»´´ ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦» ±¼»® ²·½µ»´º¿®¾»² êë Ù»­¬»´´ ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïìë\nL26@P1: Ð®»·­» º$® Û®­¿¬¦¹´»·¬»® ñ Í¬«¸´æ\nL27@P1: Ûóíðîëóðï ÐÊÝ Û®­¿¬¦¹´»·¬»® øïó¬»·´·¹÷ ïî\nL28@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ïëç\nL29@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn415795view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn844599view0\",\"id\":11}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/9/b/e/7/9be71e53a0079f88ea4d96764b7fa5e34f3480b1/3025_O_LOU_mit%20und%20ohne_Kissen.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Achter - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/achter.html)\n【turn100846view0】 [wordlim: 200] Crawled: 4 months ago; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/achter.html\",\"lineno\":null}); Total lines: 61\nL0: Your browser does not support JavaScript!\nL1: \nL2: SCHLIESSEN\nL3: \nL4:   * 【0† Produkte 】\nL5:     * 【1† Esstische 】\nL6:     * 【2† Stühle & Barhocker 】\nL7:     * 【3† Couchtische & Beistelltische 】\nL8:     * 【4† Outdoor 】\nL9:     * 【5† Art Edition 】\nL10:   * 【6† Projekte 】\nL11:   * 【7† Materialien 】\nL12:   * 【8† Unternehmen 】\nL13:     * 【9† Aktuelles 】\nL14:     * 【10† Jobs 】\nL15:     * 【11† Orangerie 】\nL16:     * 【12† Manufaktur 】\nL17:   * 【13† Glossar 】\nL18:     * 【14† Stein 】\nL19: \nL20:   * 【15†DE】\nL21:   * 【16†EN】\nL22: \nL23: 【17† HÄNDLERSUCHE 】 【18† KONTAKTIEREN 】\nL24:   * 【15†DE】\nL25:   * 【16†EN】\nL26: \nL27: 【5† zur Übersicht 】\nL28: #  Achter\nL29: \nL30: 【27†Image】\nL31: #### DESIGN DR. PETER DRAENERT\nL32: \nL33: Das Modell Achter besteht aus einzelnen Glasplatten für jedes Gedeck. Das Gestell ist aus MDF furniert und lackiert, die Metallteile sind Hochglanz-verchromt.\nL34: Diese Tischreihe entspricht der philosophischen, psychologischen und soziologischen Beobachtung eines modernen Narzissmus des Einzelnen im Lifestylebad der Menge.\nL35: Der Mensch ist alleine auf sich gestellt. Er ist sich selbst genug, sorgt für sich und seine Bedürfnisse, auch und vor allem während eines Gesellschaftsessens. Symbolhaft also, die große, allen gemeinsame Tischplatte aufzulösen in einzelne Personenbereiche und auch hier weiter aufzulösen in einzelne Funktionsbereiche. Ein tradierter, allgemeingültiger Vorgang wird verfremdet und zu neuer Ordnung stilisiert.\nL36:   * 【28†Image: Red Dot \"best of the best\" 2004】\nL37: \nL38: 【29†Image】\nL39: \nL40: 【17† Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche 】\nL41: \nL42: 【19† Dr. Peter Draenert Peter Draenert (1937-2005) hat an der Universität Tübingen Philosophie, Kunstgeschichte, Germanistik un... Mehr über den Designer 】\nL43: \nL44: 【20† Katalog Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen 】\nL45: 【21† Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen 】\nL46: \nL47:   * 【17†Händlersuche】\nL48:   * 【20†Katalogbestellung】\nL49:   * 【22†Newsletter】\nL50:   * 【23†Für Händler】\nL51: \nL52:   *   *   *   *\nL53: \nL54:   * 【9†Aktuelles】\nL55:   * 【24†Für Presse】\nL56: \nL57:   * 【25†Datenschutz】\nL58:   * 【26†Impressum】\nL59: \nL60:   * Cookie-Einstellungen\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn302726view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/8030-barcode.html\",\"lineno\":null}); Total lines: 1\nL0: URL https://draenert.de/de/produkte/art-edition/8030-barcode.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Marble Wing - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/marble-wing.html)\n【turn770147view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/marble-wing.html\",\"lineno\":null}); Total lines: 42\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Marble Wing\nL13: \nL14: 【5†Image】\nL15: \nL16: 【6†Image】\nL17: \nL18: 【7†Image】\nL19: #### design Hadi Teherani 2017\nL20: Anlässlich des 50-jährigen Jubiläums von DRAENERT schlagen wir nun ein neues Kapitel der Art Edition auf. Der Architekt und Designer Hadi Teherani hat die Kulturgeschichte des Marmors in modernes Design übersetzt und eine limitierte Edition des Kunstmöbels MARBLE WING geschaffen.„Das Faszinierende ist, einen Felsen zu bändigen und daraus eine Skulptur zu machen, ihn zu einer Liege zu zähmen, die Leichtigkeit in Kombination mit dem schroffen Felsen in Szene setzt“, so Hadi Teherani über MARBLE WING.\nL21: So wurde der Architekt und Designer zum Künstler, der bei seinem Entwurf wie ein Bildhauer arbeitete und in der Tradition der alten Baumeister die Liege in Carrara Marmor schuf. Eine Chaiselongue, gefertigt aus einem massiven Natursteinblock Carrara Marmor, limitiert auf 15 Stück, nummeriert und datiert mit Zertifikat.\nL22: 【8†Image】\nL23: \nL24: 【9†Image】\nL25: \nL26: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL27: \nL28: 【10†Hadi Teherani Hadi Teherani – 1954 in Teheran geboren, aufgewachsen in Hamburg – ist einäußerst produktiver und vie... Mehr über den Designer】\nL29: \nL30: 【11†Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen】\nL31:   * 【2†Händlersuche】\nL32:   * 【12†Katalogbestellung】\nL33:   * 【13†Newsletter】\nL34: \nL35:   * 【14†Aktuelles】\nL36:   * 【15†Für Presse】\nL37: \nL38:   * 【16†Datenschutz】\nL39:   * 【17†Impressum】\nL40: \nL41:   * 【18†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Schreibsekretär F1 - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/schreibsekretaer-f1.html)\n【turn227361view0】 [wordlim: 200] Crawled: 2 months ago; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/schreibsekretaer-f1.html\",\"lineno\":null}); Total lines: 56\nL0: Your browser does not support JavaScript!\nL1: \nL2: SCHLIESSEN\nL3: \nL4:   * 【0† Produkte 】\nL5:     * 【1† Esstische 】\nL6:     * 【2† Stühle & Barhocker 】\nL7:     * 【3† Couchtische & Beistelltische 】\nL8:     * 【4† Outdoor 】\nL9:     * 【5† Art Edition 】\nL10:   * 【6† Projekte 】\nL11:   * 【7† Materialien 】\nL12:   * 【8† Unternehmen 】\nL13:     * 【9† Aktuelles 】\nL14:     * 【10† Jobs 】\nL15:     * 【11† Orangerie 】\nL16:     * 【12† Manufaktur 】\nL17:   * 【13† Glossar 】\nL18:     * 【14† Stein 】\nL19: \nL20:   * 【15†DE】\nL21:   * 【16†EN】\nL22: \nL23: 【17† HÄNDLERSUCHE 】 【18† KONTAKTIEREN 】\nL24:   * 【15†DE】\nL25:   * 【16†EN】\nL26: \nL27: 【5† zur Übersicht 】\nL28: #  Schreibsekretär F1\nL29: \nL30: 【26†Image】\nL31: #### Design Norbert Berhof, Michael Landes, Wolfgnag Rang\nL32: Die Frankfurter Möbel sind Teil einer Entwurfsreihe der Frankfurter Architekten Norbert Berghof, Michael Landes und Wolfgang Rang, die die deutsche Spielart der Postmoderne und innerhalb dieser wiederum die Darmstädter-Frankfurter Schule vorstellen. Die Entwürfe dieser Baureihe wurden in einer limitierten Auflage von je 100 Stück hergestellt und sind nummeriert, datiert und signiert.\nL33: Der Frankfurter Schrank F1 ist ein Schreibsekretär aus Vogelaugahorn, Ebenholz, Bruyère, Wurzelmaser, Ahorn massiv, Bubinga, Elfenbein, Horn, Messing, Blattgold, Marmor Lasa und Aosta, Granit Bahia Blue usw. Er verfügt über kleine Tresore, Schubladen und eine Schreibplatte. Jedes Teil ist eine Einzelanfertigung, ein handgefertigtes Meisterstück. Die Frankfurter Möbel sind Kunstwerke. Sie waren Bestandteil bedeutender Ausstellungen und wurden von zahlreichen internationalen Museen angekauft.\nL34: 【27†Image】\nL35: \nL36: 【28†Image】\nL37: \nL38: 【17† Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche 】\nL39: \nL40: 【19† Prof. Wolfgang Rang Jahrgang 1949, hat an der TH Darmstadt Architektur studiert. 1980 Gründung eines Architekturbüros mit Mich... Mehr über den Designer 】\nL41: \nL42: 【20† Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen 】\nL43:   * 【17†Händlersuche】\nL44:   * 【21†Katalogbestellung】\nL45:   * 【22†Newsletter】\nL46: \nL47:   *   *   *   *\nL48: \nL49:   * 【9†Aktuelles】\nL50:   * 【23†Für Presse】\nL51: \nL52:   * 【24†Datenschutz】\nL53:   * 【25†Impressum】\nL54: \nL55:   * Cookie-Einstellungen\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn293877view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/vertiko-f2.html\",\"lineno\":null}); Total lines: 1\nL0: Failed to fetch https://draenert.de/de/produkte/art-edition/vertiko-f2.html: TimeoutError\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Sternensessel F3 - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/sternensessel-f3.html)\n【turn854990view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/sternensessel-f3.html\",\"lineno\":null}); Total lines: 38\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Sternensessel F3\nL13: \nL14: 【5†Image】\nL15: #### Designn Norbert Berghof, Michael Landes und Wolfgang Rang\nL16: Die Frankfurter Möbel sind Teil einer Entwurfsreihe der Frankfurter Architekten Norbert Berghof, Michael Landes und Wolfgang Rang, die die deutsche Spielart der Postmoderne und innerhalb dieser wiederum die Darmstädter-Frankfurter Schule vorstellen. Die Entwürfe dieser Baureihe werden in einer limitierten Auflage von je 100 Stück hergestellt und sind nummeriert, datiert und signiert.\nL17: Der Frankfurter Stuhl F3 ist ein Einzelmöbel aus Vogelaugahorn, Ebenholz, Bruyère, Wurzelmaser, Ahorn massiv, Bubinga, Elfenbein, Horn, Messing, Blattgold, Marmor Lasa und Aosta, Granit Bahia Blue usw. Jedes Teil ist eine Einzelanfertigung, ein handgefertigtes Meisterstück. Die Frankfurter Möbel sind Kunstwerke. Sie waren Bestandteil bedeutender Ausstellungen und wurden von zahlreichen internationalen Museen angekauft.\nL18: 【6†Image】\nL19: \nL20: 【7†Image】\nL21: \nL22: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL23: \nL24: 【8†Prof. Wolfgang Rang Jahrgang 1949, hat an der TH Darmstadt Architektur studiert. 1980 Gründung eines Architekturbüros mit Mich... Mehr über den Designer】\nL25: \nL26: 【9†Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen】\nL27:   * 【2†Händlersuche】\nL28:   * 【10†Katalogbestellung】\nL29:   * 【11†Newsletter】\nL30: \nL31:   * 【12†Aktuelles】\nL32:   * 【13†Für Presse】\nL33: \nL34:   * 【14†Datenschutz】\nL35:   * 【15†Impressum】\nL36: \nL37:   * 【16†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Europa - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/europa-1.html)\n【turn593804view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/europa-1.html\",\"lineno\":null}); Total lines: 38\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Europa\nL13: \nL14: 【5†Image】\nL15: #### design ron arad 1994\nL16: \nL17: Ein Edelstahlsofa des englischen Stahl-Künstlers Ron Arad. Ein horizontal zerteilter und anschließend verformter Kegelstumpf bildet die Grundlage für Sitz und Lehne. Das 218 cm lange Sofa aus nur 1 mm starkem, hochglanzpoliertem Chrom-Nickel-Stahlblech erhält seine Stabilität durch das flächige Schließen der offenen Schnittkanten.\nL18: \nL19: 【6†Image】\nL20: \nL21: 【7†Image】\nL22: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL23: \nL24: 【8†Ron Arad Jahrgang 1951, hat zunächst an der Universität von Jerusalem Kunst studiert. Nach seinem Umzug nach London... Mehr über den Designer】\nL25: \nL26: 【9†Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen】\nL27:   * 【2†Händlersuche】\nL28:   * 【10†Katalogbestellung】\nL29:   * 【11†Newsletter】\nL30: \nL31:   * 【12†Aktuelles】\nL32:   * 【13†Für Presse】\nL33: \nL34:   * 【14†Datenschutz】\nL35:   * 【15†Impressum】\nL36: \nL37:   * 【16†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn800306view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/ione.html\",\"lineno\":null}); Total lines: 1\nL0: URL https://draenert.de/de/produkte/art-edition/ione.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Arkadien - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/arkadien.html)\n【turn387994view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/arkadien.html\",\"lineno\":null}); Total lines: 38\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Arkadien\nL13: \nL14: 【5†Image】\nL15: #### design trix & robert haussmann 1994\nL16: Ein Tisch in manieriertem Stil der Postmoderne. „Arkadien“ ist in seiner Form und technischen Ausführung ein traditioneller Esstisch mit einer furnierten Tischplatte und passend furnierten Beinen. Aufregend an diesem Modell ist die auf der Tischplatte aufgebrachte Intarsie in Form eines geworfenen Tuches, die dem Möbel neben seiner Funktion eine multiple Bedeutungsebene zuweist. Ein kunsthandwerkliches Meisterstück aus furniertem Nussbaum, Ahorn und Birne sowie Ebenholz.\nL17: Esstisch 90 x 270 x 72 cm\nL18: Platte 2,5 cm stark, Intarsienarbeit aus Furnierholz Birne, Ahorn und Nußbaum Holzbeine Nußbaum furniert\nL19: Limitierte Auflage: 6 Stück\nL20: 【6†Image】\nL21: \nL22: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL23: \nL24: 【7†Prof. Trix und Prof. Robert Haussmann Jahrgang 1933 bzw. 1931, Trix Haussmann hat an der ETH in Zürich studiert. Robert Haussmann hat in Zürich ... Mehr über den Designer】\nL25: \nL26: 【8†Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen】\nL27:   * 【2†Händlersuche】\nL28:   * 【9†Katalogbestellung】\nL29:   * 【10†Newsletter】\nL30: \nL31:   * 【11†Aktuelles】\nL32:   * 【12†Für Presse】\nL33: \nL34:   * 【13†Datenschutz】\nL35:   * 【14†Impressum】\nL36: \nL37:   * 【15†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Nobile - Outdoor - Produkte - Draenert (https://draenert.de/de/produkte/outdoor/nobile-O.html)\n【turn690126view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/nobile-O.html\",\"lineno\":null}); Total lines: 53\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Nobile\nL13: \nL14: Modell-Nr.: 3076\nL15: \nL16: 【5†Image】\nL17: ####\nL18: \nL19: NOBILE - der Alleskönner! Auch Outdoor wollen wir nicht auf den NOBILE mit seinem unvergleichlichen Sitzkomfort verzichten. Warum auch? Zweitolle und robuste Outdoor-Stoffkollektionen trotzen jedem Wetter und lassen den NOBILE bei Regen oder Sonnenschein immer gut dastehen. Die softe Polsterung von Rücken und Sitzfläche erfreut uns auch Outdoor. So stehen langen und geselligen Sommerabenden nichts im Wege.\nL20: \nL21: 【6†Image】\nL22: \nL23: 【7†Image】\nL24: \nL25: 【8†iframe†ui.pcon-solutions.com】\nL26: ## Downloads\nL27: \nL28:   * 【9†Produktinformation】\nL29:   * 【10†dwg-Daten】\nL30: \nL31: 【11†Alle herunterladen】\nL32: \nL33: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL34: ##\nL35: \nL36: weitere Material-Ausführungen (modellspezifisch)\nL37: \nL38: 【12†Zu allen Stoffsorten】\nL39: \nL40: 【13†Gino Carollo Italien, ThieneJahrgang 1965, der Industriedesigner arbeitet seit 1990 für namhafte internationale Un... Mehr über den Designer】\nL41: \nL42:   * 【2†Händlersuche】\nL43:   * 【14†Katalogbestellung】\nL44:   * 【15†Newsletter】\nL45: \nL46:   * 【16†Aktuelles】\nL47:   * 【17†Für Presse】\nL48: \nL49:   * 【18†Datenschutz】\nL50:   * 【19†Impressum】\nL51: \nL52:   * 【11†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn784061view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn690126view0\",\"id\":9}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/6/3/2/b/632be1e607b0a194e458fd3d7e7a18d366ac0737/3076-O_Nobile_Outdoor_DE_1.5.26.pdf: TimeoutError\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn784061view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn690126view0\",\"id\":10}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/c/d/a/4/cda4bdf35f5ec8a963650c85953726f63d5e4c79/2076_NOBILE.zip: (400) Timeout fetching\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn114390view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://draenert.de/de/produkte/outdoor/nobile-O-1.html\",\"lineno\":null}); Total lines: 1\nL0: URL https://draenert.de/de/produkte/outdoor/nobile-O-1.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "X1 / X2 - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/x1-x2.html)\n【turn229741view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/x1-x2.html\",\"lineno\":null}); Total lines: 38\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # X1 / X2\nL13: \nL14: 【5†Image】\nL15: #### design oswald mathias ungers 1989\nL16: \nL17: Der Stuhl X1 ist aus schwarzem, matt lackierten Holz mit Rollen, Sitzmulde und Hohlkehle im Rücken. Der Tisch X2 besteht in seiner Normalausführung aus schwarzem, matt lackierten Holz mit eingelegter Natursteinplatte Giallo di Siena, Giallo Antico oder Rosso Levanto mit Rollen. Die hier gezeigte Ausführung von O. M. Ungers ist eine Aluminium-Rahmenbau-weise mit echten Stuccolustrofüllungen in Scagliolatechnik.\nL18: \nL19: 【6†Image】\nL20: \nL21: 【7†Image】\nL22: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL23: \nL24: 【8†Prof. Oswald Mathias Ungers O.M. Ungers (1926-2007) hat bei Egon Eiermann an der Universität Karlsruhe Architektur studiert. 1950 grün... Mehr über den Designer】\nL25: \nL26: 【9†Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen】\nL27:   * 【2†Händlersuche】\nL28:   * 【10†Katalogbestellung】\nL29:   * 【11†Newsletter】\nL30: \nL31:   * 【12†Aktuelles】\nL32:   * 【13†Für Presse】\nL33: \nL34:   * 【14†Datenschutz】\nL35:   * 【15†Impressum】\nL36: \nL37:   * 【16†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Danseuse - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/danseuse.html)\n【turn524619view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/danseuse.html\",\"lineno\":null}); Total lines: 47\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Danseuse\nL13: \nL14: 【5†Image】\nL15: \nL16: 【6†Image】\nL17: \nL18: 【7†Image】\nL19: #### design peter draenert 1996\nL20: Die DANSEUSE - die Tänzerin - ist gestalterisch an das „Triadische Ballett“ von Oskar Schlemmer angelehnt. Schlemmer, einer der bedeutendsten Bauhaus-Künstler, war Maler, Bildhauer und Bühnenbildner. Er beschäftigte sich mit der korrespondierenden Beziehung zwischen Mensch und Raum. Die menschliche Figur wurde dabei zunehmend auf geometrische Grundformen reduziert.\nL21: Inspiriert von Oskar Schlemmers Werk entwickelte Peter Draenert 1996 die DANSEUSE als dekorative Raumskulptur in der ihm eigenen Ironie. Der Tisch mit schwungvoll geformten Beinen ist aus Holz gedrechselt und mit einer speziellen Technik lackiert.\nL22: Dieses aufwendig in Einzelanfertigung hergestellte Kunstmöbel ist auf 100 Stücke limitiert.\nL23: 【8†Image】\nL24: \nL25: 【9†Image】\nL26: \nL27: 【10†Image】\nL28: \nL29: 【11†Image】\nL30: \nL31: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL32: \nL33: 【12†Dr. Peter Draenert Peter Draenert (1937-2005) hat an der Universität Tübingen Philosophie, Kunstgeschichte, Germanistik un... Mehr über den Designer】\nL34: \nL35: 【13†Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen】\nL36:   * 【2†Händlersuche】\nL37:   * 【14†Katalogbestellung】\nL38:   * 【15†Newsletter】\nL39: \nL40:   * 【16†Aktuelles】\nL41:   * 【17†Für Presse】\nL42: \nL43:   * 【18†Datenschutz】\nL44:   * 【19†Impressum】\nL45: \nL46:   * 【20†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "G-14 - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/g-14.html)\n【turn737072view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/g-14.html\",\"lineno\":null}); Total lines: 39\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # G-14\nL13: \nL14: 【5†Image】\nL15: #### DESIGN WALTER GIERS\nL16: \nL17: Giers: \"Am Ende war das Wort: Quadra-tisch. Über die gesamte Tischplatte sind in 7 x 7 = 49 Lichtquadraten zufallsgesteuerte Kompo­sitionen erlebbar.\"\nL18: Limitierte Auflage: 50 Stück\nL19: Auszeichnung: Red Dot „best of the best“ 2004\nL20: Modell G-14 \"Quadra-tisch\" aus der Kunstmöbelreihe \"Electronic Art\", designed by Walter Giers\nL21: \nL22: 【6†Image】\nL23: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL24: \nL25: 【7†Walter Giers Walter Giers (1937-2016) hat an der FH Schwäbisch Gmünd studiert.Nach verschiedenen Auslandsaufenth... Mehr über den Designer】\nL26: \nL27: 【8†Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen】\nL28: \nL29:   * 【2†Händlersuche】\nL30:   * 【9†Katalogbestellung】\nL31:   * 【10†Newsletter】\nL32:   * 【11†Aktuelles】\nL33:   * 【12†Für Presse】\nL34: \nL35:   * 【13†Datenschutz】\nL36:   * 【14†Impressum】\nL37: \nL38:   * 【15†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Leonardo - Art Edition - Produkte - Draenert (https://draenert.de/de/produkte/art-edition/leonardo.html)\n【turn119979view0】 [wordlim: 200] Crawled: 2 months ago; Content type: text/html; Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/leonardo.html\",\"lineno\":null}); Total lines: 56\nL0: Your browser does not support JavaScript!\nL1: \nL2: SCHLIESSEN\nL3: \nL4:   * 【0† Produkte 】\nL5:     * 【1† Esstische 】\nL6:     * 【2† Stühle & Barhocker 】\nL7:     * 【3† Couchtische & Beistelltische 】\nL8:     * 【4† Outdoor 】\nL9:     * 【5† Art Edition 】\nL10:   * 【6† Projekte 】\nL11:   * 【7† Materialien 】\nL12:   * 【8† Unternehmen 】\nL13:     * 【9† Aktuelles 】\nL14:     * 【10† Jobs 】\nL15:     * 【11† Orangerie 】\nL16:     * 【12† Manufaktur 】\nL17:   * 【13† Glossar 】\nL18:     * 【14† Stein 】\nL19: \nL20:   * 【15†DE】\nL21:   * 【16†EN】\nL22: \nL23: 【17† HÄNDLERSUCHE 】 【18† KONTAKTIEREN 】\nL24:   * 【15†DE】\nL25:   * 【16†EN】\nL26: \nL27: 【5† zur Übersicht 】\nL28: #  Leonardo\nL29: \nL30: 【25†Image】\nL31: #### DESIGN PROF. OSWALD MATHIAS UNGERS 1988\nL32: Das Modell Leonardo entstammt der Feder eines Meisters. Als einer der konsequentesten unter den internationalen Spitzenarchitekten gilt Professor Oswald Mathias Ungers als ein strenger Verfechter der klassischen Geometrie, wie sie in der frühen Renaissance von Vitruv und Leonardo da Vinci postuliert wurde. Dieser Stuhl wurde für die Badische Landesbibliothek entworfen. Er besteht aus massiver Buche offenporig lackiert und einem Ledersitz in einer Farbe nach Wunsch.\nL33: (Staatliche Museen zu Berlin, Kunstgewerbemuseum)\nL34:   * 【26†Image: Nominierung für den Designpreis der Bundesrepublik Deutschland 2007】\nL35: \nL36: 【27†Image】\nL37: \nL38: 【17† Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche 】\nL39: \nL40: 【19† Katalog Sie erhalten nähere Einblicke in die DRAEN... Katalog bestellen 】\nL41: \nL42: 【20† Draenert in Museen DRAENERT steht mit seinen außergewöhnlichen Möbeln in vielen namhaften Museen der Welt. Mehr über Draenert in Museen 】\nL43:   * 【17†Händlersuche】\nL44:   * 【19†Katalogbestellung】\nL45:   * 【21†Newsletter】\nL46: \nL47:   *   *   *   *\nL48: \nL49:   * 【9†Aktuelles】\nL50:   * 【22†Für Presse】\nL51: \nL52:   * 【23†Datenschutz】\nL53:   * 【24†Impressum】\nL54: \nL55:   * Cookie-Einstellungen\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn516653view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://draenert.de/de/produkte/art-edition/piccolino-1.html\",\"lineno\":null}); Total lines: 1\nL0: URL https://draenert.de/de/produkte/art-edition/piccolino-1.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Mortimer Outdoor - Outdoor - Produkte - Draenert (https://www.draenert.de/de/produkte/outdoor/mortimer-outdoor.html)\n【turn875107view0】 [wordlim: 200] Crawled: 1.2 years ago; Content type: text/html; Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/outdoor/mortimer-outdoor.html\",\"lineno\":null}); Total lines: 82\nL0: Your browser does not support JavaScript!\nL1: \nL2: SCHLIESSEN\nL3: \nL4:   * 【0† Produkte 】\nL5:     * 【1† Esstische 】\nL6:     * 【2† Stühle & Barhocker 】\nL7:     * 【3† Couchtische & Beistelltische 】\nL8:     * 【4† Outdoor 】\nL9:     * 【5† Art Edition 】\nL10:   * 【6† Projekte 】\nL11:   * 【7† Materialien 】\nL12:   * 【8† Unternehmen 】\nL13:     * 【9† Aktuelles 】\nL14:     * 【10† Jobs 】\nL15:     * 【11† Orangerie 】\nL16:     * 【12† Manufaktur 】\nL17:   * 【13† Glossar 】\nL18:     * 【14† Stein 】\nL19: \nL20:   * 【15†DE】\nL21:   * 【16†EN】\nL22: \nL23: 【17† HÄNDLERSUCHE 】 【18† KONTAKTIEREN 】\nL24:   * 【15†DE】\nL25:   * 【16†EN】\nL26: \nL27: 【4† zur Übersicht 】\nL28: #  Mortimer Outdoor\nL29: \nL30: Modell-Nr.: 1085\nL31: \nL32: 【35†Image】\nL33: \nL34: #### Design Stephan Veit 2011\nL35: \nL36: Dieser Beistelltisch besticht durch seine unverfälschte Einfachheit. Die Natursteinplatte wirkt durch ihre gelederte Oberfläche mit rauer Kante. Die Kombination mit dem naturbelassenen Unterbau aus Schwarzstahl gibt dem Tisch seine Authentizität.\nL37: \nL38: Produkte / Materialien\nL39: \nL40: Stein 【19†Agatha】\nL41: \nL42: 【36†Image】\nL43: \nL44: Produkte / Materialien\nL45: \nL46: Stein 【19†Agatha】\nL47: \nL48: 【37†Image】\nL49: ## Downloads\nL50: \nL51:   * 【20† Produktinformation 】\nL52:   * 【21† 3ds-Daten 】\nL53:   * 【22† dwg-Daten 】\nL54:   *   Fotos\nL55: \nL56: Alle herunterladen\nL57: \nL58: 【17† Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche 】\nL59: ##\nL60: \nL61: weitere Material-Ausführungen (modellspezifisch)\nL62: \nL63: 【19† 】 【23† 】 【24† 】 【25† 】 【26† 】 【27† 】\nL64: \nL65: 【28† Zu allen Steinsorten 】\nL66: \nL67: 【29† Wolfgang C. R. Mezger Wolfgang C. R. Mezger, geboren 1951, ist ein erfahrener Designer mit mehr als 30 Jahren Erfahrung. Seine E... Mehr über den Designer 】\nL68: \nL69:   * 【17†Händlersuche】\nL70:   * 【30†Katalogbestellung】\nL71:   * 【31†Newsletter】\nL72: \nL73:   *   *   *   *\nL74: \nL75:   * 【9†Aktuelles】\nL76:   * 【32†Für Presse】\nL77: \nL78:   * 【33†Datenschutz】\nL79:   * 【34†Impressum】\nL80: \nL81:   * Cookie-Einstellungen\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn961327view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn875107view0\",\"id\":20}); Total lines: 1\nL0: Failed to fetch https://www.draenert.de/_Resources/Persistent/3/5/4/d/354dda21096a1548ebc27d62f9d6b360fa22e5bc/1085-O_Mortimer_Outdoor_DE_1.5.25.pdf: (404) Not Found\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn961327view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn875107view0\",\"id\":21}); Total lines: 1\nL0: Failed to fetch https://www.draenert.de/_Resources/Persistent/6/b/e/1/6be15833947c0bc2c8aeb9571337a11bb6b1503f/1085_3DS-Daten.zip: (400) Unsupported content-type: application/zip\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn961327view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn875107view0\",\"id\":22}); Total lines: 1\nL0: Failed to fetch https://www.draenert.de/_Resources/Persistent/5/b/f/8/5bf852eb131ab5f0b2c6b8642b3ac86c13cd467c/1085_DWG-Daten.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Qbic Outdoor - Outdoor - Produkte - Draenert (https://www.draenert.de/de/produkte/outdoor/qbic-outdoor.html)\n【turn526662view0】 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/outdoor/qbic-outdoor.html\",\"lineno\":null}); Total lines: 73\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Qbic Outdoor\nL13: \nL14: Modell-Nr.: 1365\nL15: \nL16: 【5†Image†draenert.de】\nL17: \nL18: Produkte / Materialien\nL19: \nL20: Stein 【6†Black Marinace】\nL21: \nL22: 【7†Image†draenert.de】\nL23: \nL24: Produkte / Materialien\nL25: \nL26: Stein 【8†Brown Silk】\nL27: \nL28: 【9†Image†draenert.de】\nL29: #### Design Patric Draenert 2014\nL30:  Pure Symmetrie – wohnlich verpackt. Der QBIC verbindet erlesene Handwerkskunst mit einem zeitlosen Design. Er wirkt wie eine massive Steinskulptur. Die Kanten dieses Würfels sind perfekt gearbeitet – in Kassetten-Bauweise auf Gehrung geschnitten, verklebt, geschliffen und gebürstet mit geledertem Finish. Durch die Zeichnung des Steines bekommt dieser cleane Beistelltisch eine interessante Verspieltheit. Die eingelassenen Rollen erlauben ein müheloses Arrangieren an den gewünschten Ort.\nL31: Produkte / Materialien\nL32: \nL33: Stein 【8†Brown Silk】\nL34: \nL35: 【10†Image†draenert.de】\nL36: \nL37: Produkte / Materialien\nL38: \nL39: Stein 【11†Avocatus】\nL40: \nL41: 【12†Image†draenert.de】\nL42: \nL43: 【13†iframe†ui.pcon-solutions.com】\nL44: ## Downloads\nL45: \nL46:   * 【14†Produktinformation†draenert.de】\nL47:   * 【15†3ds-Daten†draenert.de】\nL48:   * 【16†dwg-Daten†draenert.de】\nL49:   * Fotos\nL50: \nL51: 【17†Alle herunterladen】\nL52: \nL53: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL54: ##\nL55: \nL56: weitere Material-Ausführungen (modellspezifisch)\nL57: \nL58: 【18†Zu allen Steinsorten】\nL59: \nL60: 【19†Dr. Patric Draenert Jahrgang 1969, promovierter Betriebswirt leitet das Unternehmen in der zweiten Generation. Seine Entwürfe ... Mehr über den Designer】\nL61: \nL62:   * 【2†Händlersuche】\nL63:   * 【20†Katalogbestellung】\nL64:   * 【21†Newsletter】\nL65: \nL66:   * 【22†Aktuelles】\nL67:   * 【23†Für Presse】\nL68: \nL69:   * 【24†Datenschutz】\nL70:   * 【25†Impressum】\nL71: \nL72:   * 【17†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/c/3/c/d/c3cd5606c71d4e7e9e460e57f706fb7653d7e08e/1365-O_Qbic_DE_1.5.26.pdf)\n【turn720170view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn526662view0\",\"id\":14}); Total lines: 22\nL0@P0: QBIC OUTDOOR\nL1@P0: Modell-Nr. 1365\nL2@P0-1: DESIGN DR. PATRIC DRAENERTïíêëóÑ ÏÞ×Ý ÑËÌÜÑÑÎ ÜÛÍ×ÙÒ ÐßÌÎ×Ý ÜÎßÛÒÛÎÌ îðïì ÒßÌËÎÍÌÛ×Ò Ó±¼»´´¿®¬ Ù®*A» Þ ó Ô ó Ø\nL3@P1: ½¿ò ·² ½³\nL4@P1: ïíêë Þ»·­¬»´´¬·­½¸ ñ Ø±½µ»® Ñ«¬¼±±® íð ¨ íð ¨ ëð\nL5@P1: ¿«º Î±´´»² ìð ¨ ìð ¨ ìð\nL6@P1: ïíêë Ý±«½¸¬·­½¸ Ñ«¬¼±±® êð ¨ ïðð ¨ íð\nL7@P1: ¿«º Î±´´»²\nL8@P1: Þ·¬¬» ¿²¹»¾»²æ Þ·¬¬» ¹»¾»² Í·» ¾»· ¼»® Þ»­¬»´´«²¹ ¿²ô ¼¿­­ »­ ­·½¸ «³ ¼·» Ñ«¬¼±±®óÊ¿®·¿²¬» ¸¿²¼»´¬ò\nL9@P1: Ø·²©»·­æ Û·²·¹» Þ¿«¬»·´» ¼»­ Ì·­½¸»­ ­·²¼ ¼»² ß²º±®¼»®«²¹»² ·³ Ñ«¬¼±±®óÞ»®»·½¸ ¿²¹»°¿­­¬ò\nL10@P1: Í±²¼»®³¿A» ¿«º ß²º®¿¹»ò\nL11@P1: ïêì\nL12@P1:  ÑËÌÜÑÑÎ ÏÞ×Ý ïíêëóÑ\nL13@P1: ÒßÌËÎÍÌÛ×Ò\nL14@P1: Ð´¿¬¬» Ð´¿¬¬» Ð´¿¬¬» Í¬»·²µ¿­­»¬¬» î ½³ Í¬»·²µ¿­­»¬¬» î ½³ Í¬»·²µ¿­­»¬¬» î ½³\nL15@P1: ¹»´»¼»®¬ ¹»´»¼»®¬ ¹»´»¼»®¬ ÐÙ ï õ î ÐÙ í ó ì¾ ÐÙ ë õ ê\nL16@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL17@P1: îîìð îìçð íèëë\nL18@P1: îíéð îêíë ìïêë\nL19@P1: íëðð íèçð êíêð\nL20@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ïêë\nL21@P1: Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn720170view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn526662view0\",\"id\":15}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/2/b/5/a/2b5a97ecde87ff8e1d05c095cf3733d20921f141/1365_3DS-Daten.zip: (400) Timeout fetching\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn720170view2】 [wordlim: 200] Source: click({\"ref_id\":\"turn526662view0\",\"id\":16}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/d/d/a/7/dda7426c485cd13057198af714a2b3eeb46d9c61/1365_DWG-Daten.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Barcode - Art Edition - Produkte - Draenert (https://www.draenert.de/de/produkte/art-edition/8030-barcode.html)\n【turn338809view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/art-edition/8030-barcode.html\",\"lineno\":null}); Total lines: 48\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Barcode\nL13: \nL14: Modell-Nr.: 8030\nL15: \nL16: 【5†Image†draenert.de】\nL17: #### Design  draenert Hakakian Tariki 2010\nL18: Der Barcode Table ist Esstisch und Konferenztisch gleichermaßen und durch den Einsatz von Stein und Stahl zu 100% recyclebar. Dem Entwurf liegt der Ansatz der Nachhaltigkeit zugrunde. Durch die Verwendung von Steinen aus dem Produktionsprozess werden ungenutzte Ressourcen verwendet. Jeder Barcode Table ist ein Unikat. Der Tisch ist in unterschiedlichsten Kombinationen erhältlich. Die individuelle Auswahl der Steinsorten ist naturgemäß limitiert und die Verfügbarkeit ist auf Anfrage zu prüfen.\nL19:   * 【6†Image: Green Good Design Award 2012†draenert.de】\nL20:   * 【7†Image: Interior Innovation Award Cologne 2011†draenert.de】\nL21: \nL22: 【8†Image†draenert.de】\nL23: \nL24: 【9†Image†draenert.de】\nL25: ## Downloads\nL26: \nL27: 【10†Alle herunterladen】\nL28: \nL29: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL30: \nL31: ##\nL32: \nL33: weitere Material-Ausführungen (modellspezifisch)\nL34: \nL35: 【11†Zu allen Steinsorten】\nL36: \nL37:   * 【2†Händlersuche】\nL38:   * 【12†Katalogbestellung】\nL39:   * 【13†Newsletter】\nL40: \nL41:   * 【14†Aktuelles】\nL42:   * 【15†Für Presse】\nL43: \nL44:   * 【16†Datenschutz】\nL45:   * 【17†Impressum】\nL46: \nL47:   * 【10†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn254237view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/art-edition/vertiko-f2.html\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/de/produkte/art-edition/vertiko-f2.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn745994view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/art-edition/ione.html\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/de/produkte/art-edition/ione.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Nobile X - Outdoor - Produkte - Draenert (https://www.draenert.de/de/produkte/outdoor/nobile-O-1.html)\n【turn762731view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/outdoor/nobile-O-1.html\",\"lineno\":null}); Total lines: 54\nL0: Your browser does not support JavaScript!\nL1: \nL2:   * 【0†DE】\nL3:   * 【1†EN】\nL4: \nL5: 【2†HÄNDLERSUCHE】 【3†KONTAKTIEREN】\nL6: \nL7:   * 【0†DE】\nL8:   * 【1†EN】\nL9: \nL10: 【4†zur Übersicht】\nL11: \nL12: # Nobile X\nL13: \nL14: Modell-Nr.: 3076 X\nL15: \nL16: 【5†Image†draenert.de】\nL17: \nL18: 【6†Image†draenert.de】\nL19: \nL20: 【7†Image†draenert.de】\nL21: ####\nL22: \nL23: NOBILE - der Alleskönner! Auch Outdoor wollenwir nicht auf den NOBILE mit seinem unvergleichlichen Sitzkomfort verzichten. Warum auch? Zweitolle und robuste Outdoor-Stoffkollektionen trotzen jedem Wetter und lassen den NOBILE bei Regen oder Sonnenschein immer gut dastehen. Die softe Polsterung von Rücken und Sitzfläche erfreut uns auch Outdoor. So stehen langen und geselligen Sommerabenden nichts im Wege. Hier in der Variante mit schmalem Rücken- Nobile X.\nL24: \nL25: 【5†Image†draenert.de】\nL26: 【8†iframe†ui.pcon-solutions.com】\nL27: ## Downloads\nL28: \nL29:   * 【9†Produktinformation†draenert.de】\nL30:   * 【10†dwg-Daten†draenert.de】\nL31: \nL32: 【11†Alle herunterladen】\nL33: \nL34: 【2†Händlersuche Draenert Möbel weltweit Sie suchen einen Händler in Ihrer Umgebung? Finden Sie einen DRAENERT Fachhändler in Ihrer Nähe. Zur Händlersuche】\nL35: ##\nL36: \nL37: weitere Material-Ausführungen (modellspezifisch)\nL38: \nL39: 【12†Zu allen Stoffsorten】\nL40: \nL41: 【13†Gino Carollo Italien, ThieneJahrgang 1965, der Industriedesigner arbeitet seit 1990 für namhafte internationale Un... Mehr über den Designer】\nL42: \nL43:   * 【2†Händlersuche】\nL44:   * 【14†Katalogbestellung】\nL45:   * 【15†Newsletter】\nL46: \nL47:   * 【16†Aktuelles】\nL48:   * 【17†Für Presse】\nL49: \nL50:   * 【18†Datenschutz】\nL51:   * 【19†Impressum】\nL52: \nL53:   * 【11†Cookie-Einstellungen】\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": " (https://draenert.de/_Resources/Persistent/6/3/2/b/632be1e607b0a194e458fd3d7e7a18d366ac0737/3076-O_Nobile_Outdoor_DE_1.5.26.pdf)\n【turn935377view0】 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 2; Source: click({\"ref_id\":\"turn762731view0\",\"id\":9}); Total lines: 37\nL0@P0: NOBILE X\nL1@P0: Modell-Nr. 3076 X\nL2@P0: DESIGN GINO CAROLLO\nL3@P0: NOBILE - der Alleskönner! Auch Outdoor wollenwir nicht auf den NOBILE mit seinem unvergleichlichen Sitzkomfort verzichten. Warum\nL4@P0: auch? Zweitolle und robuste Outdoor-Stoffkollektionen trotzen jedem Wetter und lassen den NOBILE bei Regen oder Sonnenschein\nL5@P0: immer gut dastehen. Die softe Polsterung von Rücken und Sitzfläche erfreut uns auch Outdoor. So stehen langen und geselligen\nL6@P0-1: Sommerabenden nichts im Wege. Hier in der Variante mit schmalem Rücken- Nobile X.íðéêóÑ ÒÑÞ×ÔÛ ÑËÌÜÑÑÎ ÜÛÍ×ÙÒ Ù×ÒÑ ÝßÎÑÔÔÑ îððç\nL7@P1: Ó±¼»´´¿®¬ Þ»·²» Ù®*A» Ú´¿½¸±ª¿´®±¸® ïð ¨ îð ³³ Þ ó Ì ó Ø ³·¬ Õ±®®±­·±²­­½¸«¬¦ ½¿ò ·² ½³\nL8@P1: «²¼ Ñ«¬¼±±®óÍ¬±ºº ¾»¦±¹»²\nL9@P1: ²«® ³·¬ ÐÊÝóÙ´»·¬»®²\nL10@P1: íðéê Í¬«¸´ Ñ«¬¼±±® ìè ¨ ëì ¨ èéôë Ñ«¬¼±±®óÍ¬±ºº Í·¬¦¸*¸» ìéôë Í·¬¦¬·»º» ìì Î$½µ»²¾®»·¬» ìè\nL11@P1: íðéêó× Í¬«¸´ Ñ«¬¼±±® ëë ¨ ëì ¨ èéôë Ñ«¬¼±±®óÍ¬±ºº Í·¬¦¸*¸» ìéôë ß®³´»¸²»² Ò®ò ï Í·¬¦¬·»º» ìì Ê±´´°±´­¬»® Ø*¸» ¼»® ß®³´»¸²»² êè Î$½µ»²¾®»·¬» ìè\nL12@P1: íðéêóÈ Í¬«¸´ Ñ«¬¼±±® ìê ¨ ëì ¨ èéôë ³·¬ ­½¸³¿´»³ Î$½µ»² Í·¬¦¸*¸» ìéôë Ñ«¬¼±±®óÍ¬±ºº Í·¬¦¬·»º» ìì Î$½µ»²¾®»·¬» íçôë\nL13@P1: íðéêóÈ× Í¬«¸´ Ñ«¬¼±±® ëë ¨ ëì ¨ èéôë ³·¬ ­½¸³¿´»³ Î$½µ»² Í·¬¦¸*¸» ìéôë Ñ«¬¼±±®óÍ¬±ºº Í·¬¦¬·»º» ìì ß®³´»¸²»² Ò®ò ï Ø*¸» ¼»® ß®³´»¸²»² êè Ê±´´°±´­¬»® Î$½µ»²¾®»·¬» íçôë\nL14@P1: Ó¿¬»®·¿´¾»¼¿®º ¾»· Ú®»³¼¾»¦«¹æ Þ·¬¬» ß«­º¿´´³«­¬»® ª±®¿¾ ¦«® Ð®$º«²¹ ¦«­»²¼»²ò\nL15@P1: Ë²¹»»·¹²»¬» Í¬±ºº» ³$­­»² ©·® ¦«®$½µ©»·­»²ÿ Í¬«¸´ ïôì ´º³ Í¬±ºº øÍ¬±ºº¾®»·¬» ïôì ³÷ Í¬«¸´ ³·¬ ß®³´»¸²»² Ò®ò ï ïôè ´º³ Í¬±ºº øÍ¬±ºº¾®»·¬» ïôì ³÷\nL16@P1: Ð±´­¬»®«²¹ ÐËóÑ«¬¼±±®óÍ¬±ºº ©¿­­»®¼«®½¸´<­­·¹\nL17@P1: Þ»¦«¹­³¿¬»®·¿´·»² Ñ«¬¼±±®óÍ¬±ºº Ê»®³±²¬ ì Ú¿®¾»² Ñ«¬¼±±®óÍ¬±ºº Ý±½± í Ú¿®¾»²\nL18@P1: Ø·²©»·­æ Ó¿¨·³¿´» Þ»´¿­¬«²¹ ïðð µ¹\nL19@P1: ïêð\nL20@P1:  ÑËÌÜÑÑÎ ÒÑÞ×ÔÛ íðéêóÑ\nL21@P1: Ù»©·½¸¬ Þ»¦«¹ Þ»¦«¹ Þ»¦«¹\nL22@P1: ½¿ò ·² µ¹ É»·A°±´­¬»® Ñ«¬¼±±®óÍ¬±ºº Ñ«¬¼±±®óÍ¬±ºº Ê»®³±²¬ Ý±½±\nL23@P1: \nL24@P1: ÛËÎÑ ÛËÎÑ ÛËÎÑ\nL25@P1: ê èîë èîë èëë\nL26@P1: èôë ïïéð ïïéð ïîðë\nL27@P1: ê èîë èîë èëë\nL28@P1: èôë ïïéð ïïéð ïîðë\nL29@P1: ß«º°®»·­» ¾»· Í±²¼»®´»·­¬«²¹»² ñ Í¬«¸´æ ÛËÎÑ Þ»·²» Í¬¿¸´ ³·¬ Õ±®®±­·±²­­½¸«¬¦ ·²æ\nL30@P1:  ó ¾»­½¸·½¸¬»¬ ­½¸©¿®¦ ð\nL31@P1:  ó ¾»­½¸·½¸¬»¬ ¼«²µ»´¾®±²¦»ô ¹±´¼º¿®¾»²ô ²·½µ»´º¿®¾»² êë\nL32@P1:  ó ´¿½µ·»®¬ ²¿½¸ ÎßÔ ïìë\nL33@P1: Ð®»·­» º$® Û®­¿¬¦¹´»·¬»® ñ Í¬«¸´æ Þ»·²» ¾»­½¸·½¸¬»¬ ñ ´¿½µ·»®¬æ Ûóíðéêóðï ÐÊÝ ²«® ß«º­<¬¦» øïó¬»·´·¹ô ¿«­¬¿«­½¸¾¿®»® Û®­¿¬¦ ÐÊÝ÷ ê Ûóíðéêóðî ÐÊÝ Û®­¿¬¦¹´»·¬»® øîó¬»·´·¹ô Þ¿­·­¬»·´ õ ß«º­¿¬¦ ÐÊÝ÷ ïî\nL34@P1: Þ»·²» Ñ«¬¼±±®óÍ¬±ºº ¾»¦±¹»²æ Ûóíðéêóîï ÐÊÝ ²«® ß«º­<¬¦» øïó¬»·´·¹ô ¿«­¬¿«­½¸¾¿®»® Û®­¿¬¦ ÐÊÝ÷ ê Ûóíðéêóîî ÐÊÝ Û®­¿¬¦¹´»·¬»® øîó¬»·´·¹ô Þ¿­·­¬»·´ õ ß«º­¿¬¦ ÐÊÝ÷ ïî\nL35@P1: Þ·¬¬» ¾»¿½¸¬»² Í·» ¼·» Ó¿¬»®·¿´·²º±®³¿¬·±²»² ¿«º Í»·¬» îóîïÿ ïêï\nL36@P1: Powered by TCPDF (www.tcpdf.org) Powered by TCPDF (www.tcpdf.org)\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn935377view1】 [wordlim: 200] Source: click({\"ref_id\":\"turn762731view0\",\"id\":10}); Total lines: 1\nL0: Failed to fetch https://draenert.de/_Resources/Persistent/1/e/0/6/1e064b2dd63479ab6c2125ff279f8fc227af06e4/3076_X_NOBILE.zip: (400) Unsupported content-type: application/zip\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn488029view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/art-edition/piccolino-1.html\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/de/produkte/art-edition/piccolino-1.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn122359view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/art-edition/vertiko-f2.html?\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/de/produkte/art-edition/vertiko-f2.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn271743view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/art-edition/ione.html?\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/de/produkte/art-edition/ione.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn699646view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/de/produkte/art-edition/piccolino-1.html?\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/de/produkte/art-edition/piccolino-1.html is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn819711view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/_Resources/Persistent/0/2/3/8/0238985937491c792d7041aed8b43c0833822ce2/3010-O_Dan_Outdoor_DE_1.5.26.pdf\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/_Resources/Persistent/0/2/3/8/0238985937491c792d7041aed8b43c0833822ce2/3010-O_Dan_Outdoor_DE_1.5.26.pdf is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn599445view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/_Resources/Persistent/6/3/2/b/632be1e607b0a194e458fd3d7e7a18d366ac0737/3076-O_Nobile_Outdoor_DE_1.5.26.pdf\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/_Resources/Persistent/6/3/2/b/632be1e607b0a194e458fd3d7e7a18d366ac0737/3076-O_Nobile_Outdoor_DE_1.5.26.pdf is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    },
+    {
+      "content": [
+        {
+          "type": "text",
+          "text": "Internal Error ()\n【turn458898view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.draenert.de/_Resources/Persistent/3/5/4/d/354dda21096a1548ebc27d62f9d6b360fa22e5bc/1085-O_Mortimer_Outdoor_DE_1.5.25.pdf\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.draenert.de/_Resources/Persistent/3/5/4/d/354dda21096a1548ebc27d62f9d6b360fa22e5bc/1085-O_Mortimer_Outdoor_DE_1.5.25.pdf is not accessible via this tool.\n"
+        }
+      ],
+      "isError": false
+    }
+  ],
+  "checked_products": [
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/adler-outdoor.html",
+      "download_links": 3,
+      "complete": true
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/atlas-outdoor.html",
+      "download_links": 3,
+      "complete": true,
+      "total_lines": 80,
+      "observed_lines": 80
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/trilope-outdoor.html",
+      "download_links": 3,
+      "complete": true,
+      "total_lines": 80,
+      "observed_lines": 80
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/Kent-outdoor-1.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 64,
+      "observed_lines": 64
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/mortimer-outdoor.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/qbic-outdoor.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/tosca-outdoor.html",
+      "download_links": 3,
+      "complete": true,
+      "total_lines": 72,
+      "observed_lines": 72
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/dan.html",
+      "download_links": 2,
+      "complete": true,
+      "total_lines": 59,
+      "observed_lines": 59
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/lou.html",
+      "download_links": 2,
+      "complete": true,
+      "total_lines": 57,
+      "observed_lines": 57
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/achter.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 61,
+      "observed_lines": 61
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/8030-barcode.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/marble-wing.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 42,
+      "observed_lines": 42
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/schreibsekretaer-f1.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 56,
+      "observed_lines": 56
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/vertiko-f2.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/sternensessel-f3.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 38,
+      "observed_lines": 38
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/europa-1.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 38,
+      "observed_lines": 38
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/ione.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/arkadien.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 38,
+      "observed_lines": 38
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/nobile-O.html",
+      "download_links": 2,
+      "complete": true,
+      "total_lines": 53,
+      "observed_lines": 53
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/outdoor/nobile-O-1.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/x1-x2.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 38,
+      "observed_lines": 38
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/danseuse.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 47,
+      "observed_lines": 47
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/g-14.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 39,
+      "observed_lines": 39
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/leonardo.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 56,
+      "observed_lines": 56
+    },
+    {
+      "product_source_url": "https://draenert.de/de/produkte/art-edition/piccolino-1.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/mortimer-outdoor.html",
+      "download_links": 3,
+      "complete": true,
+      "total_lines": 82,
+      "observed_lines": 82
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/qbic-outdoor.html",
+      "download_links": 3,
+      "complete": true,
+      "total_lines": 73,
+      "observed_lines": 73
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/art-edition/8030-barcode.html",
+      "download_links": 0,
+      "complete": true,
+      "total_lines": 48,
+      "observed_lines": 48
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/art-edition/vertiko-f2.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/art-edition/ione.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/outdoor/nobile-O-1.html",
+      "download_links": 2,
+      "complete": true,
+      "total_lines": 54,
+      "observed_lines": 54
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/art-edition/piccolino-1.html",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/art-edition/vertiko-f2.html?",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/art-edition/ione.html?",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    },
+    {
+      "product_source_url": "https://www.draenert.de/de/produkte/art-edition/piccolino-1.html?",
+      "download_links": 0,
+      "complete": false,
+      "total_lines": 1,
+      "observed_lines": 1
+    }
+  ]
+}
