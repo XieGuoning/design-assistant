@@ -88,6 +88,48 @@ class CadValidationTests(unittest.TestCase):
             self.assertTrue((opened.parent / 'FAILED.txt').exists())
             self.assertFalse((opened.parent / 'result.json').exists())
 
+    def test_success_saves_new_drawing_and_modified_copy(self):
+        for source in [None, 'room.dwg']:
+            with self.subTest(source=source), tempfile.TemporaryDirectory() as tmp:
+                root = Path(tmp)
+                (root / 'inputs').mkdir()
+                original = root / 'inputs' / 'room.dwg'
+                original.write_bytes(b'original drawing')
+                self.job['source'] = source
+                app = MagicMock()
+                app.Version = '25.2'
+                doc = MagicMock()
+                doc.GetVariable.return_value = 4
+                doc.Blocks = []
+                doc.ModelSpace.AddLine.return_value.Handle = 'AB1'
+                doc.ModelSpace.AddCircle.return_value.Handle = 'AB2'
+                app.Documents.Add.return_value = doc
+                app.Documents.Open.return_value = doc
+                doc.SaveAs.side_effect = lambda path: Path(path).write_bytes(b'new drawing')
+                client = types.ModuleType('win32com.client')
+                client.DispatchEx = MagicMock(return_value=app)
+                client.VARIANT = lambda kind, p: p
+                win32 = types.ModuleType('win32com')
+                win32.client = client
+                pythoncom = MagicMock()
+                with patch.object(cad.sys, 'platform', 'win32'), patch.dict(
+                    cad.sys.modules, {'pythoncom': pythoncom, 'win32com': win32, 'win32com.client': client}
+                ):
+                    folder = cad.execute(self.job, root)
+                report = json.loads((folder / 'result.json').read_text())
+                self.assertEqual(report['handles'], ['AB1', 'AB2'])
+                self.assertEqual(report['status'], 'saved')
+                self.assertTrue((folder / 'result.dwg').is_file())
+                self.assertFalse((folder / 'FAILED.txt').exists())
+                self.assertEqual(original.read_bytes(), b'original drawing')
+                doc.Close.assert_called_once_with(False)
+                if source:
+                    doc.Save.assert_called_once_with()
+                    doc.SaveAs.assert_not_called()
+                else:
+                    doc.SaveAs.assert_called_once_with(str(folder / 'result.dwg'))
+                    doc.Save.assert_not_called()
+
     def test_no_execution_on_linux(self):
         with patch.object(cad.sys, 'platform', 'linux'), self.assertRaises(RuntimeError):
             cad.execute(self.job, Path('/tmp'))
