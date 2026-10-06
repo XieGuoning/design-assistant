@@ -1,0 +1,41 @@
+name: Local AutoCAD 2027
+on:
+  workflow_dispatch:
+    inputs:
+      job:
+        description: 'CAD job JSON (units, source, operations)'
+        required: true
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: local-autocad-2027
+  cancel-in-progress: false
+jobs:
+  cad:
+    if: github.ref == 'refs/heads/main'
+    runs-on: [self-hosted, Windows, X64, autocad-2027]
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Execute structured job
+        id: cad
+        shell: powershell
+        env:
+          CAD_JOB_JSON: ${{ inputs.job }}
+        run: |
+          $ErrorActionPreference = 'Stop'
+          if (-not $env:CAD_HOME) { throw 'Set CAD_HOME before starting the runner' }
+          & "$env:CAD_HOME\venv\Scripts\python.exe" scripts/cad_bridge.py
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cad-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            ${{ steps.cad.outputs.folder }}/result.dwg
+            ${{ steps.cad.outputs.folder }}/result.json
+          if-no-files-found: error
+          retention-days: 7
