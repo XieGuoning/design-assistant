@@ -100,3 +100,7 @@ python3 -m unittest discover -s tests -v
 模型 ZIP 保存的是官网链接，尚未解压检查；DWG 的二维／三维属性不能只按下载项名称确定。文件名为 `2078_VI_NOBILE_BAR.zip` 的现有包不能直接当作 2078-V 专用模型。PDF 有超时、体积或文字乱码时，应使用清晰来源核实尺寸。完整图库、石材贴图、新闻、历史版本与定制配置未全部归档。
 
 Git 同步只更新仓库内容，不会安装或发布 Codex 云端环境，也不会启用图像生成服务。`inputs/`、`work/`、`outputs/`、虚拟环境、密钥和下载缓存均保持不入库。
+
+## 远程调用本机 AutoCAD 2027
+
+新增 Windows 本机桥接初版：GitHub 手动任务 → 自托管 Runner → AutoCAD COM → 独立 DWG 与执行记录。支持画线、画圆和按句柄移动；输入原件保留。需要本机安装、注册 Runner 和实机验证，当前不代表已经接通。详见 [本机安装与任务示例](docs/local-autocad.md)。

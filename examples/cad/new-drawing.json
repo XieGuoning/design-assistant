@@ -1,0 +1,8 @@
+{
+  "units": "mm",
+  "source": null,
+  "operations": [
+    {"type": "line", "start": [0, 0, 0], "end": [3000, 0, 0]},
+    {"type": "circle", "center": [1500, 1000, 0], "radius": 400}
+  ]
+}
