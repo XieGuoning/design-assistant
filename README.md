@@ -48,7 +48,8 @@ bash setup.sh
 
 ## 验证状态
 - 本仓库提供配置、安装自检脚本和模型图准备工具。
-- 实际云端安装、中文预览、图像工具可用性及用户模型的效果图生成，需要在目标环境验证。
+- 2026-10-06 当前云端实例已验证依赖、R2007 DXF、中文 Office／PDF 预览和模型图准备包；用户模型的效果图尚未生成。详见 [云端验证状态](docs/cloud-validation.md)。
+- 云端固定版本安装使用 `bash scripts/cloud-install.sh`，启动使用 `source scripts/cloud-start.sh`；复现说明见 [云端启动](docs/cloud-start.md)，资料库验证入口为 `.venv/bin/python scripts/verify_catalog.py`。
 - AutoCAD/SketchUp/Carat 兼容性需回到本地软件核验。
 - AI 效果图用于视觉提案，不保证尺寸或几何完全一致。
 
