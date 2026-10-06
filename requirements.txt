@@ -1,0 +1,8 @@
+# 初始依赖范围；首次云端验证后用 pip freeze 保存实际版本。
+ezdxf>=1.4,<2
+openpyxl>=3.1,<4
+python-docx>=1.1,<2
+python-pptx>=1.0,<2
+pypdf>=5,<7
+Pillow>=11,<13
+matplotlib>=3.9,<4
