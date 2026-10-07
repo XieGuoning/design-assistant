@@ -1,0 +1,65 @@
+             Quick reference for equipment options for LINE N base units
+Base units
+
+
+
+
+             Here you can find a quick reference for the most important equipment options and surcharges for this chapter.
+             For detailed descriptions and planning notes as well as additional options and special productions
+             please refer to chapter 2.2 “Equipment options, special productions”.
+
+
+                                                                                                                                  Abbreviation            Order no.   Points
+
+              Surcharge for carcase interior décor in Slate grey                                                                  MP-KID                    7947       96
+
+
+
+
+              Surcharges nBOX
+
+              Surcharge for glass sides on (internal) pull-outs with rectangular railing                                          MP-GLAS                   7915       127
+
+              Surcharge for pull-out box on (internal) pull-outs                                                                  MP-BOX                    7905       98
+
+              Surcharge for design profile for (internal) drawers and (internal) pull-outs                                        MP-DPRO                   7918       23
+
+              Surcharge for design covers for (internal) drawers and (internal) pull-outs                                         MP-DCOV                   7923       55
+
+              Surcharge for design glass panel for internal pull-outs                                                             MP-DGBLEN                 7925       101
+
+              Surcharge for design panel for internal drawers and internal pull-outs with pull-out box (MP-BOX)                   MP-DBLEN                  7935       72
+
+
+
+
+              Internal tablar shelves with locking slides for retrofitting in tall and base units                                 ITAB-UH 60               39496       644
+              Surcharge for LED light design for recessed handle (L profile) for base units and highboards                                                  7983       31
+                                                                                                                                  MP-NGML
+              with horizontal recessed handle
+              Surcharge for LED light design for lighting the centre / bottom recessed handle (C profile)                         MP-NGMC                  59709       32,9
+
+              Surcharge for recessed handle milling for induction hot plates                                                      MP-NAUSI                 59855       32
+
+              Cover profile for depth compensation on base units                                                                  NADP-72                  59018       8,6
+                                                                                                                                  NADP-79                  59028       9,3
+
+              Safety bracket for freestanding base units                                                                          KIPPS                     9943       86
+
+              Construction shelf for heat insulation, 16 mm thick, for handle-less LINE N base units                              NDBKI 30                 10351       58
+                                                                                                                                  NDBKI 40                 10352       60
+                                                                                                                                  NDBKI 45                 10353       61
+                                                                                                                                  NDBKI 50                 10354       64
+                                                                                                                                  NDBKI 60                 10355       66
+                                                                                                                                  NDBKI 80                 10356       72
+                                                                                                                                  NDBKI 90                 10357       73
+                                                                                                                                  NDBKI 100                10358       74
+                                                                                                                                  NDBKI 120                10359       82
+
+              Surcharge for full-height back panel on sink base units                                                             MP-SPUR                   9292       19
+
+              Surcharge for waterproof base for sink units                                                                        MP-WPB                    4745       131
+
+
+             Please note: The mechanical opening support mechanism for drawers and pull-outs (MP-PTOSA) is not available for items in the Line N range.
+             Exception: opening support mechanism included with Line ONE items.

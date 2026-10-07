@@ -1,0 +1,94 @@
+Base units for handle-less kitchen                                       Abbreviation                    Points
+                                                                                                                                Price groups
+LINE N / LINE ONE
+
+
+                                                                                                          1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                               Width in cm
+
+
+
+
+                                                                                             Order-no.
+Side depth: 561 mm
+Carcase height: 720 mm
+Plinth height 20, 70, 100, 150 or 200 mm
+
+                                                                    Half-corner units
+                           Corner base unit                        NUE         90-40         51098        755    785   835 914 937 961           —    —      —     —
+                           1 door,                                 NUE         90-45         51087        764    796   847 931 952 972           —    —      —     —
+                           1 shelf,
+                                                                   NUE         100-50        51096        809    838   896 987 1.016 1.045       —    —      —     —
+                           1 angle filler
+                           Carcase widths: 900 and 1000 mm         NUE         100-60        51082        823    850   914 1.018 1.045 1.073     —    —      —     —
+                           Required floor spaces (variable):
+                           635 (615 - 735) x ...                                                         Planning dimensions = floor space required + 15 mm distance to wall for
+                           *90-40: ...1035 (1015 - 1135) mm                                              protruding units.
+                           *90-45: ...1085 (1065 - 1185) mm                                              The space requirement must be specified with the order. Adjustments
+                           *100-50: ...1135 (1115 - 1235) mm                                             on site are not possible.
+                           *100-60: ...1235 (1215 - 1335) mm  
+                                                                                                         Bracket changes are not permitted.
+                           Planning dimensions (variable):
+                           650 (630 - 750) x ...  
+                           *90-40: ...1050 (1030 - 1150) mm  
+                           *90-45: ...1100 (1080 - 1200) mm  
+                           *100-50: ...1150 (1130 - 1250) mm  
+                           *100-60: ...1250 (1230 - 1350) mm
+
+                           Corner base unit                        NUEBD       90-40         51095       1.288 1.339 1.383 1.463 1.483 1.502     —    —      —     —
+                           1 door,                                 NUEBD       90-45         51086       1.298 1.349 1.399 1.479 1.499 1.520     —    —      —     —
+                           2 wooden carousel shelves with
+                                                                   NUEBD       100-50        51094       1.387 1.424 1.478 1.568 1.593 1.616     —    —      —     —
+                           metal railing,
+                           1 angle filler                          NUEBD       100-60        51088       1.406 1.442 1.510 1.603 1.628 1.654     —    —      —     —
+                           Carcase widths: 900 and 1000 mm
+                           Required floor spaces (variable):                                             Planning dimensions = required floor space + 15 mm distance to wall for
+                           635 (615 - 735) x ...                                                         protruding units.
+                           *90-40: ...1035 (1015 - 1135) mm                                              The space requirement must be specified with the order. Adjustments
+                           *90-45: ...1085 (1065 - 1185) mm                                              on site are not possible.
+                           *100-50: ...1135 (1115 - 1235) mm  
+                           *100-60: ...1235 (1215 - 1335) mm                                             Bracket changes are not permitted.
+
+                           Planning dimensions (variable):
+                           650 (630 - 750) x ...  
+                           *90-40: ...1050 (1030 - 1150) mm  
+                           *90-45: ...1100 (1080 - 1200) mm  
+                           *100-50: ...1150 (1130 - 1250) mm  
+                           *100-60: ...1250 (1230 - 1350) mm
+
+                           Corner unit with swivel pull-out        NUESA       90-45         53190 2.529 2.575 2.627 2.710 2.730 2.749           —    —      —     —
+                           1 door,                                 NUESA       100-50        53191 2.548 2.590 2.650 2.735 2.759 2.784           —    —      —     —
+                           2 wooden swivel tablars with metal
+                                                                   NUESA       100-60        53192 2.562 2.609 2.676 2.767 2.793 2.819           —    —      —     —
+                           railing,
+                           1 angle filler                                                                Planning dimensions = floor space required + 15 mm distance to wall for
+                           Carcase widths: 900 and 1000 mm                                               protruding units.
+                           Required floor spaces (variable):
+                           635 (615 - 735) x ...                                                         Do not plan protruded designs directly adjacent.
+                           *90-45: ...1085 (1065 - 1185) mm  
+                                                                                                         The space requirement must be specified with the order. Adjustments
+                           *100-50: ...1135 (1115 - 1235) mm  
+                                                                                                         on site are not possible.
+                           *100-60: ...1235 (1215 - 1335) mm  
+                                                                                                         Bracket changes are not permitted.
+                           Planning dimensions (variable):
+                           650 (630 - 750) x ...  
+                           *90-45: ...1100 (1080 - 1200) mm  
+                           *100-50: ...1150 (1130 - 1250) mm  
+                           *100-60: ...1250 (1230 - 1350) mm
+
+                           Surcharge for recessed fillers          MP-GS                     9300        36,5 36,5 36,5 36,5 36,5 36,5 36,5 36,5 36,5 36,5
+                           on fillers and half corner units,
+                           side panel made of carcase material,
+                           in carcase height incl. 2 plinth feet
+                           for on-site assembly,
+                           carcase depth: 561 mm
+
+
+
+
+Typen - EN                                  You will find an explanation of the symbols at the front of the chapter index                                                 M 8.21

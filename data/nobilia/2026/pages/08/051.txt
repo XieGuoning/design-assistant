@@ -1,0 +1,96 @@
+Cooker housing units /                                                  Abbreviation                          Points
+                                                                                                                                     Price groups
+Hot plate units in XL height
+for handle-less LINE N / LINE ONE kitchen
+                                                                                                               1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                               Width in cm
+
+
+
+
+                                                                                                  Order-no.
+Side depth: 561 mm
+Carcase height: 792 mm
+Plinth height 70, 100, 150 or 200 mm
+                           XL Hot plate unit                        LK2A        60           -X   56324       1.245 1.314 1.355 1.422 1.453 1.483      —      —      —        —
+                           1 pull-out,                              LK2A        80           -X   56325       1.545 1.638 1.710 1.809 1.834 1.856      —      —      —        —
+                           1 pull-out with opening support
+                                                                    LK2A        90           -X   56326       1.626 1.716 1.793 1.897 1.933 1.962      —      —      —        —
+                           mechanism,
+                           1 construction shelf for heat            LK2A        100          -X   56327       1.686 1.791 1.870 1.948 2.006 2.057      —      —      —        —
+                           insulation                               LK2A        120          -X   56328       1.853 1.946 2.034 2.133 2.205 2.266      —      —      —        —
+
+
+
+
+                           XL Hot plate unit for Slim Line          NK2A       60-SL -X           55336       1.159 1.229 1.270 1.333 1.365 1.397      —      —      —        —
+                           worktops                                 NK2A       80-SL -X           55338       1.485 1.578 1.643 1.745 1.781 1.819      —      —      —        —
+                           1 internal panel,
+                                                                    NK2A       90-SL -X           55339       1.575 1.663 1.737 1.841 1.882 1.924      —      —      —        —
+                           2 pull-outs,
+                           1 construction shelf for heat            NK2A       100-SL -X          55341       1.648 1.753 1.825 1.902 1.962 2.022      —      —      —        —
+                           insulation                               NK2A       120-SL -X          55342       1.837 1.930 2.012 2.113 2.186 2.260      —      —      —        —
+
+                                                                                                              Suitable for built-in hobs with installation depth > 66 mm in conjunction
+                                                                                                              with Slim Line worktops.
+                           XL Hot plate unit for Slim Line          LK2A       60-SL -X           55345       1.250 1.318 1.362 1.426 1.460 1.494      —      —      —        —
+                           worktops                                 LK2A       80-SL -X           55346       1.551 1.645 1.713 1.816 1.859 1.895      —      —      —        —
+                           1 internal panel,
+                                                                    LK2A       90-SL -X           55347       1.631 1.718 1.797 1.901 1.949 1.990      —      —      —        —
+                           1 pull-out,
+                           1 pull-out with opening support          LK2A       100-SL -X          55348       1.692 1.797 1.875 1.952 2.018 2.076      —      —      —        —
+                           mechanism,                               LK2A       120-SL -X          55349       1.859 1.952 2.040 2.140 2.222 2.294      —      —      —        —
+                           1 construction shelf for heat
+                           insulation                                                                         Suitable for hot plates with installation depth > 66 mm in conjunction
+                                                                                                              with Slim Line, Quartz and Xtra Ceramic worktops.
+
+                           XL Hot plate unit                        NKI2A       60           -X   56361       1.441 1.510 1.549 1.612 1.645 1.676      —      —      —        —
+                           1 drawer with pull-out panel,            NKI2A       80           -X   56363       1.800 1.895 1.965 2.064 2.102 2.139      —      —      —        —
+                           1 internal drawer,
+                                                                    NKI2A       90           -X   56364       1.899 1.986 2.066 2.164 2.206 2.247      —      —      —        —
+                           1 pull-out,
+                           1 construction shelf for heat            NKI2A       100          -X   56365       1.981 2.086 2.161 2.232 2.294 2.354      —      —      —        —
+                           insulation                               NKI2A       120          -X   56367       2.193 2.286 2.367 2.463 2.537 2.610      —      —      —        —
+
+                                                                                                              Latch for internal drawers MITIS cannot be used.
+                           XL Hot plate unit                        LKI2A       60           -X   56368       1.530 1.600 1.641 1.705 1.740 1.772      —      —      —        —
+                           1 drawer with pull-out panel,            LKI2A       80           -X   56369       1.866 1.962 2.035 2.136 2.178 2.215      —      —      —        —
+                           1 internal drawer,
+                                                                    LKI2A       90           -X   56370       1.955 2.043 2.126 2.225 2.272 2.313      —      —      —        —
+                           1 pull-out with mechanical opening
+                           support mechanism,                       LKI2A       100          -X   56371       2.025 2.132 2.209 2.283 2.351 2.409      —      —      —        —
+                           1 construction shelf for heat            LKI2A       120          -X   56372       2.215 2.308 2.393 2.491 2.573 2.646      —      —      —        —
+                           insulation
+                                                                                                              Latch for internal drawers MITIS cannot be used.
+
+
+                           Surcharge for recessed handle            MP-NAUSI                      59855        32     32    32     32     32     32    —      —      —        —
+                           milling for
+                           induction hot plates                                                               Please also sketch in graphically any existing or third-party appliances.
+                           beneath the worktop for ventilation
+                                                                                                              Not required for hot plates from BSH and Miele.
+                                                                                                              Not required for hot plates from Leonard, Progress, AEG, BORA and
+                                                                                                              ELICA.
+                           Slim Line installation set               NSL-SET60 60                  59356        199    199   199   199    199    199    —      —      —        —
+                           for handle-less LINE N hot plate
+                           units NK*(-X)
+                           600 mm wide, as well as cooker
+                           housing units NHU60(-X),
+                           NHUS60(-X) and NHUM60(-X)
+                           comprised of:
+                           1 fastening set, 1 set of installation
+                           instructions
+
+                           as above, however                        NSL-SET80 80                  59358        276    276   276   276    276    276    —      —      —        —
+                           for handleless LINE N sink units in
+                           all widths as well as hot plate units
+                           upwards of 800 mm width
+
+
+
+
+Typen - EN                                   You will find an explanation of the symbols at the front of the chapter index                                                        M 8.45

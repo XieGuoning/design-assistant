@@ -40,6 +40,8 @@ def build(source, allow_incomplete=False):
   raise ValueError('Duplicate source file IDs; merge split parts before importing')
  if not files or (len(files) != 10 and not allow_incomplete):
   raise ValueError('Expected PDFs 00–09; use --allow-incomplete to explicitly record missing files')
+ provenance_path = DATA / 'split-sources/manifest.json'
+ provenance = json.loads(provenance_path.read_text())['documents'] if provenance_path.exists() else []
  docs = []
  for src in files:
   chapter = src.name[:2]
@@ -66,7 +68,8 @@ def build(source, allow_incomplete=False):
    records.append({'manual_chapter': '10' if chapter == '09' and number >= 185 else chapter, 'page': number, 'path': str(path.relative_to(ROOT)), 'characters': len(body.strip()),
                    'needs_visual_review': len(body.strip()) < 80,
                    'sha256': hashlib.sha256(path.read_bytes()).hexdigest()})
-  docs.append({'chapter': chapter, 'title_zh': TOPICS[int(chapter)][0], 'filename': src.name,
+  source_parts = next((d['parts'] for d in provenance if d['filename'] == src.name), [])
+  docs.append({'source_parts':source_parts, 'chapter': chapter, 'title_zh': TOPICS[int(chapter)][0], 'filename': src.name,
                'pdf': str(dest.relative_to(ROOT)), 'sha256': hashlib.sha256(dest.read_bytes()).hexdigest(),
                'bytes': dest.stat().st_size, 'page_count': len(pages), 'pages': records})
  manifest = {'edition': '2025/2026 collection; sales manual 2026', 'import_date': '2026-10-07',
@@ -104,7 +107,9 @@ def search(query, chapter=None, limit=8):
    lines = body.splitlines()
    relevant = [i for i,line in enumerate(lines) if any(t in line.casefold() for t in hits)]
    start = max(0, relevant[0]-1) if relevant else 0
-   results.append({'source_file_id':doc['chapter'], 'chapter':page['manual_chapter'], 'title_zh':doc['title_zh'], 'pdf':doc['pdf'],
+   part = next((p for p in doc.get('source_parts',[]) if p['merged_start'] <= page['page'] <= p['merged_end']), None)
+   original = {'filename':part['filename'], 'pdf_page':page['page']-part['merged_start']+1} if part else None
+   results.append({'uploaded_source':original, 'source_file_id':doc['chapter'], 'chapter':page['manual_chapter'], 'title_zh':doc['title_zh'], 'pdf':doc['pdf'],
                    'pdf_page':page['page'], 'printed_page_candidates':re.findall(r'M\s*\d{1,2}\.\s*\d+',body), 'text':page['path'], 'score':score,
                    'matched_terms':hits, 'excerpt':'\n'.join(lines[start:start+12])})
  return sorted(results,key=lambda r:(-r['score'],r['chapter'],r['pdf_page']))[:limit]
@@ -116,6 +121,13 @@ def verify():
  for doc in manifest['documents']:
   assert hashlib.sha256((ROOT/doc['pdf']).read_bytes()).hexdigest() == doc['sha256'], doc['pdf']
   assert len(doc['pages']) == doc['page_count']
+  expected_start = 1
+  for part in doc.get('source_parts',[]):
+   assert part['merged_start'] == expected_start
+   assert part['merged_end'] - part['merged_start'] + 1 == part['page_count']
+   assert hashlib.sha256((DATA/'split-sources'/part['filename']).read_bytes()).hexdigest() == part['sha256']
+   expected_start = part['merged_end'] + 1
+  if doc.get('source_parts'): assert expected_start == doc['page_count'] + 1
   for p in doc['pages']:
    assert hashlib.sha256((ROOT/p['path']).read_bytes()).hexdigest() == p['sha256'], p['path']
    count += 1

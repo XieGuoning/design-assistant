@@ -1,0 +1,60 @@
+                         Planning Information for Corner Solutions
+
+
+
+                                         Base units | Corner solutions
+                            • All corner units are equipped with an angle filler, which is cut and bolted at the factory. The planning dimensions
+                              must be quoted with the order. Adjustments on site are not possible.
+                            • Angle changes above or below 90° are not permitted.
+                            • Planning dimension changes from minus 20 mm to plus 100 mm are possible at the factory.
+                            • A shortened carcase face for affixing to adjacent units is included with the units.
+                            • Door hinge side is also the face side.
+                            • Specify right or left, to ensure that the corner base unit is delivered with the correct hinge side.
+                            • Planning a dishwasher adjacent to a corner unit requires the angle filler with a side depth of 561 mm
+ NUE... / NUE...-X            (surcharge MP-GS).
+
+
+
+
+                            Dimensions table for half corner units in mm:
+
+                            Planning dimensions                           = 650 x                  1050          1100           1150           1250
+
+                            Required floor space                          = 635 x                  1035          1085           1135           1235
+
+                            Carcase width                                 =                         900           900           1000           1000
+
+                            Door width                                    =                         394           444            494            594
+ NUEBD... / NUEBD...-X
+                            Variable (planning dimension)                 = 650 - 750 x    1050 - 1150    1100 - 1200    1150 - 1250 1250 - 1350
+
+                            Variable (required floor space)               = 635 - 735 x    1035 - 1135    1085 - 1185    1135 - 1235 1235 - 1335
+
+                            Cannot be used                                =                        150            200            150            250
+
+                            Required floor space for corner wall unit =                      650 x 650      650 x 650      650 x 650      650 x 650
+
+                            Additional wall unit width                    =                        400            450            500            600
+
+
+ NUESA... / NUESA...-X
+
+
+                            Planning information for corner units with swivel pull-out
+
+                            Attention:
+                            • Corner units with swivel pull-out NUESA* cannot be planned adjacent to protruded units.
+                            • Depending upon unit size the tablars swivel out upon opening, with sizes 280 mm to 350 mm to the right / left and
+                              with sizes 620 mm to 750 mm toward the front.
+
+
+                                   Unit width              Swivel depth               Swivel width
+
+                                    900 mm                    620 mm                      280 mm
+                                    1000 mm                   720 mm                      350 mm
+                                    1000 mm                   750 mm                      350 mm
+
+
+
+
+Typen - EN                                                                                                                                 M 8.11

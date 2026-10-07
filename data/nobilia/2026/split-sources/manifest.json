@@ -1,0 +1,64 @@
+{
+  "status": "assembled and indexed",
+  "date": "2026-10-07",
+  "method": "pypdf page copy in explicit source order; all blank and divider pages retained; no image recompression",
+  "validation": "Printed page sequence and boundary headings checked; unsplit originals were unavailable for byte comparison",
+  "documents": [
+    {
+      "filename": "06_Highboards_Tall_units.pdf",
+      "page_count": 174,
+      "parts": [
+        {
+          "filename": "06a_Highboards_Tall_units_1512-2088mm.pdf",
+          "sha256": "f2e7ece98470c49bfa04e7d885c494cff14e934f576a2e5812c942f9a8c0055c",
+          "page_count": 86,
+          "merged_start": 1,
+          "merged_end": 86
+        },
+        {
+          "filename": "06b-1_Tall_units_height2_2088-2160mm.pdf",
+          "sha256": "54d19ef1ec94d8e7c08745589fbf64115995f085a89dabd2179bf26a7560cb44",
+          "page_count": 44,
+          "merged_start": 87,
+          "merged_end": 130
+        },
+        {
+          "filename": "06b-2_Tall_units_height3_2160-2232mm.pdf",
+          "sha256": "e27e01b58d742ad4dccfe97cef3b2d7c9324d9431342285e18c5ae724f312973",
+          "page_count": 44,
+          "merged_start": 131,
+          "merged_end": 174
+        }
+      ],
+      "sha256": "2fd1f27a73686f3b44faf2e657e9ab0cd679c28404f88f3fa53bf3acf2feb46e"
+    },
+    {
+      "filename": "08_LINE_N_handle-less_kitchen.pdf",
+      "page_count": 192,
+      "parts": [
+        {
+          "filename": "08a-1_LINE_N_Planning_Base_units.pdf",
+          "sha256": "2577ee5383596e7bf02ad84bfef7cb42e0d567bd3c0a06aae8612d7c1d204cb0",
+          "page_count": 64,
+          "merged_start": 1,
+          "merged_end": 64
+        },
+        {
+          "filename": "08a-2_LINE_N_Tall_units_horizontal_handle.pdf",
+          "sha256": "4b9ae6866f7abf10c4aaeb19e663de2d6299f9e40e31b59b0f4d927dc9aa023b",
+          "page_count": 46,
+          "merged_start": 65,
+          "merged_end": 110
+        },
+        {
+          "filename": "08b_LINE_N_Tall_vertical_Wall_units.pdf",
+          "sha256": "854677091baebca05c95ef83cf8ee815a7b673fd868fcd5c5a4128482db85561",
+          "page_count": 82,
+          "merged_start": 111,
+          "merged_end": 192
+        }
+      ],
+      "sha256": "62778e0d01120ed331d50c697e4ed344e710f8bea6c369fab313679bd164724c"
+    }
+  ]
+}

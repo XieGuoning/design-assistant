@@ -1,0 +1,98 @@
+Base units for handle-less kitchen                                      Abbreviation                     Points
+                                                                                                                                Price groups
+LINE N / LINE ONE
+
+
+                                                                                                          1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                               Width in cm
+
+
+
+
+                                                                                             Order-no.
+Side depth: 561 mm
+Carcase height: 720 mm
+Plinth height 20, 70, 100, 150 or 200 mm
+
+                                                                    Fillers / Panelling
+                           Angle filler                            NUPE                      51143        193    199   229   242   261   280    —       —    —        —
+                           front material, 55 x 55 mm,
+                           required floor space: 635 x 635 mm,                                           Planning dimensions = required floor space + 15 mm distance to wall for
+                           planning dimensions: 650 x 650 mm                                             protruding units.
+
+
+                           as above, however variable              NUPE-V                    51144        229    235   261   277   301   321    —       —    —        —
+                           from 35 to 155 mm,
+                           required floor space: 615 - 735 mm,                                           Bracket changes are not permitted.
+                           planning dimensions: 630 - 750 mm,
+                           1st dimension = left /
+                           2nd dimension = right
+
+                           Angle filler in divided appearance      NUPET-V                   53144        434    461   529   558   631   705    —       —    —        —
+                           front material,
+                           variable from 35 to 155 mm,                                                   Planning dimensions = required floor space + 15 mm distance to wall for
+                           required floor space: 615 - 735 mm,                                           protruding units.
+                           planning dimensions: 630 - 750 mm,
+                                                                                                         Bracket changes are not permitted.
+                           1st dimensions = left /
+                           2nd dimensions = right                                                        Can only be planned in conjunction with 330 mm high pull-outs.
+
+                           Angle filler in divided appearance      LUPET-V                   52178        238    253   301   333   355   369    —       —    —        —
+                           front material,
+                           variable from 35 to 155 mm,                                                   Planning dimensions = required floor space + 15 mm distance to wall for
+                           required floor space: 615 - 735 mm,                                           protruding units.
+                           planning dimensions: 630 - 750 mm,
+                                                                                                         Bracket changes are not permitted.
+                           1st dimensions = left /
+                           2nd dimensions = right
+
+                           Surcharge for recessed fillers          MP-GS                     9300        36,5 36,5 36,5 36,5 36,5 36,5 36,5 36,5 36,5 36,5
+                           on fillers and half corner units,
+                           side panel made of carcase material,
+                           in carcase height incl. 2 plinth feet
+                           for on-site assembly,
+                           carcase depth: 561 mm
+
+
+                           Surcharge for use as centre filler      MP-MP                     4743         44     44    44    44    44     44    44      44   44       44
+                           3 edges profiled on front fillers,
+                           1 cut edge,
+                           minimum width: 65 mm
+
+
+
+                           Front filler                            NUPD           20         51116        147    149   172   188   197   206    —       —    —        —
+                           front material,
+                           width: 200 mm                                                                 Possible to adapt on site to minimum size of 30 mm.
+                                                                                                         Please indicate LH or RH hinge!
+
+
+
+                           Front filler in divided appearance      NUPDT          20         52116        280    301   339   380   397   415    —       —    —        —
+                           front material,
+                           width: 200 mm                                                                 Possible to adapt on site to minimum size of 30 mm.
+                                                                                                         Please indicate LH or RH hinge!
+                                                                                                         Can only be planned in conjunction with 330 mm high pull-outs.
+
+                           Front filler in divided appearance      LUPDT          20         52117        210    238   261   299   305   343    —       —    —        —
+                           front material,
+                           width: 200 mm                                                                 Possible to adapt on site to minimum size of 30 mm.
+                                                                                                         Please indicate LH or RH hinge!
+                                                                                                         Can only be planned in conjunction with 357 mm high pull-outs (with
+                                                                                                         PTOSA).
+                           Frame element for island designs        NURTI          30         51593        318    342   365   391   403   415    —       —    —        —
+                           1 door,                                 NURTI          40         51594        334    368   393   437   454   470    —       —    —        —
+                           1 shelf,
+                                                                   NURTI          45         51597        353    377   412   456   472   488    —       —    —        —
+                           1 back panel,
+                           depth: 202 mm                           NURTI          50         51595        366    391   432   467   495   521    —       —    —        —
+                                                                   NURTI          60         51596        390    419   456   517   539   562    —       —    —        —
+
+
+
+
+M 8.32                                       You will find an explanation of the symbols at the front of the chapter index                                           Typen - EN

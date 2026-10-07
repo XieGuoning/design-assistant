@@ -1,0 +1,50 @@
+                           Planning Information for Corner Solutions
+
+
+
+                                                   Base units | Fillers
+NUPE                         Base unit angle filler
+                             • The required space of the filler is 635 x 635 mm.              kitchens are planned to protrude 15 mm toward the front,
+                               which is why the planning dimensions of the non-grooved corner are 650 x 650 mm.
+                             • Angle fillers are cut and bolted at the factory.
+                               The space requirement must be specified with the order. Adjustments on site are not possible.
+                             • Planning dimension changes from minus 20 mm to plus 100 mm are possible at the factory.
+                             • Angle changes above or below 90° are not permitted.
+                             • A shortened carcase face for affixing to adjacent units is included with the units.
+                             • When planning a dishwasher adjacent to an angle filler, a 561 mm deep side panel (surcharge MP-GS) is required.
+
+
+
+
+                             Corner solution 650 x 650 mm             Corner solution 650 x 650 mm              Corner solution 1050 x 650 mm
+
+
+
+
+                                         Base units | Corner solutions
+NUET92(-X) | NUETK92(-X)     Corner base unit
+                             • Required floor space = 900 x 900 mm
+                             •             kitchens are planned to protrude by 15 mm. Therefore, the planning dimensions are = 915 x 915 mm.
+                             • Side depth = 561 mm
+                             • The corner unit can be dismantled on site.
+                             • For designs in the room, back panel cladding is only available in carcase material.
+                               Depending on plinth height, order continuous to the floor.
+                             • The shelves cannot be changed subsequently (element NUET92(-X)).
+                             Attention:
+                             • Do not plan protruded solutions or Mini heights at the end of corner unit NUET92(-X) / NUETK92(-X).
+NUET92(-X)
+
+
+
+
+                                                                      Corner solution 915 x 915 mm              Corner solution 915 x 915 mm
+
+
+
+
+NUETK92(-X)
+
+
+
+
+M 8.10                                                                                                                                   Typen - EN

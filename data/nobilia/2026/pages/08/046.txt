@@ -1,0 +1,101 @@
+Base units in XL height                                                 Abbreviation                          Points
+                                                                                                                                       Price groups
+for handle-less LINE N / LINE ONE kitchen
+
+
+                                                                                                               1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                               Width in cm
+
+
+
+
+                                                                                                  Order-no.
+Side depth: 561 mm
+Carcase height: 792 mm
+Plinth height 20, 70, 100, 150 or 200 mm
+                           XL Pull-out unit                        LU2A         30           -X   55630       1.032 1.089 1.108 1.124 1.142 1.159           —      —   —    —
+                           1 pull-out,                             LU2A         40           -X   55631       1.077 1.137 1.168 1.210 1.228 1.247           —      —   —    —
+                           1 pull-out with opening support
+                                                                   LU2A         45           -X   55632       1.110 1.171 1.205 1.250 1.272 1.294           —      —   —    —
+                           mechanism
+                                                                   LU2A         50           -X   55633       1.148 1.212 1.242 1.299 1.323 1.345           —      —   —    —
+                                                                   LU2A         60           -X   55634       1.196 1.261 1.301 1.374 1.402 1.429           —      —   —    —
+                                                                   LU2A         80           -X   55635       1.475 1.567 1.637 1.736 1.767 1.790           —      —   —    —
+                                                                   LU2A         90           -X   55636       1.546 1.635 1.713 1.826 1.860 1.886           —      —   —    —
+                                                                   LU2A         100          -X   55637       1.640 1.739 1.828 1.935 1.986 2.028           —      —   —    —
+                                                                   LU2A         120          -X   55638       1.806 1.901 1.997 2.137 2.194 2.243           —      —   —    —
+                           XL Pull-out unit                        NUI2A        30           -X   56541       1.178 1.240 1.259 1.263 1.278 1.292           —      —   —    —
+                           1 drawer with pull-out panel,           NUI2A        40           -X   56542       1.241 1.308 1.337 1.375 1.387 1.399           —      —   —    —
+                           1 internal drawer,
+                                                                   NUI2A        45           -X   56543       1.282 1.349 1.381 1.415 1.435 1.454           —      —   —    —
+                           1 pull-out
+                                                                   NUI2A        50           -X   56545       1.326 1.393 1.424 1.478 1.498 1.517           —      —   —    —
+                                                                   NUI2A        60           -X   56546       1.394 1.463 1.504 1.577 1.606 1.635           —      —   —    —
+                                                                   NUI2A        80           -X   56548       1.755 1.844 1.911 2.013 2.035 2.059           —      —   —    —
+                                                                   NUI2A        90           -X   56549       1.844 1.929 2.005 2.124 2.148 2.172           —      —   —    —
+                                                                   NUI2A        100          -X   56550       1.972 2.072 2.143 2.245 2.294 2.340           —      —   —    —
+                                                                   NUI2A        120          -X   56563       2.186 2.278 2.365 2.495 2.548 2.602           —      —   —    —
+                           XL Pull-out unit                        LUI2A        30           -X   55664       1.302 1.364 1.384 1.390 1.403 1.419           —      —   —    —
+                           1 drawer with pull-out panel,           LUI2A        40           -X   55665       1.353 1.422 1.451 1.491 1.502 1.515           —      —   —    —
+                           1 internal drawer,
+                                                                   LUI2A        45           -X   55666       1.388 1.456 1.489 1.526 1.545 1.565           —      —   —    —
+                           1 pull-out with opening support
+                           mechanism                               LUI2A        50           -X   55667       1.426 1.494 1.527 1.581 1.603 1.624           —      —   —    —
+                                                                   LUI2A        60           -X   55668       1.483 1.553 1.596 1.672 1.701 1.730           —      —   —    —
+                                                                   LUI2A        80           -X   55669       1.821 1.911 1.981 2.085 2.113 2.133           —      —   —    —
+                                                                   LUI2A        90           -X   55670       1.898 1.986 2.064 2.186 2.215 2.237           —      —   —    —
+                                                                   LUI2A        100          -X   55671       2.016 2.116 2.193 2.297 2.351 2.396           —      —   —    —
+                                                                   LUI2A        120          -X   55672       2.208 2.300 2.391 2.524 2.584 2.635           —      —   —    —
+                           XL End of run pull-out unit Curve       NU2AAC       45           -X   55506         —     — 1.6381 1.6782 —       —             —      —   —    —
+                           2 pull-outs,                            NU2AAC       60           -X   55507         —     — 1.7591 1.8062 —       —             —      —   —    —
+                           stop side = closed front end
+                                                                   NU2AAC       90           -X   55508         —     — 2.3071 2.4132 —       —             —      —   —    —
+                                                                                                                                 1) ­Only ­Senso 357 2) ­Only ­Easytouch 945
+
+                                                                                                              Please indicate LH or RH hinge!
+                                                                                                              Height and width reductions are not permitted!
+                           XL End of run pull-out unit Curve       LU2AAC         45         -X   55641        —      — 1.3941 1.4722        —      —       —      —   —    —
+                           1 pull-out,                             LU2AAC         60         -X   55642        —      — 1.4761 1.5832        —      —       —      —   —    —
+                           1 pull-out with opening support
+                                                                   LU2AAC         90         -X   55643        —      — 1.9521 2.0852        —      —       —      —   —    —
+                           mechanism,
+                           stop side = closed front end                                                                          1) ­Only ­Senso 357 2) ­Only ­Easytouch 945
+
+                                                                                                              Please indicate LH or RH hinge!
+                                                                                                              Height and width reductions are not permitted!
+                           XL Pull-out unit                        NUAIAI         30         -X   55013       1.264 1.276 1.307 1.313 1.334 1.355           —      —   —    —
+                           1 pull-out,                             NUAIAI         40         -X   55016       1.333 1.356 1.381 1.426 1.448 1.470           —      —   —    —
+                           1 internal drawer,
+                                                                   NUAIAI         45         -X   55017       1.374 1.394 1.432 1.464 1.492 1.517           —      —   —    —
+                           1 internal pull-out
+                                                                   NUAIAI         50         -X   55026       1.407 1.435 1.463 1.517 1.548 1.577           —      —   —    —
+                                                                   NUAIAI         60         -X   55061       1.473 1.505 1.540 1.602 1.637 1.670           —      —   —    —
+                           XL Base unit                            NUI2AI         40         -X   57011       1.440 1.463 1.497 1.549 1.564 1.581           —      —   —    —
+                           1 door,                                 NUI2AI         45         -X   57015       1.497 1.517 1.558 1.602 1.624 1.647           —      —   —    —
+                           1 internal drawer,
+                                                                   NUI2AI         50         -X   57033       1.532 1.561 1.596 1.659 1.680 1.702           —      —   —    —
+                           2 internal pull-outs
+                                                                   NUI2AI         60         -X   57049       1.624 1.653 1.692 1.764 1.791 1.816           —      —   —    —
+
+                           XL Base unit with waste                 NUASL-EC       45         -X   56471 1.740 1.759 1.810 1.850 1.870 1.892                 —      —   —    —
+                           separation system Euro-Cargo            NUASL-EC       50         -X   56472 1.791 1.821 1.860 1.924 1.945 1.965                 —      —   —    —
+                           1 front,
+                                                                   NUASL-EC       60         -X   56473 1.945 1.972 2.012 2.078 2.110 2.140                 —      —   —    —
+                           waste separation system
+                           Euro-Cargo,                                                                        Built-in sinks are not possible.
+                           with cushioned self-closing
+                           mechanism,                                                                         Detail illustration refer to pg. M 0.28 pp.
+                           system lid made of metal,
+                           450 / 500 mm width: 2 x 35 litres,
+                           600 mm width:
+                           2 x 35 / 2 x 10 litres,
+                           container height: 526 / 351 mm
+
+
+
+
+M 8.40                                       You will find an explanation of the symbols at the front of the chapter index                                                     Typen - EN

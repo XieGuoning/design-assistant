@@ -1,0 +1,96 @@
+Base units in XL height                                                 Abbreviation                          Points
+                                                                                                                                     Price groups
+for handle-less LINE N / LINE ONE kitchen
+
+
+                                                                                                               1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                               Width in cm
+
+
+
+
+                                                                                                  Order-no.
+Side depth: 561 mm
+Carcase height: 792 mm
+Plinth height 20, 70, 100, 150 or 200 mm
+
+                                                          Fillers / Panelling in XL height
+                           XL Angle filler                         NUPE                      -X   57143        203    206   242   254   279   307    —       —     —      —
+                           front material, 55 x 55 mm,
+                           required floor space: 635 x 635 mm,                                                Planning dimensions = required floor space + 15 mm distance to wall for
+                           planning dimensions: 650 x 650 mm                                                  protruding units.
+
+
+                           as above, however variable              NUPE-V                    -X   57151        237    242   273   291   323   356    —       —     —      —
+                           from 35 to 155 mm,
+                           required floor space: 615 - 735 mm,
+                           planning dimensions: 630 - 750 mm,
+                           1st dimension = left /
+                           2nd dimension = right
+
+                           XL Angle filler in                      NUPET-V                   -X   57177        444    466   536   578   654   730    —       —     —      —
+                           divided appearance, variable
+                           front material,                                                                    Planning dimensions = required floor space + 15 mm distance to wall for
+                           variable from 35 to 155 mm,                                                        protruding units.
+                           required floor space: 615 - 735 mm,
+                                                                                                              Bracket changes are not permitted.
+                           planning dimensions: 630 - 750 mm,
+                           1st dimensions = left /                                                            Use only in conjunction with 402 mm high bottom pull-outs.
+                           2nd dimensions = right
+
+                           XL Angle filler in                      LUPET-V-X                      57178        248    261   315   362   368   391    —       —     —      —
+                           divided appearance, variable
+                           front material,                                                                    Planning dimensions = required floor space + 15 mm distance to wall for
+                           variable from 35 to 155 mm,                                                        protruding units.
+                           required floor space: 615 - 735 mm,
+                                                                                                              Bracket changes are not permitted.
+                           planning dimensions: 630 - 750 mm,
+                           1st dimensions = left /
+                           2nd dimensions = right
+
+                           Surcharge for recessed fillers          MP-GS                          9300        36,5 36,5 36,5 36,5 36,5 36,5 36,5 36,5 36,5 36,5
+                           on fillers and half corner units,
+                           side panel made of carcase material,
+                           in carcase height incl. 2 plinth feet
+                           for on-site assembly,
+                           carcase depth: 561 mm
+
+
+                           Surcharge for use as centre filler      MP-MP                          4743         44     44    44    44    44     44    44      44    44     44
+                           3 edges profiled on front fillers,
+                           1 cut edge,
+                           minimum width: 65 mm
+
+
+
+                           XL Front filler                         NUPD           20         -X   57116        150    158   199   209   222   237    —       —     —      —
+                           front material,
+                           width: 200 mm                                                                      Possible to adapt on site to minimum size of 30 mm.
+                                                                                                              Please indicate LH or RH hinge!
+
+
+
+
+                           XL Front filler                         NUPDT          20         -X   57230        296    310   362   403   419   435    —       —     —      —
+                           in divided appearance
+                           front material,                                                                    Possible to adapt on site to minimum size of 30 mm.
+                           width: 200 mm
+                                                                                                              Please indicate LH or RH hinge!
+                                                                                                              Use only in conjunction with 402 mm high bottom pull-outs.
+
+
+                           XL Front filler                         LUPDT          20         -X   57117        235    257   273   305   318   358    —       —     —      —
+                           in divided appearance
+                           front material,                                                                    Possible to adapt on site to minimum size of 30 mm.
+                           width: 200 mm
+                                                                                                              Please indicate LH or RH hinge!
+                                                                                                              Use only in conjunction with 429 mm high bottom pull-outs.
+
+
+
+
+Typen - EN                                   You will find an explanation of the symbols at the front of the chapter index                                                       M 8.53

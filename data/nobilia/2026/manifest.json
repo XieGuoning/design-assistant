@@ -3,12 +3,10 @@
   "import_date": "2026-10-07",
   "source": "User-uploaded split PDFs",
   "extraction": "pdftotext -layout; no OCR",
-  "missing_source_files": [
-    "06",
-    "08"
-  ],
+  "missing_source_files": [],
   "documents": [
     {
+      "source_parts": [],
       "chapter": "00",
       "title_zh": "导言与总览",
       "filename": "00_Intro_Sales_Manual_nobilia_2026.pdf",
@@ -372,6 +370,7 @@
       ]
     },
     {
+      "source_parts": [],
       "chapter": "01",
       "title_zh": "门板",
       "filename": "01_Fronts.pdf",
@@ -1103,6 +1102,7 @@
       ]
     },
     {
+      "source_parts": [],
       "chapter": "02",
       "title_zh": "设计总览、配置与特殊制作",
       "filename": "02_Design_Overviews_Equipment_options_Special_productions.pdf",
@@ -1578,6 +1578,7 @@
       ]
     },
     {
+      "source_parts": [],
       "chapter": "03",
       "title_zh": "地柜",
       "filename": "03_Base_units.pdf",
@@ -2421,6 +2422,7 @@
       ]
     },
     {
+      "source_parts": [],
       "chapter": "04",
       "title_zh": "台面、墙面板、石英石与陶瓷",
       "filename": "04_Worktops_Niche_cladding_Quartz_Ceramic.pdf",
@@ -2800,6 +2802,7 @@
       ]
     },
     {
+      "source_parts": [],
       "chapter": "05",
       "title_zh": "侧板、顶板、Sakura、装饰柱与壁架",
       "filename": "05_Upright_panels_Top_shelves_Sakura_Pilasters_Wall_shelves.pdf",
@@ -3243,6 +3246,1433 @@
       ]
     },
     {
+      "source_parts": [
+        {
+          "filename": "06a_Highboards_Tall_units_1512-2088mm.pdf",
+          "sha256": "f2e7ece98470c49bfa04e7d885c494cff14e934f576a2e5812c942f9a8c0055c",
+          "page_count": 86,
+          "merged_start": 1,
+          "merged_end": 86
+        },
+        {
+          "filename": "06b-1_Tall_units_height2_2088-2160mm.pdf",
+          "sha256": "54d19ef1ec94d8e7c08745589fbf64115995f085a89dabd2179bf26a7560cb44",
+          "page_count": 44,
+          "merged_start": 87,
+          "merged_end": 130
+        },
+        {
+          "filename": "06b-2_Tall_units_height3_2160-2232mm.pdf",
+          "sha256": "e27e01b58d742ad4dccfe97cef3b2d7c9324d9431342285e18c5ae724f312973",
+          "page_count": 44,
+          "merged_start": 131,
+          "merged_end": 174
+        }
+      ],
+      "chapter": "06",
+      "title_zh": "半高柜与高柜",
+      "filename": "06_Highboards_Tall_units.pdf",
+      "pdf": "data/nobilia/2026/pdf/06_Highboards_Tall_units.pdf",
+      "sha256": "2fd1f27a73686f3b44faf2e657e9ab0cd679c28404f88f3fa53bf3acf2feb46e",
+      "bytes": 62206912,
+      "page_count": 174,
+      "pages": [
+        {
+          "manual_chapter": "06",
+          "page": 1,
+          "path": "data/nobilia/2026/pages/06/001.txt",
+          "characters": 847,
+          "needs_visual_review": false,
+          "sha256": "55161abcb60b1e2b845734b678d5e050eef6b1099c46dfaf83065b40570d24e2"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 2,
+          "path": "data/nobilia/2026/pages/06/002.txt",
+          "characters": 4570,
+          "needs_visual_review": false,
+          "sha256": "9110e1eb7515e0f1359b7ba21d8d1f6443136849547d723881c8fae15ca38515"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 3,
+          "path": "data/nobilia/2026/pages/06/003.txt",
+          "characters": 688,
+          "needs_visual_review": false,
+          "sha256": "ac2912b1bf1520c2d0c0434f2ba4d7a8114b782bec7bd14807010db60727de9d"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 4,
+          "path": "data/nobilia/2026/pages/06/004.txt",
+          "characters": 4511,
+          "needs_visual_review": false,
+          "sha256": "94d1187b01bc6d3f3be2e46f5b08cdd2848988960148f53d89c43288a34ca85b"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 5,
+          "path": "data/nobilia/2026/pages/06/005.txt",
+          "characters": 8682,
+          "needs_visual_review": false,
+          "sha256": "a0664b6e372cee853a1e942f0db0fbd818becfa026d7200a62baeecc3a2c6edb"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 6,
+          "path": "data/nobilia/2026/pages/06/006.txt",
+          "characters": 8433,
+          "needs_visual_review": false,
+          "sha256": "fe675e10d425580533119c5c5b8ca96854614e90fb97bf97e11dc16882d8cc47"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 7,
+          "path": "data/nobilia/2026/pages/06/007.txt",
+          "characters": 10497,
+          "needs_visual_review": false,
+          "sha256": "8b1b506a3b4135a26f606e8c3ce393904570149f86875f06203231f397292e95"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 8,
+          "path": "data/nobilia/2026/pages/06/008.txt",
+          "characters": 8960,
+          "needs_visual_review": false,
+          "sha256": "242fc86a5cb0a8f3822fe8e8c90134e81a4446fcae0da6ee977e8a9f400388fa"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 9,
+          "path": "data/nobilia/2026/pages/06/009.txt",
+          "characters": 6709,
+          "needs_visual_review": false,
+          "sha256": "9d2b171a7e1796b798325eceaf78864095d47fa22dc5df28932c729986fc2082"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 10,
+          "path": "data/nobilia/2026/pages/06/010.txt",
+          "characters": 5502,
+          "needs_visual_review": false,
+          "sha256": "6da61d4117d8efcbdc5aab99da125e993b01ad4c678500ff5e544ef15d6899cc"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 11,
+          "path": "data/nobilia/2026/pages/06/011.txt",
+          "characters": 4341,
+          "needs_visual_review": false,
+          "sha256": "52ffe4343b2533922961feaba509fcfb9cb99fc749c72e24dd1ffa5010e8423e"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 12,
+          "path": "data/nobilia/2026/pages/06/012.txt",
+          "characters": 4498,
+          "needs_visual_review": false,
+          "sha256": "783b3dbc92f921af68df0b6726e5b9cfa80771242ce289b7eb945f434ba594ac"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 13,
+          "path": "data/nobilia/2026/pages/06/013.txt",
+          "characters": 5098,
+          "needs_visual_review": false,
+          "sha256": "104c25b439ab09a24773390e5ff9a13dbb9cf01ef8d3f49cb35ce12abe35cbc8"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 14,
+          "path": "data/nobilia/2026/pages/06/014.txt",
+          "characters": 10018,
+          "needs_visual_review": false,
+          "sha256": "c7f41837d078b91d686e366ff2cfcf7ed8aa88d83736ce943e816a49670b33a1"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 15,
+          "path": "data/nobilia/2026/pages/06/015.txt",
+          "characters": 7053,
+          "needs_visual_review": false,
+          "sha256": "9a4494ceec17a0b77046badd04dc620f88c6976eb9a6c4e004622a552b8a7f2b"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 16,
+          "path": "data/nobilia/2026/pages/06/016.txt",
+          "characters": 6679,
+          "needs_visual_review": false,
+          "sha256": "3a49d400a0f0ab74393281cd7a3819821492683e7a8b417a984e1e88eded0cc2"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 17,
+          "path": "data/nobilia/2026/pages/06/017.txt",
+          "characters": 2605,
+          "needs_visual_review": false,
+          "sha256": "db718903640abf0f4102fe224771d68d99dc55020a82b74ceab7c82166cc66f2"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 18,
+          "path": "data/nobilia/2026/pages/06/018.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 19,
+          "path": "data/nobilia/2026/pages/06/019.txt",
+          "characters": 694,
+          "needs_visual_review": false,
+          "sha256": "929091b1182f3856111801f63e750f54e388a2ec1ffdb43a62c1be060a9bd798"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 20,
+          "path": "data/nobilia/2026/pages/06/020.txt",
+          "characters": 4664,
+          "needs_visual_review": false,
+          "sha256": "26502c16137b33ea56dac032498b70a68bc77a16ba2056c124770f9df44b7e05"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 21,
+          "path": "data/nobilia/2026/pages/06/021.txt",
+          "characters": 8306,
+          "needs_visual_review": false,
+          "sha256": "fe1287ceb917f4082ec0c2e92984ba00124eeb4e660ad687940cb842c0dbdf3f"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 22,
+          "path": "data/nobilia/2026/pages/06/022.txt",
+          "characters": 7124,
+          "needs_visual_review": false,
+          "sha256": "de41877006e202d39aef35b34e52f40037abfbb7c570edd2e1f1c516fd3cb3c3"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 23,
+          "path": "data/nobilia/2026/pages/06/023.txt",
+          "characters": 11076,
+          "needs_visual_review": false,
+          "sha256": "b531db6cecd465f9146c0ef100f4c2c4a580722a12e635b8c034bc73a270eddb"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 24,
+          "path": "data/nobilia/2026/pages/06/024.txt",
+          "characters": 9386,
+          "needs_visual_review": false,
+          "sha256": "c3eaad914db8b2f43c15bbd43804ae5e9831bc486cdeec2a279bd69cc8542f3c"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 25,
+          "path": "data/nobilia/2026/pages/06/025.txt",
+          "characters": 6927,
+          "needs_visual_review": false,
+          "sha256": "55913219796d29bce46abef922ae0c5bcbe1aa9e895f03902897c3115b898393"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 26,
+          "path": "data/nobilia/2026/pages/06/026.txt",
+          "characters": 5948,
+          "needs_visual_review": false,
+          "sha256": "54ff03644166d5a133748b897f95c7756dfdae2b3c10a440ffbeba4e58b07870"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 27,
+          "path": "data/nobilia/2026/pages/06/027.txt",
+          "characters": 5434,
+          "needs_visual_review": false,
+          "sha256": "26d283106200b0a101a2e5cc5814766dbdcadc1d718a82b7a70d44f487c6b6da"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 28,
+          "path": "data/nobilia/2026/pages/06/028.txt",
+          "characters": 5104,
+          "needs_visual_review": false,
+          "sha256": "29454f70c36d6d5f6a953a03f81ba26e6dde7e97cd59367d0260146691803e7a"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 29,
+          "path": "data/nobilia/2026/pages/06/029.txt",
+          "characters": 5636,
+          "needs_visual_review": false,
+          "sha256": "999d6b511c10b9c977f37c2f4a3a5722ae9bc656b4bb602937714726b4d36bc6"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 30,
+          "path": "data/nobilia/2026/pages/06/030.txt",
+          "characters": 10265,
+          "needs_visual_review": false,
+          "sha256": "09706bc12d1f487c48fa2e459b3c3199a4d59288a6722c391c74abaf9abac9c2"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 31,
+          "path": "data/nobilia/2026/pages/06/031.txt",
+          "characters": 7311,
+          "needs_visual_review": false,
+          "sha256": "2bfdcfdb5c8a2d23061b311e9aa19c6c5ca99767f9fff5ab3a31bf6f0e0bf2bc"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 32,
+          "path": "data/nobilia/2026/pages/06/032.txt",
+          "characters": 4340,
+          "needs_visual_review": false,
+          "sha256": "9e982ba80739c1214b22ae4eed5b01e0857bad9ef8337ade3675514d48a271f6"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 33,
+          "path": "data/nobilia/2026/pages/06/033.txt",
+          "characters": 5061,
+          "needs_visual_review": false,
+          "sha256": "3bd168221f86808f53c98a63c3792fb7ed19dd3dae5d3ceac2ea92fa54fb32cd"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 34,
+          "path": "data/nobilia/2026/pages/06/034.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 35,
+          "path": "data/nobilia/2026/pages/06/035.txt",
+          "characters": 714,
+          "needs_visual_review": false,
+          "sha256": "6bdd72fd12cb6f5568aee70d7d2dc74fc324a5327dc10906833d14ad1d9cd008"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 36,
+          "path": "data/nobilia/2026/pages/06/036.txt",
+          "characters": 4731,
+          "needs_visual_review": false,
+          "sha256": "436f626545d968302a5bceb564f92c691f7dce6397dd2e49048e2dc4b3924fc2"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 37,
+          "path": "data/nobilia/2026/pages/06/037.txt",
+          "characters": 12865,
+          "needs_visual_review": false,
+          "sha256": "2ecc130dfec1521e61a4796db3ff44de9b8daffd6cb72e713608fc30a7f4d14b"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 38,
+          "path": "data/nobilia/2026/pages/06/038.txt",
+          "characters": 11019,
+          "needs_visual_review": false,
+          "sha256": "6c3ac14228db55dab3b2fdfa20bbb459578e1caa93116caf421568cc490d6639"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 39,
+          "path": "data/nobilia/2026/pages/06/039.txt",
+          "characters": 9091,
+          "needs_visual_review": false,
+          "sha256": "02a93dde09ddf59cf679b736deb5d363abddfea8d9b43912a29785c439b913cf"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 40,
+          "path": "data/nobilia/2026/pages/06/040.txt",
+          "characters": 9176,
+          "needs_visual_review": false,
+          "sha256": "441b41cbfe88ca601104e6bdf98c63379a70397471f138db6be107545da082b0"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 41,
+          "path": "data/nobilia/2026/pages/06/041.txt",
+          "characters": 5142,
+          "needs_visual_review": false,
+          "sha256": "2675cd983be164e58b1396337ae32473959af1b5c044064d3d20b6ea1ce6e01c"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 42,
+          "path": "data/nobilia/2026/pages/06/042.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 43,
+          "path": "data/nobilia/2026/pages/06/043.txt",
+          "characters": 830,
+          "needs_visual_review": false,
+          "sha256": "477426d02561b8c01cd30cb99cd393515d7f617641ca6103d7d085f097bb91b4"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 44,
+          "path": "data/nobilia/2026/pages/06/044.txt",
+          "characters": 4562,
+          "needs_visual_review": false,
+          "sha256": "564ced91689f2508f61cb257ecc4aa2f00acc93f0cdab16d6e8050316fe75364"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 45,
+          "path": "data/nobilia/2026/pages/06/045.txt",
+          "characters": 9062,
+          "needs_visual_review": false,
+          "sha256": "dde2243a07dadc09b5d2705096223680f773897f3b08b404d6ef3ffbabfa7286"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 46,
+          "path": "data/nobilia/2026/pages/06/046.txt",
+          "characters": 7349,
+          "needs_visual_review": false,
+          "sha256": "9d5e19b43fdd77a550464961ca4d284021da0ad786f0499a3b3f1374d1546815"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 47,
+          "path": "data/nobilia/2026/pages/06/047.txt",
+          "characters": 7604,
+          "needs_visual_review": false,
+          "sha256": "5fadd88d4a07aca7ba2493d42e12cbe15f07f1064f6080d88b9b857a05dae1d3"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 48,
+          "path": "data/nobilia/2026/pages/06/048.txt",
+          "characters": 7541,
+          "needs_visual_review": false,
+          "sha256": "30c602e061ab5d6bc866be6c9067445d7a6dd9fde221a82e7a25687254356900"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 49,
+          "path": "data/nobilia/2026/pages/06/049.txt",
+          "characters": 7865,
+          "needs_visual_review": false,
+          "sha256": "f6bcf4b6002343ddea6eedb2919d2d88dc12e2e237f08da7aeeb777d55d56d22"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 50,
+          "path": "data/nobilia/2026/pages/06/050.txt",
+          "characters": 4777,
+          "needs_visual_review": false,
+          "sha256": "12b3adf6581176b0220c02d1e070e7d5ad9714906595cca37adad01f6fd4c046"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 51,
+          "path": "data/nobilia/2026/pages/06/051.txt",
+          "characters": 5618,
+          "needs_visual_review": false,
+          "sha256": "89829a0aea176d08623108487862aa448909da5a4b92d5e0876ded11c5abde19"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 52,
+          "path": "data/nobilia/2026/pages/06/052.txt",
+          "characters": 5659,
+          "needs_visual_review": false,
+          "sha256": "d4a1ce26a39f7365b9a14d4512ab4fa01398e42498363778909a82e0aee271a6"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 53,
+          "path": "data/nobilia/2026/pages/06/053.txt",
+          "characters": 8117,
+          "needs_visual_review": false,
+          "sha256": "39930b9420a0bcda049651ba84bf4310738f74cee91b81b47201388de2e9e300"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 54,
+          "path": "data/nobilia/2026/pages/06/054.txt",
+          "characters": 8619,
+          "needs_visual_review": false,
+          "sha256": "3564d9f9d74fc768dc3fc34d11b42ebdb19ef4969c99c531e0c7551a85dfab6c"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 55,
+          "path": "data/nobilia/2026/pages/06/055.txt",
+          "characters": 7084,
+          "needs_visual_review": false,
+          "sha256": "5f961d9e4f10fcac6ea27752746e4877bcc56433e80abd556cde6c614f9b48cd"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 56,
+          "path": "data/nobilia/2026/pages/06/056.txt",
+          "characters": 5081,
+          "needs_visual_review": false,
+          "sha256": "2d50e6a95f607999662ab15f33c2566da1d93270fa396b9ceeb1017a484c884d"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 57,
+          "path": "data/nobilia/2026/pages/06/057.txt",
+          "characters": 4881,
+          "needs_visual_review": false,
+          "sha256": "77a0ab0e57f1b62a77d087fd82ebe0857f2b4b4b67f5896df068df6a86e11ceb"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 58,
+          "path": "data/nobilia/2026/pages/06/058.txt",
+          "characters": 5286,
+          "needs_visual_review": false,
+          "sha256": "1623a772b36b9d7fa8696f69874881af3c701f215f34b9f8f17a760e9f8645c8"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 59,
+          "path": "data/nobilia/2026/pages/06/059.txt",
+          "characters": 4566,
+          "needs_visual_review": false,
+          "sha256": "4aa9a336a436bb162bdac8292b9dfedf46874e3d4365de8127491b1483f9da97"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 60,
+          "path": "data/nobilia/2026/pages/06/060.txt",
+          "characters": 7154,
+          "needs_visual_review": false,
+          "sha256": "69b165a783640168f138467016a440875909faecde9a57a3a8181b0d09b84cb3"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 61,
+          "path": "data/nobilia/2026/pages/06/061.txt",
+          "characters": 10107,
+          "needs_visual_review": false,
+          "sha256": "6f47daafbf6bcc6815602dab11b39626b012a0fc46ecd4fb74b87166243cbdd7"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 62,
+          "path": "data/nobilia/2026/pages/06/062.txt",
+          "characters": 6947,
+          "needs_visual_review": false,
+          "sha256": "05c77bb8df2c9b25adb489e1a7375821930306443854d8219b60da8b468c13ab"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 63,
+          "path": "data/nobilia/2026/pages/06/063.txt",
+          "characters": 6749,
+          "needs_visual_review": false,
+          "sha256": "4d2c5a71c7ccbe9b6c63de7cb2137036104a50d69e140ffda4ca419d3d37dcdc"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 64,
+          "path": "data/nobilia/2026/pages/06/064.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 65,
+          "path": "data/nobilia/2026/pages/06/065.txt",
+          "characters": 790,
+          "needs_visual_review": false,
+          "sha256": "a2de9d6710deddf9f066b74dacff4dfd271c0aaa1eb016d095ea5caa6ef7eb0b"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 66,
+          "path": "data/nobilia/2026/pages/06/066.txt",
+          "characters": 4593,
+          "needs_visual_review": false,
+          "sha256": "352636b12e24f81eab6c3fa933a366e138dea1eccd22af63a250339d639bf3c9"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 67,
+          "path": "data/nobilia/2026/pages/06/067.txt",
+          "characters": 9089,
+          "needs_visual_review": false,
+          "sha256": "028d9fb7680b12d8735ea37b0568ef6a43e16ffecf9ae61b94764cb6a81bbfef"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 68,
+          "path": "data/nobilia/2026/pages/06/068.txt",
+          "characters": 7294,
+          "needs_visual_review": false,
+          "sha256": "0e0a233dcde065bc8ffec325849a3f58d977a756e6479e42f2b8b511f56a63c1"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 69,
+          "path": "data/nobilia/2026/pages/06/069.txt",
+          "characters": 7543,
+          "needs_visual_review": false,
+          "sha256": "d9c3010cc2b4c174e5f5be90d1cf4718532943e01331457e9e60ff3004791304"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 70,
+          "path": "data/nobilia/2026/pages/06/070.txt",
+          "characters": 6943,
+          "needs_visual_review": false,
+          "sha256": "3266dd1e496b429c1eb3f2d2be3173d41788cd2e72ad09fcebf4c319d3851e67"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 71,
+          "path": "data/nobilia/2026/pages/06/071.txt",
+          "characters": 7682,
+          "needs_visual_review": false,
+          "sha256": "f596eec8c98a0d8d7fb450d3ae47f48ec11f715279b5ccf9e6ccbf462e0d7a14"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 72,
+          "path": "data/nobilia/2026/pages/06/072.txt",
+          "characters": 5723,
+          "needs_visual_review": false,
+          "sha256": "47d8063e49591a582b7a0a697b2674de8aef6e4301174a0b3972aae7db2eb66d"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 73,
+          "path": "data/nobilia/2026/pages/06/073.txt",
+          "characters": 5728,
+          "needs_visual_review": false,
+          "sha256": "86dc8d9f6751a909474555fbc50c1c1204aa2f60b35925cb261788f1c083a71c"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 74,
+          "path": "data/nobilia/2026/pages/06/074.txt",
+          "characters": 5861,
+          "needs_visual_review": false,
+          "sha256": "db10a3965cc0a51bed2065d3d2ad055c4a7b6328b2ea4eec9c5af8844b92c061"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 75,
+          "path": "data/nobilia/2026/pages/06/075.txt",
+          "characters": 8749,
+          "needs_visual_review": false,
+          "sha256": "072aac7d5f11f691021c6569f257dd8c1453d48fc6226225d23a4cb5dd9b04fa"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 76,
+          "path": "data/nobilia/2026/pages/06/076.txt",
+          "characters": 7568,
+          "needs_visual_review": false,
+          "sha256": "b5d39db22b449f23f4b1142d0f14c6fb0049345d9e9b8867bc1891e18def1f89"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 77,
+          "path": "data/nobilia/2026/pages/06/077.txt",
+          "characters": 7166,
+          "needs_visual_review": false,
+          "sha256": "40b090fd2fe5cdc8749603931317873b7c11f6bbbec2a415deac8b074ca22c9a"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 78,
+          "path": "data/nobilia/2026/pages/06/078.txt",
+          "characters": 5185,
+          "needs_visual_review": false,
+          "sha256": "4c54faf5ea692f038451e70044936219ba7b0c091d33c732a9cb66b45de49034"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 79,
+          "path": "data/nobilia/2026/pages/06/079.txt",
+          "characters": 5410,
+          "needs_visual_review": false,
+          "sha256": "a42b0ab004c9a9595420afaad8aa84f0df49cafa708e6e58c9a190fc5b240c91"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 80,
+          "path": "data/nobilia/2026/pages/06/080.txt",
+          "characters": 5703,
+          "needs_visual_review": false,
+          "sha256": "a67b6e912225b9158356df27ae801e3af55191399c7ee28a1c3130294f555a3a"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 81,
+          "path": "data/nobilia/2026/pages/06/081.txt",
+          "characters": 3925,
+          "needs_visual_review": false,
+          "sha256": "a1288d52412214ed2dedeff14cbff13fcef762745af001d0cfb5e34013299b69"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 82,
+          "path": "data/nobilia/2026/pages/06/082.txt",
+          "characters": 7193,
+          "needs_visual_review": false,
+          "sha256": "1e317a650249b2cfbf6eddc10ee89132344c1aeb0858d808545427cbf42a8292"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 83,
+          "path": "data/nobilia/2026/pages/06/083.txt",
+          "characters": 10167,
+          "needs_visual_review": false,
+          "sha256": "b7429a9ba88ef454a2c75d813fb04e43859b0b606237f9de735268d42425adf8"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 84,
+          "path": "data/nobilia/2026/pages/06/084.txt",
+          "characters": 8315,
+          "needs_visual_review": false,
+          "sha256": "cf86ceea0291d618604cedffa4cf3c782b15ca7d59fa476bf222f5746ac2b3e3"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 85,
+          "path": "data/nobilia/2026/pages/06/085.txt",
+          "characters": 6802,
+          "needs_visual_review": false,
+          "sha256": "9092d4cb063bd21760549f98a52311d2e8b23ae77ff12c0b46940107c77134ef"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 86,
+          "path": "data/nobilia/2026/pages/06/086.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 87,
+          "path": "data/nobilia/2026/pages/06/087.txt",
+          "characters": 833,
+          "needs_visual_review": false,
+          "sha256": "e89e908ef8125bbd54869c3ab6c4a40a218f322153911537745c66429f19da66"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 88,
+          "path": "data/nobilia/2026/pages/06/088.txt",
+          "characters": 4562,
+          "needs_visual_review": false,
+          "sha256": "45b32c63cb1f9ebc0bd26af7736e1490b462b2c1fde06c3c3353c50008a31fd6"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 89,
+          "path": "data/nobilia/2026/pages/06/089.txt",
+          "characters": 9021,
+          "needs_visual_review": false,
+          "sha256": "1c41a9b9806d54174959169d3b55196f79b248f4ad5b2b94bc696a167282cd0d"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 90,
+          "path": "data/nobilia/2026/pages/06/090.txt",
+          "characters": 7256,
+          "needs_visual_review": false,
+          "sha256": "fbdac302af6641cc056e1442a787dc75fadee49bf2d33fc484889ebe282ab96c"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 91,
+          "path": "data/nobilia/2026/pages/06/091.txt",
+          "characters": 7496,
+          "needs_visual_review": false,
+          "sha256": "11cc98b9cf4280d2b41c0054214020dd7f67a4ff16071dccb0856eec45a7b464"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 92,
+          "path": "data/nobilia/2026/pages/06/092.txt",
+          "characters": 7455,
+          "needs_visual_review": false,
+          "sha256": "b8e29fa9fa765d14779849e9d7b084873dfe4ed020f3eaf59a3cbacb52bb7aa9"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 93,
+          "path": "data/nobilia/2026/pages/06/093.txt",
+          "characters": 7848,
+          "needs_visual_review": false,
+          "sha256": "20ce426b416e92b9c22c417a655b5d822187b4a555ed91d46c66756152ba180e"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 94,
+          "path": "data/nobilia/2026/pages/06/094.txt",
+          "characters": 4647,
+          "needs_visual_review": false,
+          "sha256": "bd5e0509ccb8b4ee5d6bb8d40c97b79b4556443487ca965ba93dedc125bb1935"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 95,
+          "path": "data/nobilia/2026/pages/06/095.txt",
+          "characters": 5448,
+          "needs_visual_review": false,
+          "sha256": "81f71c173ee874ff28f911f668ea1d3db00344ba348243e51a946e9e217dcee1"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 96,
+          "path": "data/nobilia/2026/pages/06/096.txt",
+          "characters": 5491,
+          "needs_visual_review": false,
+          "sha256": "34f58a182bf3ebbb4547636721fe42b066b2894373c0c6cc230d8771df09f13c"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 97,
+          "path": "data/nobilia/2026/pages/06/097.txt",
+          "characters": 7921,
+          "needs_visual_review": false,
+          "sha256": "b335e7c74082b236bf79fabe44cd729c0e94101df893481786363f9e3bcb9538"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 98,
+          "path": "data/nobilia/2026/pages/06/098.txt",
+          "characters": 8405,
+          "needs_visual_review": false,
+          "sha256": "24af8e8906ab1d3a3a6d85326595b44f336ce0089d19b054480a66dad4a009f3"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 99,
+          "path": "data/nobilia/2026/pages/06/099.txt",
+          "characters": 6912,
+          "needs_visual_review": false,
+          "sha256": "0534530a521b5a6abb4d52ef8908b749fbeaf7afc31f459e1930bd068b7d78eb"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 100,
+          "path": "data/nobilia/2026/pages/06/100.txt",
+          "characters": 4997,
+          "needs_visual_review": false,
+          "sha256": "5076c89104e4118895a17682df0e391c159bfbafccf7eb1961165158c2884007"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 101,
+          "path": "data/nobilia/2026/pages/06/101.txt",
+          "characters": 4986,
+          "needs_visual_review": false,
+          "sha256": "d847a96b03a7087e391361cf39bc837748f4b0b7c623df4ecfe9194341abf86d"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 102,
+          "path": "data/nobilia/2026/pages/06/102.txt",
+          "characters": 5152,
+          "needs_visual_review": false,
+          "sha256": "391a2abab9bc600badcdbd86f26524231c3c4fd17262403b9a8a4c12b82b1679"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 103,
+          "path": "data/nobilia/2026/pages/06/103.txt",
+          "characters": 4863,
+          "needs_visual_review": false,
+          "sha256": "65d7461a01887c5781061de8b459f3cb7417603626c5357186813f47096ea907"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 104,
+          "path": "data/nobilia/2026/pages/06/104.txt",
+          "characters": 7092,
+          "needs_visual_review": false,
+          "sha256": "6db73b9fc7e140923931ab95cf2147370ac3cbabb4a94622337c9345818ddc32"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 105,
+          "path": "data/nobilia/2026/pages/06/105.txt",
+          "characters": 9971,
+          "needs_visual_review": false,
+          "sha256": "7f35b67d6532792124fbb0b2df4e0d29f3b9032b2bea25122a0d57b5a379e9a8"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 106,
+          "path": "data/nobilia/2026/pages/06/106.txt",
+          "characters": 8161,
+          "needs_visual_review": false,
+          "sha256": "3707ae21a5582f7e99c8123e4a9dcfb60c387f143df5868514b573c0691c0cac"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 107,
+          "path": "data/nobilia/2026/pages/06/107.txt",
+          "characters": 6641,
+          "needs_visual_review": false,
+          "sha256": "f5ec3b800011669908c548e1430d5c36c01e9e859b326495b0784857c029f983"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 108,
+          "path": "data/nobilia/2026/pages/06/108.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 109,
+          "path": "data/nobilia/2026/pages/06/109.txt",
+          "characters": 839,
+          "needs_visual_review": false,
+          "sha256": "a77c7381d5660066af539729269b177c642019dc781e730a6b09eb69459f1710"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 110,
+          "path": "data/nobilia/2026/pages/06/110.txt",
+          "characters": 4593,
+          "needs_visual_review": false,
+          "sha256": "06dca90a4a648de7a377a7318a8ac2645ffb79f2e5173774f410c2fc66e21333"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 111,
+          "path": "data/nobilia/2026/pages/06/111.txt",
+          "characters": 9023,
+          "needs_visual_review": false,
+          "sha256": "2047a027cc989af8a8f28f05af5699306938be9992e3583da88ff6901153089c"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 112,
+          "path": "data/nobilia/2026/pages/06/112.txt",
+          "characters": 7353,
+          "needs_visual_review": false,
+          "sha256": "27de694009455a55f9101ad08041ec4c87808c0250d7dfdca4a2ae8a47420883"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 113,
+          "path": "data/nobilia/2026/pages/06/113.txt",
+          "characters": 7530,
+          "needs_visual_review": false,
+          "sha256": "daf104fb9e01d76b7f8d0200ce9d40fa6889ee8c600672a6d48f1fc3189a64c3"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 114,
+          "path": "data/nobilia/2026/pages/06/114.txt",
+          "characters": 6815,
+          "needs_visual_review": false,
+          "sha256": "837c5f0bf8ab54c43f43214de304c9278b89053f01cb1e137eeaa95d7bdcf670"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 115,
+          "path": "data/nobilia/2026/pages/06/115.txt",
+          "characters": 7579,
+          "needs_visual_review": false,
+          "sha256": "ae7f867c259ea456f5b24b6bd5f511a5e08e36bd012db716f47292e546a6bd9a"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 116,
+          "path": "data/nobilia/2026/pages/06/116.txt",
+          "characters": 5133,
+          "needs_visual_review": false,
+          "sha256": "d437f0879c776ad6a5272f5463110bd70db7cc855b9ed2d5dc2da9fddc50c1f9"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 117,
+          "path": "data/nobilia/2026/pages/06/117.txt",
+          "characters": 5098,
+          "needs_visual_review": false,
+          "sha256": "935bbe1d15ebf0168cc566c7a9c51a2a3779255e14d855ddbb29ecd455bdd98d"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 118,
+          "path": "data/nobilia/2026/pages/06/118.txt",
+          "characters": 6067,
+          "needs_visual_review": false,
+          "sha256": "f1e2c078f8b4348b352cd2d18e7e31f6ecd483996f41deb4e93eabfcc9bf4a0d"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 119,
+          "path": "data/nobilia/2026/pages/06/119.txt",
+          "characters": 7969,
+          "needs_visual_review": false,
+          "sha256": "1f1cb781d4f77a55fefee8dbe440a1fdc0c8eaf5da7890929aefcb035976fb06"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 120,
+          "path": "data/nobilia/2026/pages/06/120.txt",
+          "characters": 8454,
+          "needs_visual_review": false,
+          "sha256": "002245c58c329d57979d9f02cff16396965b157e30dfd96dfe578627a5013736"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 121,
+          "path": "data/nobilia/2026/pages/06/121.txt",
+          "characters": 6996,
+          "needs_visual_review": false,
+          "sha256": "3d613c1d55443a81b8c2d0ef1058a1808d1e69c1a7aa48efb2909c6ca31ce5aa"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 122,
+          "path": "data/nobilia/2026/pages/06/122.txt",
+          "characters": 5103,
+          "needs_visual_review": false,
+          "sha256": "cccd2b10026ac252e92aec73535eb4d7f15510fb93540382d706ead3ceb4145b"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 123,
+          "path": "data/nobilia/2026/pages/06/123.txt",
+          "characters": 5107,
+          "needs_visual_review": false,
+          "sha256": "f83ebfc8cfa10e3b74563515e2a1f963368a7663f1b9a5e6a5a4c64266d73cce"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 124,
+          "path": "data/nobilia/2026/pages/06/124.txt",
+          "characters": 5341,
+          "needs_visual_review": false,
+          "sha256": "b4848c0e93a6a8766638ed8e4516fe24c55d003e3a96e9be17c329808aa590e8"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 125,
+          "path": "data/nobilia/2026/pages/06/125.txt",
+          "characters": 4941,
+          "needs_visual_review": false,
+          "sha256": "9cde965a75eb2203d5fbd741e8ee55f26399ca640115a1815d4a718771b4b746"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 126,
+          "path": "data/nobilia/2026/pages/06/126.txt",
+          "characters": 7131,
+          "needs_visual_review": false,
+          "sha256": "8a37c0de2963f83431bedb893cdc55c410ecfaee3d235c13d8f2e1f840329092"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 127,
+          "path": "data/nobilia/2026/pages/06/127.txt",
+          "characters": 10031,
+          "needs_visual_review": false,
+          "sha256": "28fae10af9e86358ad26bc265ff89a4861fb916286c0c85588e7e352d5e9121c"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 128,
+          "path": "data/nobilia/2026/pages/06/128.txt",
+          "characters": 8206,
+          "needs_visual_review": false,
+          "sha256": "951227d97f8e5e7766508f019f814c8c4bbbc8cecc16ffd79d4379c0dec246bf"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 129,
+          "path": "data/nobilia/2026/pages/06/129.txt",
+          "characters": 6979,
+          "needs_visual_review": false,
+          "sha256": "7eae503bebdf107ba2eb708575eb28749cb434e279d2c4e85b3a55ab02234abc"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 130,
+          "path": "data/nobilia/2026/pages/06/130.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 131,
+          "path": "data/nobilia/2026/pages/06/131.txt",
+          "characters": 833,
+          "needs_visual_review": false,
+          "sha256": "b676a8d2e7dea036bc40384ba14dbfb4e70ceeeef6a34d749c8252ffaa4d5c28"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 132,
+          "path": "data/nobilia/2026/pages/06/132.txt",
+          "characters": 4567,
+          "needs_visual_review": false,
+          "sha256": "a506d2ae360a7bd6ff1793eb9f56dec7f2065bc8640a78cf98bf0b85baaefac2"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 133,
+          "path": "data/nobilia/2026/pages/06/133.txt",
+          "characters": 9053,
+          "needs_visual_review": false,
+          "sha256": "4472feb4e1d45142809a2287dd7441d86741d593a00fb5b72ebc5eccbcc14a75"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 134,
+          "path": "data/nobilia/2026/pages/06/134.txt",
+          "characters": 7315,
+          "needs_visual_review": false,
+          "sha256": "5f63470fc5bd1f10c96458e47f227ee95393da65d889d2eb296937c4fe7c945a"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 135,
+          "path": "data/nobilia/2026/pages/06/135.txt",
+          "characters": 7508,
+          "needs_visual_review": false,
+          "sha256": "dff936b3a53d8a992b041170c0453c32fbfb8857c16176032552e3f4c599d5ee"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 136,
+          "path": "data/nobilia/2026/pages/06/136.txt",
+          "characters": 7455,
+          "needs_visual_review": false,
+          "sha256": "7fc3e55a5451077093ff52da965c72bc0b830618ef3e844386f4e0c9c269d0b5"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 137,
+          "path": "data/nobilia/2026/pages/06/137.txt",
+          "characters": 7868,
+          "needs_visual_review": false,
+          "sha256": "bef49fb64c242d42f9720e32a44fc53d694c8cc6859bc67092f09876be52edae"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 138,
+          "path": "data/nobilia/2026/pages/06/138.txt",
+          "characters": 4173,
+          "needs_visual_review": false,
+          "sha256": "9089f6a58f615d85fda888ea5b7dae7e6778f52680680fa33c71d7c4e31611ed"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 139,
+          "path": "data/nobilia/2026/pages/06/139.txt",
+          "characters": 4883,
+          "needs_visual_review": false,
+          "sha256": "eb4107db165eb222fd6418c1984bfbf7e25f6514792d39ad83610492f3dfdff0"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 140,
+          "path": "data/nobilia/2026/pages/06/140.txt",
+          "characters": 5902,
+          "needs_visual_review": false,
+          "sha256": "4f8d25b74de0c84ef25c57113bfcda8ec36d952eda49353257bc5522f81a11a6"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 141,
+          "path": "data/nobilia/2026/pages/06/141.txt",
+          "characters": 7298,
+          "needs_visual_review": false,
+          "sha256": "945161995c6ff04b0739cf8100087bcffc3c7c0b2d4bb5d5f6a27034af524965"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 142,
+          "path": "data/nobilia/2026/pages/06/142.txt",
+          "characters": 9521,
+          "needs_visual_review": false,
+          "sha256": "0af5bfa5a51f8658e905fba6c60135e7028b605c7e168920846f2574c5adba83"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 143,
+          "path": "data/nobilia/2026/pages/06/143.txt",
+          "characters": 6952,
+          "needs_visual_review": false,
+          "sha256": "edb2a129ed57e9acbff95110652a45ee053ba1242feea1782b8c614e547c412d"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 144,
+          "path": "data/nobilia/2026/pages/06/144.txt",
+          "characters": 5070,
+          "needs_visual_review": false,
+          "sha256": "7242f0593985150c49c44be66701736a6c6dcc16c4e930cb7bda161a10efc0c5"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 145,
+          "path": "data/nobilia/2026/pages/06/145.txt",
+          "characters": 5033,
+          "needs_visual_review": false,
+          "sha256": "ada204060415e6fcc9b8a36212a099557d150c46702ef56a6fb35f73167ed0e2"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 146,
+          "path": "data/nobilia/2026/pages/06/146.txt",
+          "characters": 4351,
+          "needs_visual_review": false,
+          "sha256": "fa191e6b037df5b08049905120bc403071e1e80baad2bc6d17e742d22bd0e295"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 147,
+          "path": "data/nobilia/2026/pages/06/147.txt",
+          "characters": 5256,
+          "needs_visual_review": false,
+          "sha256": "28b49dca24404f839a9b6b150ae02aaf7afdfda11d4089dc107690f54f7a43ae"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 148,
+          "path": "data/nobilia/2026/pages/06/148.txt",
+          "characters": 7766,
+          "needs_visual_review": false,
+          "sha256": "3f5d58c31b8d23c05675e183ba4f100184bc3ef64107cba3489b70914d0a8d47"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 149,
+          "path": "data/nobilia/2026/pages/06/149.txt",
+          "characters": 9971,
+          "needs_visual_review": false,
+          "sha256": "cea310b437cb2ddc8164e2907b9092895c48f38aed4410320319ac62df59a8b1"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 150,
+          "path": "data/nobilia/2026/pages/06/150.txt",
+          "characters": 7976,
+          "needs_visual_review": false,
+          "sha256": "e83eb2cd285d10d49ff18f5153dad7c77bcf5573c716c427ecfe3d367364e82a"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 151,
+          "path": "data/nobilia/2026/pages/06/151.txt",
+          "characters": 6903,
+          "needs_visual_review": false,
+          "sha256": "fa6b1cd864712c8f64462cbad066ffb85796ce07cf9686828358818c4596b9a2"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 152,
+          "path": "data/nobilia/2026/pages/06/152.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 153,
+          "path": "data/nobilia/2026/pages/06/153.txt",
+          "characters": 839,
+          "needs_visual_review": false,
+          "sha256": "b70f51f2da5623824b52d25cfc4efe6fb3de5a8db5bb00fbdf454372a4a03f53"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 154,
+          "path": "data/nobilia/2026/pages/06/154.txt",
+          "characters": 4598,
+          "needs_visual_review": false,
+          "sha256": "675dbaa687623cf0dcbeec20ebf62dc8566809aeb5bf637c90fae12167c9c812"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 155,
+          "path": "data/nobilia/2026/pages/06/155.txt",
+          "characters": 9054,
+          "needs_visual_review": false,
+          "sha256": "2e1df1e7f45c613c8c930d4c460dab74dda52a00e18ce316cd6fdb8e2ec8d2d4"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 156,
+          "path": "data/nobilia/2026/pages/06/156.txt",
+          "characters": 7435,
+          "needs_visual_review": false,
+          "sha256": "3c1fd5dba93b11191253c749b40488fb33af26ccf928d3e699852ad3beecc737"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 157,
+          "path": "data/nobilia/2026/pages/06/157.txt",
+          "characters": 7544,
+          "needs_visual_review": false,
+          "sha256": "a972ba0002c85281eb9dd59bb4a7784fbbd46e81d6ecab03acd01a9b926f1384"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 158,
+          "path": "data/nobilia/2026/pages/06/158.txt",
+          "characters": 6819,
+          "needs_visual_review": false,
+          "sha256": "266a752756b0ab0598c84222ab8ce8501fe8fe803abe2d175c43a7cf1b377344"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 159,
+          "path": "data/nobilia/2026/pages/06/159.txt",
+          "characters": 6962,
+          "needs_visual_review": false,
+          "sha256": "53c8f592af62f3262e9e34801efb8ccfe16579dbb4637cd84bcd047ce07105e6"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 160,
+          "path": "data/nobilia/2026/pages/06/160.txt",
+          "characters": 5352,
+          "needs_visual_review": false,
+          "sha256": "37eb83b000ce3f9427cdc0946ef1f8f3b748ab23a8a92ff074eb030d75c58c0f"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 161,
+          "path": "data/nobilia/2026/pages/06/161.txt",
+          "characters": 4565,
+          "needs_visual_review": false,
+          "sha256": "41ad20ea59a112ba39212a980182e9a141b0c3872017cc47facbf8473d61b6fd"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 162,
+          "path": "data/nobilia/2026/pages/06/162.txt",
+          "characters": 6253,
+          "needs_visual_review": false,
+          "sha256": "2f5196b708735bc69c7a5d09ce26907a0bbc9ffe8247d10913bf98f69d599a14"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 163,
+          "path": "data/nobilia/2026/pages/06/163.txt",
+          "characters": 7376,
+          "needs_visual_review": false,
+          "sha256": "c6a43caa7d11d64beca3d3d0fc4099fedffff4764fd3125870428e6d78455450"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 164,
+          "path": "data/nobilia/2026/pages/06/164.txt",
+          "characters": 9703,
+          "needs_visual_review": false,
+          "sha256": "e61f8ee7b17565e95964cdf852e8616a4de3318e5001f2c8ce17507e2b2cc987"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 165,
+          "path": "data/nobilia/2026/pages/06/165.txt",
+          "characters": 7033,
+          "needs_visual_review": false,
+          "sha256": "43722a18bb4dafa61f80be69fda75f7778c19ce8c72685e84d01690185673125"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 166,
+          "path": "data/nobilia/2026/pages/06/166.txt",
+          "characters": 4744,
+          "needs_visual_review": false,
+          "sha256": "a3be41fb29c1de37dd286850da8855ca841b12fb47a2f36d45d69ae278d23171"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 167,
+          "path": "data/nobilia/2026/pages/06/167.txt",
+          "characters": 5134,
+          "needs_visual_review": false,
+          "sha256": "14a3aa24a78161be4e8dded7b5bc3821b3884e7e0179a282e374196729884745"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 168,
+          "path": "data/nobilia/2026/pages/06/168.txt",
+          "characters": 4826,
+          "needs_visual_review": false,
+          "sha256": "8e2652ef1e5eabb5bc51219921dc93764b5d96cdd2af9123ec21bcf2184adeb9"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 169,
+          "path": "data/nobilia/2026/pages/06/169.txt",
+          "characters": 5367,
+          "needs_visual_review": false,
+          "sha256": "8d4e1801d2259f02dc624ebbbf5de11adf4fd7d5ce205b533474d152ee2e5f29"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 170,
+          "path": "data/nobilia/2026/pages/06/170.txt",
+          "characters": 7808,
+          "needs_visual_review": false,
+          "sha256": "805a0234ea9608dd88e682c0f8b3da6727061776d1615d6c278979b68667908a"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 171,
+          "path": "data/nobilia/2026/pages/06/171.txt",
+          "characters": 10031,
+          "needs_visual_review": false,
+          "sha256": "2a500ace455fe11ebdc7025c05efa64228ad5374394c0e9c88fc7ce272986bb5"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 172,
+          "path": "data/nobilia/2026/pages/06/172.txt",
+          "characters": 8207,
+          "needs_visual_review": false,
+          "sha256": "3d2cda0a810d3ad56405641c42f2acd4ac2ec7513a957242921c9448d277ea75"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 173,
+          "path": "data/nobilia/2026/pages/06/173.txt",
+          "characters": 7146,
+          "needs_visual_review": false,
+          "sha256": "eb41256fc0dca59b74a90c5da9d01a01f17f7a758e6f5a64c70808d8de016ecd"
+        },
+        {
+          "manual_chapter": "06",
+          "page": 174,
+          "path": "data/nobilia/2026/pages/06/174.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ]
+    },
+    {
+      "source_parts": [],
       "chapter": "07",
       "title_zh": "吊柜",
       "filename": "07_Wall_units.pdf",
@@ -3958,6 +5388,1577 @@
       ]
     },
     {
+      "source_parts": [
+        {
+          "filename": "08a-1_LINE_N_Planning_Base_units.pdf",
+          "sha256": "2577ee5383596e7bf02ad84bfef7cb42e0d567bd3c0a06aae8612d7c1d204cb0",
+          "page_count": 64,
+          "merged_start": 1,
+          "merged_end": 64
+        },
+        {
+          "filename": "08a-2_LINE_N_Tall_units_horizontal_handle.pdf",
+          "sha256": "4b9ae6866f7abf10c4aaeb19e663de2d6299f9e40e31b59b0f4d927dc9aa023b",
+          "page_count": 46,
+          "merged_start": 65,
+          "merged_end": 110
+        },
+        {
+          "filename": "08b_LINE_N_Tall_vertical_Wall_units.pdf",
+          "sha256": "854677091baebca05c95ef83cf8ee815a7b673fd868fcd5c5a4128482db85561",
+          "page_count": 82,
+          "merged_start": 111,
+          "merged_end": 192
+        }
+      ],
+      "chapter": "08",
+      "title_zh": "LINE N 无拉手厨房",
+      "filename": "08_LINE_N_handle-less_kitchen.pdf",
+      "pdf": "data/nobilia/2026/pdf/08_LINE_N_handle-less_kitchen.pdf",
+      "sha256": "62778e0d01120ed331d50c697e4ed344e710f8bea6c369fab313679bd164724c",
+      "bytes": 67666841,
+      "page_count": 192,
+      "pages": [
+        {
+          "manual_chapter": "08",
+          "page": 1,
+          "path": "data/nobilia/2026/pages/08/001.txt",
+          "characters": 63,
+          "needs_visual_review": true,
+          "sha256": "25e656d8cbd75aa3b004b6a0dc9f1f47e94b703f41f715568c2154662464a114"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 2,
+          "path": "data/nobilia/2026/pages/08/002.txt",
+          "characters": 1,
+          "needs_visual_review": true,
+          "sha256": "aa67a169b0bba217aa0aa88a65346920c84c42447c36ba5f7ea65f422c1fe5d8"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 3,
+          "path": "data/nobilia/2026/pages/08/003.txt",
+          "characters": 6032,
+          "needs_visual_review": false,
+          "sha256": "37c2baf91d77aaab84529b0b9131354972557dcb7a9302c6ad061387f9bfa19f"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 4,
+          "path": "data/nobilia/2026/pages/08/004.txt",
+          "characters": 1756,
+          "needs_visual_review": false,
+          "sha256": "371937e239bfb721b16d35fe901f9452d30ceebd8f823fffe67333c93648cb57"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 5,
+          "path": "data/nobilia/2026/pages/08/005.txt",
+          "characters": 3505,
+          "needs_visual_review": false,
+          "sha256": "f61cd0a837a579ee2eb8b2cde373f511b899e7533a0b7c75129b334e8e70d73b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 6,
+          "path": "data/nobilia/2026/pages/08/006.txt",
+          "characters": 1055,
+          "needs_visual_review": false,
+          "sha256": "9cd2e99cfbbc53c526148a6c639587efefcb1b84d7c427d76220f36fd9278bba"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 7,
+          "path": "data/nobilia/2026/pages/08/007.txt",
+          "characters": 2478,
+          "needs_visual_review": false,
+          "sha256": "2113462be991f88b2ff8d71a0b13299a5aa3a5802d8c4701e478e91634552363"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 8,
+          "path": "data/nobilia/2026/pages/08/008.txt",
+          "characters": 3276,
+          "needs_visual_review": false,
+          "sha256": "929f8f42e12d0f97416a07d67c9471bca1ffa7a1fa06b18cbf9b0f17f30d175c"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 9,
+          "path": "data/nobilia/2026/pages/08/009.txt",
+          "characters": 3430,
+          "needs_visual_review": false,
+          "sha256": "3dcef73e7af87994c7a6536ce40642e69af62c7a674bc89116f5eb032018b7cd"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 10,
+          "path": "data/nobilia/2026/pages/08/010.txt",
+          "characters": 3322,
+          "needs_visual_review": false,
+          "sha256": "52c8696431fcbec9ea3d8306a7898cccf0e14f5ff34e833d26d9a78abf1cec6b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 11,
+          "path": "data/nobilia/2026/pages/08/011.txt",
+          "characters": 3506,
+          "needs_visual_review": false,
+          "sha256": "ae9f8506f6a47ef4bc52f5893b33b32f14784b3c89c9a7d4c2f63ba7d1ee6c89"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 12,
+          "path": "data/nobilia/2026/pages/08/012.txt",
+          "characters": 2493,
+          "needs_visual_review": false,
+          "sha256": "654534ec64a6f826fd648402978a469e4e660f93547c39174b59d226032caf96"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 13,
+          "path": "data/nobilia/2026/pages/08/013.txt",
+          "characters": 3526,
+          "needs_visual_review": false,
+          "sha256": "9edd660cb50512373dcb0dce0413311e564e8233a1aa6079d5692e63f7f1531c"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 14,
+          "path": "data/nobilia/2026/pages/08/014.txt",
+          "characters": 2863,
+          "needs_visual_review": false,
+          "sha256": "b51423623137e0b78bcb814619533a6640ed6e877527c88c8f3eb8159476f91d"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 15,
+          "path": "data/nobilia/2026/pages/08/015.txt",
+          "characters": 573,
+          "needs_visual_review": false,
+          "sha256": "57061e6460f6201f8bbbccc678ae372e04bb9255efe8da706ff3cae8ee00816a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 16,
+          "path": "data/nobilia/2026/pages/08/016.txt",
+          "characters": 563,
+          "needs_visual_review": false,
+          "sha256": "9f01218fb89296a68083ba3d7970c5adc9e8d85cccb03ab13021811c5040140d"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 17,
+          "path": "data/nobilia/2026/pages/08/017.txt",
+          "characters": 576,
+          "needs_visual_review": false,
+          "sha256": "3e38f6a0be44d41948b1e68ed9acb350b4e12fe6ce8b3c44148c614a30be5db1"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 18,
+          "path": "data/nobilia/2026/pages/08/018.txt",
+          "characters": 491,
+          "needs_visual_review": false,
+          "sha256": "163d6abc9fa3a05b8dcdcf36bd2b2b021fc94d96eeb385ad0498c8ee647788ea"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 19,
+          "path": "data/nobilia/2026/pages/08/019.txt",
+          "characters": 640,
+          "needs_visual_review": false,
+          "sha256": "169b0219e1d3297ced9a12356ec3f8acd0fd648461d585754e6357eb40be591a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 20,
+          "path": "data/nobilia/2026/pages/08/020.txt",
+          "characters": 5294,
+          "needs_visual_review": false,
+          "sha256": "43337f56e51f6d453f6b4145db8561f08c11b4d552eb8204b6ef858d7df5289a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 21,
+          "path": "data/nobilia/2026/pages/08/021.txt",
+          "characters": 10579,
+          "needs_visual_review": false,
+          "sha256": "6e8724ff8ab84c13f6a6943098ba8d07b20468fd2b2dae2da89c9fc9efa0f896"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 22,
+          "path": "data/nobilia/2026/pages/08/022.txt",
+          "characters": 11188,
+          "needs_visual_review": false,
+          "sha256": "d45ff0056b1f65257b5d0f4b590f3cd06527fb7159eba503be630e320239e808"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 23,
+          "path": "data/nobilia/2026/pages/08/023.txt",
+          "characters": 4474,
+          "needs_visual_review": false,
+          "sha256": "7797decce6905523cc2707c6e6701f4c4a16e3d270a821648e7de8d7b32ee0cd"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 24,
+          "path": "data/nobilia/2026/pages/08/024.txt",
+          "characters": 4618,
+          "needs_visual_review": false,
+          "sha256": "2b1438b31bd54b76fb06d53fd9d1889306265c8735952323b65ace2cf876abed"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 25,
+          "path": "data/nobilia/2026/pages/08/025.txt",
+          "characters": 7503,
+          "needs_visual_review": false,
+          "sha256": "ffe932b4d1a0df2012a89671e6d8d830d034cbec3c84d279570903e832a13c5e"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 26,
+          "path": "data/nobilia/2026/pages/08/026.txt",
+          "characters": 9085,
+          "needs_visual_review": false,
+          "sha256": "3a46b6d87b4bd1fff8853dd8e85947817461c42235432e5b176e900fc611a269"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 27,
+          "path": "data/nobilia/2026/pages/08/027.txt",
+          "characters": 8019,
+          "needs_visual_review": false,
+          "sha256": "cdc3b773d02963a5be04873f4c32a7aa0fc3732fb0db57080363c0eacb97486f"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 28,
+          "path": "data/nobilia/2026/pages/08/028.txt",
+          "characters": 11143,
+          "needs_visual_review": false,
+          "sha256": "cb9c9db6c2fd93044862b8361713081a013b39893d7f4cc863921d4c7a0cdb8d"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 29,
+          "path": "data/nobilia/2026/pages/08/029.txt",
+          "characters": 4234,
+          "needs_visual_review": false,
+          "sha256": "85cbf775938600ad0cb7bf124f47684d1b89b16ff459addf4e4ee3403ecf3ad2"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 30,
+          "path": "data/nobilia/2026/pages/08/030.txt",
+          "characters": 10202,
+          "needs_visual_review": false,
+          "sha256": "0d1f4db165b272956f040f2367dba023a8f9f68e7a076d992107a1ee3c6ae349"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 31,
+          "path": "data/nobilia/2026/pages/08/031.txt",
+          "characters": 8741,
+          "needs_visual_review": false,
+          "sha256": "e9c8b1200188ffa6618a6e635acac9cc46825e2eb430058e07313e5345aaf130"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 32,
+          "path": "data/nobilia/2026/pages/08/032.txt",
+          "characters": 9263,
+          "needs_visual_review": false,
+          "sha256": "5169dab0bf4af9d7aaa601d84c7771cfa07ae984f69cfafcc4309b056b60d00b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 33,
+          "path": "data/nobilia/2026/pages/08/033.txt",
+          "characters": 9475,
+          "needs_visual_review": false,
+          "sha256": "a334310d54ebf562ffc38d416d7cae77839d45f387a82fa718d998c707054852"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 34,
+          "path": "data/nobilia/2026/pages/08/034.txt",
+          "characters": 9567,
+          "needs_visual_review": false,
+          "sha256": "953d05f815e2bc10a2799a6eddea5d7bf30133cf17e9b9e937ca5b40d9c3cc9e"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 35,
+          "path": "data/nobilia/2026/pages/08/035.txt",
+          "characters": 2948,
+          "needs_visual_review": false,
+          "sha256": "868d1a73791650638fdd077a831dd140ac67121379b7f4875f4a716b9328e01d"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 36,
+          "path": "data/nobilia/2026/pages/08/036.txt",
+          "characters": 7538,
+          "needs_visual_review": false,
+          "sha256": "850006943a7842cca19af0ccc32afa9c638e57816e519e8fd2fed77e47df3107"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 37,
+          "path": "data/nobilia/2026/pages/08/037.txt",
+          "characters": 1626,
+          "needs_visual_review": false,
+          "sha256": "80fbcc31ab54d1bfa75e70c2e0ab2a13083f6a5d986fceb77838fa9e3fecb832"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 38,
+          "path": "data/nobilia/2026/pages/08/038.txt",
+          "characters": 6608,
+          "needs_visual_review": false,
+          "sha256": "44ec6a449987a6e1650cf99d37ceb6514d946e8a8fe932c02116a98531e5f9b9"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 39,
+          "path": "data/nobilia/2026/pages/08/039.txt",
+          "characters": 3336,
+          "needs_visual_review": false,
+          "sha256": "ccffd74e0ee82efce4e01b2b157a69d2b90a70a47ca67020154d9b98db7570d8"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 40,
+          "path": "data/nobilia/2026/pages/08/040.txt",
+          "characters": 10183,
+          "needs_visual_review": false,
+          "sha256": "660f88f02bbebb0fbdab7e9a79b5abc8dcfb5b9fec418f234e57a5776611a93b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 41,
+          "path": "data/nobilia/2026/pages/08/041.txt",
+          "characters": 4431,
+          "needs_visual_review": false,
+          "sha256": "9e4db6a08a9ca7168ad6fe0b91417733afb5675578272aeff8af803e3ef0dfc6"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 42,
+          "path": "data/nobilia/2026/pages/08/042.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 43,
+          "path": "data/nobilia/2026/pages/08/043.txt",
+          "characters": 587,
+          "needs_visual_review": false,
+          "sha256": "818e0fc0412f78c5cab8378dea790ec8aaf4fe986eae3fdf6b143635056db1bc"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 44,
+          "path": "data/nobilia/2026/pages/08/044.txt",
+          "characters": 5412,
+          "needs_visual_review": false,
+          "sha256": "9e97ecb0ae7f0b78b92eb99a19c4b8ff982ef9b87a69bc8c59b66a0a384bfce1"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 45,
+          "path": "data/nobilia/2026/pages/08/045.txt",
+          "characters": 11020,
+          "needs_visual_review": false,
+          "sha256": "36d73f22e1f3fd62c06020be8ae8bc4236f262ecb10aa1513a44f2fc1cda2b39"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 46,
+          "path": "data/nobilia/2026/pages/08/046.txt",
+          "characters": 11476,
+          "needs_visual_review": false,
+          "sha256": "3741d5828b3ecc14e2fa546f9748dc287dc57d488599a9c3b21d1ecf5957c168"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 47,
+          "path": "data/nobilia/2026/pages/08/047.txt",
+          "characters": 4599,
+          "needs_visual_review": false,
+          "sha256": "d6868b4af3b278a0c07725c95a0f8c62b611d6f8c87594eaedb0d16638503a2a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 48,
+          "path": "data/nobilia/2026/pages/08/048.txt",
+          "characters": 4768,
+          "needs_visual_review": false,
+          "sha256": "0706e4438d1d97cfb2f350c956e88dafc4536589740ed2de2ea35d7a5d257f18"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 49,
+          "path": "data/nobilia/2026/pages/08/049.txt",
+          "characters": 7518,
+          "needs_visual_review": false,
+          "sha256": "6718151b1d7d750f84b4f332b6a4f5df17c3bbdeee1c989356ef051579ab1c70"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 50,
+          "path": "data/nobilia/2026/pages/08/050.txt",
+          "characters": 8367,
+          "needs_visual_review": false,
+          "sha256": "83f6bd2eabbdd9fe4c1f03c20ab85b189d81740c23d4fd59326a0e04aa3aa2ce"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 51,
+          "path": "data/nobilia/2026/pages/08/051.txt",
+          "characters": 9017,
+          "needs_visual_review": false,
+          "sha256": "edc20365a6bd020277ef0bc4b90bcfee204e247065f440131ae9144753f889d4"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 52,
+          "path": "data/nobilia/2026/pages/08/052.txt",
+          "characters": 11469,
+          "needs_visual_review": false,
+          "sha256": "d56724039d8953cea38065d1c5953365c321c7f566b26967571152b1c23ab48b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 53,
+          "path": "data/nobilia/2026/pages/08/053.txt",
+          "characters": 4394,
+          "needs_visual_review": false,
+          "sha256": "35b2122a7f940a3bc1c6073d33b3c0f5b5403fd871d612d9a66fd9c128c6cb5b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 54,
+          "path": "data/nobilia/2026/pages/08/054.txt",
+          "characters": 10314,
+          "needs_visual_review": false,
+          "sha256": "e6b31c53ac857999d978c97a51f8ba9a3cd73b20e88a4ff1d7b1a4044345916f"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 55,
+          "path": "data/nobilia/2026/pages/08/055.txt",
+          "characters": 9012,
+          "needs_visual_review": false,
+          "sha256": "eb365da3206506591df845f09ab7591feeb26ef1bbd14a458b8b5bc800a51c25"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 56,
+          "path": "data/nobilia/2026/pages/08/056.txt",
+          "characters": 9777,
+          "needs_visual_review": false,
+          "sha256": "ae6cb0c85575f197501414dc65094e613ea961c19404ebd32e4c5c6373faa67e"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 57,
+          "path": "data/nobilia/2026/pages/08/057.txt",
+          "characters": 9697,
+          "needs_visual_review": false,
+          "sha256": "5439373d721b11efc05177b58caf6db60e58982b9d8047dc4bffee255644a91b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 58,
+          "path": "data/nobilia/2026/pages/08/058.txt",
+          "characters": 9282,
+          "needs_visual_review": false,
+          "sha256": "bb89f6b62bf2d01ffcf0d923b9c9c3ca5ae6296ae7c1a96e8e8c8ddbb92c5632"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 59,
+          "path": "data/nobilia/2026/pages/08/059.txt",
+          "characters": 6788,
+          "needs_visual_review": false,
+          "sha256": "2d70b99eb82765baf0f9fcc740ccc19b725dce3d30d3f14670f0ff666df2ec67"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 60,
+          "path": "data/nobilia/2026/pages/08/060.txt",
+          "characters": 2714,
+          "needs_visual_review": false,
+          "sha256": "d8dc9108451ad34b1509c9ef6494163ddc420a983890ec44243c28266d6bd3f7"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 61,
+          "path": "data/nobilia/2026/pages/08/061.txt",
+          "characters": 6574,
+          "needs_visual_review": false,
+          "sha256": "04e3c93d8d5f26ccd6d8e5efeaa9e9768db5d3d6030a63519980297afde6e9cc"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 62,
+          "path": "data/nobilia/2026/pages/08/062.txt",
+          "characters": 3353,
+          "needs_visual_review": false,
+          "sha256": "d6a73dd2cc8c7dc488b30cf533d067b52331638a0572ccd471418cbbdb580e94"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 63,
+          "path": "data/nobilia/2026/pages/08/063.txt",
+          "characters": 8173,
+          "needs_visual_review": false,
+          "sha256": "75b233dae3acba14a34473366664a6f22d88755f64334fad04e7f60d36fc39a0"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 64,
+          "path": "data/nobilia/2026/pages/08/064.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 65,
+          "path": "data/nobilia/2026/pages/08/065.txt",
+          "characters": 1114,
+          "needs_visual_review": false,
+          "sha256": "15f4c3c6b5524a49866b9211ddfc84ee28692c6a9f2024f28803ea66f101230b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 66,
+          "path": "data/nobilia/2026/pages/08/066.txt",
+          "characters": 5774,
+          "needs_visual_review": false,
+          "sha256": "19041125858af5fdd1716a52fb05b7f55ba8cac34e7b45af0fed59eea4186c49"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 67,
+          "path": "data/nobilia/2026/pages/08/067.txt",
+          "characters": 5539,
+          "needs_visual_review": false,
+          "sha256": "57522a93a96a332bed6fc56f32138b9cb53e2f88d00b318f034dcd208271ad7a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 68,
+          "path": "data/nobilia/2026/pages/08/068.txt",
+          "characters": 4889,
+          "needs_visual_review": false,
+          "sha256": "a9c4943c460dbc90d54375e2e71af00d8dc2ca79544774251651c35b1afe583c"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 69,
+          "path": "data/nobilia/2026/pages/08/069.txt",
+          "characters": 3097,
+          "needs_visual_review": false,
+          "sha256": "c2852ff29ac3b5a373e786024145005ceb15e5b591eda04bb133dee85613e261"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 70,
+          "path": "data/nobilia/2026/pages/08/070.txt",
+          "characters": 4193,
+          "needs_visual_review": false,
+          "sha256": "2318b76735c09eb16419c36b543ebcb04de741b149aab31b124df9c6c9d3f20a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 71,
+          "path": "data/nobilia/2026/pages/08/071.txt",
+          "characters": 5763,
+          "needs_visual_review": false,
+          "sha256": "5a41c98b767d505184c66d588d5d71237d7ec1b15e01397b8497efd5cfe127fd"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 72,
+          "path": "data/nobilia/2026/pages/08/072.txt",
+          "characters": 3487,
+          "needs_visual_review": false,
+          "sha256": "f14ce9a1d6608dab7684fb8e411e9e83cf598406d88f003e25b0e35c5c7b72fb"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 73,
+          "path": "data/nobilia/2026/pages/08/073.txt",
+          "characters": 4111,
+          "needs_visual_review": false,
+          "sha256": "6c8209ee29d5b8bebce4d1375bdd995c82d6fb7bf55eaf72ae9d23e4478897f1"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 74,
+          "path": "data/nobilia/2026/pages/08/074.txt",
+          "characters": 5716,
+          "needs_visual_review": false,
+          "sha256": "c42fee33e1960b27380b611b645189555fd8555c06771f0eab7e1d811b35c5a8"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 75,
+          "path": "data/nobilia/2026/pages/08/075.txt",
+          "characters": 5015,
+          "needs_visual_review": false,
+          "sha256": "397e4fb031d63cf7d510b8c04f1a9ca7f97479078f7fdfd28ee01c00dc32b186"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 76,
+          "path": "data/nobilia/2026/pages/08/076.txt",
+          "characters": 4250,
+          "needs_visual_review": false,
+          "sha256": "bbb7adb5e5ce62ee59d8a1e7bd41bffe7e0912f8410314c192bc5931a424f17b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 77,
+          "path": "data/nobilia/2026/pages/08/077.txt",
+          "characters": 4172,
+          "needs_visual_review": false,
+          "sha256": "bffe4e940da4abbaeeabb5c15acc34d152d5941ef61b2add83eb8b324fa2c75d"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 78,
+          "path": "data/nobilia/2026/pages/08/078.txt",
+          "characters": 5726,
+          "needs_visual_review": false,
+          "sha256": "26faf1e6f103834aa157d07daeb811517aaa198713ca2790c8653383fa15d408"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 79,
+          "path": "data/nobilia/2026/pages/08/079.txt",
+          "characters": 3651,
+          "needs_visual_review": false,
+          "sha256": "b12427e30f9a475e809919ad84ee455f2125505b3eb00393392985e6dbdecfc2"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 80,
+          "path": "data/nobilia/2026/pages/08/080.txt",
+          "characters": 4204,
+          "needs_visual_review": false,
+          "sha256": "b080f53510c16d6b70cf5ad75cb4a706545aecebb11e1ebcee76925633f7decd"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 81,
+          "path": "data/nobilia/2026/pages/08/081.txt",
+          "characters": 6051,
+          "needs_visual_review": false,
+          "sha256": "83978bdef81a25fd3da50de1461039e6272dd2438e23e857f3b2dfbfaa25c54a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 82,
+          "path": "data/nobilia/2026/pages/08/082.txt",
+          "characters": 5106,
+          "needs_visual_review": false,
+          "sha256": "8a91fdcbf707f049d7d6b19122adbb8add8a99b094ef8118565fb25f0b8c5cd8"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 83,
+          "path": "data/nobilia/2026/pages/08/083.txt",
+          "characters": 4948,
+          "needs_visual_review": false,
+          "sha256": "59363294520e1e69f999944b4511a2b8af238fcbd3d4399c9078a6e60a5cbf7c"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 84,
+          "path": "data/nobilia/2026/pages/08/084.txt",
+          "characters": 4418,
+          "needs_visual_review": false,
+          "sha256": "ed6177371e94a55300ddb6c90514757d802159475e6c062d05295d1ca15d9532"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 85,
+          "path": "data/nobilia/2026/pages/08/085.txt",
+          "characters": 4343,
+          "needs_visual_review": false,
+          "sha256": "dd53993f50fb08cccc95f7d86e1ebccb7a0ff679333b76cbbd5add9001f0032e"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 86,
+          "path": "data/nobilia/2026/pages/08/086.txt",
+          "characters": 6081,
+          "needs_visual_review": false,
+          "sha256": "392ead47530101ff98ba3ef177480d1f12cd3aca1f9269589032e22e6587f938"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 87,
+          "path": "data/nobilia/2026/pages/08/087.txt",
+          "characters": 4760,
+          "needs_visual_review": false,
+          "sha256": "309ccebd93ef64ebb5bb0b827ef1432e15b102748e12918e58fe132c61aa58c2"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 88,
+          "path": "data/nobilia/2026/pages/08/088.txt",
+          "characters": 5108,
+          "needs_visual_review": false,
+          "sha256": "cc253a8f966eafb3067c45dbd4ee72bb96af6394d7bbc7bae7a18c0869c78580"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 89,
+          "path": "data/nobilia/2026/pages/08/089.txt",
+          "characters": 4516,
+          "needs_visual_review": false,
+          "sha256": "2ba56d80e10670ea5949a4f98ef6fe9cb273f3640f270cf3485c68bc4e5dd020"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 90,
+          "path": "data/nobilia/2026/pages/08/090.txt",
+          "characters": 6050,
+          "needs_visual_review": false,
+          "sha256": "43cec2bfcf7b76e35aff29b9285e9fb49652094b1505643a9ef20356160b1ea7"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 91,
+          "path": "data/nobilia/2026/pages/08/091.txt",
+          "characters": 5986,
+          "needs_visual_review": false,
+          "sha256": "b9603c89c9a3eca340c1e7fa49320d33f21cd1fc69c36cd56f39d64028e793fb"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 92,
+          "path": "data/nobilia/2026/pages/08/092.txt",
+          "characters": 4469,
+          "needs_visual_review": false,
+          "sha256": "e4402ab6398f5fe41d188f52afbff89761a15271cbcf6aa7b50008a84a31fe33"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 93,
+          "path": "data/nobilia/2026/pages/08/093.txt",
+          "characters": 4993,
+          "needs_visual_review": false,
+          "sha256": "046b8c798f2030aea498b1f4a4a7fa6c6521c89793f83eef2a730c37435cd375"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 94,
+          "path": "data/nobilia/2026/pages/08/094.txt",
+          "characters": 4382,
+          "needs_visual_review": false,
+          "sha256": "9fadf1b1a025aa66756aa00cb3abc9600de4635a0b9994e91bbe10b4360570e3"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 95,
+          "path": "data/nobilia/2026/pages/08/095.txt",
+          "characters": 5543,
+          "needs_visual_review": false,
+          "sha256": "590f80d152c7eea6f2f6bfe6fdbee86bf3f0b1a2ebc92b5353988c97b484591e"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 96,
+          "path": "data/nobilia/2026/pages/08/096.txt",
+          "characters": 5990,
+          "needs_visual_review": false,
+          "sha256": "d4898c5569d044370b2bc6e307c86c0f1a60810da4367e5c0f1d4805bf22aff6"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 97,
+          "path": "data/nobilia/2026/pages/08/097.txt",
+          "characters": 4704,
+          "needs_visual_review": false,
+          "sha256": "279cd97777361e75ebe9fad440bfadab324a033a8cc5cb8fbfcb83e1ab459431"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 98,
+          "path": "data/nobilia/2026/pages/08/098.txt",
+          "characters": 5065,
+          "needs_visual_review": false,
+          "sha256": "18b0eea85819243974594194ecbc3a95b8ae1c1b45a6e5dc5b182033614a2510"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 99,
+          "path": "data/nobilia/2026/pages/08/099.txt",
+          "characters": 4473,
+          "needs_visual_review": false,
+          "sha256": "1b777eeffd80d513dc5cab49b9d6c950dbc13c97c1a4d7c480bdac556a0b3736"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 100,
+          "path": "data/nobilia/2026/pages/08/100.txt",
+          "characters": 5999,
+          "needs_visual_review": false,
+          "sha256": "c278ca9b832831d4eab9784635d6fd558ca7b85b51bd4e4ebe77534fade23ec5"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 101,
+          "path": "data/nobilia/2026/pages/08/101.txt",
+          "characters": 5997,
+          "needs_visual_review": false,
+          "sha256": "529366d1dc1797b9e7478d07590fe2a43dbb55aabb9aafc2e3878e92bb43301f"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 102,
+          "path": "data/nobilia/2026/pages/08/102.txt",
+          "characters": 4469,
+          "needs_visual_review": false,
+          "sha256": "bda2e978193ff125f7d4d3ec14577a72cc438f2914076e66a79b2c2a2a05592b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 103,
+          "path": "data/nobilia/2026/pages/08/103.txt",
+          "characters": 4996,
+          "needs_visual_review": false,
+          "sha256": "bf7f4e35295957474ba31896203653fb845733659886584e21b276d3960aee62"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 104,
+          "path": "data/nobilia/2026/pages/08/104.txt",
+          "characters": 4587,
+          "needs_visual_review": false,
+          "sha256": "dfc84aca748b0f2f8555994ce09bec6f5199da9a1e4f5c62fe5499e2099ef97a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 105,
+          "path": "data/nobilia/2026/pages/08/105.txt",
+          "characters": 5543,
+          "needs_visual_review": false,
+          "sha256": "d894725cd526e1348fdfec5df2a34fdac3d3ff6c2edb5382f19235b1f90f94e8"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 106,
+          "path": "data/nobilia/2026/pages/08/106.txt",
+          "characters": 5991,
+          "needs_visual_review": false,
+          "sha256": "869b56efaadb70d7854a384214efd16e8c924b4105b30a9b2493a92352f74c43"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 107,
+          "path": "data/nobilia/2026/pages/08/107.txt",
+          "characters": 4704,
+          "needs_visual_review": false,
+          "sha256": "52cb85aeee4ff470952adb691b090cf8999030be7567e4aab936ea1987e6bf5a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 108,
+          "path": "data/nobilia/2026/pages/08/108.txt",
+          "characters": 5009,
+          "needs_visual_review": false,
+          "sha256": "11d9e9a633f9177c49ef2c785623660f0898afa91bd09cc10a33897c928ebb81"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 109,
+          "path": "data/nobilia/2026/pages/08/109.txt",
+          "characters": 4594,
+          "needs_visual_review": false,
+          "sha256": "aa90f6f24bcd5cc1d4752bf48a8a1f14aaa977cc534f5aad998682b782b9ee27"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 110,
+          "path": "data/nobilia/2026/pages/08/110.txt",
+          "characters": 5989,
+          "needs_visual_review": false,
+          "sha256": "8437ac72ea9426e3c6591ccc3ffd7c718550d97c0ecb597fa273ffdd35a90f8a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 111,
+          "path": "data/nobilia/2026/pages/08/111.txt",
+          "characters": 1144,
+          "needs_visual_review": false,
+          "sha256": "0b9ed45f526b64896e1a90a1e88e37e3940c7a71e151a3c3de5a08dd0c9692a1"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 112,
+          "path": "data/nobilia/2026/pages/08/112.txt",
+          "characters": 7967,
+          "needs_visual_review": false,
+          "sha256": "c490d75fc40ae7e9ff273be69bf63bbe59c1593231dff333f5961decb0e4b62a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 113,
+          "path": "data/nobilia/2026/pages/08/113.txt",
+          "characters": 8146,
+          "needs_visual_review": false,
+          "sha256": "9d31e5e2c84ecc6e82a3a56936e353fc50a496c7a54670168a5513bdfb6632c4"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 114,
+          "path": "data/nobilia/2026/pages/08/114.txt",
+          "characters": 7325,
+          "needs_visual_review": false,
+          "sha256": "7eb8c01229d00b05f792e2efbbf492c7aa2cfd4f48cc38d49b5cf06c3b9bed23"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 115,
+          "path": "data/nobilia/2026/pages/08/115.txt",
+          "characters": 9399,
+          "needs_visual_review": false,
+          "sha256": "791846d5ad9c666796ea76eedefe4fc20468e0cca42f093e624bb5d0e9971996"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 116,
+          "path": "data/nobilia/2026/pages/08/116.txt",
+          "characters": 5677,
+          "needs_visual_review": false,
+          "sha256": "b8c116d18a8a6c98f6480a6506315fdc589f58a86be5af58c74a9a9d6e69742d"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 117,
+          "path": "data/nobilia/2026/pages/08/117.txt",
+          "characters": 2579,
+          "needs_visual_review": false,
+          "sha256": "a662b2d2c974e7c8ac4f8dc422ad18d4f7bc4d1677c235b059af6d05aff6e005"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 118,
+          "path": "data/nobilia/2026/pages/08/118.txt",
+          "characters": 8320,
+          "needs_visual_review": false,
+          "sha256": "fd5ef47696d4cf463ebdd48291ff308b0426b51af45e60df697b0af5829e0100"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 119,
+          "path": "data/nobilia/2026/pages/08/119.txt",
+          "characters": 7481,
+          "needs_visual_review": false,
+          "sha256": "b3d2279d244377c7ece04312e55d1e040a073fddc418fc7fcd89677d5ce5cc02"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 120,
+          "path": "data/nobilia/2026/pages/08/120.txt",
+          "characters": 9638,
+          "needs_visual_review": false,
+          "sha256": "7364e2554cd73d28b30e1102bbf45c3ac9c9f1ebccaaddbe7ce83d817b762850"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 121,
+          "path": "data/nobilia/2026/pages/08/121.txt",
+          "characters": 5255,
+          "needs_visual_review": false,
+          "sha256": "d7a85ca45880abc01a1226cdb265c28cafe2d2806be4429d54e7bd2696a29d62"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 122,
+          "path": "data/nobilia/2026/pages/08/122.txt",
+          "characters": 2736,
+          "needs_visual_review": false,
+          "sha256": "a20151ff766fa77e8a10865536fcfe66250d22959075aa12c042ed22e2466d28"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 123,
+          "path": "data/nobilia/2026/pages/08/123.txt",
+          "characters": 8760,
+          "needs_visual_review": false,
+          "sha256": "ea934a618c7bed973e5d44c56bc5710423b2f90a6ec864f80aeb34885682e4b9"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 124,
+          "path": "data/nobilia/2026/pages/08/124.txt",
+          "characters": 7521,
+          "needs_visual_review": false,
+          "sha256": "0076cf9a3d1c299ff68e93b1c0be36f7f9ce0597966a124cdbf37acaca96e474"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 125,
+          "path": "data/nobilia/2026/pages/08/125.txt",
+          "characters": 8564,
+          "needs_visual_review": false,
+          "sha256": "a8cfc1ac5059e9c306047842194270c36c2953440a2891d30c3857cc857a98e8"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 126,
+          "path": "data/nobilia/2026/pages/08/126.txt",
+          "characters": 9740,
+          "needs_visual_review": false,
+          "sha256": "862af5b6ff30305cd3dcb3b7d3b91af716e2523585e1c32b6d4e496d4dd6a735"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 127,
+          "path": "data/nobilia/2026/pages/08/127.txt",
+          "characters": 10879,
+          "needs_visual_review": false,
+          "sha256": "15a90ee519bc9f38c18c2e56b67d6ab61c77b20220f763789f685c2396793dd6"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 128,
+          "path": "data/nobilia/2026/pages/08/128.txt",
+          "characters": 4189,
+          "needs_visual_review": false,
+          "sha256": "fb07e995494bae2c6275409a16a664edf885147520bbf045baca354955953276"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 129,
+          "path": "data/nobilia/2026/pages/08/129.txt",
+          "characters": 6125,
+          "needs_visual_review": false,
+          "sha256": "ada35cd9279f634eed108b5a3ef72c361f3fccb8fbf8e1b4ce7db22a821249ad"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 130,
+          "path": "data/nobilia/2026/pages/08/130.txt",
+          "characters": 5386,
+          "needs_visual_review": false,
+          "sha256": "5051ac5355035ad9e6fe0da6024371eba67673939ad8f1ea4d76681824e98160"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 131,
+          "path": "data/nobilia/2026/pages/08/131.txt",
+          "characters": 3931,
+          "needs_visual_review": false,
+          "sha256": "8eb9782c5b3da488d63facb8c16d723952884d6a14aa6a80d3c69005ff93a0ac"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 132,
+          "path": "data/nobilia/2026/pages/08/132.txt",
+          "characters": 4620,
+          "needs_visual_review": false,
+          "sha256": "5fa85f44b0b70f90d9f63537351b4428d539790eaa24c197afeb4b7e7549dcc4"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 133,
+          "path": "data/nobilia/2026/pages/08/133.txt",
+          "characters": 8882,
+          "needs_visual_review": false,
+          "sha256": "52016f3ab8c804ed3a2a7f6b901d5851a4d78e677eaa494b83c57ee002b377e7"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 134,
+          "path": "data/nobilia/2026/pages/08/134.txt",
+          "characters": 7666,
+          "needs_visual_review": false,
+          "sha256": "3a2157352c0d47879ab2a26cf7db7aa8cc65a1d229b6ecabd613f7c633183330"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 135,
+          "path": "data/nobilia/2026/pages/08/135.txt",
+          "characters": 8743,
+          "needs_visual_review": false,
+          "sha256": "92e4430186bc9a7dadce423ce75b9d437517d54410baecdee24a72398d06979c"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 136,
+          "path": "data/nobilia/2026/pages/08/136.txt",
+          "characters": 10013,
+          "needs_visual_review": false,
+          "sha256": "5ae9673ec37a60a388e1d1d88c9481622fdde8104153a2e3c8ee0868d605c09d"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 137,
+          "path": "data/nobilia/2026/pages/08/137.txt",
+          "characters": 11061,
+          "needs_visual_review": false,
+          "sha256": "66b5f860b97477f007cd2012d18b79232a2fb4f9c1eda218676666dce2b6c1cf"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 138,
+          "path": "data/nobilia/2026/pages/08/138.txt",
+          "characters": 6244,
+          "needs_visual_review": false,
+          "sha256": "01ef502303b2d3f82b37b480e3f2329ff7003b4d58ec0f9f2204457a0b018bdc"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 139,
+          "path": "data/nobilia/2026/pages/08/139.txt",
+          "characters": 7077,
+          "needs_visual_review": false,
+          "sha256": "e96cbaecc37479e7188b694a253f38a94e3090a18cd5c651f8558282f77931b1"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 140,
+          "path": "data/nobilia/2026/pages/08/140.txt",
+          "characters": 3999,
+          "needs_visual_review": false,
+          "sha256": "28980d802d8a699d348426e58cde4cd769f64a9ce78ec07cb8dbc66307e112d5"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 141,
+          "path": "data/nobilia/2026/pages/08/141.txt",
+          "characters": 6541,
+          "needs_visual_review": false,
+          "sha256": "7d57b130a5ab7afc76d021acf0a8cc4779c24900702465c53c50fb7136862dd8"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 142,
+          "path": "data/nobilia/2026/pages/08/142.txt",
+          "characters": 8661,
+          "needs_visual_review": false,
+          "sha256": "4b355f94d4d74e660d11fc2d5fdb57392d18fdc60bf9e568b6f40e8769f26cf1"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 143,
+          "path": "data/nobilia/2026/pages/08/143.txt",
+          "characters": 7564,
+          "needs_visual_review": false,
+          "sha256": "6eacf76f42481429ef5824b7b528dd280355f6460feda2791e1d1d721b9b6e30"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 144,
+          "path": "data/nobilia/2026/pages/08/144.txt",
+          "characters": 8601,
+          "needs_visual_review": false,
+          "sha256": "6d2a5b0433a7a349f5a3bc131c5e6b858e0bd8c3f62381d570eac13925f155ba"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 145,
+          "path": "data/nobilia/2026/pages/08/145.txt",
+          "characters": 9644,
+          "needs_visual_review": false,
+          "sha256": "44fb6689d3f5363e0be59b3343c16a2afe39a8fed4d664ca8aa76cb701387f70"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 146,
+          "path": "data/nobilia/2026/pages/08/146.txt",
+          "characters": 10725,
+          "needs_visual_review": false,
+          "sha256": "59f81a5a8b02a01b761502eacb1eeee6a11fb75341664c862fd92944a81ae400"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 147,
+          "path": "data/nobilia/2026/pages/08/147.txt",
+          "characters": 6134,
+          "needs_visual_review": false,
+          "sha256": "bb91bffe52f78050132c1a907f9a4c404e37dfe5023914b966a0e575028e407a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 148,
+          "path": "data/nobilia/2026/pages/08/148.txt",
+          "characters": 6732,
+          "needs_visual_review": false,
+          "sha256": "be6aa0cec036e73f3a50059857c8c5dcc4f42b2dbb67ba86f80c3fa0a6ec4197"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 149,
+          "path": "data/nobilia/2026/pages/08/149.txt",
+          "characters": 4321,
+          "needs_visual_review": false,
+          "sha256": "4f3bbc70bba0f1190474832c01a1d3b33ebcd2ceb24a50356a1362e65463177d"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 150,
+          "path": "data/nobilia/2026/pages/08/150.txt",
+          "characters": 6397,
+          "needs_visual_review": false,
+          "sha256": "7cb5a662b447e694e03391608a3c2143c753b0875c60224a2e43a95710dfa36a"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 151,
+          "path": "data/nobilia/2026/pages/08/151.txt",
+          "characters": 8867,
+          "needs_visual_review": false,
+          "sha256": "810d4989a8d4ba1860e1965e18126be93dca327e6289f53636286f0c07e12910"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 152,
+          "path": "data/nobilia/2026/pages/08/152.txt",
+          "characters": 7612,
+          "needs_visual_review": false,
+          "sha256": "e5d53cd4c530c0a326d60e162e2fc2d5518600b44a9672a3aef4707dc771b21d"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 153,
+          "path": "data/nobilia/2026/pages/08/153.txt",
+          "characters": 8682,
+          "needs_visual_review": false,
+          "sha256": "5dd5a9e419d826dd7c8e25ef0ebf1d43a04f3bac8ccd571ceb6bf5a878afd369"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 154,
+          "path": "data/nobilia/2026/pages/08/154.txt",
+          "characters": 9744,
+          "needs_visual_review": false,
+          "sha256": "bd47663c7d184186bcfb4b98d49e73ed4f350db826ab6951fd7ff947ed8fdad3"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 155,
+          "path": "data/nobilia/2026/pages/08/155.txt",
+          "characters": 10824,
+          "needs_visual_review": false,
+          "sha256": "bca6ad37e5e1a7467662a345ffba01128c35c74f87a1119b2ce356c7a4493164"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 156,
+          "path": "data/nobilia/2026/pages/08/156.txt",
+          "characters": 6253,
+          "needs_visual_review": false,
+          "sha256": "e2acb83ede81ea1fb2fb35cace75238e1edd1082801357993409ece1215565ce"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 157,
+          "path": "data/nobilia/2026/pages/08/157.txt",
+          "characters": 6858,
+          "needs_visual_review": false,
+          "sha256": "c1bb832e436b05c7c910df83000fed0b8ad047b4007e98d9a407c6dbd53c77c9"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 158,
+          "path": "data/nobilia/2026/pages/08/158.txt",
+          "characters": 4334,
+          "needs_visual_review": false,
+          "sha256": "8f65627af96795417667e649555b3a8552bc99be79f85d1ff8b3b22e07f5f985"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 159,
+          "path": "data/nobilia/2026/pages/08/159.txt",
+          "characters": 6486,
+          "needs_visual_review": false,
+          "sha256": "c55cb9618626744da542c99316e22b53bb674e238837e3aa920f6e4b45383884"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 160,
+          "path": "data/nobilia/2026/pages/08/160.txt",
+          "characters": 8724,
+          "needs_visual_review": false,
+          "sha256": "e55ade32d835418f7ba1127f113ccf2cff83cbd4f01194704e08466e7a92418b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 161,
+          "path": "data/nobilia/2026/pages/08/161.txt",
+          "characters": 7553,
+          "needs_visual_review": false,
+          "sha256": "6f0b7af56b7868b769aad9db1d93d65d0836139af674d78d15f4318ed60f1b13"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 162,
+          "path": "data/nobilia/2026/pages/08/162.txt",
+          "characters": 8601,
+          "needs_visual_review": false,
+          "sha256": "4c9c6ec3dd4463e07cbf127a62a46beba7c45aeb14d5a20ec75649cfb822ce47"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 163,
+          "path": "data/nobilia/2026/pages/08/163.txt",
+          "characters": 9644,
+          "needs_visual_review": false,
+          "sha256": "3dc734a90f7146b93988d76f637fb02cfdd072f23e2070a172799aeed45cbe87"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 164,
+          "path": "data/nobilia/2026/pages/08/164.txt",
+          "characters": 10764,
+          "needs_visual_review": false,
+          "sha256": "f1a6e33819dacda504850f9201dd76112e64f144b95e7606acf38fc2e315a573"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 165,
+          "path": "data/nobilia/2026/pages/08/165.txt",
+          "characters": 6198,
+          "needs_visual_review": false,
+          "sha256": "a3f70696b78857be58e766e0cf4b4d128fbe310a42dda4b13ffa0e93f59afe21"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 166,
+          "path": "data/nobilia/2026/pages/08/166.txt",
+          "characters": 6256,
+          "needs_visual_review": false,
+          "sha256": "112473c42ea0cb35cc8c2157fc7755a74fd3ffe808fac1bb0c1fd5fc045a56e4"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 167,
+          "path": "data/nobilia/2026/pages/08/167.txt",
+          "characters": 4877,
+          "needs_visual_review": false,
+          "sha256": "ab543513077761407efd794b7994cf99c1531b30bee921d124c36a04678507fd"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 168,
+          "path": "data/nobilia/2026/pages/08/168.txt",
+          "characters": 6387,
+          "needs_visual_review": false,
+          "sha256": "751d43527aadefe59d65070d682d012bd1e3eb05f44f0d18f5d340e487892e80"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 169,
+          "path": "data/nobilia/2026/pages/08/169.txt",
+          "characters": 8990,
+          "needs_visual_review": false,
+          "sha256": "2b04360067800c91ae764ee7d4e1781c612ad01a09ea0e5053925e23d78b9954"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 170,
+          "path": "data/nobilia/2026/pages/08/170.txt",
+          "characters": 6832,
+          "needs_visual_review": false,
+          "sha256": "d38a0d528d9196da05b0c2601d942c3dc5606e5c75b07cb8c611f1d8f261cb08"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 171,
+          "path": "data/nobilia/2026/pages/08/171.txt",
+          "characters": 8597,
+          "needs_visual_review": false,
+          "sha256": "afdd96dfc0e13becd961ba7622f779e31dcaa2fdacd2609348fcf9129dd92fb2"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 172,
+          "path": "data/nobilia/2026/pages/08/172.txt",
+          "characters": 9667,
+          "needs_visual_review": false,
+          "sha256": "e779468c96bab83c5e5d36f3cdf30df95385fe0e98eac604e1aa84ba47abb958"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 173,
+          "path": "data/nobilia/2026/pages/08/173.txt",
+          "characters": 10184,
+          "needs_visual_review": false,
+          "sha256": "d0d1a3a953237b82140e17221d8f17638e1fcbbaf3dc92624ca57e083e174578"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 174,
+          "path": "data/nobilia/2026/pages/08/174.txt",
+          "characters": 6947,
+          "needs_visual_review": false,
+          "sha256": "820ef55a3ec8816171302f03a7325a9258c4e93a91e88ae7094176c56ef1aae6"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 175,
+          "path": "data/nobilia/2026/pages/08/175.txt",
+          "characters": 7340,
+          "needs_visual_review": false,
+          "sha256": "efb526cbd934f3615a95a741735a00196f646cf14428fda96b332e0025b9f6a6"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 176,
+          "path": "data/nobilia/2026/pages/08/176.txt",
+          "characters": 4993,
+          "needs_visual_review": false,
+          "sha256": "b8090ce796b83a99b0636f155e4d9542f10928ed31174b94472abd2f97cf3b68"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 177,
+          "path": "data/nobilia/2026/pages/08/177.txt",
+          "characters": 6486,
+          "needs_visual_review": false,
+          "sha256": "b3d3e6bad02fdd92805c782d37b660dbf32704ddcea2adbd278ff5d75c262094"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 178,
+          "path": "data/nobilia/2026/pages/08/178.txt",
+          "characters": 7273,
+          "needs_visual_review": false,
+          "sha256": "981de85c03e21b7bba2f1fbbb63342822d55ba34b75ee9400054002c5162e107"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 179,
+          "path": "data/nobilia/2026/pages/08/179.txt",
+          "characters": 2417,
+          "needs_visual_review": false,
+          "sha256": "d8cfc1579788a4e327bd2c8eb72838677977c08b03317fc21fa423c4f1c7ae0b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 180,
+          "path": "data/nobilia/2026/pages/08/180.txt",
+          "characters": 497,
+          "needs_visual_review": false,
+          "sha256": "9a9d850929c94428600800075d26e340e3c41ef1b204d2435a72b24566d4815b"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 181,
+          "path": "data/nobilia/2026/pages/08/181.txt",
+          "characters": 6543,
+          "needs_visual_review": false,
+          "sha256": "056c968bd8653a0aed3158e084849624e99303b0c2eedbca8eaa4bd50b9c215f"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 182,
+          "path": "data/nobilia/2026/pages/08/182.txt",
+          "characters": 6409,
+          "needs_visual_review": false,
+          "sha256": "09c5b043bcdf1da560a4d9ada6119de846ef9b141a886d1ee8564fec6998d406"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 183,
+          "path": "data/nobilia/2026/pages/08/183.txt",
+          "characters": 7630,
+          "needs_visual_review": false,
+          "sha256": "cd9d2a1a54118990779fa8f6c844a6462d029befabc6e42482cd188c9b60b532"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 184,
+          "path": "data/nobilia/2026/pages/08/184.txt",
+          "characters": 8956,
+          "needs_visual_review": false,
+          "sha256": "c856e3c9db07ec295e0fec7fde4ce5914bd1bd90dd1fc4e70aacb8108f054f80"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 185,
+          "path": "data/nobilia/2026/pages/08/185.txt",
+          "characters": 8301,
+          "needs_visual_review": false,
+          "sha256": "a547b254c4162f6b3d3f0401def288b643d6bc4c3a959a86f5b6e3c3e7d4ab14"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 186,
+          "path": "data/nobilia/2026/pages/08/186.txt",
+          "characters": 2701,
+          "needs_visual_review": false,
+          "sha256": "d5a584a6b31dc488e45408752b9368d010851a7dca635c6c2b92f5c7e165fccd"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 187,
+          "path": "data/nobilia/2026/pages/08/187.txt",
+          "characters": 8845,
+          "needs_visual_review": false,
+          "sha256": "75ee3304700f4199f721c1bf57f55b0ee42738cedcb71623e8d505976d7327c9"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 188,
+          "path": "data/nobilia/2026/pages/08/188.txt",
+          "characters": 7566,
+          "needs_visual_review": false,
+          "sha256": "5c63994abdb0c831252575d370dabb81f3be3bb070051b7bc57a2115fce78848"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 189,
+          "path": "data/nobilia/2026/pages/08/189.txt",
+          "characters": 7742,
+          "needs_visual_review": false,
+          "sha256": "dde118fb5a0da5a3e5c1ca451f2541b842319d99477bcbc2350837a86eb4cea8"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 190,
+          "path": "data/nobilia/2026/pages/08/190.txt",
+          "characters": 3675,
+          "needs_visual_review": false,
+          "sha256": "7dca525111d6d45b3b3cdce7d9a2b21479c1eb41dd38d2f7776342208d0c6804"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 191,
+          "path": "data/nobilia/2026/pages/08/191.txt",
+          "characters": 3749,
+          "needs_visual_review": false,
+          "sha256": "695a9266178e62ec9f510eb992d79c8e022965cf60b032f4843bbf816240e4f5"
+        },
+        {
+          "manual_chapter": "08",
+          "page": 192,
+          "path": "data/nobilia/2026/pages/08/192.txt",
+          "characters": 0,
+          "needs_visual_review": true,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ]
+    },
+    {
+      "source_parts": [],
       "chapter": "09",
       "title_zh": "厨房以外空间（文件后部含第10章）",
       "filename": "09_More_than_kitchen.pdf",
@@ -5937,5 +8938,5 @@
       ]
     }
   ],
-  "total_pages": 730
+  "total_pages": 1096
 }

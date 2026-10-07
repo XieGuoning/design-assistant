@@ -1,0 +1,92 @@
+Base units for handle-less kitchen                                     Abbreviation                     Points
+                                                                                                                               Price groups
+LINE N / LINE ONE
+
+
+                                                                                                         1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                              Width in cm
+
+
+
+
+                                                                                            Order-no.
+Side depth: 561 mm
+Carcase height: 720 mm
+Plinth height 20, 70, 100, 150 or 200 mm
+
+                                                                         Base units
+                           Base unit                              NU           30           50003        377    397 428 456 467 480                 —      —   —     —
+                           1 door,                                NU           40           50004        434    453 482 520 537 556                 —      —   —     —
+                           1 shelf
+                                                                  NU           45           50065        451    477 511 555 572 588                 —      —   —     —
+                                                                  NU            50          50010        489    508 531 591 612 631                 —      —   —     —
+                                                                  NU            60          50030        534    553 591 656 682 708                 —      —   —     —
+                           Base unit                              NU           80           51063        733    777 838 915 946 978                 —      —   —     —
+                           2 doors,                               NU           90           51076        800    832 892 991 1.025 1.059             —      —   —     —
+                           1 shelf
+                                                                  NU           100          51070        842    885 948 1.057 1.095 1.133           —      —   —     —
+                                                                  NU           120          51074        950    988 1.063 1.188 1.238 1.286         —      —   —     —
+
+                           End of run base unit Curve             NUAC           45         52030        —      —    8041   8912    —       —       —      —   —     —
+                           1 door,                                NUAC           60         52031        —      —    9231   9752    —       —       —      —   —     —
+                           1 shelf,                                                                                      1) ­Only ­Senso 357 2) ­Only ­Easytouch 945
+                           stop side = closed front end
+                                                                                                        Please indicate LH or RH hinge!
+                                                                                                        Height and width reductions are not permitted!
+                           Pull-out unit                          NU2SA        30           52581       1.091 1.150 1.156 1.184 1.215 1.245         —      —   —     —
+                           2 drawers,                             NU2SA        40           52582       1.155 1.215 1.228 1.270 1.298 1.327         —      —   —     —
+                           1 pull-out
+                                                                  NU2SA        45           52583       1.186 1.247 1.270 1.310 1.339 1.367         —      —   —     —
+                                                                  NU2SA        50           52585       1.212 1.279 1.295 1.349 1.365 1.383         —      —   —     —
+                                                                  NU2SA        60           52586       1.275 1.346 1.375 1.434 1.457 1.483         —      —   —     —
+                                                                  NU2SA        80           52588       1.549 1.641 1.691 1.775 1.796 1.815         —      —   —     —
+                                                                  NU2SA        90           52589       1.638 1.724 1.770 1.898 1.917 1.937         —      —   —     —
+                                                                  NU2SA        100          52590       1.734 1.829 1.883 2.005 2.038 2.073         —      —   —     —
+                                                                  NU2SA        120          52592       1.917 2.013 2.072 2.221 2.260 2.298         —      —   —     —
+                           Pull-out unit                          LU2SA        30           52500       1.372 1.432 1.440 1.467 1.499 1.530         —      —   —     —
+                           1 drawer,                              LU2SA        40           52501       1.426 1.486 1.499 1.543 1.571 1.600         —      —   —     —
+                           1 drawer with opening support
+                                                                  LU2SA        45           52502       1.450 1.513 1.536 1.578 1.607 1.637         —      —   —     —
+                           mechanism,
+                           1 pull-out with opening support        LU2SA        50           52503       1.472 1.537 1.556 1.612 1.629 1.645         —      —   —     —
+                           mechanism,                             LU2SA        60           52504       1.521 1.594 1.625 1.685 1.710 1.736         —      —   —     —
+                                                                  LU2SA        80           52505       1.774 1.866 1.918 2.006 2.026 2.047         —      —   —     —
+                                                                  LU2SA        90           52506       1.851 1.939 1.987 2.117 2.137 2.161         —      —   —     —
+                                                                  LU2SA        100          52507       1.937 2.032 2.091 2.212 2.248 2.286         —      —   —     —
+                                                                  LU2SA        120          52508       2.095 2.193 2.257 2.408 2.450 2.491         —      —   —     —
+                           End of run pull-out unit Curve         NU2SAAC      45           52027         —     — 1.7241 1.7752 —       —           —      —   —     —
+                           2 drawers,                             NU2SAAC      60           52028         —     — 1.9071 1.9352 —       —           —      —   —     —
+                           1 pull-out
+                                                                  NU2SAAC      90           52029         —     — 2.3421 2.4912 —       —           —      —   —     —
+                           stop side = closed front end
+                                                                                                                         1) ­Only ­Senso 357 2) ­Only ­Easytouch 945
+
+                                                                                                        Please indicate LH or RH hinge!
+                                                                                                        Height and width reductions are not permitted!
+                           End of run pull-out unit Curve         LU2SAAC        45         52525        —      — 1.6911 1.7332     —       —       —      —   —     —
+                           1 drawer,                              LU2SAAC        60         52526        —      — 1.8321 1.8762     —       —       —      —   —     —
+                           1 drawer with opening support
+                                                                  LU2SAAC        90         52527        —      — 2.2121 2.3362     —       —       —      —   —     —
+                           mechanism,
+                           1 pull-out with opening support                                                               1) ­Only ­Senso 357 2) ­Only ­Easytouch 945
+                           mechanism,
+                           stop side = closed front end                                                 Please indicate LH or RH hinge!
+                                                                                                        Height and width reductions are not permitted!
+                           Pull-out unit                          NU2A         30           52511        885 943 964 987 997 1.009                  —      —   —     —
+                           2 pull-outs                            NU2A         40           52512        949 1.009 1.029 1.069 1.083 1.099          —      —   —     —
+                                                                  NU2A         45           52513        984 1.045 1.072 1.113 1.130 1.148          —      —   —     —
+                                                                  NU2A         50           52515       1.013 1.077 1.102 1.152 1.172 1.193         —      —   —     —
+                                                                  NU2A         60           52516       1.075 1.143 1.172 1.237 1.260 1.285         —      —   —     —
+                                                                  NU2A         80           52518       1.367 1.453 1.513 1.603 1.626 1.650         —      —   —     —
+                                                                  NU2A         90           52519       1.438 1.530 1.596 1.697 1.721 1.749         —      —   —     —
+                                                                  NU2A         100          52520       1.548 1.645 1.721 1.818 1.859 1.899         —      —   —     —
+                                                                  NU2A         120          52524       1.733 1.829 1.910 2.032 2.078 2.124         —      —   —     —
+
+
+
+
+Typen - EN                                  You will find an explanation of the symbols at the front of the chapter index                                                   M 8.17

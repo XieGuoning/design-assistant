@@ -78,7 +78,7 @@ python tools/query.py --kind product --format 3ds --brief --json
 
 用户询问 nobilia／柏丽／橱柜门板、柜体、台面、LINE N、选型、订货与安装时，先读 `knowledge/nobilia-2026.md`，再用 `python3 tools/nobilia.py search "关键词"` 检索，`python3 tools/nobilia.py page 文件编号 PDF页码` 读原文。原件和页级清单位于 `data/nobilia/2026/`。
 
-- 主索引已入库8份730页；06/08尚不完整。已另存06a（86页）及08b（82页）至 `data/nobilia/2026/split-pending/`，可用rg查逐页文本；06b/08a仍超过32 MiB上限待拆分，交界页尚未核对。不得声称10份已完整学习。以 manifest 的缺失列表及后续补录记录为准。
+- 主索引已收录00–09共10个文件编号、1096页，包含第10章；06/08已从六份上传分片重组入库，缺失列表为空。分片原件与映射位于 `data/nobilia/2026/split-sources/`；查询结果的 `uploaded_source` 提供分片页码。资料入库不代表全部技术组合已人工验证。
 - 第10章包含在第09份PDF的185–245页，246是封底；已有独立61页提取件。不要把文件编号当手册章节。
 - 查询支持中文常见关键词及英文/型号；未命中时用英文同义词和原文检索，不能推断产品不存在。
 - 涉及尺寸、价组、图形、表格关系或安装限制时，读取完整页并渲染原PDF核实。保留完整型号后缀、单位、脚注、区域限制，附文件名和页码。Points不是实际币种价格。

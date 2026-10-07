@@ -21,10 +21,18 @@ class NobiliaRetrievalTests(unittest.TestCase):
   self.assertIn(hits[0]['pdf_page'],[243,244])
   self.assertIn('M 10.', ' '.join(hits[0]['printed_page_candidates']))
 
- def test_missing_chapters_are_not_invented(self):
+ def test_completed_chapters_and_source_mapping(self):
   manifest = n.load()
-  for source in manifest['missing_source_files']:
-   self.assertEqual(n.search('front',source),[])
+  self.assertEqual(manifest['missing_source_files'], [])
+  self.assertEqual(manifest['total_pages'], 1096)
+  for chapter, query in [('06', 'Tall units'), ('08', 'recessed handle')]:
+   hits = n.search(query, chapter)
+   self.assertTrue(hits)
+   for hit in hits:
+    source = hit['uploaded_source']
+    self.assertTrue(source['filename'].startswith(chapter))
+    self.assertGreaterEqual(source['pdf_page'], 1)
+    self.assertTrue((n.DATA/'split-sources'/source['filename']).is_file())
 
  def test_unknown_code_returns_no_hits(self):
   self.assertEqual(n.search('ZZZZNOTAREALMODEL99999'),[])

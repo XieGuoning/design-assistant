@@ -1,0 +1,100 @@
+Wall units 720 mm high                                               Abbreviation                          Points
+                                                                                                                                  Price groups
+for handle-less kitchen LINE N
+
+
+                                                                                                            1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                            Width in cm
+
+
+
+
+                                                                                               Order-no.
+Side depth: 350 mm
+Carcase height: 720 mm
+Wall unit height 1
+
+                                                             Wall units, 720 mm high
+                         Wall unit                              NW           20           -1   64002        334    352   366   393   400   407   —    —    —       —
+                         1 door,                                NW           25           -1   64625        350    368   385   419   426   434   —    —    —       —
+                         2 shelves
+                                                                NW           30           -1   64003        365    381   407   439   451   463   —    —    —       —
+                                                                NW            35          -1   64035        380    397   428   461   475   489   —    —    —       —
+                                                                NW            40          -1   64004        393    416   444   488   502   517   —    —    —       —
+                                                                NW            45          -1   64045        418    432   456   512   527   543   —    —    —       —
+                                                                NW            50          -1   64005        420    439   477   531   553   574   —    —    —       —
+                                                                NW            55          -1   64055        442    456   501   555   574   591   —    —    —       —
+                                                                NW            60          -1   64006        461    477   517   587   612   635   —    —    —       —
+                         Wall unit                              NW2T         60           -1   64062        524    553   609   670   691   712   —    —    —       —
+                         2 doors,                               NW           80           -1   64008        593    628   696   775   806   837   —    —    —       —
+                         2 shelves
+                                                                NW           90           -1   64009        622    656   717   823   861   896   —    —    —       —
+                                                                NW           100          -1   64010        650    692   761   870   911   950   —    —    —       —
+
+                         Wall unit, framed glass door           NWG            45         -1   64104        715    736   777   832   864 895     —    —    —       —
+                         1 door,                                NWG            50         -1   64105        745    762   809   864   899 936     —    —    —       —
+                         clear glass no. 01,
+                                                                NWG            60         -1   64106        799    821   872   942   981 1.022   —    —    —       —
+                         2 glass shelves,
+                         glass variants against surcharge:
+                         no. 02 / 39
+
+                         Wall unit, framed glass doors          NWG          90           -1   64109 1.209 1.240 1.327 1.435 1.504 1.571         —    —    —       —
+                         2 doors,                               NWG          100          -1   64110 1.261 1.301 1.394 1.513 1.586 1.656         —    —    —       —
+                         clear glass no. 01,
+                         2 glass shelves,
+                         glass variants against surcharge:
+                         no. 02 / 39
+
+                         Wall unit, segmented glass door        NWGS           45         -1   64434        477    511   526   555   571   587   —    —    —       —
+                         1 door,                                NWGS           50         -1   64435        498    521   540   578   597   616   —    —    —       —
+                         clear glass no. 01,
+                                                                NWGS           60         -1   64436        546    558   578   631   654   677   —    —    —       —
+                         2 glass shelves,
+                         glass variants against surcharge:
+                         no. 02 / 39
+
+                         Wall unit, segmented glass door        NWGS         90           -1   64440        768    809   841   911   943 977     —    —    —       —
+                         2 doors,                               NWGS         100          -1   64441        806    842   880   952   994 1.035   —    —    —       —
+                         clear glass no. 01,
+                         2 glass shelves,
+                         glass variants against surcharge:
+                         no. 02 / 39
+
+                         Surcharge for different glass          MP-GW                          7900         85     85    85    85    85    85    85   85   85      85
+                         choice for glass variants:
+                         for glass variants:                                                               Surcharge per unit.
+                         no. 02 Matt glass
+                         no. 39 Black glass
+                         no. 23 Ribbed glass (for WGGT*
+                         only, program Frame 419)
+
+                         Wall unit, folding / lifting door      NWFL         50           -1   64345        921 948 975 1.031 1.059 1.086        —    —    —       —
+                         1 folding / lifting door,              NWFL         60           -1   64346        953 977 1.018 1.082 1.113 1.143      —    —    —       —
+                         2 original fronts,
+                                                                NWFL         80           -1   64348       1.050 1.091 1.153 1.259 1.296 1.334   —    —    —       —
+                         2 shelves
+                                                                NWFL         90           -1   64349       1.075 1.124 1.194 1.318 1.356 1.394   —    —    —       —
+                                                                NWFL         100          -1   64350       1.143 1.197 1.282 1.424 1.463 1.502   —    —    —       —
+                                                                NWFL         120          -1   64352       1.250 1.302 1.409 1.587 1.626 1.667   —    —    —       —
+
+                                                                                                           0* mm with OBK-HF 83° / 110 mm with OBK-HF 104°
+                         Wall unit, folding / lifting door      NWFLG        50           -1   64355       1.180 1.207 1.240 1.301 1.318 1.336   —    —    —       —
+                         1 folding / lifting door,              NWFLG        60           -1   64356       1.240 1.259 1.295 1.365 1.388 1.409   —    —    —       —
+                         1 top original front,
+                                                                NWFLG        80           -1   64358       1.375 1.419 1.482 1.590 1.610 1.634   —    —    —       —
+                         1 bottom framed glass front,
+                         clear glass no. 01,                    NWFLG        90           -1   64359       1.429 1.472 1.537 1.667 1.691 1.711   —    —    —       —
+                         2 glass shelves,                       NWFLG        100          -1   64360       1.517 1.568 1.643 1.797 1.819 1.844   —    —    —       —
+                         glass variants against surcharge:      NWFLG        120          -1   64362       1.669 1.724 1.799 2.005 2.028 2.054   —    —    —       —
+                         no. 02 / 39
+                                                                                                           0* mm with OBK-HF 83° / 110 mm with OBK-HF 104°
+
+
+
+
+Typen - EN                                You will find an explanation of the symbols at the front of the chapter index                                                  M 8.173

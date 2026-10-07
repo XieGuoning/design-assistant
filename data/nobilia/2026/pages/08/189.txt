@@ -1,0 +1,91 @@
+Wall units 864 mm high                                                   Abbreviation                         Points
+                                                                                                                                      Price groups
+for handle-less kitchen LINE N
+
+
+                                                                                                               1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                               Width in cm
+
+
+
+
+                                                                                                  Order-no.
+Side depth: 350 mm
+Carcase height: 864 mm
+Wall unit height 3
+
+                                                                 Wall units, 864 mm high
+                         Wall unit                                 NW           20           -3   68002        340    368   402    428 437 445           —      —      —     —
+                         1 door,                                   NW           25           -3   68625        366    387   426    453 466 477           —      —      —     —
+                         2 shelves
+                                                                   NW           30           -3   68003        394    412   438    479 495 511           —      —      —     —
+                                                                   NW            35          -3   68035        409    426   460    508 526 543           —      —      —     —
+                                                                   NW            40          -3   68004        420    439   486    533 553 574           —      —      —     —
+                                                                   NW            45          -3   68045        435    458   505    562 581 603           —      —      —     —
+                                                                   NW            50          -3   68005        461    477   520    590 618 642           —      —      —     —
+                                                                   NW            55          -3   68055        476    501   542    625 650 675           —      —      —     —
+                                                                   NW            60          -3   68006        491    518   558    645 677 708           —      —      —     —
+                         Wall unit                                 NW2T         60           -3   68062        558    606   654    742 771 800           —      —      —     —
+                         2 doors,                                  NW           80           -3   68008        656    698   777    889 926 962           —      —      —     —
+                         2 shelves
+                                                                   NW           90           -3   68009        701    736   815    942 984 1.028         —      —      —     —
+                                                                   NW           100          -3   68010        721    768   850    994 1.044 1.095       —      —      —     —
+
+                         Wall unit, framed glass door              NWG            45         -3   69104        749    771   828 894 926 959              —      —      —     —
+                         1 door,                                   NWG            50         -3   69105        791    810   861 937 974 1.009            —      —      —     —
+                         clear glass no. 01,
+                                                                   NWG            60         -3   69106        844    870   929 1.019 1.066 1.113        —      —      —     —
+                         2 glass shelves,
+                         glass variants against surcharge:
+                         no. 02 / 39
+
+                         Wall unit, framed glass door              NWG          90           -3   68109 1.298 1.337 1.442 1.577 1.644 1.710              —      —      —     —
+                         2 doors,                                  NWG          100          -3   68110 1.361 1.402 1.517 1.661 1.737 1.812              —      —      —     —
+                         clear glass no. 01,
+                         2 glass shelves,
+                         glass variants against surcharge:
+                         no. 02 / 39
+
+                         Wall unit, segmented glass door           NWGS           45         -3   68431        512    530   542    578    594    610     —      —      —     —
+                         1 door,                                   NWGS           50         -3   68432        527    543   564    609    628    647     —      —      —     —
+                         clear glass no. 01,
+                                                                   NWGS           60         -3   68433        569    588   618    657    682    707     —      —      —     —
+                         2 glass shelves,
+                         glass variants against surcharge:
+                         no. 02 / 39
+
+                         Wall unit segmented glass doors           NWGS         90           -3   67440        825    860   892 965 996 1.028            —      —      —     —
+                         2 doors,                                  NWGS         100          -3   67441        867    914   953 1.012 1.051 1.094        —      —      —     —
+                         clear glass no. 01,
+                         2 glass shelves,
+                         Glass variants for a surcharge:
+                         No. 02 / 39
+
+                         Surcharge for different glass             MP-GW                          7900         85     85     85     85     85     85     85     85     85    85
+                         choice for glass variants:
+                         for glass variants:                                                                  Surcharge per unit.
+                         no. 02 Matt glass
+                         no. 39 Black glass
+                         no. 23 Ribbed glass (for WGGT*
+                         only, program Frame 419)
+
+                         Wall unit for microwave                   NWM            50         -3   69567        374    387   426    458    476    495     —      —      —     —
+                         1 niche according to appliance            NWM            60         -3   69568        402    428   450    510    530    552     —      —      —     —
+                         height,
+                         1 door with opening support                                                          Cut to size front possible, door is adjusted to fit appliance height!
+                         mechanism as niche compensation,
+                         1 shelf
+
+                         Corner wall unit                          NWE            65         -3   69165 1.241 1.270 1.320 1.410 1.442 1.473              —      —      —     —
+                         2 doors with 165°-hinges,
+                         2 shelves,                                                                           Do not plan adjacent protruding cooker hoods and tall units!
+                         hinged side = first door to be opened
+
+
+
+
+M 8.178                                   You will find an explanation of the symbols at the front of the chapter index                                                       Typen - EN
