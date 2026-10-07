@@ -1,0 +1,65 @@
+                    Planning and calculation information for sliding doors
+
+          Calculation information      Please take into account that all cabinets and built-in components behind the doors should remain accessible.
+                                       The door arrangement should ensure problem-free accessibility of the entire interior system.
+
+
+
+
+                     Correct: Every compartment is accessible when the door is open.            Inconvenient: The centre compartment is hard to reach.
+
+
+
+
+                                       The overlaps increase the door width by + 26 mm.
+                                       Sealing brushes decrease the available opening width by - 3 mm,
+                                       wall connections decrease it by - 25 mm.
+
+                                       We recommend min. one sliding door brake per door for sliding doors wider than 750 mm.
+                                       Depending on the application (right-hand/left-hand stop), two sliding door brakes may also be helpful.
+
+                                       Max. 1 sliding door brake can be installed for doors with a width below 750 mm.
+                                       In this case, a tilt protection must be installed.
+
+                                       Please specify the number of sliding door brakes per door.
+                                       If the order does not include any information on the closing direction, the system will be installed according to the
+                                       information for the sliding door sets in the catalogue.
+
+
+
+
+       Calculating the door width      Total width
+                                       + number of door overlaps, 26 mm each
+                                       – number of sealing brushes, 3 mm each
+                                       – number of wall connections, 25 mm each
+                                       / number of doors
+
+
+
+Example of door width calculation      Sliding door system with 3000 mm total width and 4 doors:
+                                       3000 mm + 3 x 26 mm – 2 x 3 mm / 4 = 768 mm
+
+
+
+      Calculating the door height      Door height = total height – 45 mm
+
+
+
+       Calculating the total width     (Number of doors
+                                       x door width
+                                       – number of door overlaps, 26 mm each
+                                       + number of sealing brushes, 3 mm each
+                                       + number of wall connections, 25 mm each)
+                                       = total width
+
+
+
+Example of total width calculation     Sliding door system with 4 doors of 800 mm each:
+                                       4 x 800 mm – 3 x 26 mm + 2 x 3 mm = 3128 mm
+
+
+
+
+                                       The calculation notes for sliding doors for mounting in front of wall can be found later in this chapter.
+
+Typen - EN                                                                                                                                              M 9.141

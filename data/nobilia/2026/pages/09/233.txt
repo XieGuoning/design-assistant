@@ -1,0 +1,52 @@
+                          Planning Instructions for Corner Solutions
+                                         Base units | Corner solutions
+
+UE(D) 80 / 90 (-X)           Diagonal corner unit with hinged door
+UE(D)T 80 / 90 (-X /-M)      • Required floor space / Planning dimensions = 800 x 800 mm / 900 x 900 mm
+                             • Door width: 300 mm / 450 mm
+                             • Side depth: 561 mm
+                             • The corner base unit can be taken apart on site.
+                             • Changing and adding shelves at a later point is not possible.
+                             Note:
+                             • Do not plan ovens with protruding handles next to the corner base unit.
+                             • Do not plan sink units and hobs adjacent to the corner base unit due to the cut-outs next to the tongue and groove joint.
+                             • Do not plan lower fitted worktops adjacent to higher ones.
+UE(D) 80 / 90 (-X)           • Not possible with the following handles using drill pattern 18: 370, 620, 650, 890.
+
+
+
+
+                             Corner base unit
+                             • Required floor space / Planning dimensions = 800 x 800 mm / 900 x 900 mm
+                             • Side depth: 561 mm
+                             • The corner base unit can be taken apart on site.
+                             • If planned as peninsular, carcase material for the rear panels is available. Order full height dimensions,
+                               considering the plinth height, down to the floor. Back panel cladding in front designs, refer to RFD80-72 and
+                               RFD90-72.
+                             • A support panel or upright is recommended at the end of a run.
+U(D)TE 80 / 90 (-X /-M)      • Changing and adding shelves at a later point is not possible Type U(D)TE80/90(-X/-M).
+                             • Island designs of type UE(D)K(-X/-M) require a continuous base unit back panel (RKS*).
+                             Note:
+                             • Do not plan protruding solutions adjacent to the corner unit U(D)TE80/90(-X/-M) and UE(D)TK80/90(-X).
+                               It would not be possible to open the door.
+                             • Do not plan a lower unit height adjacent to the corner unit U(D)TE80/90(-X/-M) and UE(D)TK80/90(-X).
+                               It would not be possible to open the door.
+                             • If type UE(D)K(-X/-M) is planned at end of run, an upright at end of run is required.
+
+
+
+
+UE(D)K 80 / 90 (-X /-M)
+
+
+
+                             Planning possibilities for 800 x 800 mm                            Planning possibilities for 900 x 900 mm
+                             corner solutions                                                   corner solutions
+
+
+
+
+UE(D)TK 80 / 90 (-X)
+
+                                         Special corner solutions for LINE N kitchen s. chapter 8
+Typen - EN                                                                                                                                   M 10.43

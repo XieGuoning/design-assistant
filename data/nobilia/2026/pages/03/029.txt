@@ -1,0 +1,96 @@
+Sink units                                                               Abbreviation                    Points
+
+                                                                                                                          Price groups
+                                                                                                          1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                               Width in cm
+
+
+
+
+                                                                                             Order-no.
+Side depth: 561 mm
+Carcase height: 720 mm
+Plinth height 70, 100, 150 or 200 mm
+
+                                                                           Sink units
+                           Surcharge for Waterproof shelf          MP-WPB                    4745         131    131   131   131    131     131        131   131   131     131
+                           Waterproof shelf in grey metallic for
+                           sink base units and vanity units                                              There is no centre post for two-door sink base units. Exception: Sink
+                                                                                                         base unit SPUS90/100/120.
+                                                                                                         Divided panels are replaced with a continuous panel.
+                           Sink base unit                          SPUD           40         31204        381    402   435   467    477     504        529   —     564     —
+                           1 internal panel,                       SPUD           45         31205        402    426   450   505    511     536        564   —     612     —
+                           1 continuous door
+                                                                   SPUD           50         31200        419    438   467   530    533     571        606   —     647     —
+                                                                   SPUD           60         31206        460    477   520   588    594     637        679   —     737     —
+
+
+
+                           Sink base unit                          SPU            40          204         391    428   450   491    505     529        553   —     594     —
+                           1 fixed panel,                          SPU            45          205         426    438   461   520    533     564        590   —     635     —
+                           1 door
+                                                                   SPU            50          200         435    458   491   543    565     597        631   —     686     —
+                                                                   SPU            60          206         466    505   531   606    628     664        702   —     769     —
+
+                           Sink base unit                          SPUST          60         20210        422    438   460   520    529     561        597   —     638     —
+                           for belfast sink,
+                           1 door,                                                                       For waste collectors up to a height of 416 mm.
+                           1 internal panel,
+                           special height: 576 mm
+
+                           Sink base unit                          SPUVS2A        40          280         429    453   470   521   5271     562        591   —      —      —
+                           1 fixed panel,                          SPUVS2A        45          281         448    466   502   543   5531     590        628   —      —      —
+                           1 pinned door,
+                                                                   SPUVS2A        50          282         461    501   526   581   5901     632        673   —      —      —
+                           Handle position: horizontal, centred
+                                                                   SPUVS2A        60          283         510    531   558   632   6541     701        745   —      —      —
+                                                                                                                                    1) ­Except ­Inline 526
+
+                                                                                                         Railing handle 900 is not possible!
+                                                                                                         Can only be planned as a wall attachment for wall-side hinged doors
+                                                                                                         using fillers (min. 50 mm wide) otherwise hinge side must be changed.
+                           Sink base unit                          SPUV2DA        40         32280        385    416   464   491   5261     543        559   —      —      —
+                           1 internal panel,                       SPUV2DA        45         32281        412    444   486   526   5551     577        599   —      —      —
+                           1 pinned door,
+                                                                   SPUV2DA        50         32282        438    466   508   555   5831     610        637   —      —      —
+                           Handle position: horizontal, centred
+                                                                   SPUV2DA        60         32283        488    518   542   618   6371     677        715   —      —      —
+                                                                                                                                    1) ­Except ­Inline 526
+
+                                                                                                         Railing handle 900 is not possible!
+                                                                                                         Can only be planned as a wall attachment for wall-side hinged doors
+                                                                                                         using fillers (min. 50 mm wide) otherwise hinge side must be changed.
+                           Sink base unit                          SPUD         80           31148        637    683   742 828 841 892 942                   —     1.012   —
+                           2 internal panels,                      SPUD         90           31161        683    714   777 880 894 950 1.006                 —     1.091   —
+                           2 continuous doors
+                                                                   SPUD         100          31160        717    762   832 943 962 1.025 1.088               —     1.183   —
+                                                                   SPUD         120          31165        787    842   915 1.057 1.079 1.156 1.232           —     1.356   —
+
+                                                                                                         For waste collector, observe door opening width and door hinge side!
+                           Sink base unit                          SPU          80            148         670    718   777 864 894 945 994                   —     1.077   —
+                           2 fixed panels,                         SPU          90            161         714    762   821 915 962 1.013 1.064               —     1.164   —
+                           2 doors
+                                                                   SPU          100           160         749    802   866 977 1.021 1.083 1.145             —     1.247   —
+                                                                   SPU          120           165         828    889   952 1.088 1.143 1.221 1.294           —     1.431   —
+
+                                                                                                         For waste collector, observe door opening width and door hinge side!
+                           Sink base unit                          SPUST          90         20201        637    675   718   800    821     863        902   —     969     —
+                           for belfast sink,
+                           2 doors,                                                                      For waste collector, observe door opening width and door hinge side!
+                           1 internal panel,
+                                                                                                         Not available with moisture protection shelf or waterproof mat.
+                           special height: 576 mm
+
+                           Sink base unit                          SPUS         90           22158 942 1.000 1.059 1.153 1.197 1.245 1.291                   —     1.399   —
+                           1 drawer,                               SPUS         100          22150 969 1.050 1.107 1.219 1.266 1.320 1.375                   —     1.491   —
+                           1 fixed panel,
+                                                                   SPUS         120          22157 1.056 1.132 1.203 1.332 1.383 1.453 1.523                 —     1.667   —
+                           2 doors,
+                           RH hinge = fixed panel, right                                                 For waste collector, observe door opening width and door hinge side!
+                           LH hinge = fixed panel, left
+
+Typen - EN                                   You will find an explanation of the symbols at the front of the chapter index                                                        M 3.23

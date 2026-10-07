@@ -1,0 +1,81 @@
+                                Sliding door sets for mounting in front of wall
+
+                                                                        Set 12: GSWSET-003 (1499)
+                                                                        1-track sliding door system for mounting in front of wall
+                                                                        with 1 door and stop toward wall
+                                                                        consisting of:
+                                                                        1 x GGT                  Base price per sliding door
+                                                                        1 x GT120                sliding door incl. top track position holder, sealing brush
+                                                                                                 and bottom track stopper
+                                                                        1 x GSSET-1L             single-track track set
+                                                                        1 x GSWSTE               Top track end support
+                                                                        GSWSTM                   Top track centre support (one top track support is calculated and
+                                                                                                 supplied per started 750 mm)
+
+                                                                        For door widths from 500 to 1200 mm.
+                                                                        We recommend 2 sliding door brakes for doors upwards of 750 mm in width.
+
+
+                                                                                      Max. 750 mm              Max. 750 mm
+
+
+
+
+                                                                                                                                                                3 mm
+                                                         40 mm
+
+
+
+
+                                                                                                 front
+                                                                                                vorne
+                                                                                            Schließrichtung
+                                                                                           closing direction
+
+
+                                                                             3 mm                   Max.
+                                                                                                     max.5000
+                                                                                                          5000mm
+                                                                                                              mmGesamtbreite
+                                                                                                                 total width                       6 mm
+
+
+
+
+Planning and calculation notes for sliding doors for mounting in front of wall
+We recommend 2 sliding door brakes per door for sliding doors wider than 750 mm.
+Max. 1 sliding door brake can be installed for doors with a width below 750 mm.
+In this case, a tilt protection must be installed.
+Please specify the number of sliding door brakes per door.
+If the order does not include any information on the closing direction, the system will be installed according to the information for the sliding door sets in the
+catalogue.
+
+
+
+GSWSET-001 (1497)
+Calculation of the sliding door width		                  Access width + 2 x 26.5 mm
+Calculation of track length			                           2 x sliding door width – 26.5 mm
+Number of bottom track supports Track length:            750 (number rounded down to whole number)
+
+GSWSET-002 (1498)
+Calculation of the sliding door width		                  Access width 2 + 2 x 26.5 mm
+Calculation of track length			                           4 x sliding door width – 2 x 26.5 mm
+Number of bottom track supports Track length:            750 (number rounded down to whole number)
+
+GSWSET-003 (1499)
+Calculation of the sliding door width		                  Access width + 26.5 mm – 3 mm
+Calculation of track length			                           2 x sliding door width – 26.5 mm + 3 mm
+Number of bottom track supports Track length:            750 (number rounded up to whole number)
+
+GSWSET-003 (1499) with wall connection
+Calculation of the sliding door width		                  Access width – 25 mm + 26.5 mm
+Calculation of track length			                           2 x sliding door width
+Number of bottom track supports Track length:            750 (number rounded up to whole number)
+
+
+
+At a surcharge, sliding doors are also available with a panel-dividing rail.
+Surcharges, sliding door brakes, tilt protection, wall connection, cover caps for the bottom and top tracks are not part of the set, but must be
+ordered in addition based on the installation situation.
+
+M 9.148                                                                                                                                                   Typen - EN

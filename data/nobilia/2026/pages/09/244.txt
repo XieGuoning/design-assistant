@@ -1,0 +1,59 @@
+           Planning rules for worktop overhangs
+                          Worktop overhangs to the rear
+                             on single-line islands
+            Dimension table for worktop overhangs to the rear on single-line islands
+
+
+              Worktop
+                                 Max. free overhang to the rear on single-line island
+              material
+
+              APN / APD
+              38 mm              Max. 50% of the supported worktop depth may protrude freely toward the rear (see fig. 1).
+              APD                Example: 600 mm ÷ 2 = 300 mm overhang = 600 mm + 300 mm = 900 mm total worktop depth
+              25 mm
+
+              Slim Line
+                                 Max. 300 mm
+              16 mm
+
+
+              Quartz
+                                 Max. 150 mm 1.)
+              12 mm
+
+
+              Quartz
+                                 Max. 250 mm 1.)
+              38 mm
+
+
+              Xtra Ceramic
+                                 Max. 300 mm 1.)
+              16 mm
+
+            1.)
+                  The overhang cannot be increased by using supporting elements.
+
+
+            Figure 1
+
+
+
+
+            Figure 2
+
+
+
+
+            • If the APN / APD or Slim Line APL are planned with an overhang to the rear of >300 mm, a side or centre support
+              is required!
+            • The support can be provided by floor-depth upright panels (16, 25, 50 mm) which must be planned along the entire
+              worktop depth. As an alternative (except for Slim Line) support legs (1 centre support leg or 2 support legs on the
+              outside) can be included in the plan (see fig. 2).
+            • The max. overhangs for quartz and Xtra Ceramic cannot be increased by supporting elements.
+
+
+
+
+M 10.54                                                                                                             Typen - EN

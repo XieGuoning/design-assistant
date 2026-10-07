@@ -1,0 +1,83 @@
+Pilasters                                                                                                                        Abbreviation
+
+Only available for cottage style ranges:
+Price group 7: Cascada 684, Nordic 497, Sylt 706
+
+
+
+
+                                                                                                                                       Width in cm
+
+
+
+                                                                                                                                                          Order No.
+Pilaster colours and design depend on range, see front pages.
+
+
+
+
+                                                                                                                                                                      Points
+                                                                Pilaster for base units
+                                 Base unit pilaster                                                                       UPI                             4490        415
+                                 front material,
+                                 width: 50 mm,
+                                 depth: 583.5 mm,
+                                 except for Cascada 684 and Nordic 497, depth: 586 mm
+                                 Matches ranges Cascada 684, Nordic 497, Sylt 706.
+
+
+
+
+                                 Intermediate base unit pilaster                                                          UPIZ                            4177        277
+                                 for installation between base units,
+                                 front material,
+                                 width: 50 mm,
+                                 depth: 122.5 mm,
+                                 except for Cascada 684 and Nordic 497, depth: 125 mm
+                                 Matches ranges Cascada 684, Nordic 497, Sylt 706.
+
+
+
+
+                                 Base unit pilaster for room designs                                                      UPIR          117               4164        488
+                                 front material on both faces,
+                                 width: 50 mm,
+                                 depth: 250 - 1167 mm,
+                                 except for Cascada 684 and Nordic 497, depth: 250 - 1172 mm
+                                 Matches ranges Cascada 684, Nordic 497, Sylt 706.
+
+
+
+
+                                                   Pilasters for base units in XL height
+                                 XL Base unit pilaster                                                                    UPI                        -X   6431        425
+                                 front material,
+                                 width: 50 mm,
+                                 depth: 583.5 mm,
+                                 except for Cascada 684 and Nordic 497, depth: 586 mm
+                                 Matches ranges Cascada 684, Nordic 497, Sylt 706.
+
+
+
+
+                                 Intermediate XL base unit pilaster                                                       UPIZ                       -X   6432        282
+                                 front material,
+                                 width: 50 mm,
+                                 depth: 122.5 mm,
+                                 except for Cascada 684 and Nordic 497, depth: 125 mm
+                                 Matches ranges Cascada 684, Nordic 497, Sylt 706.
+
+
+
+
+                                 XL Base unit pilaster for room designs                                                   UPIR117                    -X   6433        491
+                                 front material,
+                                 width: 50 mm,
+                                 depth: 250 - 1167 mm,
+                                 except for Cascada 684 and Nordic 497, depth: 250 - 1172 mm
+                                 Matches ranges Cascada 684, Nordic 497, Sylt 706.
+
+
+
+
+Typen - EN                                You will find an explanation of the symbols at the front of the chapter index                                               M 5.41

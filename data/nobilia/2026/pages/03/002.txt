@@ -1,0 +1,69 @@
+             Quick reference for equipment options for base units
+             Here you can find a quick reference for the most important equipment options and surcharges for this chapter.
+             For detailed descriptions and planning notes as well as additional options and special productions
+             please refer to chapter 2.2 “Equipment options, special productions”.
+
+
+                                                                                                                             Abbreviation   Order no.-Nr.   Points
+
+              Surcharge for carcase interior décor in Slate grey                                                             MP-KID             7947         96
+
+
+
+
+              Surcharges nBOX
+
+
+
+
+3
+              Surcharge for glass sides on (internal) pull-outs with rectangular railing                                     MP-GLAS            7915         127
+
+              Surcharge for pull-out box on (internal) pull-outs                                                             MP-BOX             7905         98
+Base units
+
+
+
+
+              Surcharge for mechanical opening support mechanism on drawers and pull-outs                                    MP-PTOSA           7962         158
+
+              Surcharge for design profile for (internal) drawers and (internal) pull-outs                                   MP-DPRO            7918         23
+
+              Surcharge for design covers for (internal) drawers and (internal) pull-outs                                    MP-DCOV            7923         55
+
+              Surcharge for design glass panel for internal pull-outs                                                        MP-DGBLEN          7925         101
+
+              Surcharge for design panel for internal drawers and internal pull-outs with pull-out box (MP-BOX)              MP-DBLEN           7935         72
+
+
+
+
+              Internal tablar shelves with locking slides for retrofitting in tall and base units                            ITAB-UH 60        39496         644
+
+              Safety bracket for freestanding base units                                                                     KIPPS              9943         86
+
+              Construction shelf for heat insulation, 16 mm thick                                                            KKB30             10311         58
+                                                                                                                             KKB40             10312         60
+                                                                                                                             KKB45             10313         61
+                                                                                                                             KKB50             10314         64
+                                                                                                                             KKB60             10315         66
+                                                                                                                             KKB80             10316         72
+                                                                                                                             KKB90             10317         73
+                                                                                                                             KKB100            10318         74
+                                                                                                                             KKB120            10319         82
+
+              Spacer shelf for induction hot plates                                                                          DBKI30            29310         174
+                                                                                                                             DBKI40            29312         180
+                                                                                                                             DBKI45            29314         188
+                                                                                                                             DBKI50            29315         197
+                                                                                                                             DBKI60            29236         200
+                                                                                                                             DBKI80            29238         210
+                                                                                                                             DBKI90            29239         229
+                                                                                                                             DBKI100           29270         242
+                                                                                                                             DBKI120           29322         266
+
+              Surcharge for lowered frame on hot plate units                                                                 MP-NIEZA           7996         136
+
+              Surcharge for full-height back panel on sink base units                                                        MP-SPUR            9292         19
+
+              Surcharge for waterproof base for sink units                                                                   MP-WPB             4745         131

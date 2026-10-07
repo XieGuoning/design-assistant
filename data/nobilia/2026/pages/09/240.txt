@@ -1,0 +1,34 @@
+                                                   Planning Instructions
+                                    Hot plate units for downdraft extractor fan
+                       KDMSA*, KMSAA*(-X), KMS2A*(-M), KM2SA*(-X), KDM2A*(-M), KM3A*(-M), NKMSA*(-X), NKM2A*(-X)
+
+           Cable routing duct**     Planning the cable routing duct is a very important part of the kitchen order.
+                                    Dishwashers, plinth drawers, or refrigerators with plinth refrigeration units or similar cannot be planned atop the flooring
+                                    in the cable routing duct area. Also, the cable routing duct cannot be planned beneath units with a plinth height of 70 mm.
+                                    Exception – cable routing duct in floor screed, on the basement ceiling or directly behind the appliance and vented
+                                    to the outside.
+                                    Then the plinth height is not relevant.
+
+
+
+
+                                       Cable routing duct atop flooring:                   Cable routing duct in floor screed:
+                                       minimum plinth height 100 mm!                       possible with plinth height 70 mm!
+
+
+
+
+                                       Cable routing duct on the basement                  Cable routing duct directly behind the
+                                       ceiling:                                            appliance and vented to the outside:
+                                       possible with plinth height 70 mm!                  possible with plinth height 70 mm!
+
+                                  For plinth heights below 120 mm, the rear slide adapter must be offset toward the rear to allow for cable routing duct
+                                  beneath adjacent units.
+                                  Screws and installation instructions (BB-ML 99147) are included in the delivery with the downdraft extractor fan unit.
+
+
+
+
+                                  In recirculated air mode the steam must be extracted from the plinth area.
+
+M 10.50                                                                                                                                           Typen - EN

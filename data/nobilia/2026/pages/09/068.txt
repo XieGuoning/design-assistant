@@ -1,0 +1,91 @@
+Sideboards and Midi units for                                          Abbreviation                           Points
+                                                                                                                                     Price groups
+handle-less bathroom and
+living area designs
+                                                                                                               1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                             Width in cm
+
+
+
+
+                                                                                                  Order-no.
+Side depth: 350 mm:
+Carcase heights: 720 / 1152 / 1247 / 1296 / 1584 mm
+                          Midi unit                              NBMSA          30         -125   67733       1.069 1.120 1.149 1.242 1.313 1.384         —      —   —    —
+                          1 door,                                NBMSA          40         -125   67744       1.129 1.180 1.222 1.330 1.400 1.472         —      —   —    —
+                          1 drawer,
+                                                                 NBMSA          45         -125   67747       1.158 1.210 1.257 1.377 1.448 1.520         —      —   —    —
+                          1 pull-out,
+                          2 shelves,                             NBMSA          50         -125   67735       1.187 1.241 1.294 1.418 1.489 1.561         —      —   —    —
+                          carcase height: 1247 mm                NBMSA          60         -125   67746       1.247 1.301 1.368 1.505 1.577 1.650         —      —   —    —
+
+                                                                                                              A top shelf is recommended!
+                          Midi unit                              NBM2T          30         -130   67726        673    704   730 787 813 840               —      —   —    —
+                          2 doors,                               NBM2T          40         -130   67727        743    774   815 892 918 945               —      —   —    —
+                          1 fixed shelf,
+                                                                 NBM2T          45         -130   67728        780    809   860 946 975 1.004             —      —   —    —
+                          2 shelves,
+                          carcase height: 1296 mm                NBM2T          50         -130   67729        818    844   899 993 1.028 1.063           —      —   —    —
+                                                                 NBM2T          60         -130   67730        888    911   983 1.086 1.133 1.178         —      —   —    —
+
+                                                                                                              A top shelf is recommended!
+                          End of run midi unit Curve             NBM2TAC        45         -130 67724          —      — 1.1451 1.2212     —       —       —      —   —    —
+                          2 doors,                               NBM2TAC        60         -130 67725          —      — 1.2571 1.3582     —       —       —      —   —    —
+                          1 fixed shelf,                                                                                       1) ­Only ­Senso 357 2) ­Only ­Easytouch 945
+                          2 shelves,
+                          carcase height: 1296 mm                                                             Width reductions are not permitted!
+                          stop side = closed front end                                                        A top shelf is recommended!
+
+                          Midi unit                              NBMA           30         -130   67751 889 921 955 1.004 1.031 1.056                     —      —   —    —
+                          1 door,                                NBMA           40         -130   67752 990 1.019 1.054 1.133 1.159 1.186                 —      —   —    —
+                          2 shelves,
+                                                                 NBMA           45         -130   67753 1.042 1.072 1.121 1.207 1.237 1.266               —      —   —    —
+                          1 pull-out,
+                          carcase height: 1296 mm                NBMA           50         -130   67755 1.094 1.121 1.171 1.263 1.298 1.333               —      —   —    —
+                                                                 NBMA           60         -130   67756 1.186 1.209 1.307 1.378 1.422 1.467               —      —   —    —
+
+                                                                                                              A top shelf is recommended!
+                          End of run midi unit Curve             NBMAAC         45         -130 67731          —      — 1.4061 1.4822     —       —       —      —   —    —
+                          1 door,                                NBMAAC         60         -130 67732          —      — 1.5831 1.6502     —       —       —      —   —    —
+                          2 shelves,                                                                                           1) ­Only ­Senso 357 2) ­Only ­Easytouch 945
+                          1 pull-out,
+                          carcase height: 1296 mm                                                             Width and depth reductions are not permitted!
+                          stop side = closed front end                                                        A top shelf is recommended!
+
+                          Midi unit                              NBM            30         -158   67763        680    710   734 788 863 937               —      —   —    —
+                          2 doors,                               NBM            40         -158   67764        753    781   821 894 969 1.044             —      —   —    —
+                          4 shelves,
+                                                                 NBM            45         -158   67767        790    816   866 949 1.026 1.104           —      —   —    —
+                          carcase height: 1584 mm
+                                                                 NBM            50         -158   67765        832    857   905 994 1.070 1.145           —      —   —    —
+                                                                 NBM            60         -158   67766        899    923   991 1.088 1.167 1.244         —      —   —    —
+
+
+                          End of run midi unit Curve             NBMAC          45         -158 67768          —      — 1.1581 1.2862     —       —       —      —   —    —
+                          2 doors,                               NBMAC          60         -158 67769          —      — 1.3231 1.4072     —       —       —      —   —    —
+                          1 fixed shelf,                                                                                       1) ­Only ­Senso 357 2) ­Only ­Easytouch 945
+                          4 shelves,
+                          carcase height: 1584 mm                                                             Width reductions are not permitted!
+                          stop side = closed front end                                                        A top shelf is recommended!
+
+
+
+
+                          Midi unit laundry-carrier              NBMWK          45         -158 67759 1.783 1.810 1.857 1.940 2.019 2.095                 —      —   —    —
+                          1 door,                                NBMWK          60         -158 67760 1.955 1.975 2.045 2.142 2.221 2.297                 —      —   —    —
+                          2 shelves,
+                          1 pull-out with laundry carrier
+                          laundry basket,
+                          450 mm width: 1 x 33 litres,
+                          600 mm width: 1 x 33 litres and
+                          1 x 4 litres,
+                          carcase height: 1584 mm
+
+
+
+
+M 9.58                                     You will find an explanation of the symbols at the front of the chapter index                                                     Typen - EN

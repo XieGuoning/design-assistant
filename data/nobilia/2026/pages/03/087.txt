@@ -1,0 +1,91 @@
+Base units in mini height                                                Abbreviation                          Points
+
+                                                                                                                                Price groups
+Side depth: 561 mm
+
+                                                                                                                1 2 3 4 5 6 7 8 9 10
+Carcase height: 576 mm
+
+
+
+
+                                                                               Width in cm
+
+
+
+
+                                                                                                   Order-no.
+Plinth height 20, 70, 100, 150 or 200 mm
+
+
+
+                                                               Base units, mini height
+                           Mini base unit / hot plate unit         U              20         -58   38001        276    296   318   329    330      333        334   —     364     —
+                           1 door,                                 U              30         -58   38003        318    331   355   375    381      394        406   —     432     —
+                           1 shelf
+                                                                   U              40         -58   38004        356    368   397   432    437      451        466   —     505     —
+                                                                   U              45         -58   38065        372    383   412   450    457      482        508   —     533     —
+                                                                   U              50         -58   38010        385    406   435   470    482      510        533   —     568     —
+                                                                   U              60         -58   38030        426    444   466   529    533      569        604   —     642     —
+
+                                                                                                               Requires an additional construction or spacer shelf to be used as a hot
+                                                                                                               plate unit.
+                           Mini base unit                          UDI            30         -58   38031        602    616   635   650    660      673        682   —     708     —
+                           1 continuous door,                      UDI            40         -58   38032        638    660   680   710    718      737        756   —     781     —
+                           1 internal drawer
+                                                                   UDI            60         -58   38033        711    749   768   831    837      869        901   —     943     —
+
+                                                                                                               Requires an additional construction or spacer shelf to be used as a hot
+                                                                                                               plate unit.
+                           Mini base unit / hot plate unit         U2A          30           -58   28263        800 844 863 885 895 899 904                         —      967    —
+                           2 pull-outs                             U2A          40           -58   28027        841 889 902 937 955 965 972                         —     1.004   —
+                                                                   U2A          45           -58   28022        863 902 927 964 977 993 1.006                       —     1.059   —
+                                                                   U2A          50           -58   28028        880 929 952 991 1.012 1.028 1.045                   —     1.080   —
+                                                                   U2A          60           -58   28062        921 968 994 1.045 1.069 1.094 1.120                 —     1.155   —
+                                                                   U2A          80           -58   28058       1.145 1.197 1.242 1.333 1.336 1.364 1.390            —     1.451   —
+                                                                   U2A          90           -58   28024       1.212 1.272 1.313 1.422 1.424 1.459 1.494            —     1.555   —
+                                                                   U2A          100          -58   28050       1.288 1.346 1.403 1.499 1.523 1.562 1.600            —     1.667   —
+                                                                   U2A          120          -58   28052       1.475 1.530 1.606 1.721 1.753 1.796 1.837            —     1.923   —
+
+                                                                                                               Requires an additional construction or spacer shelf to be used as a hot
+                                                                                                               plate unit.
+                           Mini base unit / hot plate unit         U2SA           30         -58   28266        994 1.059 1.067 1.086 1.088 1.089 1.104             —     1.167   —
+                           2 drawers,                              U2SA           40         -58   28038       1.031 1.098 1.120 1.143 1.155 1.156 1.177            —     1.229   —
+                           1 pull-out
+                                                                   U2SA           45         -58   28047       1.059 1.124 1.139 1.169 1.183 1.188 1.215            —     1.279   —
+                                                                   U2SA           50         -58   28045       1.079 1.145 1.164 1.205 1.219 1.234 1.250            —     1.318   —
+                                                                   U2SA           60         -58   28048       1.124 1.193 1.209 1.260 1.279 1.304 1.329            —     1.407   —
+
+                                                                                                               Requires an additional construction or spacer shelf to be used as a hot
+                                                                                                               plate unit.
+                           Mini base unit / hot plate unit         U4S            30         -58   28019       1.177 1.272 1.278 1.291 1.2951 1.296 1.302           —      —      —
+                           4 drawers                               U4S            40         -58   28053       1.225 1.313 1.324 1.348 1.3611 1.375 1.383           —      —      —
+                                                                   U4S            45         -58   28078       1.259 1.337 1.348 1.381 1.3941 1.403 1.422           —      —      —
+                                                                   U4S            50         -58   28014       1.279 1.365 1.380 1.410 1.4311 1.447 1.463           —      —      —
+                                                                   U4S            60         -58   28037       1.323 1.410 1.431 1.475 1.4991 1.523 1.546           —      —      —
+                                                                                                                                           1) ­Except ­Inline 526
+
+                                                                                                               Not possible with bar handle 240 / 430.
+                                                                                                               Requires an additional construction or spacer shelf to be used as a hot
+                                                                                                               plate unit.
+                           Mini open shelf base unit               UR             15         -58   58601        583    583   583   583    583      583        583   583   583     583
+                           1 fixed shelf,                          UR             20         -58   58602        587    587   587   587    587      587        587   587   587     587
+                           side depth: 582 mm
+                                                                   UR             30         -58   58603        682    682   682   682    682      682        682   682   682     682
+                                                                   UR             40         -58   58604        717    717   717   717    717      717        717   717   717     717
+                                                                   UR             45         -58   58600        745    745   745   745    745      745        745   745   745     745
+                                                                   UR             50         -58   58605        809    809   809   809    809      809        809   809   809     809
+                                                                   UR             60         -58   58606        835    835   835   835    835      835        835   835   835     835
+                           Surcharge for shelf units               MP-REB                          7907         200    200   200   200    200      200        200   200   200     200
+                           with adjustable shelves
+                           or design shelves Taro                                                              Not available for open shelf end units, bottle rack units and open shelf
+                           3 drill holes in grid spacing of                                                    corner units.
+                           32 mm
+                                                                                                               Not possible in conjunction with surcharge for shelves with
+                                                                                                               LED lighting MP-RLA (7984).
+                                                                                                               Surcharge per unit.
+
+
+
+
+Typen - EN                                   You will find an explanation of the symbols at the front of the chapter index                                                               M 3.75

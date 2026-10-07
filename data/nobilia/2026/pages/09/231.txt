@@ -1,0 +1,64 @@
+                                Planning Instructions
+                                 Base units
+              As end of run units - or breaking the line / Fillers
+UDIAAD*15        Diagonal pull-out unit
+                 • Can be planned as LH or RH version.
+                 • When planned at the end of run, the short side = 421 mm carcase depth becomes the visible end side.
+                 • Installation dimension = 150 mm, observe a possible worktop overhang at this point.
+                 • Planning side = long side = 550 mm carcase depth (planning dimension: 561 mm).
+                 • The delivery includes plinth.
+                 • If this unit is used as a protruded solution, the protrusion must amount to 140 mm. Can be used, for instance,
+                   for protruding ovens.
+
+
+UDIA(A)D*25      Diagonal pull-out unit
+                 • Can be planned as LH or RH version.
+                 • When planned at the end of run, the short side = 382 mm carcase depth becomes the visible end side.
+                 • Installation dimension = 250 mm, observe a possible worktop overhang at this point.
+                 • Planning side = long side = 550 mm carcase depth (planning dimension: 561 mm).
+                 • The delivery includes plinth feet.
+                 • If this unit is used as a protruded solution, the protrusion must amount to 179 mm. Can be used, for instance,
+                   for protruding ovens.
+
+
+URA32(-X)        Open shelf end base unit, chamfered on one side
+                 • Can be planned as LH or RH version.
+                 • Side depth: 582 mm
+                 • Width: 322 mm
+                 • Planning side = long side = 582 mm carcase depth.
+                 • Including the worktop overhang, the installation dimension amounts to 340 mm.
+                 • The delivery includes plinth feet.
+
+
+
+URA18(-X)        Diagonal base unit, Z-shaped chamfered on one side
+                 • Can be planned as LH or RH version.
+                 • Side depth: 582 mm
+                 • Width: 182 mm
+                 • Planning side = long side = 582 mm carcase depth.
+                 • Including the worktop overhang, the installation dimension amounts to 200 mm.
+                 • Delivery without plinth feet and plinth panels, the plinth return will be fixed to the adjacent base unit.
+                 • Do not plan adjacent to built-under appliances.
+
+
+
+UPE(-X/-M)      Base unit angle fillers
+                • The planning dimensions of the unused corners are 650 x 650 mm.
+                • The front filler (front angle filler) is 70 x 70 mm wide (ref. UPE-X/-M) or can be planned to have a length extension
+                  of 50 - 170 mm (ref. UPE-V-X /-M).
+                • Angle fillers are cut and bolted at the factory.
+                  The space requirement must be specified with the order. Adjustments on site are not possible.
+                • Planning dimension changes from minus 20 mm to plus 100 mm are possible at the factory.
+                • Angle changes above or below 90° are generally possible, see surcharge UPE-VAR / 175.
+                  Exceptions: Angle changes of 90 to 178° are possible for designs with a bar handle 240 / 430.
+                • A shortened carcase face for affixing to adjacent units is included with the units.
+                • When planning a dishwasher adjacent to the filler, consider the angle filler with a 561 mm deep side return
+                  (surcharge-No. MP-GS).
+                • The corner dimension 650 x 650 permits designs with drawers or front pull-outs next to the corner, no protruding
+                  handles form an obstacle. Please note the respective handle height when creating your plan. It can be found
+                  in chapter 2.
+
+
+
+
+Typen - EN                                                                                                                     M 10.41

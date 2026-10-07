@@ -1,0 +1,99 @@
+Base units                                                              Abbreviation                    Points
+
+                                                                                                                          Price groups
+                                                                                                         1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                              Width in cm
+
+
+
+
+                                                                                            Order-no.
+Side depth: 561 mm
+Carcase height: 720 mm
+Plinth height 20, 70, 100, 150 or 200 mm
+                           Chamfered corner base unit             UED            80         31072 1.197 1.219 1.237 1.278 1.282 1.295 1.311                   —     1.337   —
+                           1 continuous door,                     UED            90         31080 1.296 1.323 1.356 1.407 1.410 1.444 1.473                   —     1.513   —
+                           1 shelf
+                                                                                                        The corner unit can be disassembled on site!
+
+
+                           Additional shelf                       EBE            80         7228         117    117   117    117    117      117        117   117   117     117
+                           for unit UE(D) 80/90*                  EBE            90         7229         121    121   121    121    121      121        121   121   121     121
+
+                                                                                                        Shelf can only be fitted on site during installation!
+                           Chamfered corner base unit             UE             80          072        1.226 1.259 1.278 1.308 1.3181 1.336 1.351            —      —      —
+                           1 pinned door,                         UE             90          080        1.337 1.365 1.390 1.438 1.4611 1.488 1.513            —      —      —
+                           1 shelf                                                                                                   1) ­Except ­Inline 526
+
+                                                                                                        The corner unit can be disassembled on site!
+                           Additional shelf                       EBE            80         7228         117    117   117    117    117      117        117   117   117     117
+                           for unit UE(D) 80/90*                  EBE            90         7229         121    121   121    121    121      121        121   121   121     121
+
+                                                                                                        Shelf can only be fitted on site during installation!
+
+
+                                                                    Half-corner units
+                           Corner base unit                       UED        90-40          32083        708    740   788    876    880 917 953               —     1.031   —
+                           1 continuous door,                     UED        90-45          32087        712    745   799    889    891 934 974               —     1.063   —
+                           1 shelf,
+                                                                  UED        100-50         32096        752    781   841    929    964 997 1.028             —     1.132   —
+                           1 angle filler
+                           Carcase widths: 900, 1000 mm           UED        100-60         32099        761    787   848    964    965 1.022 1.077           —     1.181   —
+                           Planning dimensions (variable):
+                           650 (630 - 750) x ...                                                        The space requirement must be specified with the order. Adjustments
+                           *90-40: ... 1050 (1030 - 1150) mm                                            on site are not possible.
+                           *90-45: ... 1100 (1080 - 1200) mm
+                           *100-50: ... 1150 (1130 - 1250) mm
+                           *100-60: ... 1250 (1230 - 1350) mm
+
+                           Corner base unit                       UE         90-40          20083 955 1.015 1.063 1.145 1.150 1.186 1.219                     —     1.301   —
+                           1 drawer,                              UE         90-45          20087 965 1.018 1.069 1.153 1.156 1.197 1.240                     —     1.324   —
+                           1 door,
+                                                                  UE         100-50         20096 997 1.063 1.117 1.206 1.225 1.263 1.301                     —     1.371   —
+                           1 shelf,
+                           1 angle filler                         UE         100-60         20099 1.006 1.077 1.130 1.232 1.237 1.292 1.348                   —     1.434   —
+                           Carcase widths: 900, 1000 mm
+                           Planning dimensions (variable):                                              The space requirement must be specified with the order. Adjustments
+                           650 (630 - 750) x ...                                                        on site are not possible.
+                           *90-40: ... 1050 (1030 - 1150) mm
+                           *90-45: ... 1100 (1080 - 1200) mm
+                           *100-50: ... 1150 (1130 - 1250) mm
+                           *100-60: ... 1250 (1230 - 1350) mm
+
+                           Corner base unit                       UEDBD      90-40          23095       1.250 1.301 1.349 1.435 1.437 1.473 1.510             —     1.599   —
+                           1 continuous door,                     UEDBD      90-45          23086       1.257 1.308 1.356 1.445 1.447 1.491 1.532             —     1.622   —
+                           2 wooden rotary shelves with metal
+                                                                  UEDBD      100-50         23094       1.337 1.377 1.438 1.532 1.536 1.583 1.628             —     1.721   —
+                           railing,
+                           1 angle filler                         UEDBD      100-60         23088       1.346 1.383 1.453 1.548 1.549 1.609 1.669             —     1.772   —
+                           Carcase widths: 900, 1000 mm
+                           Planning dimensions (variable):                                              The space requirement must be specified with the order. Adjustments
+                           650 (630 - 750) x ...                                                        on site are not possible.
+                           *90-40: ... 1050 (1030 - 1150) mm                                            Cannot be planned with 461 mm side depth!
+                           *90-45: ... 1100 (1080 - 1200) mm
+                           *100-50: ... 1150 (1130 - 1250) mm
+                           *100-60: ... 1250 (1230 - 1350) mm
+
+                           Corner base unit                       UEBD       90-40          26095       1.513 1.581 1.622 1.704 1.705 1.742 1.775             —     1.859   —
+                           1 drawer,                              UEBD       90-45          26086       1.517 1.584 1.631 1.713 1.717 1.758 1.797             —     1.886   —
+                           1 door,
+                                                                  UEBD       100-50         26094       1.599 1.659 1.713 1.799 1.803 1.850 1.895             —     1.977   —
+                           2 wooden carousel shelves with
+                           metal railing,                         UEBD       100-60         26088       1.609 1.669 1.733 1.821 1.824 1.883 1.945             —     2.032   —
+                           1 angle filler
+                           Carcase widths: 900, 1000 mm                                                 The space requirement must be specified with the order. Adjustments
+                           Planning dimensions (variable):                                              on site are not possible.
+                           650 (630 - 750) x ...                                                        Cannot be planned with 461 mm side depth!
+                           *90-40: ... 1050 (1030 - 1150) mm
+                           *90-45: ... 1100 (1080 - 1200) mm
+                           *100-50: ... 1150 (1130 - 1250) mm
+                           *100-60: ... 1250 (1230 - 1350) mm
+
+
+
+
+M 3.10                                      You will find an explanation of the symbols at the front of the chapter index                                                    Typen - EN

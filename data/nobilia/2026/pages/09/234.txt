@@ -1,0 +1,56 @@
+                  Planning Instructions for Corner Solutions
+                                  Base units | Corner solutions
+                     Half corner cabinets (also XL height, maxi-height and highboards)
+
+                     • Island designs of type UE(D)K(-X/-M) require a continuous base unit back panel (RKS*). The planning dimensions
+                       must be specified with the order. Adjustments on site are not possible.
+                     • Angle changes above or below 90° are generally possible, see surcharge UPE-VAR / 175.
+                       Exceptions: Angle changes of 90 to 178° are possible for designs with a bar handle 240 / 430.
+                     • Planning dimension changes from minus 20 mm to plus 100 mm are possible at the factory.
+                     • A shortened carcase face for affixing to adjacent units is included in the scope of delivery.
+                     • Door hinge side is also the face side.
+UE...(-X /-M)        • Specify right or left, to ensure that the corner base unit is delivered with the correct hinge side.
+                     • Planning a dishwasher adjacent to a corner unit requires an angle filler with a side depth of
+                       561 mm (surcharge MP-GS).
+
+
+
+
+                     Dimension table for half corner cabients in mm:
+
+
+                     Planning dimensions                   = 650 x                  1050          1100          1150           1250
+UEBD...(-X /-M)
+                     Carcase width                         =                         900           900          1000           1000
+                     Door width                            =                         394           444           494            594
+                     Variable (planning dimensions)        = 630 - 750 x     1030 - 1150    1080 - 1200   1130 - 1250   1230 - 1350
+
+                     Not usable                            =                         150           200           150            250
+                     Required floor space for corner       =
+                     wall unit                                                 650 x 650     650 x 650     650 x 650      650 x 650
+                     Additional wall unit width            =                         400           450           500            600
+
+UESA...(-X /-M)
+
+
+
+
+                     Planning information for corner units with swivel pull-out
+
+                     Note:
+                     • The tablars swivel out ranging from 280 mm to 350 mm to the right / left and from 620 mm to 720 mm toward the
+                       front upon opening, respective of unit size.
+                     • Units with a swivel pull-out (UESA(-X/-M) / HESA(-X)) are not available adjacent to units of a greater depth
+                       or stand-alone refrigerators with a depth of more than 585 mm!
+                     • The hinged door must be opened at least 85° so that it is possible to swivel out the tablars.
+                       Please check for handle depth & handle collisions if the side dimension of the filler is less than 70 mm.
+
+
+                           Unit width              Swivel depth              Swivel width
+
+                             900 mm                   620 mm                   280 mm
+                            1000 mm                   720 mm                   350 mm
+
+
+                                Special corner solutions for LINE N kitchen s. chapter 8
+M 10.44                                                                                                                 Typen - EN

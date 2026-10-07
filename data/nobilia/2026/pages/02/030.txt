@@ -1,0 +1,66 @@
+                                      Handles selection subject to surcharge
+                                                             Screw-on bar handles
+                                                       no. 820
+                                                       Screw-on bar handle
+                                                       Black
+                                                       Surcharge code: 7945
+                                                       Points: 33,0
+                                                       Drill pattern: 18
+                                                       H: 22 mm
+
+
+
+BA		 Assignment		                            2 holes                                 BA			Assignment		4 holes
+32		  150 mm pull-out                                                                160/96/160        600 mm drawer, pull-out, door, flap, folding-lifting door
+64		  200 mm door, pull-out                                                          192/196/192       30“ (762 mm) drawer, pull-out, flap, door
+96		 250 mm door                                                                     224/160/224       800 mm drawer, pull-out, flap, folding-lifting door
+128		 300 mm drawer, pull-out, door                                                  256/206/256       900 mm drawer, pull-out, flap, folding-lifting door
+192		 350 mm door
+218		 400 mm drawer, pull-out, door
+
+
+BA		 Assignment		                            3 holes                                 BA			Assignment		5 holes
+134   450 mm drawer, pull-out, door, flap                                            192/217/217/192   1000 mm drawer, pull-out, flap, folding-lifting door
+160   500 mm drawer, pull-out, door, flap, folding-lifting door                      256/253/253/256   1200 mm drawer, pull-out, flap, folding-lifting door
+184		 550 mm door
+
+
+
+
+                                                       no. 960                                                                        no. 990
+                                                       Screw-on bar handle                                                            Screw-on bar handle
+                                                       Stainless steel finish                                                         Black
+                                                       Surcharge code: 7945                                                           Surcharge code: 7945
+                                                       Points: 33,0                                                                   Points: 33,0
+                                                       Drill pattern:18                                                               Drill pattern: 18
+                                                       H: 17 mm                                                                       H: 17 mm
+
+
+
+
+BA		 Assignment		                            2 holes                                 BA			Assignment		4 holes
+48		  150 mm pull-out                                                                160/96/160        600 mm drawer, pull-out, door, flap, folding-lifting door
+78		  200 mm door, pull-out                                                          192/196/192       30“ (762 mm) drawer, pull-out, flap, door
+128		 250 mm door                                                                    224/160/224       800 mm drawer, pull-out, flap, folding-lifting door
+128		 300 mm drawer, pull-out, door                                                  256/206/256       900 mm drawer, pull-out, flap, folding-lifting door
+192		 350 mm door
+218		 400 mm drawer, pull-out, door
+
+
+BA		 Assignment		                            3 holes                                 BA			Assignment		5 holes
+134   450 mm drawer, pull-out, door, flap                                            192/217/217/192   1000 mm drawer, pull-out, flap, folding-lifting door
+160   500 mm drawer, pull-out, door, flap, folding-lifting door                      256/253/253/256   1200 mm drawer, pull-out, flap, folding-lifting door
+184		 550 mm door
+
+
+Information
+Not possible with diagonal end units and glass wall units Air, Square and Flat.
+The pull-out on raised dishwashers is supplied with a handle, but not drill holes.
+
+Not available for the following ranges:
+Cascada 684, Frame 419, Inline 526, Nordic 497, Pura 917, Sylt 706
+
+
+
+
+M 2.26                                                                                                                                             Typen - EN

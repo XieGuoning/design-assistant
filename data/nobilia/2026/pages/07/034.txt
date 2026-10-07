@@ -1,0 +1,99 @@
+Wall units 792 mm high                                                 Abbreviation                         Points
+
+                                                                                                                              Price groups
+Side depth: 350 mm
+
+                                                                                                             1 2 3 4 5 6 7 8 9 10
+Carcase height: 792 mm
+
+
+
+
+                                                                             Width in cm
+
+
+
+
+                                                                                                Order-no.
+Wall unit height 2
+
+
+                         Wall unit for microwave                 WM             50         -2   40567        394    407   423    466    473      486        499   —     530     —
+                         1 aperture depending on appliance       WM             60         -2   40568        409    428   445    485    498      515        530   —     575     —
+                         height,
+                         1 flap                                                                             Cut to size front possible, door is adjusted to fit appliance height!
+
+
+                         Corner wall unit, diagonal              WED            65         -2   41150        902    931   965 1.015 1.026 1.048 1.069             —     1.104   —
+                         1 door: 394 mm wide,
+                         opening angle 90°,                                                                 Do not plan next to protruding cooker hood!
+                         2 shelves,
+                         Planning dimensions: 650 x 650 mm
+
+
+                         Corner wall unit                        WE             60         -2   42160       1.038 1.073 1.124 1.183 1.196 1.229 1.263             —     1.294   —
+                         2 doors with 165°-hinges,               WE             65         -2   42165       1.107 1.133 1.186 1.266 1.280 1.323 1.364             —     1.416   —
+                         2 shelves,
+                                                                 WE             80         -2   42168       1.422 1.451 1.524 1.641 1.654 1.726 1.799             —     1.888   —
+                         hinged side = first door to be opened
+                                                                 WE             90         -2   42169       1.537 1.570 1.653 1.805 1.812 1.902 1.990             —     2.117   —
+
+                                                                                                            Do not plan adjacent protruding cooker hoods and tall units!
+                         Corner wall unit                        WE60-20                   -2   42677        588    591   637    686    702      737        771   —      807    —
+                         1 door,                                 WE80-35                   -2   42687        676    685   737    796    813      863        911   —      959    —
+                         1 angle filler,
+                                                                 WE90-45                   -2   42697        718    726   777    841    864      924        983   —     1.041   —
+                         2 shelves
+                         Carcase widths: 600, 782, 882 mm                                                   The space requirement must be specified with the order.
+                         Planning dimensions (variable):                                                    Adjustments on site are not possible.
+                         450 (390 - 500) x ...
+                         WE60-20: ...650 (630 - 700) mm                                                     With a space requirement of 390 to 449 mm, only handleless designs
+                         WE80-35: ...800 (790 - 850) mm                                                     with opening support mechanism (PTO5 / PTO5-BS) and surcharge
+                         WE90-45: ...900 (890 - 950) mm                                                     WOG or drill pattern 17 and 19 are possible!
+
+                         Wall unit, diagonal                     WDIA           25         -2   41058        498    515   542    578 5851        604        623   —      —      —
+                         1 full-length door,                                                                                             1) ­Except ­Inline 526
+                         2 shelves
+                         side depth: 339 / 171 mm,                                                          To be planned at end of run!
+                         planning dimensions: 350 / 171 mm
+                                                                                                            In the Cascada 684 and Nordic 497 program, cottage style open shelf
+                                                                                                            end units or pilasters may not be planned as the adjacent unit.
+                                                                                                            An opening angle limiter OWBDIA85* is included for plans with a
+                                                                                                            cottage style open shelf end unit or a pilaster in the program Sylt 706 as
+                                                                                                            well as an upright at end of run.
+                                                                                                            Handleless versions are not possible.
+                                                                                                            Width reductions are not permitted!
+                                                                                                            Not possible with bar handle 240 / 430.
+
+
+                                          Wall units for shelf insert Case, 792 mm high
+                         Shelf insert Case                       CE           30 -36            65809        480    480   480    480    480      480        480   480   480     480
+                         for 350 mm side depth,                  CE           40 -36            65810        510    510   510    510    510      510        510   510   510     510
+                         usable depth: 290 mm
+                                                                 CE           45 -36            65811        521    521   521    521    521      521        521   521   521     521
+                         Available colours:                      CE           50 -36            65812        536    536   536    536    536      536        536   536   536     536
+                         no. 097 Havana oak reproduction         CE           60 -36            65813        578    578   578    578    578      578        578   578   578     578
+                         no. 198 Sierra oak reproduction         CE           80 -36            65814        656    656   656    656    656      656        656   656   656     656
+                         no. 354 Concrete Slate Grey
+                         reproduction                            CE           90 -36            65815        688    688   688    688    688      688        688   688   688     688
+                         no. 399 Milano walnut reproduction      CE           100 -36           65816        715    715   715    715    715      715        715   715   715     715
+                                                                 CE           120 -36           65817        769    769   769    769    769      769        769   769   769     769
+
+                                                                                                            Height, width and depth reductions are not permitted!
+                         Wall unit for                           WCU            30         -2   42027        260    304   349    355    365      378        393   —     422     —
+                         shelf insert Case                       WCU            40         -2   42028        289    324   359    377    387      404        420   —     456     —
+                         Shelf insert height: 357 mm,
+                                                                 WCU            45         -2   42029        304    334   364    390    402      418        432   —     472     —
+                         1 door
+                                                                 WCU            50         -2   42030        317    346   368    402    412      429        447   —     488     —
+                                                                 WCU            60         -2   42031        345    369   377    425    435      456        473   —     521     —
+
+                                                                                                            Not available with lighting designs MP-LA (7961), MP-WOG (7936) and
+                                                                                                            MP-WOGL (7937).
+                                                                                                            Shelf insert Case CE*-36 is required and must be included in the order.
+                                                                                                            Width and depth reductions are not permitted!
+
+
+
+
+M 7.28                                    You will find an explanation of the symbols at the front of the chapter index                                                          Typen - EN

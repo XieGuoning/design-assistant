@@ -1,0 +1,11 @@
+{
+  "file": "data/nobilia/2026/derived/10_Components_Planning_Installation.pdf",
+  "sha256": "cc48cfc2aced3f456c23bfcf5b38017778076d175a32e227dfa0531ef8877209",
+  "source": "data/nobilia/2026/pdf/09_More_than_kitchen.pdf",
+  "source_pdf_pages": [
+    185,
+    245
+  ],
+  "pages": 61,
+  "method": "pypdf page copy; no rasterization or image recompression"
+}

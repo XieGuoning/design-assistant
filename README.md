@@ -104,3 +104,17 @@ Git 同步只更新仓库内容，不会安装或发布 Codex 云端环境，也
 ## 远程调用本机 AutoCAD 2027
 
 新增 Windows 本机桥接初版：GitHub 手动任务 → 自托管 Runner → AutoCAD COM → 独立 DWG 与执行记录。支持画线、画圆和按句柄移动；输入原件保留。需要本机安装、注册 Runner 和实机验证，当前不代表已经接通。详见 [本机安装与任务示例](docs/local-autocad.md)。
+
+## nobilia 德国柏丽橱柜 · 2026 技术资料库
+
+已归档用户手册8份、730页，保留PDF原件、逐页文本、SHA-256校验、中文关键词与型号查询。06高柜和08 LINE N因上传传输工具32 MiB上限尚待补录。第10章已确认包含在09文件中，并提取成61页独立PDF。
+
+以后在此项目直接说“查柏丽 Easytouch 945 门板”“查转角地柜”“查台面悬挑要求，并给出处”。助手会检索原文，核对图表，并给出文件及页码。使用方法和范围见 [nobilia资料入口](knowledge/nobilia-2026.md)。
+
+```bash
+python3 tools/nobilia.py search 'worktop overhangs' --chapter 10
+python3 tools/nobilia.py page 09 243
+python3 tools/nobilia.py verify
+```
+
+新云端实例拉取包含资料库的Git提交即可查询，无需新建API连接。此配置仅作用于能访问本仓库的项目；不等于模型永久记忆，也未配置自动更新。

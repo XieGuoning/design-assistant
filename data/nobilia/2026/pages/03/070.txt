@@ -1,0 +1,101 @@
+Base units in maxi height                                                Abbreviation                         Points
+
+                                                                                                                                Price groups
+                                                                                                               1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                               Width in cm
+
+
+
+
+                                                                                                  Order-no.
+Side depth: 561 mm
+Carcase height: 864 mm
+Plinth height 70, 100, 150 or 200 mm
+                           Maxi base unit                          UDI            40         -M   45032        721    749   787     840 848 882 911                 —    955    —
+                           1 continuous door,                      UDI            45         -M   45034        759    775   822     880 891 924 955                 —   1.016   —
+                           1 internal drawer,
+                                                                   UDI            50         -M   45035        778    812   847     923 926 968 1.009               —   1.070   —
+                           1 shelf
+                                                                   UDI            60         -M   45036        838    864   911     990 1.012 1.056 1.098           —   1.181   —
+
+                           Maxi base unit                          UDI2A          40         -M   41011       1.409 1.438 1.475 1.530 1.536 1.565 1.596             —   1.644   —
+                           1 continuous door,                      UDI2A          45         -M   41015       1.461 1.479 1.527 1.581 1.591 1.626 1.660             —   1.714   —
+                           1 internal drawer,
+                                                                   UDI2A          50         -M   41033       1.494 1.524 1.561 1.634 1.641 1.682 1.721             —   1.789   —
+                           2 internal pull-outs
+                                                                   UDI2A          60         -M   41049       1.583 1.606 1.656 1.733 1.749 1.794 1.841             —   1.921   —
+
+                           Maxi pull-out unit                      UAI            30         -M   44264       1.456 1.494 1.526 1.546 1.551 1.577 1.600             —   1.643   —
+                           1 drawer,                               UAI            40         -M   44016       1.524 1.568 1.609 1.656 1.661 1.692 1.717             —   1.778   —
+                           1 internal drawer,
+                                                                   UAI            45         -M   44265       1.568 1.609 1.650 1.702 1.716 1.748 1.775             —   1.847   —
+                           1 internal pull-out,
+                           1 pull-out                              UAI            50         -M   45026       1.593 1.645 1.678 1.755 1.768 1.802 1.834             —   1.908   —
+                                                                   UAI            60         -M   45061       1.673 1.714 1.762 1.834 1.870 1.908 1.948             —   2.028   —
+                           Maxi pull-out unit                      UAIAI          30         -M   41130       1.561 1.567 1.618 1.628 1.634 1.666 1.701             —   1.720   —
+                           1 pull-out,                             UAIAI          40         -M   41131       1.629 1.656 1.694 1.748 1.749 1.780 1.815             —   1.860   —
+                           2 internal drawers,
+                                                                   UAIAI          45         -M   41132       1.673 1.694 1.742 1.791 1.806 1.841 1.872             —   1.929   —
+                           1 internal pull-out
+                                                                   UAIAI          50         -M   41135       1.704 1.733 1.768 1.841 1.847 1.888 1.930             —   1.991   —
+                                                                   UAIAI          60         -M   41136       1.789 1.816 1.859 1.939 1.956 2.005 2.048             —   2.139   —
+                           Maxi base unit                          UDHT           20         -M   41021        461 482 527 531 536 550 562                          —    591    —
+                           1 continuous door,                      UDHT           30         -M   41025        517 537 571 588 593 628 660                          —    685    —
+                           3 telescopic aluminium towel rails
+
+
+
+
+                           Maxi base unit                          UHT            20         -M   42021        496    529   558     568 5781       588        599   —    —      —
+                           1 pinned door,                          UHT            30         -M   43025        562    569   603     625 6471       672        695   —    —      —
+                           3 telescopic aluminium towel rails                                                                              1) ­Except ­Inline 526
+
+
+
+
+                           Maxi base unit with waste               UDASL-EC 45               -M   41471 1.713 1.729 1.778 1.829 1.841 1.875 1.908                   —   1.971   —
+                           separation system Euro-Cargo            UDASL-EC 50               -M   41472 1.762 1.794 1.831 1.908 1.914 1.951 1.983                   —   2.048   —
+                           1 full-length front with handle at
+                                                                   UDASL-EC 60               -M   41473 1.901 1.924 1.971 2.048 2.075 2.120 2.165                   —   2.235   —
+                           centre,
+                           waste separation system                                                            Built-in sinks are not possible.
+                           Euro-Cargo,
+                           with cushioned self-closing                                                        Detail illustration refer to pg. M 0.28 pp.
+                           mechanism,
+                           system lid made of metal,
+                           450 / 500 mm width:
+                           2 x 35 litres,
+                           600 mm width:
+                           2 x 35 / 2 x 10 litres
+
+
+                           Maxi base unit with waste               UASL-EC        45         -M   43471 1.756 1.767 1.816 1.870 1.898 1.927 1.961                   —   2.025   —
+                           separation system Euro-Cargo            UASL-EC        50         -M   43472 1.797 1.835 1.863 1.945 1.962 2.002 2.037                   —   2.104   —
+                           1 fixed panel,
+                                                                   UASL-EC        60         -M   43473 1.935 1.967 2.009 2.089 2.127 2.170 2.210                   —   2.292   —
+                           1 front with centred handle,
+                           waste separation system                                                            Built-in sinks are not possible.
+                           Euro-Cargo,
+                           with cushioned self-closing                                                        Detail illustration refer to pg. M 0.28 pp.
+                           mechanism,
+                           system lid made of metal
+                           450 / 500 mm width:
+                           2 x 35 litres,
+                           600 mm width:
+                           2 x 35 / 2 x 10 litres
+
+
+                           Maxi pull-out unit with recyclable      UDAWS          30         -M   41138 1.673 1.688 1.721 1.748 1.755 1.781 1.812                   —   1.834   —
+                           materials collector
+                           1 full-length pull-out,
+                           1 recycling bin with system lid made
+                           of metal, 44 litres,
+                           container height: 550 mm
+
+
+
+M 3.58                                       You will find an explanation of the symbols at the front of the chapter index                                                       Typen - EN

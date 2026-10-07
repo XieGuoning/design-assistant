@@ -1,0 +1,19 @@
+Dimensional drawings
+Installation information                                 Height grid for tall units
+
+
+
+                           Minimum room height   Minimum room heights
+Planning information
+
+
+
+
+                                                       B*
+                                                 A*                70 mm    100 mm    150 mm    200 mm
+                                                 2016 mm          2147 mm   2176 mm   2224 mm   2273 mm
+                                                 2088 mm          2217 mm   2246 mm   2295 mm   2343 mm
+                                                 2160 mm          2287 mm   2316 mm   2365 mm   2414 mm
+                                                 2232 mm          2357 mm   2386 mm   2435 mm   2484 mm
+                                                 A* = Tall unit height
+                                                 B* = Plinth height

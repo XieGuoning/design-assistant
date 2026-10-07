@@ -1,0 +1,67 @@
+Boilerhousings                                              Abbreviation                          Points
+
+                                                                                                                   Price groups
+                                                                                                   1 2 3 4 5 6 7 8 9 10
+
+
+
+
+                                                                   Width in cm
+
+
+
+
+                                                                                      Order-no.
+                                                         Boiler Housings
+                 Boiler Housing                        WWB            60         -1   30457        425    437   486   558   569   606   639   —   692     —
+                 1 door,
+                 height: 720 mm,
+                 side depth: 350 mm
+
+
+                 side depth: 450 mm                    WWBT           60         -1   34457        467    482   530   603   615   650   685   —   737     —
+
+                 Boiler Housing                        WWB            60         -2   40457        438    458   502   583   594   639   683   —   746     —
+                 1 door,
+                 height: 792 mm,
+                 side depth: 350 mm
+
+
+                 side depth: 450 mm                    WWBT           60         -2   42457        486    505   549   631   642   686   730   —   791     —
+
+                 Boiler Housing                        WWB            60         -3   50458        457    479   518   612   623   675   724   —   800     —
+                 1 door,
+                 height: 864 mm,
+                 side depth: 350 mm
+
+
+                 side depth: 450 mm                    WWBT           60         -3   54458        505    527   568   660   673   723   771   —   848     —
+
+                 Dresser unit for boiler               AWB            60         -1   32467        489    512   594   695   717   785   853   —   953     —
+                 1 door,
+                 1 fixed panel
+                 height: 1258 mm,
+                 side depth: 350 mm
+
+                 side depth: 450 mm                    AWBT           60         -1   36467        543    568   653   749   771   841   911   —   1.009   —
+
+                 Dresser unit for boiler               AWB            60         -2   41467        508    531   615   724   746   821   896   —   1.004   —
+                 1 door,
+                 1 fixed panel
+                 height: 1330 mm,
+                 side depth: 350 mm
+
+                 side depth: 450 mm                    AWBT           60         -2   45467        564    588   670   780   802   877   953   —   1.060   —
+
+                 Dresser unit for boiler               AWB            60         -3   51468        521    553   631   749   771   885   942   —   1.053   —
+                 1 door,
+                 1 fixed panel
+                 height: 1402 mm,
+                 side depth: 350 mm
+
+                 side depth: 450 mm                    AWBT           60         -3   55468        581    612   688   810   832   943   999   —   1.113   —
+
+
+
+
+Typen - EN                       You will find an explanation of the symbols at the front of the chapter index                                                   M 7.61

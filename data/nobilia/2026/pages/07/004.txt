@@ -1,0 +1,94 @@
+Wall units 360 mm high                                                 Abbreviation                          Points
+
+                                                                                                                              Price groups
+                                                                                                              1 2 3 4 5 6 7 8 9 10
+Side depth: 350 mm
+
+
+
+
+                                                                             Width in cm
+
+
+
+
+                                                                                                 Order-no.
+Carcase height: 360 mm
+
+
+                         Wall unit with bar flap                 WKB          45           -36   34334        536    564   583   604     609   622   632      —   645     —
+                         1 flap                                  WKB          50           -36   34335        555    583   594   623     632   644   656      —   688     —
+                         with opening support mechanism
+                                                                 WKB          60           -36   34336        580    599   615   641     656   677   695      —   717     —
+                                                                 WKB          80           -36   34338        599    641   683   717     718   746   771      —   819     —
+                                                                 WKB          90           -36   34339        612    660   696   758     759   784   809      —   850     —
+                                                                 WKB          100          -36   34340        637    679   717   784     784   821   850      —   883     —
+                                                                 WKB          120          -36   34341        688    718   764   850     863   892   934      —   959     —
+
+                                                                                                             Not available with lighting designs MP-LA (7961), MP-WOG (7936) and
+                                                                                                             MP-WOGL (7937).
+                                                                                                             The handle comes standard pre-drilled and positioned at the top of the
+                                                                                                             front.
+                                                                                                             Also available as sideboard.
+                                                                                                             Height reductions are not permitted!
+                         Wall unit with framed glass bar         WKBG         50           -36   34328 774 804 813 840 844 864 882                            —    886    —
+                         flap                                    WKBG         60           -36   34329 806 818 841 876 882 904 920                            —    931    —
+                         1 framed glass flap door
+                                                                 WKBG         80           -36   34330 877 904 937 975 977 1.000 1.022                        —   1.048   —
+                         with mechanical opening support
+                         mechanism,                              WKBG         90           -36   34331 885 931 972 1.015 1.015 1.048 1.082                    —   1.083   —
+                         program-based glass design,             WKBG         100          -36   34332 933 972 996 1.066 1.069 1.098 1.124                    —   1.137   —
+                         glass variants for surcharge:           WKBG         120          -36   34333 1.015 1.037 1.073 1.167 1.172 1.199 1.240              —   1.237   —
+                         MP-GW (7900)
+                                                                                                             Not available with lighting designs MP-LA (7961), MP-WOG (7936) and
+                         Eye-catcher back panel MP-ARW                                                       MP-WOGL (7937).
+                         available for surcharge, see chapter
+                         Equipment options and surcharges.                                                   The handle comes standard pre-drilled and positioned at the top of the
+                                                                                                             front.
+                                                                                                             The ranges Nordic 497 and Sylt 706 are only available without inlays.
+                                                                                                             Also available as sideboard.
+                         Open shelf wall unit                    WR           30           -36   36263        562    562   562   562     562   562   562   562    562     562
+                         side depth: 371 mm                      WR           40           -36   36264        587    587   587   587     587   587   587   587    587     587
+                                                                 WR            45          -36   36267        599    599   599   599     599   599   599   599    599     599
+                                                                 WR            50          -36   36265        656    656   656   656     656   656   656   656    656     656
+                                                                 WR            60          -36   36266        685    685   685   685     685   685   685   685    685     685
+                                                                 WR            80          -36   36268        740    740   740   740     740   740   740   740    740     740
+                                                                 WR            90          -36   36269        781    781   781   781     781   781   781   781    781     781
+                                                                 WR           100          -36   36271        802    802   802   802     802   802   802   802    802     802
+                                                                 WR           120          -36   36272        869    869   869   869     869   869   869   869    869     869
+                         Open shelf wall unit                    WRS          60           -36   36776        708    708   708   708     708   708   708   708    708     708
+                         1-3 centre panels                       WRS          90           -36   36779        799    799   799   799     799   799   799   799    799     799
+                         (width-dependent),
+                                                                 WRS          120          -36   36782        882    882   882   882     882   882   882   882    882     882
+                         side depth: 371 mm
+                         WRS60-36: 1 centre panel,
+                         WRS90-36: 2 centre panels,
+                         WRS120-36: 3 centre panels
+
+                         Organising module                       WROM                            36809        308    308   308   308     308   308   308   308    308     308
+                         for open shelf units
+                         in 360 mm carcase height,
+                         sheet steel, graphite black,
+                         vertically and horizontally
+                         positionable,
+                         H x W x D = 162.5 x 325 x 288 mm
+
+                         Bevelled shelf unit                     WFR            30         -36   36853        749    —     —     844     —     —     —        —    —      —
+                         side depth: 371 mm                      WFR            40         -36   36854        762    —     —     883     —     —     —        —    —      —
+                                                                 WFR            45         -36   36857        784    —     —     914     —     —     —        —    —      —
+                         Available in all carcase colours
+                         (PG 1) and all front colours from the   WFR            50         -36   36855        796    —     —     937     —     —     —        —    —      —
+                         Easytouch 945 range (PG 4).             WFR            60         -36   36856        816    —     —     980     —     —     —        —    —      —
+
+                                                                                                             Height, width and depth reductions are not permitted!
+                         Bevelled shelf unit                     WFR          80           -36   36858        889    —     —     1.133   —     —     —        —    —      —
+                         1 centre panel,                         WFR          90           -36   36859        905    —     —     1.172   —     —     —        —    —      —
+                         side depth: 371 mm
+                                                                 WFR          100          -36   36860        937    —     —     1.225   —     —     —        —    —      —
+                         Available in all carcase colours        WFR          120          -36   36861        969    —     —     1.307   —     —     —        —    —      —
+                         (PG 1) and all front colours from the
+                         Easytouch 945 range (PG 4).                                                         Height, width and depth reductions are not permitted!
+
+
+
+M 7.2                                     You will find an explanation of the symbols at the front of the chapter index                                                    Typen - EN
