@@ -1,0 +1,25 @@
+{
+  "status": "partial; not included in main chapter search yet",
+  "received_date": "2026-10-07",
+  "awaiting": [
+    "06b",
+    "08a"
+  ],
+  "boundary_validation": "Cannot check joins until complementary parts arrive",
+  "files": [
+    {
+      "file": "06a_Highboards_Tall_units_1512-2088mm.pdf",
+      "page_count": 86,
+      "bytes": 28423418,
+      "sha256": "f2e7ece98470c49bfa04e7d885c494cff14e934f576a2e5812c942f9a8c0055c",
+      "page_text_directory": "06a"
+    },
+    {
+      "file": "08b_LINE_N_Tall_vertical_Wall_units.pdf",
+      "page_count": 82,
+      "bytes": 29104729,
+      "sha256": "854677091baebca05c95ef83cf8ee815a7b673fd868fcd5c5a4128482db85561",
+      "page_text_directory": "08b"
+    }
+  ]
+}
