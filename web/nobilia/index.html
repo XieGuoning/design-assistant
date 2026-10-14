@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="中文空间设计工作台：整理厨房、卫浴与起居空间需求，预览参考图，导出设计提示词与方案记录。">
+  <title>空间设计工作台 · design-assistant</title>
+  <style>
+    :root{--ink:#25372e;--muted:#65756c;--bg:#f5f4ee;--paper:#fffefb;--line:#dedfd5;--green:#2e5140;--soft:#e9eee5;--accent:#ad674b;--radius:20px}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 system-ui,-apple-system,"Segoe UI","Microsoft YaHei",sans-serif}button,input,select,textarea{font:inherit}button,a,input,select,textarea{-webkit-tap-highlight-color:transparent}button,a{touch-action:manipulation}button{cursor:pointer}a{color:var(--green)}button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid #b07e45;outline-offset:3px}button:disabled{opacity:.5;cursor:default}.skip{position:absolute;top:-100px;left:12px;background:white;padding:10px;z-index:10}.skip:focus{top:10px}
+    header{padding:20px max(24px,calc((100vw - 1220px)/2));border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:20px;background:var(--paper)}.brand{font-weight:750;letter-spacing:.04em;font-size:17px;display:flex;align-items:center;gap:12px}.mark{width:32px;height:32px;background:var(--green);border-radius:10px;color:white;display:grid;place-items:center}.header-link{text-decoration:none;font-size:13px}.header-link span{margin-left:8px}
+    main{max-width:1268px;margin:auto;padding:36px 24px 24px}.hero{display:grid;grid-template-columns:1.2fr 1fr;gap:30px;align-items:center;margin-bottom:30px}.eyebrow{font-size:11px;letter-spacing:.2em;color:var(--accent);font-weight:700}.hero h1{font-size:clamp(29px,4vw,44px);line-height:1.3;font-weight:600;letter-spacing:-.04em;margin:13px 0}.hero p{color:var(--muted);margin:0;max-width:490px}.hero-tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.pill{font-size:12px;background:var(--soft);padding:4px 10px;border-radius:99px}.scene{border-radius:var(--radius);overflow:hidden;background:#dfded2;height:210px;position:relative}.scene svg{height:100%;width:100%;display:block}.scene-label{position:absolute;bottom:12px;left:16px;background:#fffefbde;border-radius:99px;padding:3px 10px;font-size:11px}
+    .workspace{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(0,.88fr);gap:24px;align-items:start}.panel{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:26px}.panel-heading{display:flex;justify-content:space-between;align-items:center;margin-bottom:22px;gap:10px}h2{font-size:19px;font-weight:650;margin:0}.step{font-size:11px;color:var(--muted);letter-spacing:.06em}.room-tabs{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:24px}.room-tab{border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:12px;padding:12px 4px}.room-tab[aria-pressed="true"]{background:var(--green);color:white;border-color:var(--green)}.room-tab small{display:block;font-size:10px;letter-spacing:.08em;opacity:.7}.fields{display:grid;grid-template-columns:1fr 1fr;gap:18px 16px}label{display:block;font-weight:600;font-size:13px;margin-bottom:7px}label small{font-weight:400;color:var(--muted);margin-left:5px}input[type="text"],select,textarea{width:100%;border:1px solid var(--line);border-radius:10px;background:#f8f8f3;color:var(--ink);padding:11px 12px;min-width:0}textarea{resize:vertical}.full{grid-column:1/-1}.hint{font-size:12px;color:var(--muted);margin:7px 0 0}.section-label{margin:24px 0 10px;font-size:13px;font-weight:650}.presets{display:flex;gap:8px;flex-wrap:wrap}.preset{border:1px solid var(--line);background:transparent;border-radius:99px;padding:7px 11px;color:var(--ink);font-size:12px;display:flex;align-items:center;gap:7px}.swatch{width:11px;height:11px;border-radius:50%;background:#ba9a72}.preset:nth-child(2) .swatch{background:#6a716e}.preset:nth-child(3) .swatch{background:#dfccad}.preset:hover,.secondary:hover{background:var(--soft)}.divider{border-top:1px solid var(--line);margin:24px 0}
+    .upload{border:1px dashed #a4b2a6;border-radius:12px;background:#f3f6ee;padding:18px;position:relative}.upload.dragging{background:#dae7d3}.upload label{cursor:pointer;margin:0}.upload-title{font-size:13px}.upload input{width:100%;margin-top:10px;font-size:12px}.image-preview{margin-top:14px}.image-preview img{display:block;max-width:100%;max-height:240px;border-radius:10px;margin:auto}.image-info{display:flex;justify-content:space-between;align-items:center;font-size:12px;color:var(--muted);gap:10px;margin-top:8px;word-break:break-word}.text-button{border:0;background:none;padding:6px;color:var(--green);text-decoration:underline;flex-shrink:0}.actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:20px}.primary,.secondary,.external{border-radius:11px;padding:11px 16px;font-size:13px;font-weight:600;display:inline-flex;align-items:center;justify-content:center;text-decoration:none}.primary{background:var(--green);color:white;border:1px solid var(--green)}.primary:hover{background:#214333}.secondary{background:transparent;border:1px solid var(--line);color:var(--ink)}.external{background:var(--soft);color:var(--green);border:1px solid #cbd7c9}.wide{width:100%}.output-panel{position:sticky;top:24px}.status{font-size:11px;color:var(--green);background:var(--soft);padding:4px 10px;border-radius:99px;white-space:nowrap}.output-meta{font-size:12px;color:var(--muted);margin:0 0 12px}.output{font:13px/1.85 system-ui,-apple-system,"Microsoft YaHei",sans-serif;min-height:290px;background:#f6f7f0;padding:16px}.download-row{display:grid;grid-template-columns:1fr 1fr;gap:9px}.download-row .secondary{padding:10px 8px}.workflow{list-style:none;padding:0;margin:20px 0;display:grid;gap:14px}.workflow li{display:flex;gap:12px}.number{width:23px;height:23px;flex-shrink:0;border:1px solid var(--line);border-radius:50%;text-align:center;font-size:11px;line-height:21px}.workflow strong{font-size:13px;font-weight:600;display:block}.workflow p{font-size:12px;color:var(--muted);margin:3px 0}.resources{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:24px}.resource{border:1px solid var(--line);border-radius:14px;padding:18px;text-decoration:none;background:var(--paper);display:block}.resource strong{font-size:14px;display:block;margin-bottom:5px}.resource span{font-size:12px;color:var(--muted)}.notice{font-size:12px;color:var(--muted);margin-top:12px}.message{font-size:12px;min-height:24px;margin:12px 0 0;color:var(--green);overflow-wrap:anywhere}.message.error{color:#a13d32}.footer{font-size:11px;color:var(--muted);display:flex;justify-content:space-between;gap:16px;margin-top:28px;border-top:1px solid var(--line);padding:18px 0}.import-label{margin:0;font-weight:600}.import-label input{position:absolute;clip:rect(0,0,0,0);width:1px;height:1px;overflow:hidden}.import-label:focus-within{outline:3px solid #b07e45;outline-offset:3px}[hidden]{display:none!important}
+    @media(max-width:860px){.hero{grid-template-columns:1fr 1fr;gap:20px}.workspace{grid-template-columns:1fr}.output-panel{position:static}.hero h1{font-size:32px}.scene{height:200px}}
+    @media(max-width:540px){header{padding:16px 18px}.brand{font-size:14px}.header-link{font-size:11px}main{padding:24px 16px}.hero{grid-template-columns:1fr;gap:20px}.scene{height:170px}.hero h1{font-size:32px}.panel{padding:20px 16px}.fields{gap:16px 12px}.resources{grid-template-columns:1fr}.footer{flex-direction:column;gap:5px}.panel-heading{margin-bottom:18px}.primary,.secondary{padding:10px 13px}label small{display:block;margin-left:0}.output{min-height:330px}.room-tab{padding:10px 3px}}
+  </style>
+</head>
+<body>
+  <a class="skip" href="#brief-form">跳到设计需求</a>
+  <header>
+    <div class="brand"><span class="mark" aria-hidden="true">d.</span>design-assistant</div>
+    <a class="header-link" href="https://nobilia.ai" target="_blank" rel="noopener noreferrer">打开 nobilia.ai <span aria-hidden="true">↗</span></a>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="page-title">
+      <div><div class="eyebrow">SPACE DESIGN / 空间灵感</div><h1 id="page-title">把想法，变成<br>清晰的空间方案。</h1><p>从配色与材质开始，整理你的设计需求。结合模型参考与柏丽技术资料，让下一步设计更顺畅。</p><div class="hero-tags"><span class="pill">中文需求整理</span><span class="pill">模型参考</span><span class="pill">方案导出</span></div></div>
+      <div class="scene"><svg viewBox="0 0 550 240" role="img" aria-label="抽象厨房插画：浅色墙面、绿色柜体与木质中岛" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="wall" x2="1" y2="1"><stop stop-color="#ece9db"/><stop offset="1" stop-color="#d6d6c7"/></linearGradient><linearGradient id="floor" x2="1" y2="1"><stop stop-color="#cec9b9"/><stop offset="1" stop-color="#ede9dc"/></linearGradient></defs><path fill="url(#wall)" d="M0 0h550v240H0z"/><path fill="url(#floor)" d="M0 163h550v77H0z"/><path fill="#819287" d="M28 30h278v51H28z"/><path stroke="#aab5a8" d="M98 30v51m69-51v51m69-51v51"/><path fill="#e7d7b9" d="M27 116h280v8H27z"/><path fill="#597364" d="M29 124h276v55H29z"/><path stroke="#879888" d="M97 124v55m69-55v55m69-55v55"/><path fill="#bcc8c2" d="M362 15h148v130H362z"/><path fill="#e0e4d8" d="M370 23h132v112H370z"/><path fill="#aec0aa" d="M370 100l31-40 21 30 40-62 40 53v54H370z"/><path stroke="#f5f0df" stroke-width="5" d="M435 23v112"/><path fill="#435e4c" d="M183 159h241v69H183z"/><path fill="#627c67" d="M424 159l45-21v69l-45 21z"/><path fill="#c6ab80" d="M179 155l42-21h252l-45 25H179z"/><path fill="#e3c89d" d="M179 155h249v7H179z"/><path stroke="#728570" d="M261 162v66m81-66v66"/><path stroke="#435e4c" stroke-width="4" fill="none" d="M121 115V99q0-12 12-12t12 12"/><ellipse fill="#718457" cx="294" cy="143" rx="20" ry="5"/><path fill="#8d9c73" d="M274 140h40l-7 7h-26z"/><path fill="#d6ccb4" d="M50 102h13v14H50z"/><path fill="#6f825a" d="M56 104q-20-17-8-22 12 6 8 22m0 0q1-25 12-20 0 13-12 20"/></svg><span class="scene-label">空间概念插画</span></div>
+    </section>
+    <div class="workspace">
+      <section class="panel" aria-labelledby="form-title">
+        <div class="panel-heading"><h2 id="form-title">你的设计需求</h2><span class="step">01 / DESIGN BRIEF</span></div>
+        <form id="brief-form">
+          <div class="room-tabs" role="group" aria-label="空间类型">
+            <button type="button" class="room-tab" data-room="kitchen" aria-pressed="true">厨房<small>KITCHEN</small></button>
+            <button type="button" class="room-tab" data-room="bathroom" aria-pressed="false">卫浴<small>BATHROOM</small></button>
+            <button type="button" class="room-tab" data-room="living" aria-pressed="false">起居空间<small>LIVING</small></button>
+          </div>
+          <div class="fields">
+            <div><label for="color">柜体配色 <small>Color</small></label><input id="color" name="color" type="text" list="colors" maxlength="160" value="鼠尾草绿" autocomplete="off"><datalist id="colors"><option value="奶油白"><option value="砂岩米色"><option value="鼠尾草绿"><option value="石墨灰"><option value="自然橡木色"></datalist></div>
+            <div><label for="finish">饰面质感 <small>Surface finish</small></label><input id="finish" name="finish" type="text" list="finishes" maxlength="160" value="细腻哑光" autocomplete="off"><datalist id="finishes"><option value="细腻哑光"><option value="高光"><option value="木纹"><option value="石材纹理"></datalist></div>
+            <div><label for="worktop"><span id="worktop-label">台面材质</span> <small>Worktop / material</small></label><input id="worktop" name="worktop" type="text" list="worktops" maxlength="160" value="浅橡木纹" autocomplete="off"><datalist id="worktops"><option value="浅橡木纹"><option value="浅色石英石"><option value="浅灰陶瓷"><option value="深色石材纹理"></datalist></div>
+            <div><label for="style">设计风格 <small>Style</small></label><input id="style" name="style" type="text" list="styles" maxlength="160" value="自然现代" autocomplete="off"><datalist id="styles"><option value="自然现代"><option value="现代极简"><option value="柔和奶油"><option value="北欧"><option value="现代乡村"></datalist></div>
+            <div><label for="building">建筑类型 <small>Building</small></label><input id="building" name="building" type="text" list="buildings" maxlength="160" value="城市住宅" autocomplete="off"><datalist id="buildings"><option value="城市住宅"><option value="独栋住宅"><option value="老建筑改造"><option value="开放式公寓"></datalist></div>
+            <div><label for="scenery">环境与景观 <small>Scenery</small></label><input id="scenery" name="scenery" type="text" list="sceneries" maxlength="160" value="柔和日光，窗外绿意" autocomplete="off"><datalist id="sceneries"><option value="柔和日光，窗外绿意"><option value="城市窗景"><option value="庭院花园"><option value="温暖傍晚"></datalist></div>
+            <div class="full"><label for="notes">补充要求 <small>布局、灯光、需要保留的元素</small></label><textarea id="notes" name="notes" rows="3" maxlength="3000" placeholder="例如：保留现有 L 形布局，吊柜增加暖色灯带；不改变门窗和柜体位置。"></textarea></div>
+          </div>
+          <p class="hint">可选择建议值，也可直接输入。此处选项为本工作台的设计建议。</p>
+          <p class="section-label">快速搭配</p><div class="presets"><button type="button" class="preset" data-preset="natural"><span class="swatch" aria-hidden="true"></span>暖木自然</button><button type="button" class="preset" data-preset="minimal"><span class="swatch" aria-hidden="true"></span>现代极简</button><button type="button" class="preset" data-preset="cream"><span class="swatch" aria-hidden="true"></span>柔和奶油</button></div>
+          <div class="divider"></div>
+          <div class="fields"><div class="full"><label for="mode">设计方式</label><select id="mode" name="mode"><option value="inspiration">从需求出发 · 生成空间灵感</option><option value="model">基于模型图 · 保留空间结构</option></select></div></div>
+          <p class="section-label">模型图或参考图片 <span class="hint">可选</span></p>
+          <div class="upload" id="upload-zone"><label for="reference"><span class="upload-title">选择图片，或拖入这里</span></label><p class="hint">PNG / JPEG / WebP，最大 12 MB。图片仅在当前浏览器预览。</p><input id="reference" type="file" accept="image/png,image/jpeg,image/webp"><div class="image-preview" id="image-preview" hidden><img id="preview-image" alt="已选择的设计参考图片"><div class="image-info"><span id="image-info"></span><button class="text-button" type="button" id="remove-image">移除图片</button></div></div></div>
+          <div class="actions"><button type="submit" class="primary">整理设计提示词 <span aria-hidden="true">&nbsp;→</span></button><button type="button" id="reset" class="secondary">重置</button></div>
+        </form>
+        <p id="form-message" class="message" role="status" aria-live="polite"></p>
+      </section>
+      <section class="panel output-panel" aria-labelledby="output-title">
+        <div class="panel-heading"><h2 id="output-title">方案准备</h2><span class="status">尚未生成效果图</span></div>
+        <p class="output-meta" id="output-meta">厨房 · 自然现代</p>
+        <label for="prompt" class="hint">设计提示词 · 可复制给本项目助手</label><textarea id="prompt" class="output" readonly aria-describedby="generation-note"></textarea>
+        <div class="actions"><button type="button" id="copy" class="primary">复制提示词</button><button type="button" id="save-draft" class="secondary">保存本机草稿</button></div>
+        <div class="download-row actions"><button type="button" id="download-text" class="secondary">下载提示词 .txt</button><button type="button" id="download-json" class="secondary">导出方案 .json</button><button type="button" id="restore" class="secondary">恢复本机草稿</button><label class="secondary import-label">导入方案 .json<input id="import-json" type="file" accept="application/json,.json"></label></div>
+        <p id="output-message" class="message" role="status" aria-live="polite"></p>
+        <div class="divider"></div>
+        <h2>接下来这样做</h2>
+        <ol class="workflow"><li><span class="number">1</span><div><strong>准备设计需求</strong><p>复制提示词；若基于模型图，请同时附上原始图片。</p></div></li><li><span class="number">2</span><div><strong>生成视觉方案</strong><p>交给本项目助手使用可用的图像工具，或打开 nobilia.ai，在官方页面完成生成。</p></div></li><li><span class="number">3</span><div><strong>核对柏丽产品与布局</strong><p>根据技术资料核对门板、柜型、台面与安装要求，再保存方案与复核记录。</p></div></li></ol>
+        <a class="external wide" href="https://nobilia.ai" target="_blank" rel="noopener noreferrer">前往 nobilia.ai 官方网站 ↗</a>
+        <p class="notice" id="generation-note">这是独立的中文需求工作台。此页面整理提示词，不自动调用 nobilia.ai 或生成图片。效果图用于视觉提案，产品型号与施工尺寸需另行核实。</p>
+      </section>
+    </div>
+    <nav class="resources" aria-label="仓库设计资料"><a class="resource" href="../../knowledge/nobilia-2026.md"><strong>柏丽 2026 技术资料 ↗</strong><span>门板、柜型、LINE N、台面与安装依据</span></a><a class="resource" href="../../docs/model-to-render.md"><strong>模型图转效果图 ↗</strong><span>保持视角与结构，生成后逐项复核</span></a></nav>
+    <footer class="footer"><span>design-assistant · 空间设计工作台</span><span>参考 nobilia.ai 的需求字段 · 非 nobilia 官方产品</span></footer>
+  </main>
+  <script id="brief-core">
+    'use strict';
+    // Pure data functions are shared by the page and its Node verification.
+    const DesignBrief = (() => {
+      const rooms = {kitchen:'厨房',bathroom:'卫浴',living:'起居空间'};
+      const defaults = {room:'kitchen',color:'鼠尾草绿',finish:'细腻哑光',worktop:'浅橡木纹',style:'自然现代',building:'城市住宅',scenery:'柔和日光，窗外绿意',notes:'',mode:'inspiration'};
+      const presets = {natural:{color:'鼠尾草绿',finish:'细腻哑光',worktop:'浅橡木纹',style:'自然现代'},minimal:{color:'石墨灰',finish:'细腻哑光',worktop:'浅灰陶瓷',style:'现代极简'},cream:{color:'奶油白',finish:'细腻哑光',worktop:'浅色石英石',style:'柔和奶油'}};
+      const fields = ['color','finish','worktop','style','building','scenery','notes'];
+      function normalize(value) {
+        if (!value || typeof value !== 'object' || Array.isArray(value)) throw new Error('方案内容必须是一个对象。');
+        if (!Object.hasOwn(rooms,value.room)) throw new Error('方案空间类型无效。');
+        if (!['inspiration','model'].includes(value.mode)) throw new Error('方案设计方式无效。');
+        const result = {room:value.room,mode:value.mode};
+        for (const key of fields) {
+          if (typeof value[key] !== 'string' || value[key].length > (key === 'notes' ? 3000 : 160)) throw new Error('方案字段缺失或超长：' + key);
+          result[key] = value[key].trim();
+        }
+        return result;
+      }
+      function buildPrompt(value,image) {
+        const s = normalize(value);
+        const lines = ['请根据以下需求制作'+rooms[s.room]+'的自然写实视觉方案。','', '空间：'+rooms[s.room]];
+        const labels = {color:'柜体配色',finish:'饰面质感',worktop:s.room === 'living' ? '主要家具材质' : '台面材质',style:'设计风格',building:'建筑类型',scenery:'环境与景观'};
+        for (const key of Object.keys(labels)) lines.push(labels[key]+'：'+(s[key] || '未指定，请提出适合的建议'));
+        if (s.notes) lines.push('补充要求：'+s.notes);
+        lines.push('');
+        if (s.mode === 'model') {
+          lines.push('工作方式：模型图转效果图。先查看模型原图，再调用图像编辑工具。','将模型图作为编辑目标，保持原画幅、相机视角、透视及空间比例。','保留墙体、门窗、柜体和家具的位置、数量，只调整要求的材质与灯光。','辅助风格参考图不能替换原模型的布局。');
+          if (!image) lines.push('待补充：请附上模型截图、白模图或透视线稿后再生成。');
+        } else {
+          lines.push('工作方式：空间灵感设计。尚未提供准确尺寸时，不将概念布局作为施工依据。');
+          if (image) lines.push('已选择的图片仅作辅助参考；先确认图中哪些元素需要保留。');
+        }
+        if (image) lines.push('参考图片：'+image.name+'（'+image.width+' × '+image.height+' 像素），请另行附上原图。');
+        lines.push('','如需 nobilia 实际选型，检索本项目的2026技术资料；保留完整型号、单位和来源页码。','生成后复核结构、门窗、柜体与材质，保存使用工具、提示词及偏移记录。','效果图用于视觉提案；产品可订货配置、安装条件与施工尺寸需要另行核实。');
+        return lines.join('\n');
+      }
+      function pack(value,image) {
+        const settings = normalize(value);
+        return {schema_version:1,kind:'design-assistant-space-brief',status:'prepared_not_rendered',created_at:new Date().toISOString(),settings,reference:image ? {...image} : null,prompt:buildPrompt(settings,image),source:'design-assistant 中文需求工作台',generation_backend:null};
+      }
+      function unpack(data) {
+        if (!data || data.schema_version !== 1 || data.kind !== 'design-assistant-space-brief') throw new Error('请选择本工作台导出的版本1方案 JSON。');
+        // Imported prompt, status, backend and image paths are never executed or trusted.
+        return normalize(data.settings);
+      }
+      return {rooms,defaults,presets,fields,normalize,buildPrompt,pack,unpack};
+    })();
+  </script>
+  <script id="brief-app">
+    'use strict';
+    (() => {
+      const $ = id => document.getElementById(id);
+      const storageKey = 'design-assistant.space-brief.v1';
+      let room = 'kitchen', reference = null, previewUrl = null, imageRequest = 0;
+      function message(id,text,error=false) {$(id).textContent=text;$(id).classList.toggle('error',error);}
+      function settings() {const s={room,mode:$('mode').value};for(const key of DesignBrief.fields)s[key]=$(key).value;return DesignBrief.normalize(s);}
+      function update() {const s=settings();$('prompt').value=DesignBrief.buildPrompt(s,reference);$('output-meta').textContent=DesignBrief.rooms[room]+' · '+(s.style || '风格待定')+(s.mode==='model'?' · 模型图方案':'');}
+      function setRoom(next) {room=next;document.querySelectorAll('[data-room]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.room===room)));$('worktop-label').textContent=room==='living'?'主要家具材质':'台面材质';}
+      function clearImage() {imageRequest++;reference=null;if(previewUrl)URL.revokeObjectURL(previewUrl);previewUrl=null;$('reference').value='';$('preview-image').removeAttribute('src');$('image-preview').hidden=true;}
+      function fill(value) {const s=DesignBrief.normalize(value);setRoom(s.room);$('mode').value=s.mode;for(const key of DesignBrief.fields)$(key).value=s[key];clearImage();update();}
+      async function chooseImage(file) {
+        if(!file)return;
+        const request=++imageRequest;
+        if(!['image/png','image/jpeg','image/webp'].includes(file.type) || file.size>12*1024*1024) {message('form-message','请选择不超过12 MB的 PNG、JPEG 或 WebP 图片。',true);$('reference').value='';return;}
+        const url=URL.createObjectURL(file), img=new Image();
+        try {
+          await new Promise((resolve,reject)=>{img.onload=resolve;img.onerror=reject;img.src=url;});
+          if(request!==imageRequest){URL.revokeObjectURL(url);return;}
+          if(img.naturalWidth*img.naturalHeight>40_000_000)throw new Error('图片像素过大，请缩小到4000万像素以内。');
+          if(previewUrl)URL.revokeObjectURL(previewUrl);
+          previewUrl=url;reference={name:file.name,width:img.naturalWidth,height:img.naturalHeight,type:file.type,size:file.size};
+          $('preview-image').src=url;$('image-preview').hidden=false;$('image-info').textContent=file.name+' · '+img.naturalWidth+' × '+img.naturalHeight+' px';update();
+          message('form-message','已加载参考图。导出的方案仅保存图片信息，请另行附上原图。');
+        } catch(error) {URL.revokeObjectURL(url);if(request===imageRequest){$('reference').value='';message('form-message',error.message || '图片无法读取，请选择有效图片。',true);}}
+      }
+      function download(content,extension,mime) {
+        const url=URL.createObjectURL(new Blob([content],{type:mime})), link=document.createElement('a');
+        link.href=url;link.download='space-brief-'+new Date().toISOString().replace(/[:.]/g,'-')+'.'+extension;document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
+        message('output-message','已准备下载'+(extension==='json'?'方案记录；原图需另行保存。':'设计提示词。'));
+      }
+      document.querySelectorAll('[data-room]').forEach(button=>button.addEventListener('click',()=>{setRoom(button.dataset.room);update();}));
+      document.querySelectorAll('[data-preset]').forEach(button=>button.addEventListener('click',()=>{for(const [key,value]of Object.entries(DesignBrief.presets[button.dataset.preset]))$(key).value=value;update();message('form-message','已应用搭配，可继续修改材质与配色。');}));
+      $('brief-form').addEventListener('input',event=>{if(event.target.id!=='reference')update();});
+      $('brief-form').addEventListener('change',event=>{if(event.target.id!=='reference')update();});
+      $('brief-form').addEventListener('submit',event=>{event.preventDefault();update();message('form-message',$('mode').value==='model'&&!reference?'提示词已整理。生成前需要附上模型原图。':'提示词已整理，可以复制或导出；尚未生成效果图。');});
+      $('reference').addEventListener('change',event=>chooseImage(event.target.files[0]));
+      $('remove-image').addEventListener('click',()=>{clearImage();update();message('form-message','已移除参考图。');});
+      const zone=$('upload-zone');for(const type of ['dragenter','dragover'])zone.addEventListener(type,event=>{event.preventDefault();zone.classList.add('dragging');});
+      for(const type of ['dragleave','drop'])zone.addEventListener(type,event=>{event.preventDefault();zone.classList.remove('dragging');});
+      zone.addEventListener('drop',event=>chooseImage(event.dataTransfer.files[0]));
+      window.addEventListener('dragover',event=>event.preventDefault());window.addEventListener('drop',event=>event.preventDefault());
+      $('reset').addEventListener('click',()=>{fill(DesignBrief.defaults);message('form-message','已恢复默认需求；本机已保存草稿保留。');message('output-message','');});
+      $('copy').addEventListener('click',async()=>{update();try{if(!navigator.clipboard?.writeText)throw new Error('clipboard unavailable');await navigator.clipboard.writeText($('prompt').value);message('output-message','已复制设计提示词。');}catch{$('prompt').focus();$('prompt').select();message('output-message','浏览器限制了自动复制。提示词已选中，请手动复制。');}});
+      $('download-text').addEventListener('click',()=>{update();download($('prompt').value+'\n','txt','text/plain;charset=utf-8');});
+      $('download-json').addEventListener('click',()=>download(JSON.stringify(DesignBrief.pack(settings(),reference),null,2)+'\n','json','application/json;charset=utf-8'));
+      $('save-draft').addEventListener('click',()=>{try{localStorage.setItem(storageKey,JSON.stringify(DesignBrief.pack(settings(),reference)));message('output-message','草稿已保存到当前浏览器。未保存图片内容；可用“恢复本机草稿”取回。');}catch{message('output-message','浏览器不允许保存草稿，请使用“导出方案”。',true);}});
+      $('restore').addEventListener('click',()=>{try{const raw=localStorage.getItem(storageKey);if(!raw){message('output-message','当前浏览器还没有保存草稿。');return;}fill(DesignBrief.unpack(JSON.parse(raw)));message('output-message','已恢复需求。参考图片需重新选择。');}catch{message('output-message','草稿无法读取，请重新填写或导入有效方案。',true);}});
+      $('import-json').addEventListener('change',async event=>{const file=event.target.files[0];if(!file)return;try{if(file.size>128*1024)throw new Error('方案文件过大，请选择本工作台导出的 JSON。');const data=JSON.parse(await file.text());const validated=DesignBrief.unpack(data);fill(validated);message('output-message','已导入需求，并重新整理提示词。参考图片需重新选择。');}catch(error){message('output-message',error instanceof SyntaxError?'文件不是有效的 JSON。':error.message,true);}finally{event.target.value='';}});
+      window.addEventListener('pagehide',()=>{if(previewUrl)URL.revokeObjectURL(previewUrl);});
+      update();
+    })();
+  </script>
+</body>
+</html>
