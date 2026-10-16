@@ -7,7 +7,7 @@
 ## 能做什么
 | 工作 | 配置与入口 |
 | --- | --- |
-| CAD 图纸交换 | ezdxf，默认 R2007 DXF（AC1021），核对图层、单位与闭合边界 |
+| CAD 图纸交换 | 面向 AutoCAD 2027；ezdxf 默认 R2018 DXF（AC1032），核对图层、单位与闭合边界 |
 | 材料与预算 | openpyxl，Excel 清单、公式、损耗与税费 |
 | 客户方案 | python-docx、python-pptx、pypdf，Word、PPT、PDF |
 | 图片与统计图 | Pillow、Matplotlib |
@@ -23,7 +23,7 @@
 bash setup.sh
 ```
 
-后续使用 `.venv/bin/python`。脚本安装继承的依赖，测试 R2007 DXF 写入/读回，并创建 `inputs/`、`work/`、`outputs/`。中文字体、Poppler、LibreOffice 按环境权限另行安装和检查。
+后续使用 `.venv/bin/python`。脚本安装继承的依赖，测试 R2018 DXF（AC1032）写入/读回，并创建 `inputs/`、`work/`、`outputs/`。R2018 是当前 ezdxf 支持且 AutoCAD 2027 可读取的交换格式，软件版本与文件格式版本分别记录。中文字体、Poppler、LibreOffice 按环境权限另行安装和检查。
 
 **安装 Python 依赖不会安装或开启图像生成模型。** 模型图转效果图优先使用当前会话已有的图像生成/编辑工具；没有该工具的环境只能整理渲染准备包，不能直接出图。仓库变更不代表云端环境已重新安装或发布。
 
@@ -48,7 +48,8 @@ bash setup.sh
 
 ## 验证状态
 - 本仓库提供配置、安装自检脚本和模型图准备工具。
-- 2026-10-06 当前云端实例已验证依赖、R2007 DXF、中文 Office／PDF 预览和模型图准备包；用户模型的效果图尚未生成。详见 [云端验证状态](docs/cloud-validation.md)。
+- 2026-10-06 云端实例已验证依赖、中文 Office／PDF 预览和模型图准备包；用户模型的效果图尚未生成。详见 [云端验证状态](docs/cloud-validation.md)。
+- 2026-10-16 已按 AutoCAD 2027 更新使用规则；R2018 DXF（AC1032）安装自检、设计环境验证脚本及 38 项测试通过。本机 AutoCAD 2027 仍需实机核验。
 - 云端固定版本安装使用 `bash scripts/cloud-install.sh`，启动使用 `source scripts/cloud-start.sh`；复现说明见 [云端启动](docs/cloud-start.md)，资料库验证入口为 `.venv/bin/python scripts/verify_catalog.py`。
 - AutoCAD/SketchUp/Carat 兼容性需回到本地软件核验。
 - AI 效果图用于视觉提案，不保证尺寸或几何完全一致。

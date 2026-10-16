@@ -13,11 +13,11 @@ os.environ['XDG_CACHE_HOME'] = str(ROOT / 'cache')
 os.environ['MPLCONFIGDIR'] = str(ROOT / 'mpl')
 FONT = 'Noto Sans CJK SC'
 TEXT = '室内设计环境验证：中文字体、材料预算与空间方案'
-synthetic = ezdxf.new('R2007'); synthetic.units = 4
+synthetic = ezdxf.new('R2018'); synthetic.units = 4
 synthetic.modelspace().add_lwpolyline([(0,0),(1000,0),(1000,1000),(0,1000)], close=True)
 synthetic.saveas(ROOT / 'roundtrip.dxf')
 d = ezdxf.readfile(ROOT / 'roundtrip.dxf')
-assert d.dxfversion == 'AC1021' and d.units == 4
+assert d.dxfversion == 'AC1032' and d.units == 4
 p = list(d.modelspace().query('LWPOLYLINE'))
 assert len(p) == 1 and p[0].closed and len(p[0]) == 4
 doc = docx.Document()

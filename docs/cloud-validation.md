@@ -1,6 +1,6 @@
 # 云端验证状态
 
-验证日期：2026-10-06。正式检出路径：`/workspace/design-assistant`。
+资料库与设计基线验证日期：2026-10-06；CAD 交换格式更新验证日期：2026-10-16。正式检出路径：`/workspace/design-assistant`。
 
 ## 本轮资料库同步
 
@@ -13,9 +13,17 @@
 
 ## 保留的设计验证
 
-同一实例在设计基线已实际通过依赖导入、`pip check`、R2007 DXF AC1021 写入／读回、显式毫米单位及闭合四边形检查。中文 Word／Excel／PPT 经 LibreOffice 转 PDF、Poppler 转 PNG；各为单页，中文可提取，目视无乱码或溢出。Excel 公式计算为 200，Matplotlib 中文 PDF 预览正常。
+同一实例在设计基线已实际通过依赖导入和 `pip check`。中文 Word／Excel／PPT 经 LibreOffice 转 PDF、Poppler 转 PNG；各为单页，中文可提取，目视无乱码或溢出。Excel 公式计算为 200，Matplotlib 中文 PDF 预览正常。
 
-`prepare_render` 已验证源图 SHA256、参考图、中文提示词、准备状态和拒绝覆盖。没有生成效果图。本轮设计文件与固定依赖未改变，未重复完整设计验证。原合成证据保留在实例的 `work/onboarding-20261006/`，不上传 Git；可复用验证入口已保存为 `scripts/validate_design_environment.py`。
+`prepare_render` 已验证源图 SHA256、参考图、中文提示词、准备状态和拒绝覆盖。没有生成效果图。2026-10-06 资料库同步时设计文件与固定依赖未改变，未重复完整设计验证。原合成证据保留在实例的 `work/onboarding-20261006/`，不上传 Git；可复用验证入口已保存为 `scripts/validate_design_environment.py`。
+
+## AutoCAD 2027 交换格式验证（2026-10-16）
+
+用户当前使用 AutoCAD 2027。项目规则、文档及安装／设计验证脚本统一采用 R2018 DXF（AC1032）作为云端交换格式；这是当前 ezdxf 支持的格式版本。
+
+实际运行 `bash setup.sh`、`.venv/bin/python -m pip check`、`.venv/bin/python scripts/validate_design_environment.py` 和 `.venv/bin/python -m unittest discover -s tests -v`，全部通过。已验证 DXF 写入／读回、显式毫米单位及闭合四边形；中文 Office／PDF 自动检查及渲染准备包检查通过，38 项测试无失败。合成证据位于实例的 `work/environment-check-_orvro6a/`，不上传 Git。
+
+以上是云端脚本验证；未在 Windows／AutoCAD 2027 实机打开图纸或执行 COM 桥接。
 
 ## 复现与限制
 
