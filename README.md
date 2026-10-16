@@ -7,6 +7,7 @@
 ## 能做什么
 | 工作 | 配置与入口 |
 | --- | --- |
+| 中文空间设计工作台 | `web/nobilia/index.html`：厨房／卫浴／起居空间需求、参考图预览、提示词和方案导出；无需安装，可直接用Chrome打开 |
 | CAD 图纸交换 | 面向 AutoCAD 2027；ezdxf 默认 R2018 DXF（AC1032），核对图层、单位与闭合边界 |
 | 材料与预算 | openpyxl，Excel 清单、公式、损耗与税费 |
 | 客户方案 | python-docx、python-pptx、pypdf，Word、PPT、PDF |
@@ -15,6 +16,14 @@
 | DRAENERT 产品与材料检索 | 400 个产品／材料条目、官网来源存档、官方 CAD／3DS 入口与尺寸依据 |
 
 这些是辅助工具和任务流程，不包含 AutoCAD、SketchUp、Carat 桌面软件，也不直接编辑其未验证的原生工程文件。DWG 请先在原软件导出 DXF；模型请先导出 PNG/JPEG/WebP 视图。
+
+## 中文空间设计网页
+
+用Chrome打开 [web/nobilia/index.html](web/nobilia/index.html) 即可使用。页面是单个HTML文件，包含中文需求表单、材质搭配预设、模型／参考图预览、提示词复制、TXT／JSON导出、方案导入和本机草稿保存。无需依赖安装，设计需求可离线整理；官方入口联网打开。
+
+网页参考 nobilia.ai 的需求字段，采用独立中文界面。它整理设计需求，不自动调用 nobilia.ai 或生成效果图；复制提示词并附原图给本项目助手，或通过页面中的官网链接完成官方生成。已接通的图像工具取决于当前会话。柏丽技术资料和模型图转效果图流程在页面中均有入口。
+
+GitHub文件页面展示源码，下载HTML后用浏览器打开；本次未配置网站托管。详见 [网页使用说明](docs/nobilia-ai-workbench.md)。
 
 ## 安装
 在 Linux 云端环境的仓库根目录运行：
